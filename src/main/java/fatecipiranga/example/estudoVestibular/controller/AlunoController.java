@@ -1,10 +1,14 @@
 package fatecipiranga.example.estudoVestibular.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import fatecipiranga.example.estudoVestibular.model.Aluno;
 import fatecipiranga.example.estudoVestibular.repository.AlunoRepository;
+
+import org.springframework.security.crypto.bcrypt.BCrypt;
 
 import java.util.List;
 import java.util.Optional;
@@ -13,12 +17,19 @@ import java.util.Optional;
 public class AlunoController {
 
     @Autowired
-    AlunoRepository bd;
+    AlunoRepository alunoRepo;
 
     @PostMapping("/api/aluno")
-    public String gravar(@RequestBody Aluno obj) {
-        bd.save(obj);
-        return "O aluno " + obj.getNome() + " foi salvo corretamente!";
+    public ResponseEntity cadastrar(@RequestBody Aluno aluno) {
+        if(alunoRepo.checarEmailExiste(aluno.getEmail())){
+            // Cria o Hash da senha usando o BCrypt
+            String senha_hash = BCrypt.hashpw(aluno.getSenha(), BCrypt.gensalt(14));
+            aluno.setSenha(senha_hash); // Armazena o Hash no lugar da senha padrão
+            alunoRepo.save(aluno); // Salva o objeto "aluno" no Banco de Dados
+
+            return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
+        }
+        return ResponseEntity.status(HttpStatus.BAD_REQUEST).build(); // Retorna 400
     }
 
     @PutMapping("/api/aluno")
