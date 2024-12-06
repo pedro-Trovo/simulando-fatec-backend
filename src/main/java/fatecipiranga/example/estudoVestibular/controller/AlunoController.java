@@ -45,8 +45,8 @@ public class AlunoController {
     @GetMapping("/api/aluno/{codigo}")
     public ResponseEntity<Aluno> carregar(@PathVariable Long codigo) {
         Optional<Aluno> aluno = alunoRepo.findById(codigo);
-        return aluno.map(ResponseEntity::ok)
-                .orElse(ResponseEntity.notFound().build());
+        return aluno.map(ResponseEntity::ok) // Retorna 200 + o aluno encontrado
+                .orElse(ResponseEntity.notFound().build()); // Retorna 404
     }
 
     @GetMapping("/api/alunos")
@@ -58,7 +58,7 @@ public class AlunoController {
         if (alunos.isEmpty()) {
             return ResponseEntity.noContent().build(); // Retorna 204
         }
-        return ResponseEntity.ok(alunos); // Retorna 200
+        return ResponseEntity.ok(alunos); // Retorna 200 + a lista de alunos
     }
 
     @DeleteMapping("/api/aluno/{codigo}")
