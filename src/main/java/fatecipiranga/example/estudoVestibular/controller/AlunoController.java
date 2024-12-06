@@ -49,6 +49,18 @@ public class AlunoController {
                 .orElse(ResponseEntity.notFound().build());
     }
 
+    @GetMapping("/api/alunos")
+    public ResponseEntity<List<Aluno>> listarTodosAlunos() {
+        // Busca todos os alunos no banco de dados
+        List<Aluno> alunos = alunoRepo.findAll();
+
+        // Checa se a array "alunos" está vazio
+        if (alunos.isEmpty()) {
+            return ResponseEntity.noContent().build(); // Retorna 204
+        }
+        return ResponseEntity.ok(alunos); // Retorna 200
+    }
+
     @DeleteMapping("/api/aluno/{codigo}")
     public ResponseEntity<Void> remover(@PathVariable Long codigo) {
         if (alunoRepo.existsById(codigo)) {
@@ -58,10 +70,4 @@ public class AlunoController {
             return ResponseEntity.notFound().build(); // Retorna 404
         }
     }
-
-    @GetMapping("/api/alunos")
-    public List<Aluno> listar() {
-        return bd.findAll();
-    }
 }
-
