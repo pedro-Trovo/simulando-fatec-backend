@@ -43,9 +43,10 @@ public class AlunoController {
     }
 
     @GetMapping("/api/aluno/{codigo}")
-    public Aluno carregar(@PathVariable Long codigo) {
-        Optional<Aluno> obj = bd.findById(codigo);
-        return obj.orElse(null);
+    public ResponseEntity<Aluno> carregar(@PathVariable Long codigo) {
+        Optional<Aluno> aluno = alunoRepo.findById(codigo);
+        return aluno.map(ResponseEntity::ok)
+                .orElse(ResponseEntity.notFound().build());
     }
 
     @DeleteMapping("/api/aluno/{codigo}")
