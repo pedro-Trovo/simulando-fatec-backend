@@ -50,9 +50,13 @@ public class AlunoController {
     }
 
     @DeleteMapping("/api/aluno/{codigo}")
-    public String remover(@PathVariable Long codigo) {
-        bd.deleteById(codigo);
-        return "Registro " + codigo + " removido com sucesso!";
+    public ResponseEntity<Void> remover(@PathVariable Long codigo) {
+        if (alunoRepo.existsById(codigo)) {
+            alunoRepo.deleteById(codigo);
+            return ResponseEntity.noContent().build(); // Retorna 204
+        } else {
+            return ResponseEntity.notFound().build(); // Retorna 404
+        }
     }
 
     @GetMapping("/api/alunos")
