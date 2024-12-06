@@ -33,9 +33,13 @@ public class AlunoController {
     }
 
     @PutMapping("/api/aluno")
-    public String alterar(@RequestBody Aluno obj) {
-        bd.save(obj);
-        return "O aluno " + obj.getNome() + " foi alterado corretamente!";
+    public ResponseEntity alterar(@RequestBody Aluno aluno) {
+        // Cria o Hash da senha usando o BCrypt
+        String senha_hash = BCrypt.hashpw(aluno.getSenha(), BCrypt.gensalt(14));
+        aluno.setSenha(senha_hash); // Armazena o Hash no lugar da senha padrão
+        alunoRepo.save(aluno); // Salva o objeto "aluno" no Banco de Dados
+
+        return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
     }
 
     @GetMapping("/api/aluno/{codigo}")
