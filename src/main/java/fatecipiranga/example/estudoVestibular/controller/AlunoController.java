@@ -20,7 +20,7 @@ public class AlunoController {
     AlunoRepository alunoRepo;
 
     @PostMapping("/api/aluno")
-    public ResponseEntity cadastrar(@RequestBody Aluno aluno) {
+    public ResponseEntity<Void> cadastrar(@RequestBody Aluno aluno) {
         if(!alunoRepo.checarEmailExiste(aluno.getEmail())){
             // Cria o Hash da senha usando o BCrypt
             String senha_hash = BCrypt.hashpw(aluno.getSenha(), BCrypt.gensalt(14));
@@ -33,7 +33,7 @@ public class AlunoController {
     }
 
     @PutMapping("/api/aluno")
-    public ResponseEntity alterar(@RequestBody Aluno aluno) {
+    public ResponseEntity<Void> alterar(@RequestBody Aluno aluno) {
         // Cria o Hash da senha usando o BCrypt
         String senha_hash = BCrypt.hashpw(aluno.getSenha(), BCrypt.gensalt(14));
         aluno.setSenha(senha_hash); // Armazena o Hash no lugar da senha padrão
