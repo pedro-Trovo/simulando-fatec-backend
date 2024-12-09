@@ -3,6 +3,7 @@ package fatecipiranga.example.estudoVestibular.model;
 import jakarta.persistence.*;
 
 @Entity
+@Table(name="vestibular")
 public class Vestibular {
 
     @Id
