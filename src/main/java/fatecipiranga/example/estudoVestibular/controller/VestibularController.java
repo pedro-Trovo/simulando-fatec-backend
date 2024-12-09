@@ -27,25 +27,37 @@ public class VestibularController {
     }
 
     @PutMapping("/api/vestibular")
-    public String alterar(@RequestBody Vestibular obj) {
-        bd.save(obj);
-        return "O vestibular " + obj.getNome() + " foi alterado corretamente!";
+    public ResponseEntity<Void> alterar(@RequestBody Vestibular vestibular) {
+        vestRepo.save(vestibular);
+        return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
     }
 
     @GetMapping("/api/vestibular/{codigo}")
-    public Vestibular carregar(@PathVariable Long codigo) {
-        Optional<Vestibular> obj = bd.findById(codigo);
-        return obj.orElse(null);
-    }
-
-    @DeleteMapping("/api/vestibular/{codigo}")
-    public String remover(@PathVariable Long codigo) {
-        bd.deleteById(codigo);
-        return "Registro " + codigo + " removido com sucesso!";
+    public ResponseEntity<Vestibular> carregar(@PathVariable Long codigo) {
+        return vestRepo.findById(codigo)
+                .map(ResponseEntity::ok) // Retorna 200 + o Vestibular encontrado
+                .orElse(ResponseEntity.notFound().build()); // Retorna 404
     }
 
     @GetMapping("/api/vestibulares")
-    public List<Vestibular> listar() {
-        return bd.findAll();
+    public ResponseEntity<List<Vestibular>> listarTodosVestibulares() {
+        // Busca todos os vestibulares no banco de dados
+        List<Vestibular> vestibulares = vestRepo.findAll();
+
+        if(vestibulares.isEmpty()){
+            return ResponseEntity.noContent().build(); // Retorna 204
+        }
+        return ResponseEntity.ok(vestibulares); // Retorna 200 + a lista de vestibulares
+    }
+
+    @DeleteMapping("/api/vestibular/{codigo}")
+    public ResponseEntity<Void> remover(@PathVariable Long codigo) {
+        if(vestRepo.existsById(codigo)){
+            vestRepo.deleteById(codigo);
+            return ResponseEntity.noContent().build(); // Retorna 204
+        }
+        else{
+            return ResponseEntity.notFound().build(); // Retorna 404
+        }
     }
 }
