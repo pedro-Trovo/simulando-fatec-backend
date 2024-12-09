@@ -1,6 +1,8 @@
 package fatecipiranga.example.estudoVestibular.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import fatecipiranga.example.estudoVestibular.model.Vestibular;
@@ -13,12 +15,15 @@ import java.util.Optional;
 public class VestibularController {
 
     @Autowired
-    VestibularRepository bd;
+    VestibularRepository vestRepo;
 
     @PostMapping("/api/vestibular")
-    public String gravar(@RequestBody Vestibular obj) {
-        bd.save(obj);
-        return "O vestibular " + obj.getNome() + " foi salvo corretamente!";
+    public ResponseEntity<Void> cadastrar(@RequestBody Vestibular vestibular) {
+        if(vestRepo.procurarVestibular(vestibular.getNome(), vestibular.getAno(), vestibular.getSemestre()).isEmpty()){
+            vestRepo.save(vestibular); // Salva o objeto "vestibular" no Banco de Dados
+            return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
+        }
+        return ResponseEntity.status(HttpStatus.BAD_REQUEST).build(); // Retorna 400
     }
 
     @PutMapping("/api/vestibular")
