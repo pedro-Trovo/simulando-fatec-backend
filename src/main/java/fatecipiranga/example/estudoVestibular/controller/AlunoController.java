@@ -42,10 +42,13 @@ public class AlunoController {
         return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
     }
 
-    @GetMapping("/api/aluno/{codigo}")
-    public ResponseEntity<Aluno> carregar(@PathVariable Long codigo) {
-        Optional<Aluno> aluno = alunoRepo.findById(codigo);
-        return aluno.map(ResponseEntity::ok) // Retorna 200 + o aluno encontrado
+    @GetMapping("/api/aluno")
+    public ResponseEntity<Long> efetuarLogin(String email, String senha) {
+        return alunoRepo.procurarLogin(email)
+                // Checa se a senha digitada é igual a que está no banco de dados
+                .filter(aluno -> BCrypt.checkpw(senha, aluno.getSenha()))
+                .map(Aluno::getId) // Pega o ID do aluno
+                .map(ResponseEntity::ok) // Retorna o ID do Aluno
                 .orElse(ResponseEntity.notFound().build()); // Retorna 404
     }
 
