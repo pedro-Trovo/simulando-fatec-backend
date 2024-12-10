@@ -1,20 +1,26 @@
 package fatecipiranga.example.estudoVestibular.model;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
+import jakarta.persistence.*;
 
 @Entity
+@Table(name="vestibular")
 public class Vestibular {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
+    // A coluna não pode ser "Null"
+    @Column(nullable = false)
     private String nome;
-    private int ano;   
-   
+
+    // A coluna não pode ser "Null"
+    @Column(nullable = false)
+    private int ano;
+
+    // A coluna não pode ser "Null"
+    @Column(nullable = false)
+    private int semestre;
 
     public Long getId() {
         return id;
@@ -38,5 +44,13 @@ public class Vestibular {
 
     public void setAno(int ano) {
         this.ano = ano;
+    }
+
+    public int getSemestre() {
+        return semestre;
+    }
+
+    public void setSemestre(int semestre) {
+        this.semestre = semestre;
     }
 }
