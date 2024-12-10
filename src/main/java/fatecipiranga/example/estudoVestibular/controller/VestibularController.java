@@ -26,6 +26,20 @@ public class VestibularController {
         return ResponseEntity.status(HttpStatus.BAD_REQUEST).build(); // Retorna 400
     }
 
+    @PostMapping("/api/vestibulares")
+    public ResponseEntity<String> cadastrarVestibulares(@RequestBody List<Vestibular> vestibulares) {
+        try{
+            for(Vestibular vestibular : vestibulares){
+                vestRepo.save(vestibular);
+                ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
+            }
+            return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
+        }
+        catch(Exception e){
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage()); // Retorna 400
+        }
+    }
+
     @PutMapping("/api/vestibular")
     public ResponseEntity<Void> alterar(@RequestBody Vestibular vestibular) {
         vestRepo.save(vestibular);
