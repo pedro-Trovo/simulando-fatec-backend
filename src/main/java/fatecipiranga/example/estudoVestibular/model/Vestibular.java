@@ -2,6 +2,9 @@ package fatecipiranga.example.estudoVestibular.model;
 
 import jakarta.persistence.*;
 
+import java.util.ArrayList;
+import java.util.List;
+
 @Entity
 @Table(name="vestibular")
 public class Vestibular {
@@ -21,6 +24,9 @@ public class Vestibular {
     // A coluna não pode ser "Null"
     @Column(nullable = false)
     private int semestre;
+
+    @OneToMany(mappedBy = "vestibular", cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<Conquista> conquistas = new ArrayList<>();
 
     public Long getId() {
         return id;
@@ -52,5 +58,13 @@ public class Vestibular {
 
     public void setSemestre(int semestre) {
         this.semestre = semestre;
+    }
+
+    public List<Conquista> getConquistas() {
+        return conquistas;
+    }
+
+    public void setConquistas(List<Conquista> conquistas) {
+        this.conquistas = conquistas;
     }
 }
