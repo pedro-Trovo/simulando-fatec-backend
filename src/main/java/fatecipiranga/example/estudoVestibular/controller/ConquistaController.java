@@ -44,7 +44,7 @@ public class ConquistaController {
 
     @PutMapping("/api/conquista")
     public ResponseEntity<Void> alterar(@RequestBody Conquista conquista) {
-        conquistaRepo.save(conquista);
+        conquistaRepo.save(conquista); // Salva o objeto "conquista" no Banco de Dados
         return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
     }
 
@@ -71,8 +71,8 @@ public class ConquistaController {
         Optional<List<Conquista>> conquistasPorVestibular = conquistaRepo.procurarConquistarPorVestibular(vestibularId);
 
         return conquistasPorVestibular
-                .map(ResponseEntity::ok) // Retorna 204
-                .orElse(ResponseEntity.noContent().build()); // Retorna 200 + a lista de conquistas por vestibular
+                .map(ResponseEntity::ok) // Retorna 200 + a lista de conquistas por vestibular
+                .orElse(ResponseEntity.noContent().build()); // Retorna 204
     }
 
     @DeleteMapping("/api/conquista/{conquistaId}")

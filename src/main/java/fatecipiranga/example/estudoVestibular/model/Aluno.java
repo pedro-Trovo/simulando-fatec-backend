@@ -2,6 +2,9 @@ package fatecipiranga.example.estudoVestibular.model;
 
 import jakarta.persistence.*;
 
+import java.util.ArrayList;
+import java.util.List;
+
 @Entity
 @Table(name="aluno")
 public class Aluno {
@@ -24,7 +27,9 @@ public class Aluno {
     @Column(nullable = false)
     private String senha;
 
-   
+    @OneToMany(mappedBy = "aluno", cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<ConquistaObtida> conquistasObtidas = new ArrayList<>();
+
 
     public Long getId() {
         return id;
@@ -56,5 +61,13 @@ public class Aluno {
 
     public void setSenha(String senha) {
         this.senha = senha;
+    }
+
+    public List<ConquistaObtida> getConquistasObtidas() {
+        return conquistasObtidas;
+    }
+
+    public void setConquistasObtidas(List<ConquistaObtida> conquistasObtidas) {
+        this.conquistasObtidas = conquistasObtidas;
     }
 }

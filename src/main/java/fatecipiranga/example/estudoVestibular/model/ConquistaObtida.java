@@ -1,18 +1,15 @@
 package fatecipiranga.example.estudoVestibular.model;
 
 
+import java.time.LocalDate;
 import java.util.Date;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.JoinColumn;
-import jakarta.persistence.ManyToOne;
-import jakarta.persistence.Temporal;
-import jakarta.persistence.TemporalType;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import jakarta.persistence.*;
+import org.springframework.cglib.core.Local;
 
 @Entity
+@Table(name="conquista_obtida")
 public class ConquistaObtida {
 
     @Id
@@ -25,12 +22,13 @@ public class ConquistaObtida {
 
     @ManyToOne
     @JoinColumn(name = "aluno_id", nullable = false)
-    private Aluno aluno;   
+    @JsonIgnoreProperties("conquistasObtidas")
+    private Aluno aluno;
 
     @Temporal(TemporalType.DATE)
-    private Date data;   
+    private LocalDate data = LocalDate.now();
 
-    
+
 
     public Long getId() {
         return id;
@@ -56,11 +54,11 @@ public class ConquistaObtida {
         this.aluno = aluno;
     }
 
-    public Date getData() {
+    public LocalDate getData() {
         return data;
     }
 
-    public void setData(Date data) {
+    public void setData(LocalDate data) {
         this.data = data;
     }
 }
