@@ -1,6 +1,9 @@
 package fatecipiranga.example.estudoVestibular.controller;
 
+import fatecipiranga.example.estudoVestibular.model.Vestibular;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import fatecipiranga.example.estudoVestibular.model.Conquista;
@@ -13,34 +16,73 @@ import java.util.Optional;
 public class ConquistaController {
 
     @Autowired
-    ConquistaRepository bd;
+    ConquistaRepository conquistaRepo;
 
     @PostMapping("/api/conquista")
-    public String gravar(@RequestBody Conquista obj) {
-        bd.save(obj);
-        return "A conquista " + obj.getNome() + " foi salva corretamente!";
+    public ResponseEntity<Void> cadastrar(@RequestBody Conquista conquista) {
+        if(conquistaRepo.procurarConquista(conquista.getVestibular().getId(), conquista.getNome(), conquista.getDescricao()).isEmpty()){
+            conquistaRepo.save(conquista); // Salva o objeto "conquista" no Banco de Dados
+            return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
+        }
+        return ResponseEntity.status(HttpStatus.BAD_REQUEST).build(); // Retorna 400
+    }
+
+    @PostMapping("api/conquistas")
+    public ResponseEntity<String> cadastrarConquistas(@RequestBody List<Conquista> conquistas) {
+        try{
+            for(Conquista conquista : conquistas){
+                if(conquistaRepo.procurarConquista(conquista.getVestibular().getId(), conquista.getNome(), conquista.getDescricao()).isEmpty()){
+                    conquistaRepo.save(conquista); // Salva o objeto "conquista" no Banco de Dados
+                }
+            }
+            return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
+        }
+        catch(Exception e){
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage()); // Retorna 400
+        }
     }
 
     @PutMapping("/api/conquista")
-    public String alterar(@RequestBody Conquista obj) {
-        bd.save(obj);
-        return "A conquista " + obj.getNome() + " foi alterada corretamente!";
+    public ResponseEntity<Void> alterar(@RequestBody Conquista conquista) {
+        conquistaRepo.save(conquista);
+        return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
     }
 
-    @GetMapping("/api/conquista/{codigo}")
-    public Conquista carregar(@PathVariable Long codigo) {
-        Optional<Conquista> obj = bd.findById(codigo);
-        return obj.orElse(null);
-    }
-
-    @DeleteMapping("/api/conquista/{codigo}")
-    public String remover(@PathVariable Long codigo) {
-        bd.deleteById(codigo);
-        return "Registro " + codigo + " removido com sucesso!";
+    @GetMapping("/api/conquista/{conquistaId}")
+    public ResponseEntity<Conquista> carregar(@PathVariable Long conquistaId) {
+        return conquistaRepo.findById(conquistaId)
+                .map(ResponseEntity::ok) // Retorna 200 + a Conquista encontrada
+                .orElse(ResponseEntity.notFound().build()); // Retorna 404
     }
 
     @GetMapping("/api/conquistas")
-    public List<Conquista> listar() {
-        return bd.findAll();
+    public ResponseEntity<List<Conquista>> listarTodasConquistas() {
+        // Busca todos os vestibulares no banco de dados
+        List<Conquista> conquistas = conquistaRepo.findAll();
+
+        if(conquistas.isEmpty()){
+            return ResponseEntity.noContent().build(); // Retorna 204
+        }
+        return ResponseEntity.ok(conquistas); // Retorna 200 + a lista de conquistas
+    }
+
+    @GetMapping("/api/conquistas/{vestibularId}")
+    public ResponseEntity<List<Conquista>> listarTodasConquistasPorVestibular(@PathVariable Long vestibularId){
+        Optional<List<Conquista>> conquistasPorVestibular = conquistaRepo.procurarConquistarPorVestibular(vestibularId);
+
+        return conquistasPorVestibular
+                .map(ResponseEntity::ok) // Retorna 204
+                .orElse(ResponseEntity.noContent().build()); // Retorna 200 + a lista de conquistas por vestibular
+    }
+
+    @DeleteMapping("/api/conquista/{conquistaId}")
+    public ResponseEntity<Void> remover(@PathVariable Long conquistaId) {
+        if(conquistaRepo.existsById(conquistaId)){
+            conquistaRepo.deleteById(conquistaId);
+            return ResponseEntity.noContent().build(); // Retorna 204
+        }
+        else{
+            return ResponseEntity.notFound().build(); // Retorna 404
+        }
     }
 }

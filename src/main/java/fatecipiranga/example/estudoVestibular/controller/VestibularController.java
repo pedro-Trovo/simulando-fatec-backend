@@ -19,11 +19,26 @@ public class VestibularController {
 
     @PostMapping("/api/vestibular")
     public ResponseEntity<Void> cadastrar(@RequestBody Vestibular vestibular) {
-        if(vestRepo.procurarVestibular(vestibular.getNome(), vestibular.getAno(), vestibular.getSemestre()).isEmpty()){
+        if(vestRepo.procurarVestibular(vestibular.getNome()).isEmpty()){
             vestRepo.save(vestibular); // Salva o objeto "vestibular" no Banco de Dados
             return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
         }
         return ResponseEntity.status(HttpStatus.BAD_REQUEST).build(); // Retorna 400
+    }
+
+    @PostMapping("/api/vestibulares")
+    public ResponseEntity<String> cadastrarVestibulares(@RequestBody List<Vestibular> vestibulares) {
+        try{
+            for(Vestibular vestibular : vestibulares){
+                if(vestRepo.procurarVestibular(vestibular.getNome()).isEmpty()){
+                    vestRepo.save(vestibular); // Salva o objeto "vestibular" no Banco de Dados
+                }
+            }
+            return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
+        }
+        catch(Exception e){
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage()); // Retorna 400
+        }
     }
 
     @PutMapping("/api/vestibular")
