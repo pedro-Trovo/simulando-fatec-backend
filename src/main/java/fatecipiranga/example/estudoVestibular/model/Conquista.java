@@ -13,6 +13,7 @@ public class Conquista {
 
     @ManyToOne
     @JoinColumn(name = "vestibular_id", nullable = false)
+    @JsonIgnore
     private Vestibular vestibular;
 
     // A coluna não pode ser "Null"
