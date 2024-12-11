@@ -19,7 +19,7 @@ public class VestibularController {
 
     @PostMapping("/api/vestibular")
     public ResponseEntity<Void> cadastrar(@RequestBody Vestibular vestibular) {
-        if(vestRepo.procurarVestibular(vestibular.getNome(), vestibular.getAno(), vestibular.getSemestre()).isEmpty()){
+        if(vestRepo.procurarVestibular(vestibular.getNome()).isEmpty()){
             vestRepo.save(vestibular); // Salva o objeto "vestibular" no Banco de Dados
             return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
         }
@@ -30,8 +30,9 @@ public class VestibularController {
     public ResponseEntity<String> cadastrarVestibulares(@RequestBody List<Vestibular> vestibulares) {
         try{
             for(Vestibular vestibular : vestibulares){
-                vestRepo.save(vestibular);
-                ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
+                if(vestRepo.procurarVestibular(vestibular.getNome()).isEmpty()){
+                    vestRepo.save(vestibular); // Salva o objeto "vestibular" no Banco de Dados
+                }
             }
             return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
         }
