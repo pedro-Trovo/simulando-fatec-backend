@@ -1,9 +1,8 @@
 package fatecipiranga.example.estudoVestibular.model;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import jakarta.persistence.*;
 
 @Entity
 public class Alternativa {
@@ -12,8 +11,17 @@ public class Alternativa {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    private String letra;        
-    private String texto;      
+    @ManyToOne
+    @JoinColumn(name = "questao_id", nullable = false)
+    @JsonIgnore
+    private Questao questao;
+
+    // A coluna não pode ser "Null"
+    @Column(nullable = false)
+    private String letra;
+
+    private String texto;
+
     private String imgUrl;      
 
     
@@ -24,6 +32,14 @@ public class Alternativa {
 
     public void setId(Long id) {
         this.id = id;
+    }
+
+    public Questao getQuestao() {
+        return questao;
+    }
+
+    public void setQuestao(Questao questao) {
+        this.questao = questao;
     }
 
     public String getLetra() {
