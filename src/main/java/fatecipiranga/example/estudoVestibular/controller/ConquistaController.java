@@ -68,7 +68,7 @@ public class ConquistaController {
 
     @GetMapping("/api/conquistas/{vestibularId}")
     public ResponseEntity<List<Conquista>> listarTodasConquistasPorVestibular(@PathVariable Long vestibularId){
-        Optional<List<Conquista>> conquistasPorVestibular = conquistaRepo.procurarConquistarPorVestibular(vestibularId);
+        Optional<List<Conquista>> conquistasPorVestibular = conquistaRepo.procurarConquistasPorVestibular(vestibularId);
 
         return conquistasPorVestibular
                 .map(ResponseEntity::ok) // Retorna 200 + a lista de conquistas por vestibular
