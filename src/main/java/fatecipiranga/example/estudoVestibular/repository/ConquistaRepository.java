@@ -13,5 +13,5 @@ public interface ConquistaRepository extends JpaRepository<Conquista, Long> {
     Optional<Conquista> procurarConquista(Long vestibularId, String nome, String descricao);
 
     @Query(value = "SELECT * FROM conquista WHERE vestibular_id=?1", nativeQuery = true)
-    Optional<List<Conquista>> procurarConquistarPorVestibular(Long vestibularId);
+    Optional<List<Conquista>> procurarConquistasPorVestibular(Long vestibularId);
 }

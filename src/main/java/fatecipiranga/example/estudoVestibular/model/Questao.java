@@ -2,38 +2,51 @@ package fatecipiranga.example.estudoVestibular.model;
 
 import java.util.List;
 
-import jakarta.persistence.ElementCollection;
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.JoinColumn;
-import jakarta.persistence.ManyToOne;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import jakarta.persistence.*;
 
 @Entity
+@Table(name="questao")
 public class Questao {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
+
+    // A coluna não pode ser "Null"
+    @Column(nullable = false)
     private int numQuestao;
+
+    // A coluna não pode ser "Null"
+    @Column(nullable = false)
     private String disciplina;
+
+    @Column(length = 2000)
     private String enunciado;
+
+    // A coluna não pode ser "Null"
+    @Column(length = 1000, nullable = false)
+    private String pergunta;
 
     @ElementCollection
     private List<String> imgs;
 
-    
+    // A coluna não pode ser "Null"
+    @Column(nullable = false)
     private String gabarito;
 
-    @ElementCollection
-    private List<Long> alternativaIds;  
+    @OneToMany(mappedBy = "questao", cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<Alternativa> alternativas;
 
     @ManyToOne
-    @JoinColumn(name = "vestibular_id", nullable = false)
-    private Vestibular vestibular;  
+    @JoinColumns({
+            @JoinColumn(name="vestibular_id", referencedColumnName="vestibular_id"),
+            @JoinColumn(name="ano", referencedColumnName="ano"),
+            @JoinColumn(name="semestre", referencedColumnName="semestre")
+    })
+    @JsonIgnoreProperties("questoes")
+    private Prova prova;
 
-     
 
     public Long getId() {
         return id;
@@ -67,6 +80,14 @@ public class Questao {
         this.enunciado = enunciado;
     }
 
+    public String getPergunta() {
+        return pergunta;
+    }
+
+    public void setPergunta(String pergunta) {
+        this.pergunta = pergunta;
+    }
+
     public List<String> getImgs() {
         return imgs;
     }
@@ -83,19 +104,19 @@ public class Questao {
         this.gabarito = gabarito;
     }
 
-    public List<Long> getAlternativaIds() {
-        return alternativaIds;
+    public List<Alternativa> getAlternativas() {
+        return alternativas;
     }
 
-    public void setAlternativaIds(List<Long> alternativaIds) {
-        this.alternativaIds = alternativaIds;
+    public void setAlternativas(List<Alternativa> alternativas) {
+        this.alternativas = alternativas;
     }
 
-    public Vestibular getVestibular() {
-        return vestibular;
+    public Prova getProva() {
+        return prova;
     }
 
-    public void setVestibular(Vestibular vestibular) {
-        this.vestibular = vestibular;
+    public void setProva(Prova prova) {
+        this.prova = prova;
     }
 }
