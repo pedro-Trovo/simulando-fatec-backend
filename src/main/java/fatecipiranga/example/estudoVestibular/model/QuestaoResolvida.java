@@ -11,66 +11,66 @@ import jakarta.persistence.*;
 @Entity
 public class QuestaoResolvida {
 
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+  @Id
+  @GeneratedValue(strategy = GenerationType.IDENTITY)
+  private Long id;
 
-    @ManyToOne
-    @JoinColumn(name = "aluno_id", nullable = false)
-    @JsonIgnoreProperties({"conquistasObtidas", "questoesResolvidas"})
-    private Aluno aluno;   
+  @ManyToOne
+  @JoinColumn(name = "aluno_id", nullable = false)
+  @JsonIgnoreProperties({"conquistasObtidas", "questoesResolvidas"})
+  private Aluno aluno;
 
-    @ManyToOne
-    @JoinColumn(name = "questao_id", nullable = false)
-    private Questao questao;
+  @ManyToOne
+  @JoinColumn(name = "questao_id", nullable = false)
+  private Questao questao;
 
-    // A coluna não pode ser "Null"
-    @Column(nullable = false)
-    private boolean acertou;  
+  // A coluna não pode ser "Null"
+  @Column(nullable = false)
+  private boolean acertou;
 
-    @Temporal(TemporalType.DATE)
-    @Column(nullable = false) // A coluna não pode ser "Null"
-    private LocalDate data = LocalDate.now();
+  @Temporal(TemporalType.DATE)
+  @Column(nullable = false) // A coluna não pode ser "Null"
+  private LocalDate data = LocalDate.now();
 
-   
 
-    public Long getId() {
-        return id;
-    }
 
-    public void setId(Long id) {
-        this.id = id;
-    }
+  public Long getId() {
+    return id;
+  }
 
-    public Aluno getAluno() {
-        return aluno;
-    }
+  public void setId(Long id) {
+    this.id = id;
+  }
 
-    public void setAluno(Aluno aluno) {
-        this.aluno = aluno;
-    }
+  public Aluno getAluno() {
+    return aluno;
+  }
 
-    public Questao getQuestao() {
-        return questao;
-    }
+  public void setAluno(Aluno aluno) {
+    this.aluno = aluno;
+  }
 
-    public void setQuestao(Questao questao) {
-        this.questao = questao;
-    }
+  public Questao getQuestao() {
+    return questao;
+  }
 
-    public boolean isAcertou() {
-        return acertou;
-    }
+  public void setQuestao(Questao questao) {
+    this.questao = questao;
+  }
 
-    public void setAcertou(boolean acertou) {
-        this.acertou = acertou;
-    }
+  public boolean isAcertou() {
+    return acertou;
+  }
 
-    public LocalDate getData() {
-        return data;
-    }
+  public void setAcertou(boolean acertou) {
+    this.acertou = acertou;
+  }
 
-    public void setData(LocalDate data) {
-        this.data = data;
-    }
+  public LocalDate getData() {
+    return data;
+  }
+
+  public void setData(LocalDate data) {
+    this.data = data;
+  }
 }

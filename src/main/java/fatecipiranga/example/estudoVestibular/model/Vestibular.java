@@ -9,38 +9,49 @@ import java.util.List;
 @Table(name="vestibular")
 public class Vestibular {
 
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+  @Id
+  @GeneratedValue(strategy = GenerationType.IDENTITY)
+  private Long id;
 
-    // A coluna não pode ser "Null"
-    @Column(nullable = false)
-    private String nome;
+  // A coluna não pode ser "Null"
+  @Column(nullable = false)
+  private String nome;
 
-    @OneToMany(mappedBy = "vestibular", cascade = CascadeType.ALL, orphanRemoval = true)
-    private List<Conquista> conquistas = new ArrayList<>();
+  @OneToMany(mappedBy = "vestibular", cascade = CascadeType.ALL, orphanRemoval = true)
+  private List<Conquista> conquistas = new ArrayList<>();
 
-    public Long getId() {
-        return id;
-    }
+  @OneToMany(mappedBy = "id.vestibular", cascade = CascadeType.ALL, orphanRemoval = true)
+  private List<Prova> provas = new ArrayList<>();
 
-    public void setId(Long id) {
-        this.id = id;
-    }
+  public Long getId() {
+      return id;
+  }
 
-    public String getNome() {
-        return nome;
-    }
+  public void setId(Long id) {
+      this.id = id;
+  }
 
-    public void setNome(String nome) {
-        this.nome = nome;
-    }
+  public String getNome() {
+      return nome;
+  }
 
-    public List<Conquista> getConquistas() {
-        return conquistas;
-    }
+  public void setNome(String nome) {
+      this.nome = nome;
+  }
 
-    public void setConquistas(List<Conquista> conquistas) {
-        this.conquistas = conquistas;
-    }
+  public List<Conquista> getConquistas() {
+      return conquistas;
+  }
+
+  public void setConquistas(List<Conquista> conquistas) {
+      this.conquistas = conquistas;
+  }
+
+  public List<Prova> getProvas() {
+      return provas;
+  }
+
+  public void setProvas(List<Prova> provas) {
+      this.provas = provas;
+  }
 }
