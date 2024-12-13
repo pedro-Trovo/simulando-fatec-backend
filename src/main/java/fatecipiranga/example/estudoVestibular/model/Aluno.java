@@ -30,6 +30,9 @@ public class Aluno {
     @OneToMany(mappedBy = "aluno", cascade = CascadeType.ALL, orphanRemoval = true)
     private List<ConquistaObtida> conquistasObtidas = new ArrayList<>();
 
+    @OneToMany(mappedBy = "aluno", cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<QuestaoResolvida> questoesResolvidas = new ArrayList<>();
+
 
     public Long getId() {
         return id;
@@ -69,5 +72,13 @@ public class Aluno {
 
     public void setConquistasObtidas(List<ConquistaObtida> conquistasObtidas) {
         this.conquistasObtidas = conquistasObtidas;
+    }
+
+    public List<QuestaoResolvida> getQuestoesResolvidas() {
+        return questoesResolvidas;
+    }
+
+    public void setQuestoesResolvidas(List<QuestaoResolvida> questoesResolvidas) {
+        this.questoesResolvidas = questoesResolvidas;
     }
 }

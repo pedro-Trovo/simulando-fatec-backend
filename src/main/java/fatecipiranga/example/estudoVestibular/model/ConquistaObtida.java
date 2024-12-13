@@ -22,7 +22,7 @@ public class ConquistaObtida {
 
     @ManyToOne
     @JoinColumn(name = "aluno_id", nullable = false)
-    @JsonIgnoreProperties("conquistasObtidas")
+    @JsonIgnoreProperties({"conquistasObtidas", "questoesResolvidas"})
     private Aluno aluno;
 
     @Temporal(TemporalType.DATE)

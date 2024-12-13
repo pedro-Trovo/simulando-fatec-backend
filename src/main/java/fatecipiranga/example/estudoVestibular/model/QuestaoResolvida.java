@@ -1,16 +1,12 @@
 package fatecipiranga.example.estudoVestibular.model;
 
 
+import java.time.LocalDate;
 import java.util.Date;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.JoinColumn;
-import jakarta.persistence.ManyToOne;
-import jakarta.persistence.Temporal;
-import jakarta.persistence.TemporalType;
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import jakarta.persistence.*;
 
 @Entity
 public class QuestaoResolvida {
@@ -21,16 +17,20 @@ public class QuestaoResolvida {
 
     @ManyToOne
     @JoinColumn(name = "aluno_id", nullable = false)
+    @JsonIgnoreProperties({"conquistasObtidas", "questoesResolvidas"})
     private Aluno aluno;   
 
     @ManyToOne
     @JoinColumn(name = "questao_id", nullable = false)
-    private Questao questao;   
+    private Questao questao;
 
+    // A coluna não pode ser "Null"
+    @Column(nullable = false)
     private boolean acertou;  
 
     @Temporal(TemporalType.DATE)
-    private Date data;   
+    @Column(nullable = false) // A coluna não pode ser "Null"
+    private LocalDate data = LocalDate.now();
 
    
 
@@ -66,11 +66,11 @@ public class QuestaoResolvida {
         this.acertou = acertou;
     }
 
-    public Date getData() {
+    public LocalDate getData() {
         return data;
     }
 
-    public void setData(Date data) {
+    public void setData(LocalDate data) {
         this.data = data;
     }
 }
