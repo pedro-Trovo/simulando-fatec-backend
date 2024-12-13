@@ -9,49 +9,49 @@ import java.util.List;
 @Table(name="vestibular")
 public class Vestibular {
 
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+  @Id
+  @GeneratedValue(strategy = GenerationType.IDENTITY)
+  private Long id;
 
-    // A coluna não pode ser "Null"
-    @Column(nullable = false)
-    private String nome;
+  // A coluna não pode ser "Null"
+  @Column(nullable = false)
+  private String nome;
 
-    @OneToMany(mappedBy = "vestibular", cascade = CascadeType.ALL, orphanRemoval = true)
-    private List<Conquista> conquistas = new ArrayList<>();
+  @OneToMany(mappedBy = "vestibular", cascade = CascadeType.ALL, orphanRemoval = true)
+  private List<Conquista> conquistas = new ArrayList<>();
 
-    @OneToMany(mappedBy = "id.vestibular", cascade = CascadeType.ALL, orphanRemoval = true)
-    private List<Prova> provas = new ArrayList<>();
+  @OneToMany(mappedBy = "id.vestibular", cascade = CascadeType.ALL, orphanRemoval = true)
+  private List<Prova> provas = new ArrayList<>();
 
-    public Long getId() {
-        return id;
-    }
+  public Long getId() {
+      return id;
+  }
 
-    public void setId(Long id) {
-        this.id = id;
-    }
+  public void setId(Long id) {
+      this.id = id;
+  }
 
-    public String getNome() {
-        return nome;
-    }
+  public String getNome() {
+      return nome;
+  }
 
-    public void setNome(String nome) {
-        this.nome = nome;
-    }
+  public void setNome(String nome) {
+      this.nome = nome;
+  }
 
-    public List<Conquista> getConquistas() {
-        return conquistas;
-    }
+  public List<Conquista> getConquistas() {
+      return conquistas;
+  }
 
-    public void setConquistas(List<Conquista> conquistas) {
-        this.conquistas = conquistas;
-    }
+  public void setConquistas(List<Conquista> conquistas) {
+      this.conquistas = conquistas;
+  }
 
-    public List<Prova> getProvas() {
-        return provas;
-    }
+  public List<Prova> getProvas() {
+      return provas;
+  }
 
-    public void setProvas(List<Prova> provas) {
-        this.provas = provas;
-    }
+  public void setProvas(List<Prova> provas) {
+      this.provas = provas;
+  }
 }

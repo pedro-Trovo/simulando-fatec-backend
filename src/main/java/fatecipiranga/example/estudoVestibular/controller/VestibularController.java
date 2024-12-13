@@ -14,65 +14,65 @@ import java.util.Optional;
 @RestController
 public class VestibularController {
 
-    @Autowired
-    VestibularRepository vestRepo;
+  @Autowired
+  VestibularRepository vestRepo;
 
-    @PostMapping("/api/vestibular")
-    public ResponseEntity<Void> cadastrar(@RequestBody Vestibular vestibular) {
+  @PostMapping("/api/vestibular")
+  public ResponseEntity<Void> cadastrar(@RequestBody Vestibular vestibular) {
+    if(vestRepo.procurarVestibular(vestibular.getNome()).isEmpty()){
+      vestRepo.save(vestibular); // Salva o objeto "vestibular" no Banco de Dados
+      return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
+    }
+    return ResponseEntity.status(HttpStatus.BAD_REQUEST).build(); // Retorna 400
+  }
+
+  @PostMapping("/api/vestibulares")
+  public ResponseEntity<String> cadastrarVestibulares(@RequestBody List<Vestibular> vestibulares) {
+    try{
+      for(Vestibular vestibular : vestibulares){
         if(vestRepo.procurarVestibular(vestibular.getNome()).isEmpty()){
-            vestRepo.save(vestibular); // Salva o objeto "vestibular" no Banco de Dados
-            return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
+          vestRepo.save(vestibular); // Salva o objeto "vestibular" no Banco de Dados
         }
-        return ResponseEntity.status(HttpStatus.BAD_REQUEST).build(); // Retorna 400
+      }
+      return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
     }
-
-    @PostMapping("/api/vestibulares")
-    public ResponseEntity<String> cadastrarVestibulares(@RequestBody List<Vestibular> vestibulares) {
-        try{
-            for(Vestibular vestibular : vestibulares){
-                if(vestRepo.procurarVestibular(vestibular.getNome()).isEmpty()){
-                    vestRepo.save(vestibular); // Salva o objeto "vestibular" no Banco de Dados
-                }
-            }
-            return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
-        }
-        catch(Exception e){
-            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage()); // Retorna 400
-        }
+    catch(Exception e){
+      return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage()); // Retorna 400
     }
+  }
 
-    @PutMapping("/api/vestibular")
-    public ResponseEntity<Void> alterar(@RequestBody Vestibular vestibular) {
-        vestRepo.save(vestibular);
-        return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
+  @PutMapping("/api/vestibular")
+  public ResponseEntity<Void> alterar(@RequestBody Vestibular vestibular) {
+    vestRepo.save(vestibular);
+    return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
+  }
+
+  @GetMapping("/api/vestibular/{codigo}")
+  public ResponseEntity<Vestibular> carregar(@PathVariable Long codigo) {
+    return vestRepo.findById(codigo)
+            .map(ResponseEntity::ok) // Retorna 200 + o Vestibular encontrado
+            .orElse(ResponseEntity.notFound().build()); // Retorna 404
+  }
+
+  @GetMapping("/api/vestibulares")
+  public ResponseEntity<List<Vestibular>> listarTodosVestibulares() {
+    // Busca todos os vestibulares no banco de dados
+    List<Vestibular> vestibulares = vestRepo.findAll();
+
+    if(vestibulares.isEmpty()){
+      return ResponseEntity.noContent().build(); // Retorna 204
     }
+    return ResponseEntity.ok(vestibulares); // Retorna 200 + a lista de vestibulares
+  }
 
-    @GetMapping("/api/vestibular/{codigo}")
-    public ResponseEntity<Vestibular> carregar(@PathVariable Long codigo) {
-        return vestRepo.findById(codigo)
-                .map(ResponseEntity::ok) // Retorna 200 + o Vestibular encontrado
-                .orElse(ResponseEntity.notFound().build()); // Retorna 404
+  @DeleteMapping("/api/vestibular/{codigo}")
+  public ResponseEntity<Void> remover(@PathVariable Long codigo) {
+    if(vestRepo.existsById(codigo)){
+      vestRepo.deleteById(codigo);
+      return ResponseEntity.noContent().build(); // Retorna 204
     }
-
-    @GetMapping("/api/vestibulares")
-    public ResponseEntity<List<Vestibular>> listarTodosVestibulares() {
-        // Busca todos os vestibulares no banco de dados
-        List<Vestibular> vestibulares = vestRepo.findAll();
-
-        if(vestibulares.isEmpty()){
-            return ResponseEntity.noContent().build(); // Retorna 204
-        }
-        return ResponseEntity.ok(vestibulares); // Retorna 200 + a lista de vestibulares
+    else{
+      return ResponseEntity.notFound().build(); // Retorna 404
     }
-
-    @DeleteMapping("/api/vestibular/{codigo}")
-    public ResponseEntity<Void> remover(@PathVariable Long codigo) {
-        if(vestRepo.existsById(codigo)){
-            vestRepo.deleteById(codigo);
-            return ResponseEntity.noContent().build(); // Retorna 204
-        }
-        else{
-            return ResponseEntity.notFound().build(); // Retorna 404
-        }
-    }
+  }
 }

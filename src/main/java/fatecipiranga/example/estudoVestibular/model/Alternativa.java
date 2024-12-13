@@ -7,62 +7,62 @@ import jakarta.persistence.*;
 @Entity
 public class Alternativa {
 
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+  @Id
+  @GeneratedValue(strategy = GenerationType.IDENTITY)
+  private Long id;
 
-    @ManyToOne
-    @JoinColumn(name = "questao_id", nullable = false)
-    @JsonIgnore
-    private Questao questao;
+  @ManyToOne
+  @JoinColumn(name = "questao_id", nullable = false)
+  @JsonIgnore
+  private Questao questao;
 
-    // A coluna não pode ser "Null"
-    @Column(nullable = false)
-    private String letra;
+  // A coluna não pode ser "Null"
+  @Column(nullable = false)
+  private String letra;
 
-    private String texto;
+  private String texto;
 
-    private String imgUrl;      
+  private String imgUrl;
 
-    
 
-    public Long getId() {
-        return id;
-    }
 
-    public void setId(Long id) {
-        this.id = id;
-    }
+  public Long getId() {
+    return id;
+  }
 
-    public Questao getQuestao() {
-        return questao;
-    }
+  public void setId(Long id) {
+    this.id = id;
+  }
 
-    public void setQuestao(Questao questao) {
-        this.questao = questao;
-    }
+  public Questao getQuestao() {
+    return questao;
+  }
 
-    public String getLetra() {
-        return letra;
-    }
+  public void setQuestao(Questao questao) {
+    this.questao = questao;
+  }
 
-    public void setLetra(String letra) {
-        this.letra = letra;
-    }
+  public String getLetra() {
+    return letra;
+  }
 
-    public String getTexto() {
-        return texto;
-    }
+  public void setLetra(String letra) {
+    this.letra = letra;
+  }
 
-    public void setTexto(String texto) {
-        this.texto = texto;
-    }
+  public String getTexto() {
+    return texto;
+  }
 
-    public String getImgUrl() {
-        return imgUrl;
-    }
+  public void setTexto(String texto) {
+    this.texto = texto;
+  }
 
-    public void setImgUrl(String imgUrl) {
-        this.imgUrl = imgUrl;
-    }
+  public String getImgUrl() {
+    return imgUrl;
+  }
+
+  public void setImgUrl(String imgUrl) {
+    this.imgUrl = imgUrl;
+  }
 }
