@@ -43,21 +43,21 @@ public class ConquistaObtidaController {
                 .orElse(ResponseEntity.notFound().build()); // Retorna 404
     }
 
-    @GetMapping("/api/conquistas_obtidas/{alunoId}")
+    @GetMapping("/api/conquistas_obtidas/aluno/{alunoId}")
     public ResponseEntity<List<ConquistaObtida>> listarTodasConquistasPorAluno(@PathVariable Long alunoId){
-        Optional<List<ConquistaObtida>> conquistasObtidasPorAluno = conquistasObtRepo.procurarConquistaObtidaPorAluno(alunoId);
+        Optional<List<ConquistaObtida>> conquistasObtidasPorAluno = conquistasObtRepo.procurarConquistasObtidasPorAluno(alunoId);
 
         return conquistasObtidasPorAluno
                 .map(ResponseEntity::ok) // Retorna 200 + a lista de conquistas obtidas por aluno
                 .orElse(ResponseEntity.noContent().build()); // Retorna 204
     }
 
-    @GetMapping("/api/conquistas_obtidas/{alunoId}/{vestibularId}")
+    @GetMapping("/api/conquistas_obtidas/aluno/{alunoId}/vestibular/{vestibularId}")
     public ResponseEntity<List<ConquistaObtida>> listarTodasConquistasPorAlunoPorVestibular(
             @PathVariable Long alunoId,
             @PathVariable Long vestibularId
     ) {
-        Optional<List<ConquistaObtida>> conquistasObtidasPorAlunoPorVestibular = conquistasObtRepo.procurarConquistaObtidaPorAlunoPorVestibular(alunoId, vestibularId);
+        Optional<List<ConquistaObtida>> conquistasObtidasPorAlunoPorVestibular = conquistasObtRepo.procurarConquistasObtidasPorAlunoPorVestibular(alunoId, vestibularId);
 
         return conquistasObtidasPorAlunoPorVestibular
                 .map(ResponseEntity::ok) // Retorna 200 + a lista de conquistas obtidas por aluno

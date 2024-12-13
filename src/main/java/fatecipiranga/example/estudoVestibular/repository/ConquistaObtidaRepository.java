@@ -13,7 +13,7 @@ public interface ConquistaObtidaRepository extends JpaRepository<ConquistaObtida
   Optional<ConquistaObtida> procurarConquistaObtida(Long alunoId, Long conquistaId);
 
   @Query(value = "SELECT * FROM conquista_obtida WHERE aluno_id=?1", nativeQuery = true)
-  Optional<List<ConquistaObtida>> procurarConquistaObtidaPorAluno(Long alunoId);
+  Optional<List<ConquistaObtida>> procurarConquistasObtidasPorAluno(Long alunoId);
 
   @Query(value = """
     SELECT co.* 
@@ -21,5 +21,5 @@ public interface ConquistaObtidaRepository extends JpaRepository<ConquistaObtida
     JOIN conquista c ON co.conquista_id = c.id
     WHERE co.aluno_id=?1 AND c.vestibular_id=?2
   """, nativeQuery = true)
-  Optional<List<ConquistaObtida>> procurarConquistaObtidaPorAlunoPorVestibular(Long alunoId, Long vestibularId);
+  Optional<List<ConquistaObtida>> procurarConquistasObtidasPorAlunoPorVestibular(Long alunoId, Long vestibularId);
 }
