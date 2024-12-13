@@ -1,5 +1,6 @@
 package fatecipiranga.example.estudoVestibular.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.Column;
 import jakarta.persistence.Embeddable;
 import jakarta.persistence.JoinColumn;
@@ -11,6 +12,7 @@ import java.io.Serializable;
 public class ProvaId implements Serializable {
   @ManyToOne
   @JoinColumn(name = "vestibular_id", nullable = false)
+  @JsonIgnoreProperties({"conquistas", "provas"})
   private Vestibular vestibular;
 
   // A coluna não pode ser "Null"

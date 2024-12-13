@@ -14,7 +14,7 @@ public class Conquista {
 
     @ManyToOne
     @JoinColumn(name = "vestibular_id", nullable = false)
-    @JsonIgnoreProperties("conquistas")
+    @JsonIgnoreProperties({"conquistas", "provas"})
     private Vestibular vestibular;
 
     // A coluna não pode ser "Null"

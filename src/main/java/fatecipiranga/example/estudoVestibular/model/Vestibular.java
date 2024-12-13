@@ -20,6 +20,9 @@ public class Vestibular {
     @OneToMany(mappedBy = "vestibular", cascade = CascadeType.ALL, orphanRemoval = true)
     private List<Conquista> conquistas = new ArrayList<>();
 
+    @OneToMany(mappedBy = "id.vestibular", cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<Prova> provas = new ArrayList<>();
+
     public Long getId() {
         return id;
     }
@@ -42,5 +45,13 @@ public class Vestibular {
 
     public void setConquistas(List<Conquista> conquistas) {
         this.conquistas = conquistas;
+    }
+
+    public List<Prova> getProvas() {
+        return provas;
+    }
+
+    public void setProvas(List<Prova> provas) {
+        this.provas = provas;
     }
 }
