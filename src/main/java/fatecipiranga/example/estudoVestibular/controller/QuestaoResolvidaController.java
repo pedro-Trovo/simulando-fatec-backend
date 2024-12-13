@@ -33,11 +33,13 @@ public class QuestaoResolvidaController {
         }
     }
 
+    /*
     @PutMapping("/api/questao-resolvida")
     public ResponseEntity<Void> alterar(@RequestBody QuestaoResolvida questaoResolvida) {
         questaoResolRepo.save(questaoResolvida); // Salva o objeto "questaoResolvida" no Banco de Dados
         return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
     }
+     */
 
     @GetMapping("/api/questao-resolvida/{questaoResolvidaId}")
     public ResponseEntity<QuestaoResolvida> carregar(@PathVariable Long questaoResolvidaId) {
@@ -47,7 +49,7 @@ public class QuestaoResolvidaController {
     }
 
     @GetMapping("/api/questoes-resolvidas/aluno/{alunoId}")
-    public ResponseEntity<List<QuestaoResolvida>> listarTodasQuestoesResolvidasPorAluno(Long alunoId){
+    public ResponseEntity<List<QuestaoResolvida>> listarTodasQuestoesResolvidasPorAluno(@PathVariable Long alunoId){
         Optional<List<QuestaoResolvida>> questoesResolvidasPorAluno = questaoResolRepo.procurarQuestoesResolvidasPorAluno(alunoId);
 
         return questoesResolvidasPorAluno
