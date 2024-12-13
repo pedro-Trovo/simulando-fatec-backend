@@ -17,7 +17,7 @@ public class QuestaoResolvida {
 
     @ManyToOne
     @JoinColumn(name = "aluno_id", nullable = false)
-    @JsonIgnoreProperties("questoesResolvidas")
+    @JsonIgnoreProperties({"conquistasObtidas", "questoesResolvidas"})
     private Aluno aluno;   
 
     @ManyToOne
