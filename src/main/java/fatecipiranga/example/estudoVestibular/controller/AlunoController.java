@@ -1,5 +1,6 @@
 package fatecipiranga.example.estudoVestibular.controller;
 
+import fatecipiranga.example.estudoVestibular.dto.Login;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -42,11 +43,11 @@ public class AlunoController {
     return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
   }
 
-  @GetMapping("/api/aluno")
-  public ResponseEntity<Long> efetuarLogin(String email, String senha) {
-    return alunoRepo.procurarLogin(email)
+  @PostMapping("/api/aluno/login")
+  public ResponseEntity<Long> efetuarLogin(@RequestBody Login login) {
+    return alunoRepo.procurarLogin(login.getEmail())
             // Checa se a senha digitada é igual a que está no banco de dados
-            .filter(aluno -> BCrypt.checkpw(senha, aluno.getSenha()))
+            .filter(aluno -> BCrypt.checkpw(login.getSenha(), aluno.getSenha()))
             .map(Aluno::getId) // Pega o ID do aluno
             .map(ResponseEntity::ok) // Retorna o ID do Aluno
             .orElse(ResponseEntity.notFound().build()); // Retorna 404
