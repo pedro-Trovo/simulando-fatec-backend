@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 43,
+    "disciplina": "Biologia",
+    "enunciado": "As Ciências e a Tecnologia têm um papel fundamental na evolução da sociedade. Elas estão presentes em todos os aspectos da vida, no compartilhamento de conhecimentos e na realização de experiências. Com o objetivo de estudar a digestão de proteínas no corpo humano, foi realizado um experimento, utilizando quatro tubos de ensaio numerados, os quais continham soluções diferentes. Em cada um desses tubos, foi adicionado um pedaço de carne, que contém moléculas inteiras de proteínas. Os tubos foram tampados e mantidos em banho-maria a 37°C, em agitação constante.",
+    "imgs": [],
+    "pergunta": "Após o tempo necessário para a digestão enzimática da carne, fragmentos menores de proteínas dessa carne podem ser encontrados",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "apenas no tubo 4.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "apenas nos tubos 3 e 4.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "apenas nos tubos 1 e 2.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "apenas nos tubos 1, 2 e 3.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "apenas nos tubos 2, 3 e 4.",
+            "imgUrl": null
+        }
+    ]
+}

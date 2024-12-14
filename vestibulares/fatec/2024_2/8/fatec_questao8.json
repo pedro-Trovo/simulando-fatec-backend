@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 8,
+    "disciplina": "Física",
+    "enunciado": "O Canal do Panamá é uma construção de aproximadamente 82 km de comprimento, criado para facilitar o comércio marítimo mundial pela ligação dos oceanos Pacífico e Atlântico. O canal permite que os navios evitem a longa rota de, aproximadamente, 19000 km, que passa pelo Cabo Horn. Essa trajetória ocorre em torno da ponta mais meridional do continente americano, onde ventos fortes, correntes marítimas frias e icebergs fazem dessas águas uma das mais difíceis do mundo para navegação. Durante a realização da obra do canal, devido a uma diferença de nível entre o continente e os oceanos mencionados, foi necessária a construção de diversas eclusas e comportas. Para atravessar esse canal, um navio pode levar entre 6 e 10 horas. A França iniciou a construção do canal em 1881, e a abandonou em 1889. Entretanto, para alcançar seus interesses geopolíticos e econômicos, os Estados Unidos incentivaram a independência do Panamá em relação à Colômbia. Após esse evento, de 1903 a 1914, os Estados Unidos concluíram a obra e controlaram o canal até 1999, quando a administração foi transferida para o Panamá.<br><br>Antes da construção do canal, um navio cargueiro, que fosse do ponto Atlântico do Canal do Panamá até o ponto Pacífico desse canal, precisaria passar pelo Cabo Horn, conforme descrito no texto.",
+    "imgs": [],
+    "pergunta": "Suponha que esse navio conseguisse percorrer o trecho, citado no parágrafo anterior, navegando, sem paradas ou intercorrências, a uma velocidade média de cruzeiro de aproximadamente 20 nós. Adotando 1 nó como 1,9 km/h, é correto afirmar que o navio faria essa viagem, aproximadamente, em",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "10 horas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "20 horas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "50 horas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "20 dias.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "10 dias.",
+            "imgUrl": null
+        }
+    ]
+}

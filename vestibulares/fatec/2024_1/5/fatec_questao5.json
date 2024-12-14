@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 5,
+    "disciplina": "Geografia",
+    "enunciado": "O mais antigo mapa que representa um Estado, foi produzido na Suméria, em uma pequena tábua de argila. Já os gregos, por volta do século VI a.C. elaboraram mapas decorrentes de navegações e de expedições militares. Com o início das Grandes Navegações, a Cartografia ressurge como meio de representação das novas descobertas. O processo de representação de uma superfície esférica em uma superfície plana recebe a denominação de projeção cartográfica. Cartografia, portanto, é a arte e a ciência de, graficamente, representar uma área geográfica em uma superfície plana.<br><br>A prática de traçar mapas é antiga. O mais antigo mapa que representa um Estado, foi produzido na Suméria, em uma pequena tábua de argila. Já os gregos, por volta do século VI a.C. elaboraram mapas decorrentes de navegações e de expedições militares. Com o início das Grandes Navegações, a Cartografia ressurge como meio de representação das novas descobertas. O processo de representação de uma superfície esférica em uma superfície plana recebe a denominação de projeção cartográfica.",
+    "imgs": [],
+    "pergunta": "Cartografia, portanto, é a arte e a ciência de, graficamente, representar uma área geográfica em uma superfície plana.",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "a Cartografia nasceu como ciência, mas, com o decorrer dos séculos, transformou-se em arte.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "os mapas da Antiguidade já eram elaborados com a utilização de técnicas de sensoriamento remoto.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "o mapa mais antigo encontrado representava um Estado, data do século IV a.C. e foi produzido na Grécia.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "a projeção cartográfica foi desenvolvida para permitir a representação da esfericidade terrestre em um plano.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "a arte de traçar mapas começa com os gregos, no século V a.C., e se expande com os sumérios, que descobriram a argila.",
+            "imgUrl": null
+        }
+    ]
+}

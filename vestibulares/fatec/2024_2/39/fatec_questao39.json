@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 39,
+    "disciplina": "Física",
+    "enunciado": "O físico brasileiro César Lattes tornou-se conhecido por descobrir a partícula subatômica méson pi (píon). A descoberta foi descrita por Lattes no artigo Processes involving charged mesons, publicado pela revista Nature em 1947. O texto é coassinado por seus colegas de laboratório: Powell, Occhialini e Muirhead. Essa descoberta rendeu, em 1950, um Prêmio Nobel de Física e uma posterior controvérsia. O comitê do Nobel concedeu o prêmio apenas a Powell pelo desenvolvimento do método fotográfico para estudo de processos nucleares e pelos achados relacionados aos mésons. O motivo de o prêmio não ter ido para o brasileiro foi a política interna do Nobel. Até 1960, a regra era premiar apenas o chefe da equipe responsável pela descoberta. Entretanto, a façanha de Lattes marcou o início de um novo campo de estudos da Física.<br><br>O físico brasileiro César Lattes tornou-se conhecido por descobrir a partícula subatômica méson pi (píon). A descoberta foi descrita por Lattes no artigo Processes involving charged mesons, publicado pela revista Nature em 1947. O texto é coassinado por seus colegas de laboratório: Powell, Occhialini e Muirhead. Essa descoberta rendeu, em 1950, um Prêmio Nobel de Física e uma posterior controvérsia. O comitê do Nobel concedeu o prêmio apenas a Powell pelo desenvolvimento do método fotográfico para estudo de processos nucleares e pelos achados relacionados aos mésons. O motivo de o prêmio não ter ido para o brasileiro foi a política interna do Nobel. Até 1960, a regra era premiar apenas o chefe da equipe responsável pela descoberta.",
+    "imgs": [],
+    "pergunta": "Podemos afirmar, corretamente, que o campo de estudo relacionado à descoberta de Lattes refere-se a",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Física de Partículas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Física Clássica.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Biofísica.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Termodinâmica.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Eletromagnetismo.",
+            "imgUrl": null
+        }
+    ]
+}

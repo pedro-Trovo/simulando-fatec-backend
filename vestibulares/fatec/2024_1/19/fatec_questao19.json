@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 19,
+    "disciplina": "Física",
+    "enunciado": "The longstanding mystery surrounding Antarctica's Blood Falls has finally been solved. The deep red falls were first discovered in Antarctica in 1911 where scientists noticed a river had stained the surrounding cliff of ice with a dark red color. Previously, they had believed it was due to algae discoloring the water, however that hypothesis was never verified. Now, thanks to research by the University of Alaska Fairbanks, we know the true origin of the Blood Falls flowing from the Taylor Glacier. The deep red coloring is due to oxidized iron in brine saltwater, the same process that gives iron a dark red color when it rusts. When the iron bearing saltwater comes into contact with oxygen the iron undergoes oxidation and takes on a red coloring, in effect dying the water to a deep red color. The research team calculates that the brine water takes approximately 1.5 million years to finally reach the Blood Falls as it makes its way through fissures and channels in the glacier.<br><br>A expressão \\\"anos-luz\\\" é utilizada em muitas representações artísticas, de tirinhas a quadros, de músicas a poemas entre outras.",
+    "imgs": [],
+    "pergunta": "Entretanto, qual é, realmente, o valor aproximado de 1 ano-luz?",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "1,0 × 10<sup>9</sup> m/s.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "1,1 × 10<sup>11</sup> s.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "2,6 × 10<sup>12</sup> s.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "6,1 × 10<sup>13</sup> m.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "9,6 × 10<sup>15</sup> m.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 65,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "<img src=\"vestibulares/enem/enemFormatado/2022/65/enem_questao65_img1.png\" alt=\"imagem 1 da questão\"><br><br>**Disponível em:https://hdmais.com.br. Acesso em: 8 out. 2021.**",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/65/enem_questao65_img1.png"
+    ],
+    "pergunta": "O ápice da ilustração se traduz por uma conduta social caracterizada pela",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Cultura do cancelamento.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Prática do feminicídio.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Postura negacionista.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Ação involuntária.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Defesa da honra.",
+            "imgUrl": null
+        }
+    ]
+}

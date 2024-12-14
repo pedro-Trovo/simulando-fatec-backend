@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 53,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "O número cada vez maior de mulheres letradas e interessadas pela literatura e pelas novelas, muitas divulgadas em capítulos, seções, classificadas comumente como folhetim, alçou a um gênero de ficção corrente já em 1840, fazendo parte do florescimento da literatura nacional brasileira, instigando a formação e a ampliação de um público leitor feminino, ávido por novidades, pelo apelo dos folhetins e “narrativas modernas” que encenavam “os dramas e os conflitos de uma mulher em processo de transformação patriarcal e provinciana que, progressivamente, começava a se abrir para modernizar seus costumes”. No Segundo Reinado, as mulheres foram se tornando público determinante na construção da literatura e da imprensa nacional. E não apenas público, porquanto crescerá o número de escritoras que colaboram para isso e emergirá uma imprensa feminina, editada, escrita e dirigida por e para mulheres.<br><br>**ABRANTES, A. Do álbum de família à vitrine impressa: trajetos de retratos (PB, 1920), Revista Temas em Educação, n. 24, 2015 (adaptado).**",
+    "imgs": [],
+    "pergunta": "O registro das atividades descritas associa a inserção da figura feminina nos espaços de leitura e escrita do Segundo Reinado ao(à)",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Surgimento de novas práticas culturais.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Contestação de antigos hábitos masculinos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Valorização de recentes publicações juvenis.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Circulação de variados manuais pedagógicos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Aparecimento de diversas editoras comerciais.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 12,
+    "disciplina": "Multidisciplinar",
+    "enunciado": "Ao longo da história da humanidade, a atividade artística recebeu, e continua recebendo, influências tecnológicas.<br>Nas Ciências Biológicas, a relação entre botânica e arte tem sido fascinante, sendo as plantas retratadas em pinturas, em esculturas e em outras formas de manifestação artística.<br>Na Grécia Antiga, a arte botânica era utilizada para representar a natureza divina das plantas. Na Idade Média, as ilustrações botânicas eram usadas para identificar plantas medicinais e venenosas. Já na Renascença, as flores eram frequentemente utilizadas para simbolizar a beleza e a fragilidade da vida humana.",
+    "imgs": [],
+    "pergunta": "Assinale a alternativa que associa, corretamente, as informações contidas no texto aos avanços tecnológicos e aos conhecimentos científicos relativos a cada período histórico mencionado.",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Na Grécia Antiga, o uso de microscópios primitivos permitiu que a arte botânica representasse as células vegetais com núcleos detalhados.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Na Idade Média, as ilustrações botânicas, usadas para identificar plantas medicinais e venenosas, baseavam-se nos conhecimentos existentes dos genes e dos ácidos nucleicos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Durante a Renascença, as flores eram utilizadas para simbolizar a beleza e a fragilidade da vida humana, devido aos estudos dos ciclos de vida das plantas realizados com microscopia eletrônica.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Na Idade Contemporânea, apesar de existirem milhares de espécies conhecidas de plantas diferentes, com diversidade de características, pode-se afirmar que todas elas possuem flores e frutos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Na Idade Contemporânea, os conhecimentos sobre a diversidade das plantas permitem agrupá-las considerando, por exemplo, as características morfológicas e as relações evolutivas de seus grupos.",
+            "imgUrl": null
+        }
+    ]
+}

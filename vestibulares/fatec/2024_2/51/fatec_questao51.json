@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 51,
+    "disciplina": "Multidisciplinar",
+    "enunciado": "\"It changes the way we see Amazonian cultures. Most people picture small groups, probably naked, living in huts and clearing land - this shows ancient people lived in complicated urban societies,\" says co-author Antoine Dorison.<br>The city was built around 2,500 years ago, and people lived there for up to 1,000 years, according to archaeologists. A network of straight roads and paths connected many platforms, including one that extended 25 km (16 miles).<br>Dr Dorison said these roads were the most striking part of the research. “The road network is very sophisticated. It extends over a vast distance, everything is connected. And there are right angles, which is very impressive,\" he says, explaining that it is much harder to build a straight road than one that fits in with the landscape.<br>The societies were clearly well-organised and interconnected and the Upano people living there probably mostly focussed on agriculture.\"<br><br>Com base no texto, é correto afirmar que as cidades encontradas no Vale Upano, no estado brasileiro do Amazonas, são mais antigas que a chegada dos primeiros europeus ao território americano; a ausência de agricultura nas cidades pré-colombianas foi a maior responsável pela extinção dessas cidades, que não suportaram o ônus de comprar alimentos das metrópoles; o continente americano já era povoado, quando Cristóvão Colombo ali chegou, e abrigava sociedades que detinham conhecimentos e técnicas complexas em diversas áreas.",
+    "imgs": [],
+    "pergunta": "as estradas largas e retas foram projetadas para que pudessem servir de caminho para os primeiros automóveis movidos a combustível fóssil, construídos no continente americano?",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "as cidades encontradas no Vale Upano, no estado brasileiro do Amazonas, são mais antigas que a chegada dos primeiros europeus ao território americano.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "as cidades do Vale Upano, quando descobertas por Cristóvão Colombo, foram rapidamente destruídas para dar lugar às atuais metrópoles latino-americanas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "a ausência de agricultura nas cidades pré-colombianas foi a maior responsável pela extinção dessas cidades, que não suportaram o ônus de comprar alimentos das metrópoles.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "o continente americano já era povoado, quando Cristóvão Colombo ali chegou, e abrigava sociedades que detinham conhecimentos e técnicas complexas em diversas áreas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "as estradas largas e retas foram projetadas para que pudessem servir de caminho para os primeiros automóveis movidos a combustível fóssil, construídos no continente americano.",
+            "imgUrl": null
+        }
+    ]
+}

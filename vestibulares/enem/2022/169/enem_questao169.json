@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 169,
+    "disciplina": "Matemática",
+    "enunciado": "Uma loja comercializa cinco modelos de caixas-d’água (I, II, III, IV e V), todos em formato de cilindro reto de base circular. Os modelos II, III, IV e V têm as especificações de suas dimensões dadas em relação às dimensões do modelo I, cuja profundidade é P e área da base é Ab, como segue:<br><br>• modelo II: o dobro da profundidade e a metade da  <br>área da base do modelo I;  <br>• modelo III: o dobro da profundidade e a metade do  <br>raio da base do modelo I;  <br>• modelo IV: a metade da profundidade e o dobro da  <br>área da base do modelo I;  <br>• modelo V: a metade da profundidade e o dobro do  <br>raio da base do modelo I.<br><br>Uma pessoa pretende comprar nessa loja o modelo  <br>de caixa-d’água que ofereça a maior capacidade  <br>volumétrica",
+    "imgs": [],
+    "pergunta": "O modelo escolhido deve ser o",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "I.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "II.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "III.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "IV.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "V.",
+            "imgUrl": null
+        }
+    ]
+}

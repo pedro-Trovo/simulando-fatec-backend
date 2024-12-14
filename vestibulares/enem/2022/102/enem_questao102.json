@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 102,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "Entre as diversas técnicas para diagnóstico da covid-19, destaca-se o teste genético. Considerando as diferentes variantes e cargas virais, um exemplo é a PCR, reação efetuada por uma enzima do tipo polimerase. Essa técnica permite identificar, com confiabilidade, o material genético do SARS-CoV-2, um vírus de RNA.  <br>Para comprovação da infecção por esse coronavírus, são coletadas amostras de secreções do indivíduo. Uma etapa que antecede a reação de PCR precisa ser realizada para permitir a amplificação do material genético do vírus.",
+    "imgs": [],
+    "pergunta": "Essa etapa deve ser realizada para",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Concentrar o RNA viral para otimizar a técnica.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Identificar nas amostras anticorpos anti-SARS-CoV-2.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Proliferar o vírus em culturas, aumentando a carga viral.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Purificar ácidos nucleicos virais, facilitando a ação da enzima.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Obter moléculas de cDNAviral por meio da transcrição reversa.",
+            "imgUrl": null
+        }
+    ]
+}

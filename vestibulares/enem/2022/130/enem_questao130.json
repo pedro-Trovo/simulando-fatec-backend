@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 130,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "No processo de captação da luz pelo olho para a formação de imagens estão envolvidas duas estruturas celulares: os cones e os bastonetes. Os cones são sensíveis à energia dos fótons, e os bastonetes, à quantidade de fótons incidentes. A energia dos fótons que compõem os raios luminosos está associada à sua frequência, e a intensidade, ao número de fótons incidentes.",
+    "imgs": [],
+    "pergunta": "Um animal que tem bastonetes mais sensíveis irá",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Apresentar daltonismo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Perceber cores fora do espectro do visível.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Enxergar bem em ambientes mal iluminados.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Necessitar de mais luminosidade para enxergar.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Fazer uma pequena distinção de cores em ambientes iluminados.",
+            "imgUrl": null
+        }
+    ]
+}

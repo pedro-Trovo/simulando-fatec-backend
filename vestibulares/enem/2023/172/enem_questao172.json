@@ -1,0 +1,47 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 172,
+    "disciplina": "Matemática",
+    "enunciado": "Sejam _a_, _b_ e _c_ as medidas dos lados de um triângulo retângulo, tendo a como medida da hipotenusa. Esses valores _a_, _b_ e _c_ são, respectivamente, os diâmetros dos círculos _C1_ , _C2_ e _C3_, como apresentados na figura.<br><br><img src=\"vestibulares/enem/enemFormatado/2023/172/enem_questao172_img1.png\" alt=\"imagem 1 da questão\"><br><br>Observe que essa construção assegura, pelo teorema de Pitágoras, que área (C1) = área (C2) + área (C3).<br><br>Um professor de matemática era conhecedor dessa construção e, confraternizando com dois amigos em uma pizzaria onde são vendidas pizzas somente em formato de círculo, lançou um desafio: mesmo sem usar um instrumento de medição, poderia afirmar com certeza se a área do círculo correspondente à pizza que ele pedisse era maior, igual ou menor do que a soma das áreas das pizzas dos dois amigos. Assim, foram pedidas três pizzas. O professor as dividiu ao meio e formou um triângulo com os diâmetros das pizzas, conforme indicado na figura.<br><br><img src=\"vestibulares/enem/enemFormatado/2023/172/enem_questao172_img2.png\" alt=\"imagem 2 da questão\"><br><br>A partir da medida do ângulo a, o professor afirmou que a área de sua pizza é maior do que a soma das áreas das outras duas pizzas.",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/172/enem_questao172_img1.png",
+        "vestibulares/enem/enemFormatado/2023/172/enem_questao172_img2.png"
+    ],
+    "pergunta": "A área da pizza do professor de matemática é maior do que a soma das áreas das outras duas pizzas, pois",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "0° < a < 90°",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "A = 90°",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "90° < a < 180°",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "A = 180°",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "180° < a < 360°",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 40,
+    "disciplina": "Biologia",
+    "enunciado": "O Relatório Planeta Vivo, produzido pela ONG Fundo Mundial para a Natureza (WWF), apontou que, entre 1970 e 2018, houve uma queda significativa nas populações de espécies monitoradas de animais em todo o planeta. No Brasil, o relatório identificou ameaças específicas a símbolos nacionais, como o boto-cor-de-rosa da Amazônia, a onça-pintada, o tatu-bola, os corais e os lagartos da Caatinga.",
+    "imgs": [],
+    "pergunta": "Entre os fatores que impactam a vida dos animais monitorados, é correto afirmar que?",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "a contaminação dos rios, em consequência do garimpo ilegal, preserva a fauna dos botos-cor-de-rosa, que ficam protegidos da pesca predatória.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "o avanço das fronteiras agrícolas gera o desmatamento, que favorece a mudança dos hábitats naturais dos animais e que aumenta suas chances de sobrevivência.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "a introdução de espécies, que não vivem normalmente em determinado ambiente, ocasiona a ocorrência de mutações nas espécies nativas, sem afetar o equilíbrio do ecossistema.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "as mudanças climáticas, por provocarem um aumento na temperatura do planeta, favorecem a reprodução dos animais aquáticos e terrestres, possibilitando o aumento da fauna.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "a retirada ilegal de madeira, a exploração de plantas, o tráfico de animais e plantas silvestres dificultam a sobrevivência de vários organismos, que acabam entrando em extinção.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 42,
+    "disciplina": "Linguagens",
+    "enunciado": "**10 de maio**<br><br>Fui na delegacia e falei com o tenente. Que homem amavel! Se eu soubesse que ele era tão amavel, eu teria ido na delegacia na primeira intimação. \\[…\\] O tenente interessou-se pela educação dos meus filhos. Disse-me que a favela é um ambiente propenso, que as pessoas tem mais possibilidade de delinquir do que tornar-se util a patria e ao país. Pensei: se ele sabe disto, porque não faz  <br>um relatorio e envia para os politicos? O Senhor Janio Quadros, o Kubstchek, e o Dr. Adhemar de Barros? Agora falar para mim, que sou uma pobre lixeira. Não posso resolver nem as minhas dificuldades.  <br>… O Brasil precisa ser dirigido por uma pessoa que já passou fome. A fome tambem é professora.<br><br>Quem passa fome aprende a pensar no próximo, e nas crianças.<br><br>JESUS, C. M. **Quarto de despejo: diário de uma favelada**.  <br>São Paulo: Ática, 2014.",
+    "imgs": [],
+    "pergunta": "A partir da intimação recebida pelo filho de 9 anos, a autora faz uma reflexão em que transparece a",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Lição de vida comunicada pelo tenente.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Predisposição materna para se emocionar.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Atividade política marcante da comunidade.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Resposta irônica ante o discurso da autoridade.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Necessidade de revelar seus anseios mais íntimos.",
+            "imgUrl": null
+        }
+    ]
+}

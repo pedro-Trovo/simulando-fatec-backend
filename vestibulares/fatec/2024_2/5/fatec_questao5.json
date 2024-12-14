@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 5,
+    "disciplina": "História",
+    "enunciado": "Colônia espanhola até o final do século XIX, o país conquistou a independência em 1898, com a intervenção dos Estados Unidos, país do qual passou a ser praticamente um quintal. A influência de empresas estadunidenses ali cresceu consideravelmente ao longo do século XX. A ascensão de Fulgêncio Batista ao poder e a instalação de uma ditadura, que perseguiu opositores e implantou a censura para atender aos interesses estadunidenses, foram responsáveis por iniciar um movimento revolucionário de oposição.<br><br>Colônia espanhola até o final do século XIX, o país conquistou a independência em 1898, com a intervenção dos Estados Unidos, país do qual passou a ser praticamente um quintal. A influência de empresas estadunidenses ali cresceu consideravelmente ao longo do século XX.",
+    "imgs": [],
+    "pergunta": "O texto faz referência à",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Independência do Haiti.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Revolta de Demerara.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Revolução Francesa.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Revolução Cubana.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Revolução Russa.",
+            "imgUrl": null
+        }
+    ]
+}

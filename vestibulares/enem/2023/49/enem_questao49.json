@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 49,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "TEXTO I<br>Com uma população de 25 milhões de habitantes (cerca de 60% de minorias muçulmanas, principalmente da etnia Uigur), Xinjiang é uma região estratégica para a China. Faz fronteira com oito países, é uma artéria crucial do megaprojeto de infraestrutura chinês Cinturão e Rota e tem as maiores reservas nacionais de carvão e gás natural.<br>(NINIO, M. Disponível em: https: oglobo.globo.com. Acesso em: 5 out. 2021 adaptado)<br>TEXTO II<br>Dentre as províncias da Região Oeste, Xinjiang se destaca ao receber mais de 1,7 milhão de migrantes entre 2000 e 2010. O principal motivo desse fluxo migratório é que o governo fornece subsídios à população visando aumentar a proporção de chineses da etnia Han em relação à população local de etnias turca e muçulmana.<br>ALVES. F.: TOYOSHIMA. S. Disparidade socioeconômica e fluxo migratório chinês: interpretação de eventos contemporâneos segundo os clássicos do desenvolvimento. Revista de Economia Contemporânea. n 1. jan. abr. 2017 (adaptado)<br>A política demográfica para a província mencionada nos textos é parte da seguinte ação estratégica do governo chinês:",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Promover a ocupação rural.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Favorecer a liberdade religiosa.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Descentralizar a gestão pública.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Incentivar a pluralidade cultural.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Assegurar a integridade territorial.",
+            "imgUrl": null
+        }
+    ]
+}

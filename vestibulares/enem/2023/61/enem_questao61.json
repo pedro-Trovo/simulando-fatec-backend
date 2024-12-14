@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 61,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Por trás da “mágica” do Google Assistant de sua capacidade de interpretar 26 idiomas está uma enorme equipe de linguistas distribuídos globalmente, trabalhando como subcontratados, que devem rotular tediosamente os dados de treinamento para que funcione. Eles ganham baixos salários e são rotineiramente forçados a trabalhar horas extras não remuneradas. A inteligência artificial não funciona como um pozinho mágico. Ela funciona por meio de trabalhadores que treinam algoritmos incansavelmente até que eles automatizem seus próprios trabalhos.<br><br>**A Inteligência Artificial (IA) da economia freelancer está vindo atrás de você**. Disponível em: https://mittechreview.com.br. Acesso em: 6 out. 2021 (adaptado).",
+    "imgs": [],
+    "pergunta": "O texto critica a mudança tecnológica em razão da seguinte consequência:",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Diversificação da função.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Mobilidade da população.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Autonomia do empregado.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Concentração da produção.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Invisibilidade do profissional.",
+            "imgUrl": null
+        }
+    ]
+}

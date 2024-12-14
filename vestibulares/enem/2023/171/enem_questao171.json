@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 171,
+    "disciplina": "Matemática",
+    "enunciado": "O calendário maia apresenta duas contagens simultâneas de anos, o chamado ano Tzolkim, composto por 260 dias e que determinava o calendário religioso, e o ano Haab, composto por 365 dias e que determinava o calendário agrícola. Um historiador encontrou evidências de que gerações de uma mesma família governaram certa comunidade maia pelo período de 20 ciclos, sendo cada ciclo formado por 52 anos Haab.<br><br>Disponível em: www.suapesquisa.com. Acesso em: 20 ago. 2014.",
+    "imgs": [],
+    "pergunta": "De acordo com as informações fornecidas, durante quantos anos Tzolkim aquela comunidade maia foi governada por tal família?",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "741",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "1 040",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "1 460",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "2 100",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "5 200",
+            "imgUrl": null
+        }
+    ]
+}

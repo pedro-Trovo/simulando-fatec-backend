@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 35,
+    "disciplina": "Português",
+    "enunciado": "Este não é um mapa como os convencionais, que costumam ser validados na ciência geográfica pelo emprego de escala, legenda, título ou dados georreferenciados. Também não é uma obra de arte usual, pois visualizamos claramente uma estética ou um contorno que reconhecemos como cartográfico. Por ser tanto um mapa, quanto uma obra de arte, enquadra-se no que é chamado de mapa artístico. Seu autor, Joaquín Torres-García, publicou-o em 1943 para inaugurar um movimento artístico inovador e original, em Montevidéu, o qual objetivava ser capaz de igualar a arte aqui desenvolvida à arte de Paris. Entretanto, o artista encontrou dificuldades devido ao gosto predominante nas artes uruguaias de copiar cânones estéticos importados da Europa.",
+    "imgs": [],
+    "pergunta": "Em sua obra, esse autor exaltava a cultura e os motivos do Uruguai e da América do Sul, combatendo o comportamento que ele chamou de \\\"exilados da Europa\\\". Uma consciência que não era só de Torres-García, como também de outros artistas modernistas da América Latina, incomodados com as principais capitais latinas que não se apresentavam como sedes de sua sociedade.",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "os movimentos artístico-literários das Américas são dependentes de modelos europeus até hoje, no século XXI.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "a arte latino-americana do século XX realizou-se sob a influência de artistas parisienses que foram exilados da Europa.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "a obra de Joaquín Torres-García, apesar de apresentar uma preocupação estética, tem os elementos exigidos pela Geografia para ser considerada também um mapa.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "o desconforto gerado pela falta de uma identidade artística própria motivou artistas da América do Sul a buscarem, em sua cultura e em seu espaço, inspiração para suas obras.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "o desenvolvimento de uma arte genuína, sem influência estrangeira, foi rapidamente concretizado devido à urgência da população em buscar uma identidade cultural própria.",
+            "imgUrl": null
+        }
+    ]
+}

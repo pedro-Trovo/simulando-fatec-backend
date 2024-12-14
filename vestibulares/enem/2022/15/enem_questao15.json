@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 15,
+    "disciplina": "Linguagens",
+    "enunciado": "<img src=\"vestibulares/enem/enemFormatado/2022/15/enem_questao15_img1.png\" alt=\"imagem 1 da questão\"><br><br>Disponível em: www.facebook.com/senadofederal. Acesso em: 9 dez. 2017.",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/15/enem_questao15_img1.png"
+    ],
+    "pergunta": "Considerando-se a função social dos posts, essa imagem evidencia a apropriação de outro gênero com o objetivo de",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Promover o uso adequado de campanhas publicitárias do governo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Divulgar o projeto sobre transparência da administração pública.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Responsabilizar o cidadão pelo controle dos gastos públicos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Delegar a gestão de projetos de lei ao contribuinte.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Assegurar a fiscalização dos gastos públicos.",
+            "imgUrl": null
+        }
+    ]
+}

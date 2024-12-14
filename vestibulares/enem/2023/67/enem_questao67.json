@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 67,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "No sul da Bahia, desde o século XVIII, tem-se registros de um tipo de sistema agroflorestal. Até hoje, esse sistema é característica marcante da paisagem da região, conhecido como cabruca, que consiste no cultivo do cacau à sombra do dossel da floresta nativa. Esse sistema de cultivo do cacau (graças à tolerância da espécie à sombra) é considerado amigável para a vida silvestre, pois apresenta superioridade em termos de conservação da biodiversidade quando comparado com outras plantações tropicais (monoculturas de dendê, seringa ou café), agricultura ou pastagens.<br>SOLLBERG, I.; SCHIAVETTI, A. MORAES M. E. B. Manejo agrícola no Refúgio de Vida Silvestre de Una: agroflorestas como uma perspectiva de conservação. Revista Árvore. n. 2, 2014 (adaptado)<br>A prática produtiva apresentada é um exemplo de",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Difusão comercial de lavouras temporárias.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Utilização sustentável dos recursos naturais.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Ampliação tecnológica da pecuária intensiva.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Padronização alimentar dos povos tradicionais.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Modernização logística de plantios convencionais.",
+            "imgUrl": null
+        }
+    ]
+}

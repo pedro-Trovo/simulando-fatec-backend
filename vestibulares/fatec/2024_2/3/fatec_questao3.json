@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 3,
+    "disciplina": "Raciocínio Lógico",
+    "enunciado": "A expressão América Latina está mais associada a questões econômicas e sociais dos países que a compõem do que a um aspecto meramente territorial. Não se trata de um continente, mas, sim, de uma alusão aos 20 países da América colonizados, principalmente, por Espanha e Portugal. Territorialmente, compreende quase toda a América do Sul e Central, mais especificamente: Argentina, Bolívia, Brasil, Chile, Colômbia, Costa Rica, Cuba, El Salvador, Equador, Guatemala, Haiti, Honduras, Nicarágua, Panamá, Paraguai, Peru, República Dominicana, Uruguai e Venezuela. O México, localizado na América do Norte, também a integra. Países como Guiana, Suriname, Jamaica e Belize não a integram.<br><br>Considere os conjuntos: <br>• X = {x | x é um país da América Latina};<br>• Y = {y | y é um país cujo idioma oficial não é o espanhol}.",
+    "imgs": [],
+    "pergunta": "Se um país pertence ao conjunto C = Y – X, então, geograficamente, esse país",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "não existe, uma vez que o conjunto C é vazio.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "está localizado na América Latina e o idioma oficial é o espanhol.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "não está localizado na América Latina e o idioma oficial é o espanhol.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "está localizado na América Latina e o idioma oficial não é o espanhol.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "não está localizado na América Latina e o idioma oficial não é o espanhol.",
+            "imgUrl": null
+        }
+    ]
+}

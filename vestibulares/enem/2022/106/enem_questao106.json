@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 106,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "A penicilamina é um medicamento de uso oral utilizado no tratamento de várias doenças. Esse composto é excretado na urina, cujo pH se situa entre 5 e 7. A penicilamina, cuja fórmula estrutural plana está apresentada, possui três grupos funcionais que podem ser ionizados:<br><br><img src=\"vestibulares/enem/enemFormatado/2022/106/enem_questao106_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/106/enem_questao106_img1.png"
+    ],
+    "pergunta": "Qual estrutura derivada da penicilamina é predominantemente encontrada na urina?",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/106/enem_questao106_alter-A.png"
+        },
+        {
+            "letra": "B",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/106/enem_questao106_alter-B.png"
+        },
+        {
+            "letra": "C",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/106/enem_questao106_alter-C.png"
+        },
+        {
+            "letra": "D",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/106/enem_questao106_alter-D.png"
+        },
+        {
+            "letra": "E",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/106/enem_questao106_alter-E.png"
+        }
+    ]
+}

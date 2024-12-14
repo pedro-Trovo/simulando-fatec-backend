@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 153,
+    "disciplina": "Matemática",
+    "enunciado": "<img src=\"vestibulares/enem/enemFormatado/2022/153/enem_questao153_img1.png\" alt=\"imagem 1 da questão\"><br><br>Uma empresa produz e vende um tipo de chocolate, maciço, em formato de cone circular reto com as medidas do diâmetro da base e da altura iguais a 8 cm e 10 cm, respectivamente, como apresenta a figura.<br><br>Devido a um aumento de preço dos ingredientes utilizados na produção desse chocolate, a empresa  <br>decide produzir esse mesmo tipo de chocolate com um volume 19% menor, no mesmo formato de cone circular reto com altura de 10 cm.",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/153/enem_questao153_img1.png"
+    ],
+    "pergunta": "Para isso, a empresa produzirá esses novos chocolates com medida do raio da base, em centímetro, igual a",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "1,52.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "3,24.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "3,60.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "6,48.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "7,20.",
+            "imgUrl": null
+        }
+    ]
+}

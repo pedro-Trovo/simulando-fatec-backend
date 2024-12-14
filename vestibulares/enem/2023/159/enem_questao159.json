@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 159,
+    "disciplina": "Matemática",
+    "enunciado": "Um agricultor é informado sobre um método de proteção para sua lavoura que consiste em inserir larvas específicas, de rápida reprodução. A reprodução dessas larvas faz com que sua população multiplique-se por 10 a cada 3 dias e, para evitar eventuais desequilíbrios, é possível cessar essa reprodução aplicando-se um produto X. O agricultor decide iniciar esse método com 100 larvas e dispõe de 5 litros do produto X, cuja aplicação recomendada é de exatamente 1 litro para cada população de 200 000 larvas. A quantidade total do produto X de que ele dispõe deverá ser aplicada de uma única vez.",
+    "imgs": [],
+    "pergunta": "Quantos dias após iniciado esse método o agricultor deverá aplicar o produto X?",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "2",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "4",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "6",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "12",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "18",
+            "imgUrl": null
+        }
+    ]
+}

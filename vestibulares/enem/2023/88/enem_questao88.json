@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 88,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Concorrer e competir não são a mesma coisa. A concorrência pode até ser saudável sempre que a batalha entre agentes, para melhor empreender uma tarefa e obter melhores resultados finais, exige o respeito a certas regras de convivência preestabelecidas ou não. Já a competitividade se funda na invenção de novas armas de luta, num exercício em que a única regra é a conquista da melhor posição. A competitividade é uma espécie de guerra em que tudo vale e, desse modo, sua prática provoca um afrouxamento dos valores morais e um convite ao exercício de violência.<br><br>SANTOS, M. **Por uma outra globalização**: do pensamento único à consciência universal. Rio de Janeiro: Record, 2006.",
+    "imgs": [],
+    "pergunta": "De acordo com a diferenciação feita pelo autor, que prática econômica é considerada moralmente condenável?",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Adoção do dumping comercial.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Fusão da função administrativa.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Criação de holding empresarial.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Limitação do mercado monopolista.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Modernização da produção industrial.",
+            "imgUrl": null
+        }
+    ]
+}

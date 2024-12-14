@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 18,
+    "disciplina": "Linguagens",
+    "enunciado": "**TEXTO I**<br><br>**Alegria, alegria**  <br>O sol nas bancas de revista  <br>Me enche de alegria e preguiça  <br>Quem lê tanta noticia  <br>Eu vou  <br>Por entre fotos e nomes  <br>Os olhos cheios de cores  <br>O peito cheio de amores vãos  <br>Eu vou  <br>Por que não, por que não?<br><br>VELOSO, C. **Alegria, alegria**. Rio de Janeiro: Polygram, 1990 (fragmento)<br><br>**ТЕХТО II**<br><br>**Anjos tronchos**  <br>Uns anjos tronchos do Vale do Silício  <br>Desses que vivem no escuro em plena luz  <br>Disseram vai ser virtuoso no vício  <br>Das telas dos azuis mais do que azuis<br><br>Agora a minha história é um denso algoritmo  <br>Que vende venda a vendedores reais  <br>Neurônios meus ganharam novo outro ritmo  <br>E mais, e mais, e mais, e mais, e mais<br><br>VELOSO, C. **Meu coco**. Rio de Janeiro: Sony, 2021 (fragmento)",
+    "imgs": [],
+    "pergunta": "Embora oriundas de momentos históricos diferentes essas letras de canção têm em comum a",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Referência às cores como elemento de crítica a hábitos contemporâneos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Percepção da profusão de informações gerada pela tecnologia.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Contraposição entre os vícios e as virtudes da vida moderna.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Busca constante pela liberdade de expressão individual.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Crítica à finalidade comercial das notícias.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 118,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "A gasolina é uma mistura de hidrocarbonetos de cadeias saturadas contendo de 8 a 12 átomos de carbono. Além disso, a gasolina de alto desempenho deve conter elevados teores de hidrocarbonetos de cadeias ramificadas, de forma a resistir à compressão e entrar em ignição apenas quando a vela aciona uma centelha elétrica no motor. No quadro, estão apresentados compostos que podem ser utilizados como combustíveis.<br><br><img src=\"vestibulares/enem/enemFormatado/2023/118/enem_questao118_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/118/enem_questao118_img1.png"
+    ],
+    "pergunta": "Entre esses compostos, aquele que conferirá maior desempenho como combustível é o",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "I.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "II.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "III.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "IV.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "V.",
+            "imgUrl": null
+        }
+    ]
+}

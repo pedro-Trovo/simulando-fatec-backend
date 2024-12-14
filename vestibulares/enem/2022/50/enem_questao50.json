@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 50,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Na construção da ferrovia Madeira-Marmoré, o que dizer dos doentes, eternos moribundos a vagar entre delírios fabris, doses de quinino e corredores da morte? O Hospital da Candelária era santuário e túmulo, monumento ao progresso científico e preâmbulo da escuridão. Foi ali, com suas instalações moderníssimas, que médicos e sanitaristas dirigiram seu combate aos males tropicais. As maiores vitimas, contudo, permaneceriam na sombra a margem do palco, cobaias sem consolo, credores sem nome de uma sociedade que  não lhes concedera tempo algum para ser decifrada.<br><br>FOOT HARDWAN, F. Trem fantasma: modernidade na selva<br><br>São Paulo: Cia das letras,1968 adaptado",
+    "imgs": [],
+    "pergunta": "No texto, há uma crítica ao modo de ocupação do espaço amazônico pautada na",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Discrepância entre engenharia ambiental e equilíbrio da fauna",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Incoerência entre maquinaria estrangeira e controle da floresta",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Incompatibilidade entre investimento estatal e proteção aos nativos",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Competição entre farmacologia internacional e produtos de fitoterapia",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Contradição entre desenvolvimento nacional e respeito aos trabalhadores",
+            "imgUrl": null
+        }
+    ]
+}

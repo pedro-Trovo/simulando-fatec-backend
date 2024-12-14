@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 53,
+    "disciplina": "Multidisciplinar",
+    "enunciado": "Os queros são descendentes de uma linhagem inca que, até hoje, fala a língua quéchua e mantém a tradição do culto à Pachamama (Mãe Terra) e aos Apus (espíritos das montanhas). São camponeses e pastores que valorizam o amor, o respeito e a comunicação com a terra, trazendo consigo o Sumak Kausay, o “Bem-Viver”;",
+    "imgs": [],
+    "pergunta": "o Ayni, a reciprocidade com a vida; e o Ayllu, a compreensão da vida coletiva e em comunidade.",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "os queros adotam um estilo de vida displicente e descuidado, privilegiando a religiosidade em detrimento do trabalho.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "o estilo de vida baseado na satisfação dos desejos e interesses individuais, em detrimento das demandas coletivas, é predominante nas comunidades dos queros.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "a organização social e religiosa dos queros baseia-se na valorização da vida em comunidade e no respeito à natureza como elementos centrais para alcançar o \\\"Bem-Viver\\\" .",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "os queros modernizaram a língua e a tradição incas, integrando-se à vida urbana das sociedades contemporâneas, modificando tanto hábitos quanto costumes.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "o culto à Pachamama impede que os queros realizem, a contento, as atividades econômicas como o cultivo de terra e o pastoreio de animais.",
+            "imgUrl": null
+        }
+    ]
+}

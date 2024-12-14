@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 57,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "Quem se mete pelo caminho do pedido de perdão deve estar pronto a escutar uma palavra de recusa. Entrar na atmosfera do perdão é aceitar medir-se com a possibilidade sempre aberta do imperdoável. Perdão pedido não é perdão a que se tem direito [devido]. É com o preço destas reservas que a grandeza do perdão se manifesta.<br>RICOEUR, P. O perdão pode curar. Disponível em: www.lusosofia.net. Acesso em: 14 out 2019.<br>A reflexão sobre o perdão apresentada no texto encontra fundamento na(s)",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Rejeição particular amparada pelo desejo de poder.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Decisão subjetiva determinada pela vontade divina.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Liberdade mitigada pela predestinação do espírito.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Escolhas humanas definidas pelo conhecimento empírico.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Relações interpessoais medidas pela autonomia dos indivíduos.",
+            "imgUrl": null
+        }
+    ]
+}

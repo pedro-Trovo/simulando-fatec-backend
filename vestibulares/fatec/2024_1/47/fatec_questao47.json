@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 47,
+    "disciplina": "Matemática",
+    "enunciado": "Se fosse possível abstrair o sentido e pensar nas palavras como tijolos de uma construção, eu diria que esses tijolos representam um modo de organizar a matéria, e que \" enquanto organização eles exercem papel ordenador sobre a nossa mente. Quer percebamos claramente ou não, o caráter de coisa organizada da obra literária torna-se um fator que nos deixa mais capazes de ordenar a nossa própria mente e sentimentos; e, em consequência, mais capazes de organizar a visão que temos do mundo.<br>Por isso, um poema hermético, de entendimento difícil, sem nenhuma alusão tangível à realidade do espírito ou do mundo, pode funcionar neste sentido, pelo fato de ser um tipo de ordem, sugerindo um modelo de superação do caos. A produção literária tira as palavras do nada e as dispõe como todo articulado. Este é o primeiro nível humanizador, ao contrário do que geralmente se pensa. A organização da palavra comunica-se ao nosso espírito e o leva, primeiro, a se organizar; em seguida, a organizar o mundo. Isto ocorre desde as formas mais simples, como a quadrinha, o provérbio, a história de bichos, que sintetizam a experiência e a reduzem a sugestão, norma, conselho ou simples espetáculo mental.<br><br>Emojis são elementos visuais que representam conceitos, emoções e objetos em forma de ícones e estão intrinsecamente ligados à cultura digital por facilitarem a comunicação on-line. Equações matemáticas podem ser utilizadas para modelar fenômenos e situações.",
+    "imgs": [],
+    "pergunta": "Na imagem, o plano cartesiano ilustra o uso de 4 curvas para modelar um emoji. Por exemplo, a curva 2 (c2) é descrita pela função y = x² – 8x +18, definida no intervalo real [2 ; 6]. Assinale a alternativa que apresenta, corretamente, a função correspondente à curva 4 (c4) e o intervalo real no qual ela deve ser definida.",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "y = x²/4 - 8",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "y = x²/2 - 8",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "y = x²/4 - 8",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "y = x²/2 - 8",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "y = x²/4 - 8",
+            "imgUrl": null
+        }
+    ]
+}

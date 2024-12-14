@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 118,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "Em 2002, foi publicado um artigo científico que  <br>relacionava alterações na produção de hormônios sexuais  <br>de sapos machos expostos à atrazina, um herbicida, com  <br>o desenvolvimento anômalo de seus caracteres sexuais  <br>primários e secundários. Entre os animais sujeitos à  <br>contaminação, observaram-se casos de hermafroditismo  <br>e desmasculinização da laringe. O estudo em questão  <br>comparou a concentração de um hormônio específico  <br>no sangue de machos expostos ao agrotóxico com a de  <br>outros machos e fêmeas que não o foram (controles).  <br>Os resultados podem ser vistos na figura.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/118/enem_questao118_img1.png\" alt=\"imagem 1 da questão\"><br><br>HAYES, T. B. et al. Hermaphroditic, Demasculinized Frogs After Exposure to  <br>the Herbicide Atrazine at Low Ecologically Relevant Doses. **Proceedings of**  <br>**the National Academy of Sciences**, n. 8, 2002 (adaptado).",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/118/enem_questao118_img1.png"
+    ],
+    "pergunta": "Com base nas informações do texto, qual é o hormônio<br>cujas concentrações estão representadas na figura?",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Estrogênio",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Feromônio",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Testosterona.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Somatotrofina",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Hormônio folículo estimulante.",
+            "imgUrl": null
+        }
+    ]
+}

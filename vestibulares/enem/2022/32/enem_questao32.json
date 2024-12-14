@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 32,
+    "disciplina": "Linguagens",
+    "enunciado": "<img src=\"vestibulares/enem/enemFormatado/2022/32/enem_questao32_img1.png\" alt=\"imagem 1 da questão\"><br><br>**Disponível em: https://tab.uol.com.br/. Acesso em: 25 ago. 2017 (adaptado).**",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/32/enem_questao32_img1.png"
+    ],
+    "pergunta": "O texto sobre os chamados nativos digitais traz informações com a função de",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Propor ações específicas para cada etapa da infância.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Estabelecer regras que devem ser seguidas à risca.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Explicar os efeitos do acesso precoce à internet.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Determinar a incorporação de rituais à educação dos filhos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Educar com base em um conjunto de estratégias formativas.",
+            "imgUrl": null
+        }
+    ]
+}

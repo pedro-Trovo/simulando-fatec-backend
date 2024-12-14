@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 126,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "A água bruta coletada de mananciais apresenta alto índice de sólidos suspensos, o que a deixa com um aspecto turvo. Para se obter uma água límpida e potável, ela deve passar por um processo de purificação numa estação de tratamento de água. Nesse processo, as principais etapas são, nesta ordem: coagulação, decantação, filtração, desinfecção e fluoretação.",
+    "imgs": [],
+    "pergunta": "Qual é a etapa de retirada de grande parte desses sólidos?",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Coagulação.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Decantação.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Filtração.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Desinfecção.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Fluoretação.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 54,
+    "disciplina": "Multidisciplinar",
+    "enunciado": "O tigre aconselha o menino a poupar a figura de linguagem para o momento adequado.<br><br>O tigre aconselha o menino a exagerar nos adjetivos para que o ouvinte sinta compaixão pelo falante. <br>Utilizar hipérboles para mascarar o significado de uma expressão.",
+    "imgs": [],
+    "pergunta": "poupar a figura de linguagem para o momento adequado.",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "exagerar nos adjetivos para que o ouvinte sinta compaixão pelo falante.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "utilizar hipérboles para mascarar o significado de uma expressão.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "poupar a figura de linguagem para o momento adequado.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "guardar certas hipérboles para não as desgastar no discurso denotativo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "sempre recorrer às figuras de linguagem para um discurso mais linear.",
+            "imgUrl": null
+        }
+    ]
+}

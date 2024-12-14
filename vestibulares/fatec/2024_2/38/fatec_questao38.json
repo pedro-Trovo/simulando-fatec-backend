@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 38,
+    "disciplina": "Raciocínio Lógico",
+    "enunciado": "I. Ceci só vai visitar Cuba, se Iracema for;<br>II. se Peri for visitar Cuba, Ceci também irá.<br><br>Três conhecidos, Ceci, Peri e Iracema, estão decidindo se vão visitar Cuba. Contudo, devido a questões pessoais, sabe-se que:<br>I. Ceci só vai visitar Cuba, se Iracema for;<br>II. se Peri for visitar Cuba, Ceci também irá.",
+    "imgs": [],
+    "pergunta": "Assinale a alternativa que apresenta uma conclusão lógica verdadeira.",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Ceci e Peri não irão visitar Cuba.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Se Ceci decidir visitar Cuba, Peri não irá.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Se Peri decidir visitar Cuba, Iracema não irá.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Se Iracema não for visitar Cuba, Ceci também não irá.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Peri e Iracema irão juntos visitar Cuba.",
+            "imgUrl": null
+        }
+    ]
+}

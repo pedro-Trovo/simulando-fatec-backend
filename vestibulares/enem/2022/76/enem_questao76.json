@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 76,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Lá embaixo está o açude Itans, com seu formigueiro a cavar a terra. É mesmo impressionante o esforço daquele formigar de homens ao sol, lavados em suor, que não param em longas filas pacientes acompanhando centenas de burricos que sobem e descem, numa ciranda comovente e silenciosa, cada burrico com duas caixas de terra no lombo. É o labor organizado para a salvação da terra e do homem. Depois do semideserto que tanto nos acabrunhou o espírito por falta de chuvas, o esforço destes milhares de sertanejos, todos vestidos de brim mescla e calçando alpercatas, no combate consciente à esterilidade da natureza, com famílias alojadas em pequeninas casas de taipas e telha – embrião de futura cidade – impressionava-nos profundamente.<br><br>**VALLE, F. M. História do Açude Itans, município de Caicó (RN). Brasília, 1994 (adaptado)**",
+    "imgs": [],
+    "pergunta": "Na construção do empreendimento descrito, destaca-se a presença de",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Engenheiros na execução de canais fluviais.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Coronéis na ampliação de antigas fazendas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Operários na distribuição dos recursos hídricos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Trabalhadores na formação de novos espaços.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Negociantes na organização de redes comerciais.",
+            "imgUrl": null
+        }
+    ]
+}

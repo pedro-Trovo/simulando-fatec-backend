@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 62,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Brasil e Argentina chegaram a um acordo para a redução em 10% da Tarifa Externa Comum (TEC) do Mercosul. O consenso foi alcançado durante negociação entre o ministro das Relações Exteriores do Brasil e o seu equivalente argentino, no Palácio do Itamaraty, em Brasília, no início do mês de outubro de 2021. A redução da TEC é um antigo desejo do Brasil, que pretende abrir mais sua economia e, com isso, ajudar a controlar a inflação. Já a Argentina temia que a medida pudesse afetar sua produção industrial. O acordo vai abranger uma ampla gama de produtos e ainda será apresentado ao Paraguai e Uruguai, para que seja formalizado.<br><br>**Brasil e Argentina fecham acordo para corte de 10% na tarifa do Mercosul. Disponível em: https://oglobo.globo.com. Acesso em: 8 out. 2021 (adaptado).**",
+    "imgs": [],
+    "pergunta": "A necessidade de negociação diplomática para viabilizar o acordo tarifário mencionado é explicada pela seguinte característica do Mercosul:",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Limitação da circulação financeira.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Padronização da política monetária.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Funcionamento da união aduaneira.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Dependência da exportação agrícola.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Equivalência da legislação trabalhista.",
+            "imgUrl": null
+        }
+    ]
+}

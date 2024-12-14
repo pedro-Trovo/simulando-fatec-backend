@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 41,
+    "disciplina": "Linguagens",
+    "enunciado": "**O bebê de tarlatana rosa**<br><br>– \\[…\\] Na terça desliguei-me do grupo e caí no mar alto da depravação, só, com uma roupa leve por cima da pele e todos os maus instintos fustigados. De resto a cidade inteira estava assim. É o momento em que por trás das máscaras as meninas confessam paixões aos rapazes, é o instante em que as ligações mais secretas transparecem, em que a virgindade é dúbia e todos nós a achamos inútil, a honra uma caceteação, o bom senso uma fadiga. Nesse momento tudo é possível, os maiores absurdos, os maiores crimes; nesse momento há um riso que galvaniza os sentidos e o beijo se desata naturalmente.<br><br>Eu estava trepidante, com uma ânsia de acanalhar-me, quase mórbida. Nada de raparigas do galarim perfumadas e por demais conhecidas, nada do contato familiar, mas o deboche anônimo, o deboche ritual de chegar, pegar, acabar, continuar. Era ignóbil. Felizmente muita gente sofre do mesmo mal no carnaval.<br><br>RIO, J. **Dentro da noite**. São Paulo: Antíqua, 2002.",
+    "imgs": [],
+    "pergunta": "No texto, o personagem vincula ao carnaval atitudes e reações coletivas diante das quais expressa",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Consagração da alegria do povo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Atração e asco perante atitudes libertinas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Espanto com a quantidade de foliões nas ruas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Intenção de confraternizar com desconhecidos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Reconhecimento da festa como manifestação cultural.",
+            "imgUrl": null
+        }
+    ]
+}

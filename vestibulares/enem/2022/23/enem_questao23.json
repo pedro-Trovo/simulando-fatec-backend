@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 23,
+    "disciplina": "Linguagens",
+    "enunciado": "Mas seu olhar verde, inconfundível, impressionante, iluminava com sua luz misteriosa as sombrias arcadas superciliares, que pareciam queimadas por ela, dizia logo a sua origem cruzada e decantada através das misérias e dos orgulhos de homens de aventura, contadores de histórias fantásticas, e de mulheres caladas e sofredoras que acompanhavam os maridos e amantes através das matas intermináveis, expostas às febres, às feras, às cobras do sertão indecifrável, ameaçador e sem fim, que elas percorriam com a ambição única de um “pouso” onde pudessem viver, por alguns dias, a vida ilusória de família e de lar, sempre no encalço dos homens, enfebrados pela procura do ouro e do diamante.<br><br>PENNA, C. **Fronteira**. Rio de Janeiro: Tecnoprint, s/d.",
+    "imgs": [],
+    "pergunta": "Ao descrever os olhos de Maria Santa, o narrador estabelece correlações que refletem a",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Caracterização da personagem como mestiça.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Construção do enredo de conquistas da família.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Relação conflituosa das mulheres e seus maridos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Nostalgia do desejo de viver como os antepassados.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Marca de antigos sofrimentos no fluxo de consciência.",
+            "imgUrl": null
+        }
+    ]
+}

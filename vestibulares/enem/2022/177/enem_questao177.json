@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 177,
+    "disciplina": "Matemática",
+    "enunciado": "Uma pessoa precisa contratar um operário para fazer um serviço em sua casa. Para isso, ela postou um anúncio em uma rede social.  <br>Cinco pessoas responderam informando preços por hora trabalhada, gasto diário com transporte e tempo necessário para conclusão do serviço, conforme valores apresentados no quadro.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/177/enem_questao177_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/177/enem_questao177_img1.png"
+    ],
+    "pergunta": "Se a pessoa pretende gastar o mínimo possível com essa contratação, irá contratar o operário",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "I.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "II.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "III.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "IV.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "V.",
+            "imgUrl": null
+        }
+    ]
+}

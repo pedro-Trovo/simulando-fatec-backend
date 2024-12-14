@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 135,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "O petróleo é uma matéria-prima muito valiosa e métodos geofísicos são úteis na sua prospecção. É possível identificar a composição de materiais estratificados medindo-se a velocidade de propagação do som (onda mecânica) através deles. Considere que uma camada de 450 m de um líquido se encontra presa no subsolo entre duas camadas rochosas, conforme o esquema. Um pulso acústico (que gera uma vibração mecânica) é emitido a partir da superfície do solo, onde são posteriormente recebidas duas vibrações refletidas (ecos). A primeira corresponde à reflexão do pulso na interface superior do líquido com a camada rochosa. A segunda vibração deve-se à reflexão do pulso na interface inferior. O tempo entre a emissão do pulso e a chegada do primeiro eco é de 0,5 s. O segundo eco chega 1,1 s após a emissão do pulso<br><br><img src=\"vestibulares/enem/enemFormatado/2023/135/enem_questao135_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/135/enem_questao135_img1.png"
+    ],
+    "pergunta": "A velocidade do som na camada líquida, em metro por segundo, é",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "270.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "540.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "818.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "1 500.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "1 800.",
+            "imgUrl": null
+        }
+    ]
+}

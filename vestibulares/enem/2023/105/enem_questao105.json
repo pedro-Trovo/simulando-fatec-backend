@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 105,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "Barbatimão é o nome popular de uma árvore cuja casca e utilizada para fins medicinais. Essa casca é constituída principalmente de dois tecidos vegetais: periderme e floema. A extração da casca tem levado à morte muitos indivíduos dessa espécie, quando o corte retira um anel completo ao longo da circunferência do tronco. Aqueles que têm parte da casca retirada sem completar essa circunferência podem sobreviver.",
+    "imgs": [],
+    "pergunta": "A morte desses indivíduos, decorrente da retirada do anel completo da casca, é provocada pela interrupção da",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Fotossíntese.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Transpiração.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Troca de gases.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Formação de brotos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Nutrição das raízes.",
+            "imgUrl": null
+        }
+    ]
+}

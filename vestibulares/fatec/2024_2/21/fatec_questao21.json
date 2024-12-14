@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 21,
+    "disciplina": "Multidisciplinar",
+    "enunciado": "A cidade mexicana de La Paz e o Parque Nacional da Patagônia (PNP), no Chile, separados por quase<br>9000 quilômetros, são dois lugares da América Latina que aparecem na lista dos 100 “melhores lugares do mundo\"<br>a se explorar, segundo ranking de uma revista estadunidense.<br><br>A cidade mexicana de La Paz e o Parque Nacional da Patagônia (PNP), no Chile, separados por quase 9000 quilômetros, são dois lugares da América Latina que aparecem na lista dos 100 \\\"melhores lugares do mundo\\\" a se explorar, segundo ranking de uma revista estadunidense.",
+    "imgs": [],
+    "pergunta": "Se um passageiro embarcasse em La Paz às 09h45min, ele desembarcaria no PNP, aproximadamente, às",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "6 h 45 min.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "12 h 45 min.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "16 h 45 min.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "19 h 45 min.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "22 h 45 min.",
+            "imgUrl": null
+        }
+    ]
+}

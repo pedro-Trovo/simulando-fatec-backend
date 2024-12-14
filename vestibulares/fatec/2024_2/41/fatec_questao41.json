@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 41,
+    "disciplina": "História",
+    "enunciado": "A Usina Hidrelétrica de Itaipu corresponde a uma imensa construção que foi desenvolvida a partir dos interesses do Brasil e do Paraguai, e pertence a ambos. Em 1966, os ministros de Relações Exteriores dos dois países assinaram a “Ata do Iguaçu”, para analisar a viabilidade do projeto. No ano de 1970, foi realizada uma licitação para a escolha das empresas responsáveis pela obra. A execução teve início no ano seguinte, 1971. Em 1973, foi assinado o Tratado de Itaipu, que legalizou e oficializou a utilização do rio Paraná para a construção da usina. No ano de 1974, foi instituída uma entidade para gerenciar a construção. Em 1978, o curso do rio Paraná foi desviado e, quatro anos depois, a construção da barragem foi finalizada.",
+    "imgs": [],
+    "pergunta": "A usina entrou em funcionamento em 1984.",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "sofreu sucessivos atrasos em sua execução, uma vez que sua inviabilidade foi atestada pela Ata do Iguaçu.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "foi resultado da pressão brasileira sobre o Paraguai, que não desejava participar da execução da obra.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "foi inteiramente concebido e executado no período em que os dois países viviam sob regimes ditatoriais.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "valorizou a cultura tradicional dos povos indígenas, demarcando e preservando seus territórios originais.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "assegurou a preservação ambiental ao garantir a manutenção do curso original do rio Paraná, por pressão do governo brasileiro.",
+            "imgUrl": null
+        }
+    ]
+}

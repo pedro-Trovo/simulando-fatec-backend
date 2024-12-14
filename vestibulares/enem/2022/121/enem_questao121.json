@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 121,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "Antimicrobianos são substâncias naturais ou sintéticas que têm capacidade de matar ou inibir o crescimento de microrganismos. A tabela apresenta uma lista de antimicrobianos hipotéticos, bem como suas ações e efeitos sobre o metabolismo microbiano.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/121/enem_questao121_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/121/enem_questao121_img1.png"
+    ],
+    "pergunta": "Qual dos antimicrobianos deve ser utilizado para curar uma infecção causada por um fungo sem afetar as bactérias da microbiota normal do organismo?",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "1",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "2",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "3",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "4",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "5",
+            "imgUrl": null
+        }
+    ]
+}

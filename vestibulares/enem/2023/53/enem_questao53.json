@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 53,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "A cordilheira do Himalaia tem mais de 50 milhões de anos., sendo classificada como a maior cordilheira do planeta. Originário da língua sânscrito, comum na região, seu nome quer dizer “morada da neve”. É possível encontrar nessa cordilheira as quinze maiores montanhas do mundo. Ao todo, existem mais de cem picos, que contam com altitudes bem maiores que 7 000 m. O Everest, considerado o ponto mais alto da Terra, tem nada menos que 8 848 m de altitude, e continua crescendo, aproximadamente, 0,8 mm a cada ano.<br><br>Disponível em: https://meioambiente.culturamix.com. Acesso em: 12 nov. 2021 (adaptado).",
+    "imgs": [],
+    "pergunta": "Qual dinâmica natural é responsável pelo fenômeno apresentado?",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Derrame de lava vulcânica.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Encontro de placas tectônicas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Ação do intemperismo químico.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Sedimentação de erosão eólica.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Derretimento de geleiras glaciais.",
+            "imgUrl": null
+        }
+    ]
+}

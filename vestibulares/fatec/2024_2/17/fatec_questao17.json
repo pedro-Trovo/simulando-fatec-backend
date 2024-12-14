@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 17,
+    "disciplina": "Química",
+    "enunciado": "Um processo neutro em carbono ou de carbono neutro é aquele que não contribui para o aumento da quantidade de carbono emitido na atmosfera na forma de gases, como CO e CO2.<br>Podemos concluir corretamente que a produção da gasolina sintética pode ser considerada neutra em carbono, já que, de acordo com o esquema, o hidrogênio e o dióxido de carbono são transformados em gasolina sintética, cuja<br><br>Um processo neutro em carbono ou de carbono neutro é aquele que não contribui para o aumento da quantidade de carbono emitido na atmosfera na forma de gases, como CO e CO2.",
+    "imgs": [],
+    "pergunta": "Podemos concluir corretamente que a produção da gasolina sintética pode ser considerada neutra em carbono, já que, de acordo com o esquema, o hidrogênio e o dióxido de carbono são transformados em gasolina sintética, cuja",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "combustão libera água para a atmosfera.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "combustão produz carbono e gás hidrogênio.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "combustão não libera energia.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "produção reaproveita o carbono gerado no processo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "produção gera metanol, composto não tóxico.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 166,
+    "disciplina": "Matemática",
+    "enunciado": "Uma pessoa pratica quatro atividades físicas — caminhar, correr, andar de bicicleta e jogar futebol — como parte de seu programa de emagrecimento. Essas atividades são praticadas semanalmente de acordo com o quadro, que apresenta o número de horas diárias por atividade.<br><br><img src=\"vestibulares/enem/enemFormatado/2023/166/enem_questao166_img1.png\" alt=\"imagem 1 da questão\"><br><br>Ela deseja comemorar seu aniversário e escolhe o dia da semana em que o gasto calórico com as atividades físicas  praticadas for o maior. Para tanto, considera que os valores dos gastos calóricos das atividades por hora (cal/h) são os seguintes:<br><br><img src=\"vestibulares/enem/enemFormatado/2023/166/enem_questao166_img2.png\" alt=\"imagem 2 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/166/enem_questao166_img1.png",
+        "vestibulares/enem/enemFormatado/2023/166/enem_questao166_img2.png"
+    ],
+    "pergunta": "O dia da semana em que será comemorado o aniversário é",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Segunda-feira.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Terça-feira.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Quarta-feira.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Quinta-feira.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Sexta-feira.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 89,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "<img src=\"vestibulares/enem/enemFormatado/2023/89/enem_questao89_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/89/enem_questao89_img1.png"
+    ],
+    "pergunta": "Qual medida é capaz de minimizar as mudanças apresentadas nas simulações?",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Expandir o transporte marítimo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Incentivar os fluxos migratórios.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Monitorar as atividades vulcânicas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Controlar as emissões de carbono.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Priorizar a utilização de termoelétricas.",
+            "imgUrl": null
+        }
+    ]
+}

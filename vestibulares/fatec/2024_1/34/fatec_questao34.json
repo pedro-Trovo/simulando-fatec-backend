@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 34,
+    "disciplina": "Raciocínio Lógico",
+    "enunciado": "Se, em uma brincadeira de roda, Letícia é a sexta à esquerda de Gustavo e a sétima à direita de Gustavo, assinale a alternativa que apresenta exatamente o número total de crianças nessa brincadeira de roda.<br><br>As brincadeiras passam de uma geração a outra, resgatando traços da cultura e da história de um povo. No Brasil, um exemplo seriam as brincadeiras de roda.",
+    "imgs": [],
+    "pergunta": "Se, em uma brincadeira de roda, Letícia é a sexta à esquerda de Gustavo e a sétima à direita de Gustavo, assinale a alternativa que apresenta exatamente o número total de crianças nessa brincadeira de roda.",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "11",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "12",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "13",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "14",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "15",
+            "imgUrl": null
+        }
+    ]
+}

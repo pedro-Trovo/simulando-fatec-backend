@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 13,
+    "disciplina": "Inglês",
+    "enunciado": "Latin America in 2024<br>Despite mediocre growth, political risk is declining and cautious optimism is increasingly warranted.<br>SÃO PAULO Despite a challenging macroeconomic and geopolitical scenario, 2023 was not a bad year for<br>Latin America. Throughout the past twelve months, a cautiously optimistic outlook among analysts has become<br>increasingly common. Economic growth in 2023 is expected to end up at 2.2% somewhat better than the<br>1.7% initially projected, but still below the global average of 3.2%. Most analysts expect growth to decline<br>slightly to 1.9% this year, too little to decisively overcome the deep-seated public discontent that has been so<br>prevalent across Latin America in recent years.<br><br>Despite mediocre growth, political risk is declining and cautious optimism is increasingly warranted.",
+    "imgs": [],
+    "pergunta": "Latin America in 2024",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "a mediocridade política impedirá o crescimento econômico.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "o crescimento negativo será agravado pelo cenário geopolítico.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "os desafios macroeconômicos contribuirão para um enorme pessimismo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "há um certo otimismo diante de um crescimento econômico melhor do que o esperado.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "há uma onda bastante otimista indicando crescimento econômico acima da média mundial.",
+            "imgUrl": null
+        }
+    ]
+}

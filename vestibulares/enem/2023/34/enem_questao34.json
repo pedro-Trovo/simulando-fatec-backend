@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2020,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 34,
+    "disciplina": "Linguagens",
+    "enunciado": "A vida às vezes é como um jogo brincado na rua: estamos no último minuto de uma brincadeira bem quente e não sabemos que a qualquer momento pode chegar um mais velho e avisar que a brincadeira já acabou e está na hora do jantar. A vida afinal acontece muito de repente – nunca ninguém nos avisou que aquele era mesmo o último Carnaval da Vitória. O Carnaval também chegava sempre de repente. Nós, as crianças, vivíamos num tempo fora do tempo, sem nunca sabermos dos calendários de verdade. \\[…\\] O “dia da véspera do Carnaval”, como dizia a avó Nhé, era dia de confusão com roupas e pinturas a serem preparadas, sonhadas e inventadas. Mas quando acontecia era um dia rápido, porque os dias mágicos passam depressa deixando marcas fundas na nossa memória, que alguns chamam também de coração.<br><br>ONDJAKI. **Os da minha rua**. Rio de Janeiro: Língua Geral, 2007.",
+    "imgs": [],
+    "pergunta": "As significações afetivas engendradas no fragmento pressupõem o reconhecimento da",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Perspectiva infantil assumida pela voz narrativa.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Suspensão da linearidade temporal da narração.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Tentativa de materializar lembranças da infância.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Incidência da memória sobre as imagens narradas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Alternância entre impressões subjetivas e relatos factuais.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 35,
+    "disciplina": "Geografia",
+    "enunciado": "O filme brasileiro Bye Bye Brasil, de 1980, conta a história de uma trupe de artistas ambulantes que viaja pelo interior do Brasil. Um caminhão colorido carrega a Caravana Rolidei e suas atrações, fazendo espetáculos e fugindo da concorrência da televisão. Eles atravessam o Nordeste e o Norte do país, do vale do São Francisco até a rodovia Transamazônica.",
+    "imgs": [],
+    "pergunta": "Com base no texto, é correto afirmar que o filme",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "revela a intencionalidade da ditadura Varguista no Brasil de levar espetáculos de qualidade para as famílias assentadas ao longo da rodovia Transamazônica, construída na década de 1980.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "conta a história de um grupo de artistas mambembes que transita pela porção setentrional do território brasileiro numa época em que a televisão se massificava no Brasil.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "retrata um período da história brasileira em que os artistas, remunerados pelo Estado, deslocavam-se pela porção meridional do Brasil para proporcionar espetáculos gratuitos à população.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "narra a saga de uma trupe de artistas que resolve encenar espetáculos em todo o trajeto da Bacia do Rio São Francisco, cujo rio principal nasce na Bahia e deságua no rio Amazonas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "descreve, com bom humor, a viagem de um grupo de comediantes que rouba um caminhão para poder se deslocar pelo interior do Brasil encenando espetáculos circenses.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 37,
+    "disciplina": "Biologia",
+    "enunciado": "Em uma cena do filme Jurassic Park – Parque dos Dinossauros, de Steven Spielberg, o personagem<br>John Hammond explica a um grupo de cientistas que, dentro de um mosquito fossilizado em âmbar,<br>foi encontrado sangue de dinossauros. Essa descoberta, no filme, permitiu a extração do DNA que originou<br>clones de dinossauros.<br>Em um comentário sobre o filme, a bióloga Maria Alejandra Perotti, da Universidade de Reading, na<br>Inglaterra, afirmou que: “Não é possível extrair DNA preservado em âmbar, mas isso não significa que a<br>técnica de extração do DNA não seja viável \".<br>Em suas pesquisas, a bióloga coordenou, na América do Sul, um grupo de cientistas que, ao estudar múmias<br>humanas de 2 000 anos, encontrou lêndeas (ovos) de piolhos (insetos parasitas), as quais permaneceram<br>intactas e permitiram fornecer informações genéticas de boa qualidade sobre o DNA dos hospedeiros.<br>Essas amostras conservaram-se por conta de uma espécie de “cimento”, usado pelas fêmeas dos piolhos<br>para colar seus ovos (lêndeas) nos cabelos dos hospedeiros humanos.<br>A partir das análises de amostras de DNA encontradas nesse “cimento”, os cientistas puderam descobrir<br>mais informações sobre as populações antigas da América do Sul, como as rotas de migração no continente,<br>o sexo das múmias e até as possíveis causas de morte dos seres humanos.<br><br>Em uma cena do filme Jurassic Park – Parque dos Dinossauros, de Steven Spielberg, o personagem John Hammond explica a um grupo de cientistas que, dentro de um mosquito fossilizado em âmbar, foi encontrado sangue de dinossauros. Essa descoberta, no filme, permitiu a extração do DNA que originou clones de dinossauros. Em um comentário sobre o filme, a bióloga Maria Alejandra Perotti, da Universidade de Reading, na Inglaterra, afirmou que: \"Não é possível extrair DNA preservado em âmbar, mas isso não significa que a técnica de extração do DNA não seja viável\". Em suas pesquisas, a bióloga coordenou, na América do Sul, um grupo de cientistas que, ao estudar múmias humanas de 2 000 anos, encontrou lêndeas (ovos) de piolhos (insetos parasitas), as quais permaneceram intactas e permitiram fornecer informações genéticas de boa qualidade sobre o DNA dos hospedeiros.",
+    "imgs": [],
+    "pergunta": "A partir das análises de amostras de DNA encontradas nesse \"cimento\", os cientistas puderam descobrir mais informações sobre as populações antigas da América do Sul, como as rotas de migração no continente, o sexo das múmias e até as possíveis causas de morte dos seres humanos.",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "as amostras de DNA, encontradas nos insetos fossilizados em âmbar, forneceram informações valiosas sobre as populações antigas da América do Sul.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "as análises das lêndeas, encontradas nos cabelos dos seres humanos mumificados, evidenciaram a morte dos hospedeiros por malária transmitida pela picada da fêmea dos piolhos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "as amostras do material genético, encontrado no \"cimento\" das lêndeas, forneceram informações sobre os minerais usados nos processos de mumificação.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "as análises realizadas no material genético do \"cimento\" produzido pelos próprios parasitas permitiram caracterizar os hospedeiros.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "as pesquisas realizadas nos cabelos das múmias evidenciaram a presença de substâncias tóxicas produzidas pelas lêndeas.",
+            "imgUrl": null
+        }
+    ]
+}

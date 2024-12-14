@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 22,
+    "disciplina": "Raciocínio Lógico",
+    "enunciado": "O congestionamento de tráfego é um desafio para a saúde econômica da América Latina. Investir em transporte público pode ser uma solução, uma vez que essa modalidade de transporte pode ser vista como uma maneira inteligente de usar o espaço público.",
+    "imgs": [],
+    "pergunta": "Logo, para transportar simultaneamente 70 pessoas, a quantidade mínima de carros necessária é de I, o que equivale ao espaço público ocupado por II ônibus.",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "28\n1",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "14\n4",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "14\n2",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "7\n2",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "7\n4",
+            "imgUrl": null
+        }
+    ]
+}

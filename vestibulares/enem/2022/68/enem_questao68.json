@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 68,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "**TEXTO I**  <br>A Marinha identifica, na voz de Thomas Barnett, uma ampla região potencialmente insubmissa ou simplesmente irredutível às normas gerais de funcionamento promovidas pelos Estados Unidos e sancionadas pelo Fundo Monetário Internacional, pela Organização Mundial do Comércio e pelo Banco Mundial. E não necessariamente por sua consciência rebelde, mas sim, em muitos casos, pela insubstancialidade de suas instituições estatais.<br><br>**TEXTO II**<br><br><img src=\"vestibulares/enem/enemFormatado/2022/68/enem_questao68_img1.png\" alt=\"imagem 1 da questão\"><br><br>CECEÑA. A. E. Hegemonias e emancipações no século XXI.  <br>Buenos Aires: Clacso. 2005.",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/68/enem_questao68_img1.png"
+    ],
+    "pergunta": "As preocupações do governo estadunidense expressas no texto e no mapa evidenciam uma estratégia para",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Compartilhamento de inovações tecnológicas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Promoção de independência financeira.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Incremento de intercâmbios culturais.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Ampliação de influência econômica.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Preservação de recursos naturais.",
+            "imgUrl": null
+        }
+    ]
+}

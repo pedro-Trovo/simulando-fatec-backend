@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 50,
+    "disciplina": "Inglês",
+    "enunciado": "A nova descoberta descrita no texto aponta que, na região Amazônica, havia uma grande estrutura de estradas e canais que conectavam casas e praças.<br><br>A nova descoberta descrita no texto aponta que, na região Amazônica,",
+    "imgs": [],
+    "pergunta": "as sociedades se conectavam por uma grande estrutura de estradas e canais.",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "havia apenas o povo maia.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "havia muitos vilarejos isolados, que não se conectavam.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "os nativos eram nômades, extrativistas e viviam em pequenos grupos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "havia inúmeros grupos primitivos que ainda não praticavam a agricultura.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "as sociedades se conectavam por uma grande estrutura de estradas e canais.",
+            "imgUrl": null
+        }
+    ]
+}

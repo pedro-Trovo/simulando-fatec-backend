@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 23,
+    "disciplina": "Matemática",
+    "enunciado": "A expressão América Latina está mais associada a questões econômicas e sociais dos países que a compõem do que a um aspecto meramente territorial. Não se trata de um continente, mas, sim, de uma alusão aos 20 países da América colonizados, principalmente, por Espanha e Portugal. Territorialmente, compreende quase toda a América do Sul e Central, mais especificamente: Argentina, Bolívia, Brasil, Chile, Colômbia, Costa Rica, Cuba, El Salvador, Equador, Guatemala, Haiti, Honduras, Nicarágua, Panamá, Paraguai, Peru, República Dominicana, Uruguai e Venezuela. O México, localizado na América do Norte, também a integra. Países como Guiana, Suriname, Jamaica e Belize não a integram.<br><br>A taxa bruta de matrícula é o indicador mais usado em todo o mundo para monitorar o acesso à educação. O gráfico apresentado foi elaborado utilizando uma aproximação linear para os valores dessa taxa de matrícula no ensino superior.",
+    "imgs": [],
+    "pergunta": "De acordo com o gráfico, pode-se concluir, corretamente, que a taxa bruta de matrículas no ensino superior, estimada no ano de 2020, mostra uma desaceleração no número de matriculados em relação ao ano de 2015.",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "2000, corresponde à metade daquela aferida no ano de 2010.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "2005, é um número que pertence ao conjunto dos números não positivos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "2010, equivale ao mesmo número representado pela fração irredutível 193/500",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "2015, quando comparada com aquela medida no ano de 2000, é três vezes maior.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "2020, mostra uma desaceleração no número de matriculados em relação ao ano de 2015.",
+            "imgUrl": null
+        }
+    ]
+}

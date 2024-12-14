@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 18,
+    "disciplina": "Química",
+    "enunciado": "O combustível sintético emite, em sua queima, apenas 10% da quantidade de CO2 emitida na combustão de combustíveis fósseis.<br>Esta equação química balanceada representa a queima da gasolina (C8H18) de origem fóssil.<br>C8H18(g) + 25 O2(g) → 8 CO2(g) + 9 H2O(g)<br>Considere que um motor realizou a queima de 114 g de C8H18 (M = 114g/mol) de origem fóssil.<br>Caso esse mesmo motor utilizasse gasolina sintética, a massa de CO2 (M = 44g/mol) emitida, em gramas, seria de, aproximadamente,<br><br>O combustível sintético emite, em sua queima, apenas 10% da quantidade de CO2 emitida na combustão de combustíveis fósseis.",
+    "imgs": [],
+    "pergunta": "Considere que um motor realizou a queima de 114 g de C8H18 (M = 114g/mol) de origem fóssil. Caso esse mesmo motor utilizasse gasolina sintética, a massa de CO2 (M = 44g/mol) emitida, em gramas, seria de, aproximadamente,",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "523",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "352",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "207",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "35",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "22",
+            "imgUrl": null
+        }
+    ]
+}

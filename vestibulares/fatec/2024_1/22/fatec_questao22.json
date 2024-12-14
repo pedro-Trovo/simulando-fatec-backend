@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 22,
+    "disciplina": "Inglês",
+    "enunciado": "\"The aim of art is to represent not the outward appearance of things, but their inward significance.” — Aristotle<br><br>\"The aim of art is to represent not the outward appearance of things, but their inward significance.\"",
+    "imgs": [],
+    "pergunta": "De acordo com a citação do filósofo grego Aristóteles, o objetivo da arte é",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "fazer o corpo humano sucumbir diante da beleza aparente das coisas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "reverenciar a beleza definida pela aparência física das coisas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "enaltecer o significado de beleza observado nas coisas físicas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "aprimorar a representação das pequenas coisas da natureza.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "exprimir a essência das coisas.",
+            "imgUrl": null
+        }
+    ]
+}

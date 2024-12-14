@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 9,
+    "disciplina": "Linguagens",
+    "enunciado": "<img src=\"vestibulares/enem/enemFormatado/2022/9/enem_questao9_img1.png\" alt=\"imagem 1 da questão\"><br><br>**Disponível em: : www.portaldapropaganda.com.br. Acesso em: 29 out. 2013 (adaptado).**",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/9/enem_questao9_img1.png"
+    ],
+    "pergunta": "Para convencer o público-alvo sobre a necessidade de um trânsito mais seguro, essa peça publicitária apela para o(a)",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Sentimento de culpa provocado no condutor causador de acidentes.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Dano psicológico causado nas vítimas da violência nas estradas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Importância do monitoramento do trânsito pelas autoridades competentes.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Necessidade de punição a motoristas alcoolizados envolvidos em acidentes.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Sofrimento decorrente da perda de entes queridos em acidentes automobilísticos.",
+            "imgUrl": null
+        }
+    ]
+}

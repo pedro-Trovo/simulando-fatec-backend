@@ -1,0 +1,50 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 144,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Cada número que identifica uma agência bancária tem quatro dígitos: <img src=\"vestibulares/enem/enemFormatado/2022/144/enem_questao144_img1.png\" alt=\"imagem 1 da questão\">,<img src=\"vestibulares/enem/enemFormatado/2022/144/enem_questao144_img10.png\" alt=\"imagem 2 da questão\">,<img src=\"vestibulares/enem/enemFormatado/2022/144/enem_questao144_img2.png\" alt=\"imagem 3 da questão\">,<img src=\"vestibulares/enem/enemFormatado/2022/144/enem_questao144_img3.png\" alt=\"imagem 4 da questão\"> mais um dígito verificador <img src=\"vestibulares/enem/enemFormatado/2022/144/enem_questao144_img4.png\" alt=\"imagem 5 da questão\">.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/144/enem_questao144_img5.png\" alt=\"imagem 6 da questão\"><br><br>Todos esses dígitos são números naturais pertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. Para a determinação de N5, primeiramente multiplica-se  <br>ordenadamente os quatro primeiros dígitos do número da agência por 5, 4, 3 e 2, respectivamente, somam-se os resultados e obtém-se S = 5 <img src=\"vestibulares/enem/enemFormatado/2022/144/enem_questao144_img6.png\" alt=\"imagem 7 da questão\">\\+ 4 <img src=\"vestibulares/enem/enemFormatado/2022/144/enem_questao144_img7.png\" alt=\"imagem 8 da questão\">\\+ 3 <img src=\"vestibulares/enem/enemFormatado/2022/144/enem_questao144_img8.png\" alt=\"imagem 9 da questão\">\\+ 2 <img src=\"vestibulares/enem/enemFormatado/2022/144/enem_questao144_img9.png\" alt=\"imagem 10 da questão\">. Posteriormente, encontra-se o resto da divisão de S por 11, denotando por R esse resto. Dessa forma, N5 é a diferença 11 − R.  <br>Considere o número de uma agência bancária cujos quatro primeiros dígitos são 0100.",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/144/enem_questao144_img1.png",
+        "vestibulares/enem/enemFormatado/2022/144/enem_questao144_img10.png",
+        "vestibulares/enem/enemFormatado/2022/144/enem_questao144_img2.png",
+        "vestibulares/enem/enemFormatado/2022/144/enem_questao144_img3.png",
+        "vestibulares/enem/enemFormatado/2022/144/enem_questao144_img4.png",
+        "vestibulares/enem/enemFormatado/2022/144/enem_questao144_img5.png",
+        "vestibulares/enem/enemFormatado/2022/144/enem_questao144_img6.png",
+        "vestibulares/enem/enemFormatado/2022/144/enem_questao144_img7.png",
+        "vestibulares/enem/enemFormatado/2022/144/enem_questao144_img8.png",
+        "vestibulares/enem/enemFormatado/2022/144/enem_questao144_img9.png"
+    ],
+    "pergunta": "Qual é o dígito verificador N5 dessa agência bancária?",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "6",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "7",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "8",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "9",
+            "imgUrl": null
+        }
+    ]
+}

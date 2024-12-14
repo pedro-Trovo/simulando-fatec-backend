@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 85,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "**TEXTO I**  <br>Manda o Santo Ofício da Inquisição que ninguém, seja qual for seu estado, idade ou condição, pare com carroça, caleça ou montaria nem atrapalhe com mesas ou cadeiras o centro das ruas, que vão da Inquisição a São Domingos, nem atravesse a procissão em ponto algum da ida ou da volta, amanhã, 19 do corrente, em que se celebrará auto de fé. E também que nem nesse dia nem nos dos açoites ouse alguém atirar  nos réus maçãs, pedras, laranjas nem outra coisa qualquer.<br><br>**PALMA, R. Anais da Inquisição de Lima. São Paulo: Edusp; Giordano, 1992 (adaptado).**<br><br>**TEXTO II**  <br>Como acontece em todos os ritos, o sentido do auto da fé é conferido pela sequência dos atos que o compõem. Os lugares, as posturas, os gestos, as palavras são fixados previamente em toda a sua complexidade. Por isso, o auto da fé apresenta momentos fortes – durante a preparação, a encenação, o ato e a recepção – que convém seguir em seus pormenores.<br><br>**BETHENCOURT, F. História das Inquisições: Portugal, Espanha e Itália – séculos XV-XIX. São Paulo: Cia. das Letras, 2000**",
+    "imgs": [],
+    "pergunta": "O rito mencionado nos textos demonstra a capacidade da Igreja em",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Abrandar cerimônias de punição.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Favorecer anseios de violência.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Criticar políticas de disciplina.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Produzir padrões de conduta.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Ordenar cultos de heresia.",
+            "imgUrl": null
+        }
+    ]
+}

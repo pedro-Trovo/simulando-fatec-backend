@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 176,
+    "disciplina": "Matemática",
+    "enunciado": "<img src=\"vestibulares/enem/enemFormatado/2022/176/enem_questao176_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/176/enem_questao176_img1.png"
+    ],
+    "pergunta": "Pretende-se que a distância percorrida entre as duas cidades, pelas Rodovias 001 e 002, passando pelo ponto de conexão, seja a menor possível.<br>Dadas as exigências do projeto, qual das localizações sugeridas deve ser a escolhida para o ponto de conexão?",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "I",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "II",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "III",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "IV",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "V",
+            "imgUrl": null
+        }
+    ]
+}

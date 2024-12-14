@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 2,
+    "disciplina": "História",
+    "enunciado": "A diversidade do registro gráfico rupestre no território nacional é impressionante devido à multiplicidade de suas temáticas, ao grau de abstração intelectual das representações e às diversas técnicas de confecção dos registros rupestres realizados pelos grupos humanos do passado. O que torna evidente, de algum modo, que os inscritos nas rochas foram realizados por uma multiplicidade de grupos, em tempos imemoriais, com seus inúmeros interesses e com suas complexidades artísticas, políticas e socioculturais.",
+    "imgs": [],
+    "pergunta": "De acordo com o texto, é correto afirmar que",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "o número reduzido de registros gráficos em território nacional impede a realização de estudos sobre a diversidade dos grupos humanos do passado.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "o estudo sistemático dos registros rupestres revelou a existência de um padrão de temática repetitivo, que se estendeu por todo o território nacional.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "o significado dos registros rupestres em território nacional varia de acordo com o contexto, a tecnologia e a organização de cada um dos diferentes povos do passado.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "os inscritos nas rochas foram realizados por povos que, pela ausência de abstração intelectual, desenvolveram técnicas rudimentares para a confecção de registros.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "os grupos humanos do passado deixaram registros que, pela multiplicidade de interesses, revelam ter sido produzidos por um único povo.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 107,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "Na fertilização in vitro, espermatozoides são adicionados aos gametas femininos retirados de uma mulher. Após o período de incubação, a fecundação é favorecida pela ação de enzimas. Em um procedimento realizado, observou-se que nenhum dos gametas femininos foi fertilizado e, posteriormente, verificou-se que havia sido adicionado, equivocadamente, um coquetel de inibidores das enzimas do acrossomo, no lugar de um dos nutrientes constituintes do meio de cultura.",
+    "imgs": [],
+    "pergunta": "O coquetel de inibidores impediu o(a)",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Formação do pronúcleo masculino.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Início da divisão mitótica do zigoto.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Término da segunda divisão meiótica do ovócito.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Passagem do espermatozoide pela corona radiata e zona pelúcida.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Fusão das membranas plasmáticas do ovócito e do espermatozoide.",
+            "imgUrl": null
+        }
+    ]
+}

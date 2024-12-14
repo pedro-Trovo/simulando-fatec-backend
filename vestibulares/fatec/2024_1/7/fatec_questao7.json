@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 7,
+    "disciplina": "Multidisciplinar",
+    "enunciado": "O Museu do Louvre em Paris, na França, é atualmente o museu mais visitado do mundo.<br>Número de visitantes ao Museu do Louvre de 2007 a 2022 (em milhões)<br>10<br>10,2<br>9,7<br>9,6<br>9,3 9,3<br>8<br>8,9<br>8,3 8,5<br>8,5 8,5<br>8,6<br>8,1<br>7,7<br>7,3<br>6<br>4<br>2<br>2,7 2,8<br>0<br>2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022<br>Anos<br>Fonte dos dados: <https://tinyurl.com/8973c75k> Acesso em: 19.10.2023.<br><br>A análise do gráfico permite notar variações quanto ao número de visitantes ano a ano. Em relação ao ano anterior, é correto afirmar que, no ano de",
+    "imgs": [],
+    "pergunta": null,
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "2009, devido à pandemia provocada pelo vírus H1N1, que ficou conhecida como gripe suína, registrou-se uma redução no número de visitantes.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "2015, em razão do roubo da Monalisa, famosa obra de Leonardo da Vinci e principal atração de turistas ao museu, houve um aumento no número de visitantes.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "2019, em decorrência de um incêndio que manteve o museu fechado por mais de um ano para obras de reparo, ocorreu uma redução no número de visitantes.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "2020, por causa da pandemia de covid-19, doença causada pelo coronavírus SARS-CoV-2, verificou-se uma redução no número de visitantes.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "2022, em virtude do fechamento das fronteiras da França por conta de sua saída da União Europeia, aconteceu um aumento no número de visitantes.",
+            "imgUrl": null
+        }
+    ]
+}

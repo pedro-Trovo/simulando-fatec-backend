@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 179,
+    "disciplina": "Matemática",
+    "enunciado": "As características culturais variam de povo para povo. Há notícias de um povo que possuía formas de contar diferentes das nossas, como indicado no quadrinho a seguir.<br><br><img src=\"vestibulares/enem/enemFormatado/2023/179/enem_questao179_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/179/enem_questao179_img1.png"
+    ],
+    "pergunta": "Segundo o padrão de contagem indicado na figura, as representações dos numerais cinco e sete, nessa cultura, devem ser, respectivamente,",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Okosa urapum urapum urapum e okosa okosa urapum urapum urapum.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Okosa okosa urapum e okosa okosa okosa okosa urapum.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Okosa okosa urapum e okosa okosa okosa urapum.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Okosa urapum urapum e okosa urapum okosa urapum urapum.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Okosa okosa urapum e okosa okosa okosa okosa.",
+            "imgUrl": null
+        }
+    ]
+}

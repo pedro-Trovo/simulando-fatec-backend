@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 3,
+    "disciplina": "Linguagens",
+    "enunciado": "**“Caramelos” en sus suelos**<br><br>Las tierras de España, tu vista enamoran;<br><br>sus gentes; te amistan; ¿“cocinas”?, ¡“te molan”!<br><br>¿El plato común?, ¡pues «tortilla/patatas»!;<br><br>en bares, figones, o tascas, ¡las «tapas»!;<br><br>“sabor nacional”, ¡el «gazpacho», sus «vinos»,<br><br>«sangría», y «jamón» de sabrosos cochinos!<br><br>(Cual “sellos”, te grabas sus «Típicos Platos»;<br><br>¡sabrás por dó pasas, por sólo tu olfato!,<br><br>¡si en cada lugar, un sabor peculiar,<br><br>“al paso” cautiva tu buen paladar!).<br><br>¡Son más que “recetas”!, será “alegoría”!,<br><br>¡será “identidad”! (¡hay “reserva” en su «Guía»!);<br><br>son platos allende un “timón conductor”,<br><br>¡son mar, ríos, sierras!, ¡son valles, son flor!,<br><br>¡y aportan “Conventos” a gastronomia,<br><br>sus «dulces»! (sabor “celestial”, ¡de ambrosia!).<br><br>QUIROZ Y LÓPEZ M. Disponível em: https://pt.calameo.com. Acesso em: 25 out. 2021.",
+    "imgs": [],
+    "pergunta": "Nesse poema, o eu poético enaltece a",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Característica amistosa do povo espanhol.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Beleza das paisagens naturais da Espanha.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Variedade de pratos na gastronomia espanhola.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Relação entre os sentidos do paladar e do olfato na gastronomia.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Gastronomia como representação da identidade cultural de um povo.",
+            "imgUrl": null
+        }
+    ]
+}

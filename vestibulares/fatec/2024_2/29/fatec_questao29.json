@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 29,
+    "disciplina": "Multidisciplinar",
+    "enunciado": "O radioisótopo cobalto-60 (<sup>60</sup><sub>27</sub>Co) emite uma partícula beta negativa, transformando-se no isótopo estável níquel-60 (<sup>60</sup><sub>28</sub>Ni).",
+    "imgs": [],
+    "pergunta": "A alternativa que contém a equação nuclear correta para representar a emissão descrita é",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "<sup>60</sup><sub>27</sub>Co + <sup>0</sup><sub>-1</sub>β → <sup>60</sup><sub>28</sub>Ni",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "<sup>60</sup><sub>27</sub>Co + <sup>0</sup><sub>-1</sub>β → <sup>64</sup><sub>28</sub>Ni",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "<sup>60</sup><sub>27</sub>Co → <sup>0</sup><sub>-1</sub>β + <sup>60</sup><sub>28</sub>Ni",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "<sup>60</sup><sub>27</sub>Co → <sup>0</sup><sub>+1</sub>β + <sup>60</sup><sub>28</sub>Ni",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "<sup>60</sup><sub>27</sub>Co → <sup>60</sup><sub>28</sub>Ni + <sup>0</sup><sub>-1</sub>β",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 64,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "As forças tectônicas dentro da litosfera, controladas pelo calor interno das profundezas, geram terremotos, erupções e soerguimento de montanhas. As forças meteorológicas dentro da atmosfera e da hidrosfera, contoladas pelo calor do Sol, produzem tempestades,  <br>inundações, geleiras e outros agentes de erosão.<br><br>**PRESS, F. et al. Para entender a Terra. Porto Alegre: Bookman, 2002 (adaptado).**",
+    "imgs": [],
+    "pergunta": "A interação dinâmica entre as forças naturais citadas favorece a ocupação do espaço geográfico, na medida em que provoca a formação de",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Solos vulcânicos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Dorsais oceânicas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Relevos escarpados.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Superfícies lateríticas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Dobramentos modernos.",
+            "imgUrl": null
+        }
+    ]
+}

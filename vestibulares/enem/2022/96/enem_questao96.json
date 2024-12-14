@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 96,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "<img src=\"vestibulares/enem/enemFormatado/2022/96/enem_questao96_img1.png\" alt=\"imagem 1 da questão\"><br><br>O quadro mostra valores de corrente elétrica e seus efeitos sobre o corpo humano.<br><br>A corrente elétrica que percorrerá o corpo de um indivíduo depende da tensão aplicada e da resistência  <br>elétrica média do corpo humano. Esse último fator está intimamente relacionado com a umidade da pele, que seca apresenta resistência elétrica da ordem de 500 kΩ, mas, se molhada, pode chegar a apenas 1 kΩ.  <br>Apesar de incomum, é possível sofrer um acidente utilizando baterias de 12 V. Considere que um indivíduo com a pele molhada sofreu uma parada respiratória ao tocar simultaneamente nos pontos A e B de uma associação de duas dessas baterias.<br><br>DURAN, J. E. R. **Biofísica: fundamentos e aplicações**. São Paulo: Pearson Prentice Hall, 2003 (adaptado).",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/96/enem_questao96_img1.png"
+    ],
+    "pergunta": "Qual associação de baterias foi responsável pelo acidente?",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/96/enem_questao96_alter-A.png"
+        },
+        {
+            "letra": "B",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/96/enem_questao96_alter-B.png"
+        },
+        {
+            "letra": "C",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/96/enem_questao96_alter-C.png"
+        },
+        {
+            "letra": "D",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/96/enem_questao96_alter-D.png"
+        },
+        {
+            "letra": "E",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/96/enem_questao96_alter-E.png"
+        }
+    ]
+}

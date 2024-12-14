@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 31,
+    "disciplina": "Geografia",
+    "enunciado": "A partir da década de 1960, diversas empresas denominadas “maquiladoras” começaram a se instalar nas cidades do norte do México e passaram a empregar milhares de trabalhadores, que, majoritariamente, recebem baixos salários e desconhecem seus direitos mais básicos.",
+    "imgs": [],
+    "pergunta": "Essas empresas, em sua maioria, são",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "estadunidenses, que, com a específica intencionalidade de impedir a imigração latino-americana para os Estados Unidos, instalam-se na fronteira sul do México e oferecem altos salários para fixar esses trabalhadores em solo mexicano.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "mexicanas, que preferiram sair da economia de aglomeração, na cidade do México, para obter vantagens comparativas no sul dos Estados Unidos, aproveitando-se dos acordos de isenção de impostos entre este país e o Mercosul.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "europeias, que produzem cosméticos e produtos de beleza, as quais se instalaram na cidade do México em troca de isenção de impostos de importação e exportação previstos nos acordos firmados entre o México e a União Europeia.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "estadunidenses, que se instalaram no México e importam insumos dos Estados Unidos, produzem bens que são exportados de volta para este país, aproveitando os baixos custos da mão de obra local.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "mexicanas, que se estabeleceram no sul do México em razão da existência de grandes jazidas de minérios utilizados na fabricação de diferentes produtos exportados para diversos países.",
+            "imgUrl": null
+        }
+    ]
+}

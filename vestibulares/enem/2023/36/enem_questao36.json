@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 36,
+    "disciplina": "Linguagens",
+    "enunciado": "Marabaixo é uma expressão artistico-cultural formada nas tradições e na identificação cultural entre as comunidades negras do Amapá. O nome remonta às mortes de escravizados em navios negreiros que eram jogados na água. Em sua homenagem, hinos de lamento eram cantados mar abaixo, mar acima. Posteriormente, o Marabaixo se integrou à vivência das comunidades negras em um ciclo de danças, cantorias com tambores e festas religiosas, recebendo, em 2018, o título de Patrimônio Cultural do Brasil.<br><br>Disponível em: http://portal.iphan.gov.br. Acesso em: 15 nov. 2021 (adaptado).",
+    "imgs": [],
+    "pergunta": "A manifestação do Marabaixo se constituiu em expressão de arte e cultura, exercendo função de",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Ressignificar episódios dramáticos em novas práticas culturais.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Adaptar coreografias como imitação dos movimentos do mar.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Lembrar dos mortos no passado escravista como forma de lamento.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Perpetuar uma narrativa de apagamento dos fatos históricos traumáticos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Ritualizar a passagem de atos fúnebres nas produções coletivas com espírito festivo.",
+            "imgUrl": null
+        }
+    ]
+}

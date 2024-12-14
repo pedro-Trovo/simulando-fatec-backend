@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 56,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "<img src=\"vestibulares/enem/enemFormatado/2022/56/enem_questao56_img1.png\" alt=\"imagem 1 da questão\"><br><br>**CAZO. Disponível em: www.humorpolitico.com.br. Acesso em: 21 nov. 2021 (adaptado).**<br><br>**TEXTO II**  <br>É como se os problemas fossem criados pela pandemia quando, em verdade, isso só demonstra o quanto eles sofrem uma tentativa de serem naturalizados. Eles estavam lá, empurrados para debaixo de vários tapetes. Diversos levantamentos realizados indicam que parcela significativa dos estudantes não têm acesso à internet em suas casas, não têm computadores; têm celulares, mas com pacotes baratos que não permitem assistir a todas as aulas. E, caso tenham celulares e dados, pergunta-se: É possível elaborar um texto no celular? É possível interagir na aula remota pelo celular?<br><br>**ASSIS. A. E. S. Q. Educação e pandemia. Educação em Revista, n. 37, 2021 (adaptado).**",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/56/enem_questao56_img1.png"
+    ],
+    "pergunta": "A crítica contida no texto e na figura evidencia o seguinte aspecto da sociedade contemporárea:",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Exclusão social.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Expansão digital.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Manifestação cultural.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Organização espacial.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Valorização intelectual.",
+            "imgUrl": null
+        }
+    ]
+}

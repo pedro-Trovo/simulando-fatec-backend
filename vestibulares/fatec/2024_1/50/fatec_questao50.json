@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 50,
+    "disciplina": "Geografia",
+    "enunciado": "Para a Geografia, o Sertão também é o nome de uma sub-região do Nordeste brasileiro onde predomina o clima",
+    "imgs": [],
+    "pergunta": "semiárido, com predomínio de plantas xeromórficas.",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "subtropical, com predomínio de plantas halófitas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "desértico, com predomínio de plantas caducifólias.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "desértico, com predomínio de plantas latifoliadas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "semiárido, com predomínio de plantas ombrófilas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "semiárido, com predomínio de plantas xeromórficas.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 3,
+    "disciplina": "Biologia",
+    "enunciado": "No Brasil, o Parque Nacional da Serra da Capivara, no Piauí, abriga o maior e mais antigo acervo rupestre da América do Sul. Essa arte se caracteriza por pinturas e gravuras encontradas nos sítios arqueológicos, feitas pelos grupos pré-históricos que habitavam a região. Esses grupos utilizavam, em suas pinturas, carvão, argila de várias cores e minerais triturados. Acredita-se ainda que usassem substâncias como sangue, clara de ovo, resinas vegetais, excrementos e saliva humana para ajudar na fixação dos pigmentos. Essas pinturas retratavam o cotidiano da época, os rituais religiosos, as práticas humanas em adoração ao redor de árvores e em representações de danças coletivas, de caças ou de lutas. Além disso, representavam também figuras de animais, como capivaras, tatus, onças, cervos, entre outros.<br><br>No Brasil, o Parque Nacional da Serra da Capivara, no Piauí, abriga o maior e mais antigo acervo rupestre da América do Sul. Essa arte se caracteriza por pinturas e gravuras encontradas nos sítios arqueológicos, feitas pelos grupos pré-históricos que habitavam a região. Esses grupos utilizavam, em suas pinturas, carvão, argila de várias cores e minerais triturados. Acredita-se ainda que usassem substâncias como sangue, clara de ovo, resinas vegetais, excrementos e saliva humana para ajudar na fixação dos pigmentos. Essas pinturas retratavam o cotidiano da época, os rituais religiosos, as práticas humanas em adoração ao redor de árvores e em representações de danças coletivas, de caças ou de lutas.",
+    "imgs": [],
+    "pergunta": "Além disso, representavam também figuras de animais, como capivaras, tatus, onças, cervos, entre outros.",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "os vários tipos de ferramentas, de resinas, de óleos e de tintas, fabricados e comercializados pelos povos pré-cambrianos, para realizar pinturas e gravuras encontradas nos sítios arqueológicos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "as etapas detalhadas dos processos de criação e de domesticação dos animais selvagens, como capivaras e onças, os quais eram utilizados nos serviços de tração animal nas plantações.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "o desenvolvimento das atuações sociais e culturais do homem pré-histórico, e sobre suas práticas e costumes representados na caça, na dança e na luta.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "os conflitos entre os povos indígenas e os europeus, durante as etapas da colonização no Brasil, que tinham por objetivo a exploração dos recursos naturais do país.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "os rituais religiosos envolvendo sacrifícios dos grandes animais, como os dinossauros, que eram oferecidos aos deuses junto aos pedidos de chuvas e de boas colheitas.",
+            "imgUrl": null
+        }
+    ]
+}

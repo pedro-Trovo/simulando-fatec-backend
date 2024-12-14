@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 16,
+    "disciplina": "Linguagens",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "Mandioca, macaxeira, aipim e castelinha são nomes diferentes da mesma planta. Semáforo, sinaleiro e farol também significam a mesma coisa. O que muda é só o hábito cultural de cada região. A mesma coisa acontece com a Língua Brasileira de Sinais (Libras). Embora ela seja a comunicação oficial da comunidade surda no Brasil, existem sinais que variam em relação à região, à idade e até ao gênero de quem se comunica. A cor verde, por exemplo, possui sinais diferentes no Rio de Janeiro, Paraná e São Paulo. São os regionalismos na língua de sinais.<br>Essas variações são um dos temas da disciplina Linguística na língua de sinais, oferecida pela Universidade Estadual Paulista (Unesp) ao longo do segundo semestre. “Muitas pessoas pensam que a língua de sinais é universal, o que não é verdade”, explica a professora e chefe do Departamento de Linguística, Literatura e Letras Clássicas da Unesp. “Mesmo dentro de um mesmo país, ela sofre variação em relação à localização geográfica, à faixa etária e até ao gênero dos usuários” completa a especialista.<br>Os surdos podem criar sinais diferentes para identificar lugares, objetos e conceitos. Em São Paulo, o sinal de “cerveja” é feito com um giro do punho como uma meia- volta. Em Minas, a bebida é citada quando os dedos in- dicador e médio batem no lado do rosto. Também ocorrem mudanças históricas. Um sinal pode sofrer alterações decorrentes dos costumes da geração que o utiliza.<br>Disponível em: www.educacao.sp.gov.br. Acesso em 1 nov. 2021 (adaptado)<br>Nesse texto, a Língua Brasileira de Sinais (Libras)",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Passa por fenômenos de variação linguística como qualquer outra língua.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Apresenta variações regionais, assumindo novo sentido para algumas palavras.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Sofre mudança estrutural motivada pelo uso de sinais diferentes para algumas palavras.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Diferencia-se em todo o Brasil, desenvolvendo cada região a sua própria língua de sinais.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "É ininteligível para parte dos usuários em razão das mudanças de sinais motivadas geograficamente.",
+            "imgUrl": null
+        }
+    ]
+}

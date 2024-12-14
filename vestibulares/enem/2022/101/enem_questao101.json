@@ -1,0 +1,47 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 101,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "O etanol é um combustível produzido a partir da fermentação da sacarose presente no caldo de cana-de-açúcar. Um dos fatores que afeta a produção desse álcool é o grau de deterioração da sacarose, que se inicia após o corte, por causa da ação de microrganismos. Foram analisadas cinco amostras de diferentes tipos de cana-de-açúcar e cada uma recebeu um código de identificação.<br><br>No quadro são apresentados os dados de concentração de sacarose e de microrganismos presentes nessas amostras.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/101/enem_questao101_img1.png\" alt=\"imagem 1 da questão\"><br><br>Pretende-se escolher o tipo de cana-de-açúcar que conterá o maior teor de sacarose 10 horas após o corte e que, consequentemente, produzirá a maior quantidade de etanol por fermentação. Considere que existe uma redução de aproximadamente 50% da concentração de sacarose nesse tempo, para cada 1,0 mg <img src=\"vestibulares/enem/enemFormatado/2022/101/enem_questao101_img2.png\" alt=\"imagem 2 da questão\"> de microrganismos presentes na cana-de-açúcar.<br><br>Disponível em: www.inovacao.unicamp.br. Acesso em: 11 ago. 2012 (adaptado).",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/101/enem_questao101_img1.png",
+        "vestibulares/enem/enemFormatado/2022/101/enem_questao101_img2.png"
+    ],
+    "pergunta": "Qual tipo de cana-de-açúcar deve ser escolhido?",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "RB72",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "RB84",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "RB92",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "SP79",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "SP80",
+            "imgUrl": null
+        }
+    ]
+}

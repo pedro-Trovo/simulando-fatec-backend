@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 49,
+    "disciplina": "Multidisciplinar",
+    "enunciado": "A Guerra de Canudos aconteceu de novembro de 1896 a outubro de 1897 no sertão da Bahia, em uma fazenda improdutiva ocupada por Antônio Conselheiro e seus mais de 20 mil seguidores. Era um povo sem posses, que recusou a exploração senhorial e buscou uma terra para seu sustento. Teve caráter messiânico por conta das pregações do beato, mas envolvia a luta contra a fome, a miséria e a seca nordestina, região desassistida pelo governo federal. A destruição de Canudos aconteceu depois de quatro tentativas: duas do governo da Bahia junto à Igreja e aos coronéis; e as outras duas pelo exército brasileiro.",
+    "imgs": [],
+    "pergunta": "O exército só conseguiu vencer na quarta tentativa, com o envio de canhões e 5 mil homens que mataram cerca de 25 mil pessoas, entre homens, mulheres e crianças.",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Brasil Império, e constata o poderio militar do exército brasileiro, que incorporou religiosos e coronéis às suas fileiras para acabar com um movimento revolucionário que atentava contra a segurança nacional.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Brasil Império, e demonstra a capacidade técnica do exército brasileiro da época de preservar as vidas de mulheres e de crianças, combatendo apenas os jagunços contratados pelo beato Antônio Conselheiro.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Brasil Império, e atesta a importância da Geopolítica no enfrentamento de conflitos internos que ameaçam a estabilidade do regime, não importando se eram homens, mulheres ou crianças, uma vez que eram inimigos da pátria, portanto, sujeitos a morrer em combate.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Brasil República, e prova que o exército brasileiro, por ordem de Dom Pedro II, em uma demonstração de solidez tática, destruiu o povoado de Canudos em uma única tentativa, utilizando-se, para isso, de uma moderna arma de guerra para a época, o canhão.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Brasil República, e mostra que não houve rendição de Canudos, mesmo com o exército assassinando milhares de pessoas pobres que buscavam sobreviver às adversidades que eram oriundas da seca, da fome e da falta de terras, e que assolavam suas existências.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 9,
+    "disciplina": "Multidisciplinar",
+    "enunciado": "A Comissão Econômica para a América Latina e o Caribe (CEPAL) apresentou, em seu último relatório anual, as projeções atualizadas para o crescimento do PIB dos países da região da América Latina e do Caribe. A tabela apresenta essas projeções para alguns dos países dessa região.<br><br>País\tCrescimento do PIB (%)<br>Ano de 2023\tAno de 2024<br>Argentina\t-2,5\t-1,0<br>Brasil\t3,0\t1,6<br>Costa Rica\t4,9\t3,8<br>El Salvador\t2,3\t2,0<br>Haiti\t-1,8\t1,0<br>Jamaica\t2,1\t1,9<br>México\t3,6\t2,5<br>Panamá\t6,1\t4,2<br>Peru\t0,3\t2,4<br>Suriname\t2,0\t3,0<br>Uruguai\t1,0\t3,2<br>Venezuela\t3,0\t4,0<br><br>Fonte dos dados: <http://tinyurl.com/3nejy632> Acesso em: 12.01.2024.<br><br>Se considerarmos apenas os países dessa lista que fazem parte da América do Sul, podemos calcular a média aritmética referente à projeção do crescimento percentual desses países para o ano de 2024.",
+    "imgs": [],
+    "pergunta": "Assinale, dentre as alternativas apresentadas, aquela na qual há um país da América do Sul cujo crescimento do PIB, em 2024, é mais próximo de M.",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Costa Rica",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "El Salvador",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Jamaica",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Peru",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Uruguai",
+            "imgUrl": null
+        }
+    ]
+}

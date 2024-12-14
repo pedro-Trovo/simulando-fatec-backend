@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 128,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "A fim de classificar as melhores rotas em um aplicativo de trânsito, um pesquisador propõe um modelo com base em circuitos elétricos. Nesse modelo, a corrente representa o número de carros que passam por um ponto da pista no intervalo de 1 s. A diferença de potencial (d.d.p.) corresponde à quantidade de energia por carro necessária para o deslocamento de 1 m. De forma análoga à lei de Ohm, cada via é classificada pela sua resistência, sendo a de maior resistência a mais congestionada. O aplicativo mostra as rotas em ordem crescente, ou seja, da rota de menor para a de maior resistência.  <br>Como teste para o sistema, são utilizadas três possíveis vias para uma viagem de A até B, com os valores de d.d.p. e corrente conforme a tabela.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/128/enem_questao128_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/128/enem_questao128_img1.png"
+    ],
+    "pergunta": "Nesse teste, a ordenação das rotas indicadas pelo aplicativo será:",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "1, 2, 3.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "1, 3, 2.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "2, 1, 3.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "3, 1, 2.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "3, 2, 1.",
+            "imgUrl": null
+        }
+    ]
+}

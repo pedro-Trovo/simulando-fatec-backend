@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 73,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Os séculos XV e XVI, quando se vão desmoronando as estruturas socioeconômicas da Idade Média perante os novos imperativos da Época moderna, constituem um momento-chave na história florestal de toda a Europa Ocidental. Abre-se, genericamente, um longo período de “crise florestal”, que se manifesta com acuidade nos países onde mais se desenvolvem as atividades industriais e comerciais. As necessidades em produtos lenhosos aumentam drasticamente com o crescimento do consumo nos mercados urbanos e nas regiões onde progridem a metalurgia e a construção naval, além da sua utilização na vida quotidiana de toda a população.<br><br>DEVY-VARETA, N. Para uma geografia histórica da floresta portuguesa. **Revista da Faculdade de Letras – Geografia,** n. 1, 1986 (adaptado).",
+    "imgs": [],
+    "pergunta": "Qual acontecimento do período contribuiu diretamente para o agravamento da situação descrita?",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "O processo de expansão marítima.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "A eclosão do renascimento cultural.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "A concretização da centralização política.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "O movimento de reformas religiosas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "A manutenção do sistema feudal.",
+            "imgUrl": null
+        }
+    ]
+}

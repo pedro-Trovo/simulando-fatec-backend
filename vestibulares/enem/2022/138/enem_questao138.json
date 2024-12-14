@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 138,
+    "disciplina": "Matemática",
+    "enunciado": "O gráfico apresenta os totais de receitas e despesas de uma empresa, expressos em milhão de reais, no  <br>decorrer dos meses de um determinado ano. A empresa obtém lucro quando a diferença entre receita e despesa é positiva e tem prejuízo quando essa diferença é negativa.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/138/enem_questao138_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/138/enem_questao138_img1.png"
+    ],
+    "pergunta": "Qual é a mediana, em milhão de reais, dos valores dos lucros apurados pela empresa nesse ano?",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "1,5",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "2,0",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "2,9",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "3,0",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "5,5",
+            "imgUrl": null
+        }
+    ]
+}

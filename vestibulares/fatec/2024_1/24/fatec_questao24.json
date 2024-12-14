@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 24,
+    "disciplina": "Português",
+    "enunciado": "As preposições assumem diferentes sentidos, dependendo do contexto em que são empregadas. Isso pode ser observado nas expressões “com terra e cinzas”, “com outros artistas” e “em um paredão”, cujas preposições denotam, respectivamente,<br><br>As preposições assumem diferentes sentidos, dependendo do contexto em que são empregadas.",
+    "imgs": [],
+    "pergunta": "Isso pode ser observado nas expressões “com terra e cinzas”, “com outros artistas” e “em um paredão”, cujas preposições denotam, respectivamente,",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "matéria, conformidade e valor.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "instrumento, comparação e modo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "instrumento, companhia e matéria.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "matéria, companhia e lugar.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "modo, companhia e origem.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 46,
+    "disciplina": "Física",
+    "enunciado": "Apesar da estreia, em 1877, do balé “O Lago dos Cisnes”, do compositor russo P. I. Tchaikovsky, ter sido um fracasso, hoje ele é um dos mais aclamados no mundo das artes.<br>No terceiro ato do balé, o(a) bailarino(a) que interpreta o Cisne Negro realiza uma sequência de 32 fouettés. Um fouetté é um movimento circular em torno do próprio corpo do(a) bailarino(a), que funciona como um eixo central. Nesse movimento giratório, considerado um dos mais difíceis do balé, o(a) bailarino(a) mantém o corpo ereto com apenas a ponta de um dos pés no piso. A cada volta, o calcanhar do pé, que está no chão, sobe e desce à medida que mantém a energia envolvida no sistema. Enquanto isso, o(a) bailarino(a) dobra e estica a outra perna, mantendo-a no ar sem tocar o piso.",
+    "imgs": [],
+    "pergunta": "Adotando-se um observador externo como referencial e baseando-se na descrição apresentada, é correto afirmar que uma das grandezas físicas observada para a manutenção desse movimento rotacional é",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "a massa vetorial do corpo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "a força centrífuga da perna.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "a força elástica da perna.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "a velocidade angular do corpo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "a temperatura do corpo.",
+            "imgUrl": null
+        }
+    ]
+}

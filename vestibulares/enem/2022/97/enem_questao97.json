@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 97,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "O urânio é empregado como fonte de energia em reatores nucleares. Para tanto, o seu mineral deve  <br>ser refinado, convertido a hexafluoreto de urânio e posteriormente enriquecido, para aumentar de 0,7% a 3% a abundância de um isótopo específico — o urânio-235. Uma das formas de enriquecimento utiliza a pequena diferença de massa entre os hexafluoretos de urânio-235 e de urânio-238 para separá-los por efusão, precedida pela vaporização. Esses vapores devem efundir repetidamente  <br>milhares de vezes através de barreiras porosas formadas por telas com grande número de pequenos orifícios. No entanto, devido à complexidade e à grande quantidade de energia envolvida, cientistas e engenheiros continuam a pesquisar procedimentos alternativos de enriquecimento.<br><br>ATKINS, P.; JONES, L. **Princípios de química**: questionando a vida moderna e o meio ambiente. Porto Alegre: Bookman, 2006 (adaptado).",
+    "imgs": [],
+    "pergunta": "Considerando a diferença de massa mencionada entre os dois isótopos, que tipo de procedimento alternativo ao da efusão pode ser empregado para tal finalidade?",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Peneiração.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Centrifugação.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Extração por solvente.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Destilação fracionada.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Separação magnética.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 37,
+    "disciplina": "Geografia",
+    "enunciado": "Uma das áreas onde os terremotos se concentram é na porção ocidental da América do Sul, em função do choque das placas de Nazca e Sul-americana.<br><br>A América Latina é uma das regiões do globo terrestre especialmente vulnerável à ocorrência de terremotos, pois se localiza perto das bordas de placas tectônicas. No entanto, os terremotos não se distribuem igualmente pelo território latino-americano.",
+    "imgs": [],
+    "pergunta": "Uma das áreas onde os terremotos se concentram é",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "na porção ocidental da América do Sul, em função do choque das placas de Nazca e Sul-americana.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "na porção oriental da América do Sul, em função do choque das placas de Cocos e Sul-americana.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "na porção norte do Caribe, em função do afastamento das placas Indiana e Euro-asiática.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "no interior da América do Sul, em função do choque das placas Arábica e Australiana.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "na porção sul do Caribe, em função do afastamento das placas do Pacífico e Filipina.",
+            "imgUrl": null
+        }
+    ]
+}

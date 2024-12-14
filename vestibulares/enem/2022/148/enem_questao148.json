@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 148,
+    "disciplina": "Matemática",
+    "enunciado": "A luminosidade _L_ de uma estrela está relacionada com o raio _R_ e com a temperatura _T_ dessa estrela segundo a Lei de Stefan-Boltzmann: <img src=\"vestibulares/enem/enemFormatado/2022/148/enem_questao148_img1.png\" alt=\"imagem 1 da questão\"> em que c é uma constante igual para todas as estrelas.<br><br>Disponível em: http://ciencia.hsw.uol.com.br. Acesso em: 22 nov. 2013 (adaptado)<br><br>Considere duas estrelas _E_ e _F_, sendo que a estrela _E_ tem metade do raio da estrela _F_ e o dobro da temperatura de _F_.",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/148/enem_questao148_img1.png"
+    ],
+    "pergunta": "Indique por LE  e LF suas respectivas luminosidades.<br>A relação entre as luminosidades dessas duas estrelas é dada por",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/148/enem_questao148_alter-A.png"
+        },
+        {
+            "letra": "B",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/148/enem_questao148_alter-B.png"
+        },
+        {
+            "letra": "C",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/148/enem_questao148_alter-C.png"
+        },
+        {
+            "letra": "D",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/148/enem_questao148_alter-D.png"
+        },
+        {
+            "letra": "E",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/148/enem_questao148_alter-E.png"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 72,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "**TEXTO I**<br><br>Por hora, apenas os mais abastados poderão sonhar em viajar ao espaço, seja por um foguete ou por um avião híbrido, mas toda a população global poderá sentir os efeitos dessas viagens e avanços tecnológicos. Para uma aventura dessas, as empresas tiveram que criar novas tecnologias, materiais e softwares, o que podem, em algum momento, voltar para a sociedade. A câmera fotográfica, hoje comum no mundo, antes foi uma invenção para ser usada em telescópios e o titânio, usado até na medicina, foi desenvolvido para a construção de foguetes.<br><br>ORLANDO, G. **Corrida espacial dos bilionários pode trazer vantagens para todos**. Disponível em: https://noticias.r7.com/. Acesso em: 5 nov. 2021 (adaptado).<br><br>**TEXTO II**<br><br><img src=\"vestibulares/enem/enemFormatado/2023/72/enem_questao72_img1.png\" alt=\"imagem 1 da questão\"><br><br>CAZO. Disponível em: www.humorpolitico.com.br. Acesso em: 5 nov. 2021.",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/72/enem_questao72_img1.png"
+    ],
+    "pergunta": "Os textos apresentam perspectivas da nova corrida espacial que revelam, respectivamente:",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Dependência e progresso.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Expectativa e desconfiança.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Angústia e adaptação.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Pioneirismo e retrocesso.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Receio e civilidade.",
+            "imgUrl": null
+        }
+    ]
+}

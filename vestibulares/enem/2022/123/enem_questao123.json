@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 123,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "Um Buraco Negro é um corpo celeste que possui uma grande quantidade de matéria concentrada em uma pequena região do espaço, de modo que sua força gravitacional é tão grande que qualquer partícula fica aprisionada em sua superfície, inclusive a luz. O raio dessa região caracteriza uma superfície-limite, chamada de horizonte de eventos, da qual nada consegue escapar. Considere que o Sol foi instantaneamente substituído por um Buraco Negro com a mesma massa solar, de modo que o seu horizonte de eventos seja de aproximadamente 3,0 km.<br><br>SCHWARZSCHILD, K. **On the Gravitational Field of a Mass Point According to** **Einstein’s Theory**. Disponível em: arxiv.org. Acesso em: 26 maio 2022 (adaptado).",
+    "imgs": [],
+    "pergunta": "Após a substituição descrita, o que aconteceria aos planetas do Sistema Solar?",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Eles se moveriam em órbitas espirais, aproximando-se sucessivamente do Buraco Negro.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Eles oscilariam aleatoriamente em torno de suas órbitas elípticas originais.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Eles se moveriam em direção ao centro do Buraco Negro.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Eles passariam a precessionar mais rapidamente.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Eles manteriam suas órbitas inalteradas.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 136,
+    "disciplina": "Matemática",
+    "enunciado": "Um artista plástico esculpe uma escultura a partir de um bloco de madeira de lei, em etapas. Inicialmente, esculpe um cone reto com 36 cm de altura e diâmetro da base medindo 18 cm. Em seguida, remove desse cone um cone menor, cujo diâmetro da base mede 6 cm, obtendo, assim, um tronco de cone, conforme ilustrado na figura.<br><br><img src=\"vestibulares/enem/enemFormatado/2023/136/enem_questao136_img1.png\" alt=\"imagem 1 da questão\"><br><br>Em seguida, perfura esse tronco de cone, removendo um cilindro reto, de diâmetro 6 cm, cujo eixo de simetria é o mesmo do cone original. Dessa forma, ao final, a escultura tem a forma de um tronco de cone com uma perfuração cilíndrica de base a base.  <br>O tipo de madeira utilizada para produzir essa escultura tem massa igual a 0,6 g por centímetro cúbico de volume. Utilize 3 como aproximação para π.",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/136/enem_questao136_img1.png"
+    ],
+    "pergunta": "Qual é a massa, em grama, dessa escultura?",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "1.198,8",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "1.296,0",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "1.360,8",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "4.665,6",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "4.860,0",
+            "imgUrl": null
+        }
+    ]
+}

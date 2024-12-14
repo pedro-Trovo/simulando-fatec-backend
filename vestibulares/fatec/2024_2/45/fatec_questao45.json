@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 45,
+    "disciplina": "História",
+    "enunciado": "Em 1958, num congresso da Conmebol realizado no Rio de Janeiro, ficou definido que seria realizada uma competição continental com os clubes campeões nacionais de futebol da América do Sul. Em 1965, o torneio teve seu nome alterado para Copa Libertadores da América. O motivo da mudança tinha a ver com identidade regional, pois o novo nome homenageava um conjunto de líderes que se destacaram na história do continente.<br><br>Em 1958, num congresso da Conmebol realizado no Rio de Janeiro, ficou definido que seria realizada uma competição continental com os clubes campeões nacionais de futebol da América do Sul. Em 1965, o torneio teve seu nome alterado para Copa Libertadores da América.",
+    "imgs": [],
+    "pergunta": "O motivo da mudança tinha a ver com identidade regional, pois o novo nome homenageava um conjunto de líderes que se destacaram na história do continente.",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "pelo fim das ditaduras cívico-militares implementadas nos países do chamado \\\"Cone Sul\\\", região que abriga México, Guatemala e Honduras.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "pela eliminação das seleções de Alemanha, Itália, Espanha e França das Copas do Mundo de 1934, 1938, 1950 e 1954.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "pela independência dos países de colonização espanhola e portuguesa na porção Sul do Continente Americano.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "pela resistência dos povos indígenas da América Latina à dominação colonial espanhola e portuguesa no continente.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "pela abolição legal do tráfico e do comércio de escravizados africanos, que levou à libertação de milhares de cativos em todo o continente.",
+            "imgUrl": null
+        }
+    ]
+}

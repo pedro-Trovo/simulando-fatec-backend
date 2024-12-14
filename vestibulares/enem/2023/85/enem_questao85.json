@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 85,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Produtores rurais europeus são antigos opositores de um grande acordo com o Mercosul. Na visão deles, existe um nítido risco de concorrência desleal, pois, na Europa, é preciso seguir regras mais rígidas de produção, o que encarece o processo. Assim, eles não conseguiriam competir com os preços, por exemplo, da carne brasileira e teriam seus negócios ameaçados. Por outro lado, o setor industrial europeu se mobiliza a favor do acordo, uma vez que as reduções de tarifas no comércio internacional dariam maior acesso ao mercado sul-americano. Um exemplo é o setor automotivo europeu, que prevê maior participação e concorrência nos países do Mercosul caso o acordo siga em frente.<br><br>ROUBICEK, M. Como o risco ambiental afeta o acordo entre Mercosul e União Europeia.  <br>Disponível em: www.nexojornal.com.br. Acesso em: 25 out. 2021.",
+    "imgs": [],
+    "pergunta": "No contexto do acordo citado, os dois grupos econômicos europeus defendem, respectivamente, a",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Restrição dos fluxos migratórios e a maior atuação de sindicatos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Ampliação das leis trabalhistas e a plena importação de manufaturados.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Proteção das florestas nacionais e a ampla transferência de tecnologias.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Manutenção das barreiras fitossanitárias e a livre circulação de mercadorias.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Remoção dos entraves alfandegários e a melhor remuneração de empregados.",
+            "imgUrl": null
+        }
+    ]
+}

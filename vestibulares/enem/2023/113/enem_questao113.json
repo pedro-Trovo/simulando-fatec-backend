@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 113,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "O bluetooth é uma tecnologia de comunicação sem fio, de curto alcance, presente em diferentes dispositivos eletrônicos de consumo. Ela permite que aparelhos eletrônicos diferentes se conectem e troquem dados entre si. No padrão bluetooth, denominado de Classe 2, as antenas transmitem sinais de potência igual a 2,4 mW e possibilitam conectar dois dispositivos distanciados até 10 m. Considere que essas antenas se comportam como fontes puntiformes que emitem ondas eletromagnéticas esféricas e que a intensidade do sinal é calculada pela potência por unidade de área. Considere 3 como valor aproximado para π. <br>Para que o sinal de bluetooth seja detectado pelas antenas, o valor mínimo de sua intensidade, em W/m²?, e mais próximo de",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2023/113/enem_questao113_alter-A.png"
+        },
+        {
+            "letra": "B",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2023/113/enem_questao113_alter-B.png"
+        },
+        {
+            "letra": "C",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2023/113/enem_questao113_alter-C.png"
+        },
+        {
+            "letra": "D",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2023/113/enem_questao113_alter-D.png"
+        },
+        {
+            "letra": "E",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2023/113/enem_questao113_alter-E.png"
+        }
+    ]
+}

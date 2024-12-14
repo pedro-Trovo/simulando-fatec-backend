@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 133,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "O descarte de detergentes comuns nos esgotos domésticos ocasiona a formação de uma camada de espuma que impede a entrada de oxigênio na água. Os microrganismos que vivem nessas águas não são capazes de quebrar moléculas ramificadas, ocorrendo assim um desequilíbrio ambiental nos rios. A fórmula a seguir representa a estrutura química de um tensoativo presente na composição de um detergente não biodegradável.<br><br><img src=\"vestibulares/enem/enemFormatado/2023/133/enem_questao133_img1.png\" alt=\"imagem 1 da questão\"><br><br>**Tensoativo não biodegradável**",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/133/enem_questao133_img1.png"
+    ],
+    "pergunta": "Qual modificação química na estrutura desse tensoativo o tornaria um detergente biodegradável?",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Retirar a parte polar da molécula.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Eliminar as insaturações do anel aromático.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Trocar o grupo aniônico por um grupo neutro.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Alterar o grupo aniônico por um grupo catiônico.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Modificar a cadeia carbônica para cadeia normal.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 107,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "A biomassa celulósica pode ser utilizada para a produção de etanol de segunda geração. Entretanto, é necessário que os polissacarídeos sejam convertidos em mono e dissacarídeos, processo que pode ser conduzido em meio ácido, conforme mostra o esquema:<br><br><img src=\"vestibulares/enem/enemFormatado/2022/107/enem_questao107_img1.png\" alt=\"imagem 1 da questão\"><br><br>OGEDA, T. L.; PETRI, D. F. S. \\[…\\] **Química Nova**, n. 7, 2010 (adaptado).",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/107/enem_questao107_img1.png"
+    ],
+    "pergunta": "Nessa conversão de polissacarídeos, a função do íon H+ é",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Dissolver os reagentes.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Deslocar o equilíbrio químico.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Aumentar a velocidade da reação.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Mudar a constante de equilíbrio da reação.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Formar ligações de hidrogênio com o polissacarídeo.",
+            "imgUrl": null
+        }
+    ]
+}

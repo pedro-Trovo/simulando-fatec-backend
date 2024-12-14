@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 78,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Os movimentos da agricultura urbana no Rio de Janeiro vêm crescendo nos últimos vinte anos, tanto por meio de reproduções de modelos de vida antigos, vinculados ao resgate dos próprios costumes, como — e cada vez mais — são revelados hábitos inventivos nos quais moradores urbanos de diferentes classes sociais, sem nenhuma referência anterior com o campo, passam a se dedicar a essas atividades. Ao possibilitar o acesso ao plantio e, consequentemente, à alimentação, permite-se uma nova relação com o que se come, reduzindo o percurso da cadeia produtiva e aproximando produtores de consumidores, pois ambos se confundem nas experiências de agricultura urbana.<br><br>PORTILHO, M.; RODRIGUES, C. G. O.; FERNANDEZ, A. C. F. Cultivando relações no arranjo local da Penha: a mobilização de mulheres a partir das práticas de agricultura urbana na favela. Cidades, Comunidades e Territórios, n. 42, jun. 2021.",
+    "imgs": [],
+    "pergunta": "A prática agrícola destacada no texto apresenta como vantagem no espaço urbano a",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Ocupação de lugares ociosos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Densificação da área central.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Valorização do mercado externo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Priorização de insumos químicos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Mecanização de técnicas de cultivo.",
+            "imgUrl": null
+        }
+    ]
+}

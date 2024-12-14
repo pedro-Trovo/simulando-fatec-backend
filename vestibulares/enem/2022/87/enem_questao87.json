@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 87,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Macrocefalia urbana pode ser entendida como a massiva concentração das atividades econômicas em algumas metrópoles que propicia o desencadeamento de processos descompassados: redirecionamento e convergência de fluxos migratórios, déficit no numero de empregos, ocupação desordenada em determinadas regiões da cidade e estigmatizarão de estratos sociais , que comprometem substancialmente a segurança pública urbana.<br><br>SANTOS, M. **O espaço dividido:** os dois circuitos da economia urbana dos países subdesenvolvidos. São Paulo: Edusp. 2004.",
+    "imgs": [],
+    "pergunta": "O processo de concentração espacial apresentado foi estimulado por qual fator geográfico?",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Limitação da Área ocupada",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Êxodo da população do campo",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Ampliação do risco habitacional",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Deficiência do transporte alternativo",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Crescimento da taxa de fecundidade",
+            "imgUrl": null
+        }
+    ]
+}

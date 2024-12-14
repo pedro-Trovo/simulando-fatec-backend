@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 18,
+    "disciplina": "Linguagens",
+    "enunciado": "Morte lenta ao luso infame que inventou a calçada portuguesa. Maldito D. Manuel l e sua corja de tenentes Eusébios. Quadrados de pedregulho irregular socados à mão. À mäo! É claro que ia soltar, ninguém reparou que ia soltar? Branco, preto, branco, preto, as ondas do mar de Copacabana. De que me servem as ondas do mar de Copacabana? Me deem chão liso, sem protuberâncias calcárias. Mosaico estúpido. Mania de mosaico. Joga concreto em cima e aplaina. Buraco, cratera, pedra solta, bueiro-bomba. Depois dos setenta, a vida se transforma numa interminável corrida de obstáculos. A queda é a maior ameaça para o idoso. “Idoso”, palavra odienta. Pior, só “terceira idade”. A queda separa a velhice da senilidade extrema. O tombo destrói a cadeia que liga a cabeça aos pés. Adeus, corpo. Em casa, vou de corrimão em corrimão, tateio móveis e paredes, e tomo banho sentado. Da poltrona para a janela, da janela para a cama, da cama para a poltrona, da poltrona para a janela. Olha aí, outra vez, a pedrinha traiçoeira atrás de me pegar. Um dia eu caio, hoje não.<br><br>**TORRES. F. Fim. São Paulo: Cia das Letras, 2013.**",
+    "imgs": [],
+    "pergunta": "O recurso que caracteriza a organização estrutural desse texto é o(a)",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Justaposição de sequências verbais e nominais.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Mudança de eventos resultante do jogo temporal.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Uso de adjetivos qualificativos na descrição do cenário.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Encadeamento semântico pelo uso de substantivos sinônimos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Inter-relação entre orações por elementos linguisticos lógicos.",
+            "imgUrl": null
+        }
+    ]
+}

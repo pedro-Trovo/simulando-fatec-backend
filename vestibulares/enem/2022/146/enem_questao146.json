@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 146,
+    "disciplina": "Matemática",
+    "enunciado": "Um parque tem dois circuitos de tamanhos diferentes para corridas. Um corredor treina nesse parque e, no primeiro dia, inicia seu treino percorrendo  <br>3 voltas em torno do circuito maior e 2 voltas em torno do menor, perfazendo um total de 1 800 m. Em seguida, dando continuidade a seu treino, corre mais 2 voltas em torno do circuito maior e 1 volta em torno do menor,  <br>percorrendo mais 1 100 m.<br><br>No segundo dia, ele pretende percorrer 5 000 m nos circuitos do parque, fazendo um número inteiro de voltas em torno deles e de modo que o número de voltas seja o maior possível.",
+    "imgs": [],
+    "pergunta": "A soma do número de voltas em torno dos dois circuitos, no segundo dia, será",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "10.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "13.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "14.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "15.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "16",
+            "imgUrl": null
+        }
+    ]
+}

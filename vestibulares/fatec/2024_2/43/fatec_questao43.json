@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 43,
+    "disciplina": "Geografia",
+    "enunciado": "A região de Essequibo, reivindicada",
+    "imgs": [],
+    "pergunta": "engloba praticamente toda a área a oeste do Rio Essequibo. A região em questão tem cerca de 159 mil quilômetros quadrados (um pouco maior do que o estado do Ceará) tomados pelo bioma amazônico e é rica em recursos minerais e naturais.",
+    "gabarito": "043 - D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "pela Guiana\nbrasileiro",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "pela Guiana\nsurinamês",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "pela Venezuela\nsurinamês",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "pela Venezuela\nguianense",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "pelo Brasil\nvenezuelano",
+            "imgUrl": null
+        }
+    ]
+}

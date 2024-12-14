@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 31,
+    "disciplina": "Linguagens",
+    "enunciado": "Era o êxodo da seca de 1898. Uma ressurreição de cemitérios antigos — esqueletos redivivos, com o aspecto terroso e o fedor das covas podres.<br><br>Os fantasmas estropiados como que iam dançando, de tão trôpegos e trêmulos, num passo arrastado de quem leva as pernas, em vez de ser levado por elas.<br><br>Andavam devagar, olhando para trás, como quem quer voltar. Não tinham pressa em chegar, porque não sabiam aonde iam. Expulsos de seu paraíso por espadas de fogo, iam, ao acaso, em descaminhos, no arrastão dos maus fados.<br><br>Fugiam do sol e o sol guiava-os nesse forçado nomadismo.<br><br>Adelgaçados na magreira cômica, cresciam, como se o vento os levantasse. E os braços afinados desciam-lhes aos joelhos, de mãos abanando.<br><br>Vinham escoteiros. Menos os hidrópicos — de ascite consecutiva à alimentação tóxica — com os fardos das barrigas alarmantes.<br><br>Não tinham sexo, nem idade, nem condição nenhuma. Eram os retirantes. Nada mais.<br><br>ALMEIDA, J. A. **A bagaceira**. Rio de Janeiro: J. Olympio, 1978.",
+    "imgs": [],
+    "pergunta": "Os recursos composicionais que inserem a obra no chamado “Romance de 30” da literatura brasileira manifestam-se aqui no(a)",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Desenho cru da realidade dramática dos retirantes.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Indefinição dos espaços para efeito de generalização.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Análise psicológica da reação dos personagens à seca.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Engajamento político do narrador ante as desigualdades.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Contemplação lírica da paisagem transformada em alegoria.",
+            "imgUrl": null
+        }
+    ]
+}

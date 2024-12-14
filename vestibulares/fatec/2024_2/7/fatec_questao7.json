@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 7,
+    "disciplina": "Geografia",
+    "enunciado": "Com base no texto, é correto afirmar que a independência colombiana ocorreu em função da pressão estadunidense sobre o Panamá, que não aceitava a construção do Canal na América do Sul.",
+    "imgs": [],
+    "pergunta": "a utilização do Canal do Panamá reduz a distância percorrida por um navio, que parte do Leste dos Estados Unidos para o Oeste deste mesmo país, em comparação a um navio que faz a mesma ligação, porém contornando o extremo sul do continente americano.",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "os povoadores da América do Norte tiveram sua origem na Oceania, passaram pela Polinésia e seguiram viagem por mar, utilizando embarcações primitivas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "os primeiros povoadores da América partiram de um ponto de origem comum e realizaram diferentes rotas em direção aos territórios da atual América Latina.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "a rota dos primeiros habitantes da América se originou na Europa e, desse continente, rumou para a Ásia, de onde foi possível finalizar a travessia por terra.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "os territórios da atual América Latina foram tanto destino quanto origem de parte dos fluxos migratórios pré-históricos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "a impossibilidade de realizar os percursos por terra forçou o desenvolvimento de viagens marítimas como única forma de alcançar o Continente Americano.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 115,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "A variação da incidência de radiação solar sobre a superfície da Terra resulta em uma variação de temperatura ao longo de um dia denominada amplitude térmica. Edificações e pavimentações realizadas nas áreas urbanas contribuem para alterar as amplitudes térmicas dessas regiões, em comparação com regiões que mantêm suas características naturais, com presença de vegetação e água, já que o calor específico do concreto é inferior ao da água. Assim, parte da avaliação do impacto ambiental que a presença de concreto proporciona às áreas urbanas consiste em considerar a substituição da área concretada por um mesmo volume de água e comparar as variações de temperatura devido à absorção da radiação solar nas duas situações (concretada e alagada). Desprezando os efeitos da evaporação e considerando que toda a radiação é absorvida, essa avaliação pode ser realizada com os seguintes dados<br><br><img src=\"vestibulares/enem/enemFormatado/2022/115/enem_questao115_img1.png\" alt=\"imagem 1 da questão\"><br><br>ROMERO, M. A. B. et al. **Mudanças climáticas e ilhas de calor urbanas**. Brasília: UnB; ETB, 2019 (adaptado)",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/115/enem_questao115_img1.png"
+    ],
+    "pergunta": "A razão entre as variações de temperatura nas áreas concretada e alagada é mais próxima de",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "1,0.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "2,1.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "2,5.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "5,3.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "13,1.",
+            "imgUrl": null
+        }
+    ]
+}

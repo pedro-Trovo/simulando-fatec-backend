@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 4,
+    "disciplina": "Biologia",
+    "enunciado": "A América Latina é uma região rica em biodiversidade, abrigando uma grande variedade de espécies de mamíferos, como as capivaras (Hydrochoerus hydrochaeris), maiores roedores vivos do mundo. Entre as características que pertencem exclusivamente a classe dos animais citados no texto, destaca-se corretamente a presença de pelos, glândulas mamárias e diafragma.<br><br>A América Latina é uma região rica em biodiversidade, abrigando uma grande variedade de espécies de mamíferos, como as capivaras (Hydrochoerus hydrochaeris), maiores roedores vivos do mundo.",
+    "imgs": [],
+    "pergunta": "Entre as características que pertencem exclusivamente à classe dos animais citados no texto, destaca-se corretamente a presença de",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "escamas, coração com quatro cavidades e ectotermia.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "escamas, coração com três cavidades e diafragma.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "pelos, coração com três cavidades e diafragma.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "pelos, glândulas mamárias e ectotermia.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "pelos, glândulas mamárias e diafragma.",
+            "imgUrl": null
+        }
+    ]
+}

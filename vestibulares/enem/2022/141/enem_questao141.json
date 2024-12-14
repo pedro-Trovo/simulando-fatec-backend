@@ -1,0 +1,47 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 141,
+    "disciplina": "Matemática",
+    "enunciado": "Em um jogo de bingo, as cartelas contêm 16 quadrículas dispostas em linhas e colunas. Cada quadrícula tem impresso um número, dentre os inteiros de 1 a 50, sem repetição de número. Na primeira rodada, um número é sorteado, aleatoriamente, dentre os 50 possíveis. Em todas as rodadas, o número sorteado é descartado e não participa dos sorteios das rodadas seguintes. Caso o jogador tenha em sua cartela o número sorteado, ele o assinala na cartela. Ganha o jogador que primeiro conseguir preencher quatro quadrículas que formam uma linha, uma coluna ou uma diagonal, conforme os tipos de situações ilustradas na Figura 1.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/141/enem_questao141_img1.png\" alt=\"imagem 1 da questão\"><br><br>O jogo inicia e, nas quatro primeiras rodadas, foram sorteados os seguintes números: 03, 27, 07 e 48. Ao final da quarta rodada, somente Pedro possuía uma cartela que continha esses quatro números sorteados, sendo que todos os demais jogadores conseguiram assinalar, no máximo, um desses números em suas cartelas. Observe na Figura 2 o cartão de Pedro após as quatro primeiras rodadas.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/141/enem_questao141_img2.png\" alt=\"imagem 2 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/141/enem_questao141_img1.png",
+        "vestibulares/enem/enemFormatado/2022/141/enem_questao141_img2.png"
+    ],
+    "pergunta": "A probabilidade de Pedro ganhar o jogo em uma das duas próximas rodadas é",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/141/enem_questao141_alter-A.png"
+        },
+        {
+            "letra": "B",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/141/enem_questao141_alter-B.png"
+        },
+        {
+            "letra": "C",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/141/enem_questao141_alter-C.png"
+        },
+        {
+            "letra": "D",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/141/enem_questao141_alter-D.png"
+        },
+        {
+            "letra": "E",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/141/enem_questao141_alter-E.png"
+        }
+    ]
+}

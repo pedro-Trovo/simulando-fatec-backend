@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 165,
+    "disciplina": "Matemática",
+    "enunciado": "Definem-se o dia e o ano de um planeta de um sistema solar como sendo, respectivamente, o tempo que o planeta leva para dar 1 volta completa em torno de seu próprio eixo de rotação e o tempo para dar 1 volta completa em torno de seu Sol.  <br>Suponha que exista um planeta Z, em algum sistema solar, onde um dia corresponda a 73 dias terrestres e que 2 de seus anos correspondam a 1 ano terrestre. Considere que 1 ano terrestre tem 365 de seus dias.",
+    "imgs": [],
+    "pergunta": "No planeta Z, seu ano corresponderia a quantos de seus dias?",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "2,5",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "10,0",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "730,0",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "13 322,5",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "53 290,0",
+            "imgUrl": null
+        }
+    ]
+}

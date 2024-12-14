@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 26,
+    "disciplina": "Linguagens",
+    "enunciado": "**Assentamento**<br><br>Assentamento  <br>Zanza daqui  <br>Zanza pra acolá  <br>Fim de feira, periferia afora  <br>A cidade não mora mais em mim  <br>Francisco, Serafim  <br>Vamos embora  <br>Ver o capim  <br>Ver o baobá  <br>Vamos ver a campina quando flora  <br>A piracema, rios contravim  <br>Binho, Bel, Bia, Quim  <br>Vamos embora  <br>Quando eu morrer  <br>Cansado de guerra  <br>Morro de bem  <br>Com a minha terra:  <br>Cana, caqui  <br>Inhame, abóbora  <br>Onde só vento se semeava outrora  <br>Amplidão, nação, sertão sem fim  <br>Ó Manuel, Miguilim  <br>Vamos embora<br><br>**BUARQUE, C. As cidades. Rio de Janeiro: RCA, 1998 (fragmento).**",
+    "imgs": [],
+    "pergunta": "Nesse texto, predomina a função poética da linguagem. Entretanto, a função emotiva pode ser identificada no verso:",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "“Zanza pra acolá”.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "“Fim de feira, periferia afora”.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "“A cidade não mora mais em mim”.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "\"Onde só vento se semeava outrora”.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "“Ó Manuel, Miguilim”.",
+            "imgUrl": null
+        }
+    ]
+}

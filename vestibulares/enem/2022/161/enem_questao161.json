@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 161,
+    "disciplina": "Matemática",
+    "enunciado": "Uma empresa de engenharia projetou uma casa com a forma de um retângulo para um de seus clientes. Esse cliente solicitou a inclusão de uma varanda em forma de L. A figura apresenta a planta baixa desenhada pela empresa, já com a varanda incluída, cujas medidas, indicadas em centímetro, representam os valores das dimensões da varanda na escala de 1 : 50.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/161/enem_questao161_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/161/enem_questao161_img1.png"
+    ],
+    "pergunta": "A medida real da área da varanda, em metro quadrado, é",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "33,40",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "66,80",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "89,24",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "133,60",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "534,40",
+            "imgUrl": null
+        }
+    ]
+}

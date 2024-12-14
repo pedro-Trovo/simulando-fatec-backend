@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 38,
+    "disciplina": "História",
+    "enunciado": "Os indígenas Yanomami desempenham um papel fundamental na constituição da sociedade brasileira, contribuindo de maneira significativa para a riqueza e a diversidade do panorama cultural do país. No entanto, a presença do garimpo na terra indígena Yanomami contaminou a água dos rios da região com mercúrio, o que representa uma ameaça à existência dessa cultura. Na extração do ouro, os garimpeiros utilizam bateia e água para separar pequenas partículas de ouro da areia e das outras partículas menores. Porém, para separar pequenas partículas de ouro de outros sedimentos, os garimpeiros utilizam outro processo que consiste em adicionar mercúrio à mistura coletada no garimpo. Após esse processo, o mercúrio é descartado nos rios, e a contaminação da água faz o mercúrio atingir quase que diretamente os indígenas, o que provoca impactos na saúde dessa população. A análise de amostras de 4,2 gramas de cabelo dos indígenas revelou a presença de 25,2 microgramas de mercúrio. Essa quantidade superou o limite de 2 microgramas de mercúrio por grama de cabelo tolerado pela Organização Mundial da Saúde (OMS). O índice é considerado altíssimo por especialistas, que prevêem doenças graves a essa população em médio e longo prazo.<br><br>No Egito Antigo, a mumificação consistia em um conjunto de procedimentos químicos e físicos, incluindo a retirada de vísceras e órgãos, com a finalidade de preservar os corpos dos mortos.",
+    "imgs": [],
+    "pergunta": "Esse processo",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "era realizado entre os escravizados e as pessoas de classes sociais baixas, já que o faraó e sua família eram cremados em rituais de purificação da alma.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "teve início após a grande epidemia de varíola como uma tentativa de frear a disseminação do vírus e de impedi-lo de continuar se multiplicando.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "estava relacionado à crença religiosa da vida após a morte, permitiu o acúmulo de conhecimentos sobre anatomia humana e o desenvolvimento de tratamentos de saúde.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "foi duramente criticado por sacerdotes e por pessoas comuns, pois eles acreditavam que a alma sairia do corpo aberto e se perderia para sempre.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "deveria obrigatoriamente ser feito pelos membros da família do morto, sob comando de uma liderança religiosa local.",
+            "imgUrl": null
+        }
+    ]
+}

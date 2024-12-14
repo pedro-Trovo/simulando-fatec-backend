@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 19,
+    "disciplina": "Biologia",
+    "enunciado": "A América Latina é apontada pela Organização das Nações Unidas para Agricultura e Alimentação (FAO) como celeiro do mundo. Contudo, a produção de alimentos vem sendo ameaçada pelas plantas daninhas de difícil controle (PDDC), que são resistentes à aplicação de herbicidas e de defensivos agrícolas, constituindo um dos principais problemas à agricultura mundial. As PDDC competem com as culturas agrícolas por nutrientes, água, luz e espaço, podendo também ser hospedeiras de pragas e doenças. Uma das espécies infestantes mais nocivas à agricultura é o capim-amargoso (Digitaria insularis), que se desenvolve rapidamente por rizomas e sementes, com alta taxa de dispersão. Nesses casos, o controle biológico realizado com o uso de fungos fitopatógenos, microrganismos que causam doenças em plantas, tem se mostrado muito promissor, pois esses fungos promovem a inibição do crescimento das plantas de capim-amargoso e diminuem, de forma significativa, a produção de suas sementes.<br><br>A América Latina é apontada pela Organização das Nações Unidas para Agricultura e Alimentação (FAO) como celeiro do mundo. Contudo, a produção de alimentos vem sendo ameaçada pelas plantas daninhas de difícil controle (PDDC), que são resistentes à aplicação de herbicidas e de defensivos agrícolas, constituindo um dos principais problemas à agricultura mundial. As PDDC competem com as culturas agrícolas por nutrientes, água, luz e espaço, podendo também ser hospedeiras de pragas e doenças.",
+    "imgs": [],
+    "pergunta": "Uma das espécies infestantes mais nocivas à agricultura é o capim-amargoso (Digitaria insularis), que se desenvolve rapidamente por rizomas e sementes, com alta taxa de dispersão. Nesses casos, o controle biológico realizado com o uso de fungos fitopatógenos, microrganismos que causam doenças em plantas, tem se mostrado muito promissor, pois esses fungos promovem a inibição do crescimento das plantas de capim-amargoso e diminuem, de forma significativa, a produção de suas sementes. É correto afirmar que o método de controle biológico, citado no texto,",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "colabora para o aumento da quantidade de resíduos tóxicos de defensivos agrícolas nos alimentos cultivados com as espécies infestantes.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "permite o desenvolvimento e o aumento da taxa de dispersão das espécies infestantes nocivas à agricultura de soja, milho e trigo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "introduz genes de resistência aos herbicidas nas PDDC, responsáveis pelos principais problemas da agricultura mundial.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "impede o controle e o combate das pragas nas plantações, facilitando a dispersão das sementes das espécies invasoras.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "consiste no uso de organismos para reduzir ou erradicar, nas plantações, a infestação de espécies nocivas.",
+            "imgUrl": null
+        }
+    ]
+}

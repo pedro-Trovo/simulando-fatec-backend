@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 1,
+    "disciplina": "Raciocínio Lógico",
+    "enunciado": "Se a realidade virtual é entendida como a capacidade de criar ambientes que não existem na natureza, então ela foi uma criação do paleolítico, um exemplo são as pinturas rupestres. Entretanto, por volta de 3500 a.C., surgiu a forma mais poderosa de realidade virtual: a escrita, que transformava o registro oral em algo concreto, capaz de durar para sempre. Revista Super Interessante, edição 453, julho 2023, p.5. Adaptado.<br><br>Se a realidade virtual é entendida como a capacidade de criar ambientes que não existem na natureza, então ela foi uma criação do paleolítico, um exemplo são as pinturas rupestres. Entretanto, por volta de 3500 a.C., surgiu a forma mais poderosa de realidade virtual: a escrita, que transformava o registro oral em algo concreto, capaz de durar para sempre.",
+    "imgs": [],
+    "pergunta": "Ao considerar a frase destacada em negrito no texto, é correto afirmar que o conectivo lógico utilizado",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "apresenta uma oposição de ideias entre duas proposições, e representa a operação de negação.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "\"soma\" as ideias apresentadas por duas proposições, e representa a operação de conjunção.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "une proposições cujas ideias nunca poderiam ocorrer simultaneamente, e representa a operação de disjunção.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "subordina a ocorrência da segunda proposição à concretização da primeira proposição, e representa a operação condicional.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "estabelece a equivalência entre as ideias presentes em ambas as proposições, e representa a operação bicondicional.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 47,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Sempre que a relevância do discurso entra em jogo, a questão torna-se política por definição, pois é o discurso que faz do homem um ser político. E tudo que os homens fazem, sabem ou experimentam só tem sentido na medida em que pode ser discutido. Haverá, talvez, verdades que ficam além da linguagem e que podem ser de grande relevância para o homem no singular, isto é, para o homem que, seja o que for, não é um ser político. Mas homens no plural, isto é, os homens que vivem e se movem e agem neste mundo, só podem experimentar o significado das coisas por poderem falar e ser inteligíveis entre si e consigo mesmos.<br><br>ARENDT, H. **A condição humana**. Rio de Janeiro: Forense Universitária, 2004.",
+    "imgs": [],
+    "pergunta": "No trecho, a filósofa Hannah Arendt mostra a importância da linguagem no processo de",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Entendimento da cultura.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Aumento da criatividade.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Percepção da individualidade.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Melhoria da técnica.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Construção da sociabilidade.",
+            "imgUrl": null
+        }
+    ]
+}

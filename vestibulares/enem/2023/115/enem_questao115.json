@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 115,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "A biorremediação designa tratamentos que usam organismos para reduzir a quantidade de substâncias tóxicas no ambiente ou degradá-las em substâncias não tóxicas ou de menor toxicidade. Uma planta aquática, o aguapé, tem sido utilizada para a biorremediação de ambientes contaminados por metais tóxicos. Sabe-se que esses poluentes serão captados para dentro do corpo do vegetal.<br>Dentro do corpo do vegetal, esses contaminantes serão",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Digeridos por enzimas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Acumulados nos tecidos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Eliminados pelos estômatos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Metabolizados por glândulas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Utilizados como fonte energética.",
+            "imgUrl": null
+        }
+    ]
+}

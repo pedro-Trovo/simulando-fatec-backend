@@ -1,0 +1,47 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 132,
+    "disciplina": "Matemática",
+    "enunciado": "O manual de um automóvel alerta sobre os cuidados em relação à pressão do ar no interior dos pneus. Recomenda-se que a pressão seja verificada com os pneus frios (à temperatura ambiente). Um motorista, desatento a essa informação, realizou uma viagem longa sobre o asfalto quente e, em seguida, verificou que a pressão<img src=\"vestibulares/enem/enemFormatado/2023/132/enem_questao132_img1.png\" alt=\"imagem 1 da questão\"> no interior dos pneus não era a recomendada pelo fabricante. Na ocasião, a temperatura dos pneus era <img src=\"vestibulares/enem/enemFormatado/2023/132/enem_questao132_img2.png\" alt=\"imagem 2 da questão\">. Após um longo período em repouso, os pneus do carro atingiram a temperatura ambiente T. Durante o resfriamento, não há alteração no volume dos pneus e na quantidade de ar no seu interior. Considere o ar dos pneus um gás perfeito (também denominado gás ideal).",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/132/enem_questao132_img1.png",
+        "vestibulares/enem/enemFormatado/2023/132/enem_questao132_img2.png"
+    ],
+    "pergunta": "Durante o processo de resfriamento, os valores de pressão em relação à temperatura (P x T) são representados pelo gráfico:",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": null,
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": null,
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": null,
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": null,
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2023/132/enem_questao132_alter-E.png"
+        }
+    ]
+}

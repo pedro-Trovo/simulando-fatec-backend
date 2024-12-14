@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 114,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "As células da epiderme da folha da _Tradescantia pallida purpurea_, uma herbácea popularmente conhecida como trapoeraba-roxa, contém um vacúolo onde se encontra um pigmento que dá a coloração arroxeada a esse tecido. Em um experimento, um corte da epiderme de uma folha da trapoeraba-roxa foi imerso em ambiente hipotônico e, logo em seguida, foi colocado em uma lâmina e observado em microscópio óptico.",
+    "imgs": [],
+    "pergunta": "Durante a observação desse corte, foi possível identificar o(a)",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Acúmulo do solvente com fragmentação da organela.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Rompimento da membrana celular com liberação do citosol.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Aumento do vacúolo com diluição do pigmento no seu interior.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Quebra da parede celular com extravasamento do pigmento.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Murchamento da célula com expulsão do pigmento do vacúolo.",
+            "imgUrl": null
+        }
+    ]
+}

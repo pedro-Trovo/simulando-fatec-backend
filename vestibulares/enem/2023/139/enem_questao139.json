@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 139,
+    "disciplina": "Matemática",
+    "enunciado": "O gerente de uma fábrica pretende comparar a evolução das vendas de dois produtos similares (I e II). Para isso, passou a verificar o número de unidades vendidas de cada um desses produtos em cada mês. Os resultados dessa verificação, para os meses de abril a junho, são apresentados na tabela.<br><br><img src=\"vestibulares/enem/enemFormatado/2023/139/enem_questao139_img1.png\" alt=\"imagem 1 da questão\"><br><br>O gerente estava decidido a cessar a produção do produto II no mês seguinte àquele em que as vendas do produto I superassem as do produto II.  <br>Suponha que a variação na quantidade de unidades vendidas dos produtos I e II se manteve, mês a mês, como no período representado na tabela.",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/139/enem_questao139_img1.png"
+    ],
+    "pergunta": "Em qual mês o produto II parou de ser produzido?",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Junho.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Julho.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Agosto.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Setembro.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Outubro.",
+            "imgUrl": null
+        }
+    ]
+}

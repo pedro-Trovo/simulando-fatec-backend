@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 15,
+    "disciplina": "Química",
+    "enunciado": "No extremo sul do Chile, foi inaugurada, em 2022, a primeira planta industrial do mundo para produção de combustíveis ecológicos. O processo utiliza dois recursos: o vento e a água, que são abundantes na região. O vento é responsável pela geração de energia elétrica limpa fornecida à usina. Essa energia é utilizada a fim de realizar a eletrólise da água para obtenção de hidrogênio, substância usada na produção do combustível sintético (denominado e-fuel). Uma estação aspira o ar atmosférico e separa o dióxido de carbono dos demais componentes do ar. Por meio de pressurizadores, condensadores e filtros, o CO2 é armazenado no estado líquido. Feito isso, o próximo passo é reagir o CO2 com o hidrogênio, gerando o metanol sintético que, refinado, resulta na gasolina sintética, conforme o esquema.<br><br>No extremo sul do Chile, foi inaugurada, em 2022, a primeira planta industrial do mundo para produção de combustíveis ecológicos. O processo utiliza dois recursos: o vento e a água, que são abundantes na região. O vento é responsável pela geração de energia elétrica limpa fornecida à usina.",
+    "imgs": [],
+    "pergunta": "Essa energia é utilizada a fim de realizar a eletrólise da água para obtenção de hidrogênio, substância usada na produção do combustível sintético (denominado e-fuel).",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Condensação",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Vaporização",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Sublimação",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Fusão",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Ebulição",
+            "imgUrl": null
+        }
+    ]
+}

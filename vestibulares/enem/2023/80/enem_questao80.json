@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 80,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "O Golpe Militar de 1964 foi implacável no combate ao que restava das Ligas Camponesas, generalizadas na década anterior. No entanto, em relação aos sindicatos, sua atitude foi ambígua. Por meio de acordos com os Estados Unidos, foram concebidos centros sindicais e cursos de liderança com base em princípios conservadores e ministrados por membros da Igreja Católica.<br><br>DEL PRIORE, M.; VENÂNCIO, R. Uma história da vida rural no Brasil. Rio de Janeiro: Ediouro, 2006 (adaptado).",
+    "imgs": [],
+    "pergunta": "Os sindicatos rurais foram tratados da forma descrita no texto porque o governo pretendia utiliza-los para",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Controlar as tensões políticas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Limitar a legislação trabalhista.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Divulgar o programa populista.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Regularizar a propriedade da terra.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Estimular a oferta de mão de obra.",
+            "imgUrl": null
+        }
+    ]
+}

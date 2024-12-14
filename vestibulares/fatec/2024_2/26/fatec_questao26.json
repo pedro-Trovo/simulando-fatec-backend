@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 26,
+    "disciplina": "Português",
+    "enunciado": "A tevê dispara imagens que reproduzem o sistema e as vozes que lhe fazem eco; e não há canto do mundo que ela não alcance. O planeta inteiro é um vasto subúrbio de Dallas. Nós comemos emoções importadas como se fossem salsichas em lata, enquanto os jovens filhos da televisão, treinados para contemplar a vida em vez de fazê-la, sacodem os ombros.<br>Na América Latina, a liberdade de expressão consiste no direito ao resmungo em algum rádio ou em jornais de escassa circulação. Os livros não precisam ser proibidos pela polícia: os preços já os proíbem.<br><br>A tevê dispara imagens que reproduzem o sistema e as vozes que lhe fazem eco; e não há canto do mundo que ela não alcance. O planeta inteiro é um vasto subúrbio de Dallas. Nós comemos emoções importadas como se fossem salsichas em lata, enquanto os jovens filhos da televisão, treinados para contemplar a vida em vez de fazê-la, sacodem os ombros.",
+    "imgs": [],
+    "pergunta": "Na América Latina, a liberdade de expressão consiste no direito ao resmungo em algum rádio ou em jornais de escassa circulação. Os livros não precisam ser proibidos pela polícia: os preços já os proíbem.",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "a televisão, como ferramenta democrática de divulgação de informação, representa diferentes expressões culturais.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "a apropriação cultural ocorre nas gerações anteriores ao desenvolvimento da cultura de massa, fazendo-as se engajarem em movimentos sociais.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "países da América Latina têm acesso pleno à liberdade de expressão, valendo-se de recursos sonoros e escritos para se comunicar livremente.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "o incentivo ao desenvolvimento cultural, à liberdade de expressão e à mobilização social ocorre devido ao aparecimento da televisão e do rádio.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "a mídia de massa gera um alheamento social, resultado da falta de acesso à cultura e da difusão de uma cultura hegemônica.",
+            "imgUrl": null
+        }
+    ]
+}

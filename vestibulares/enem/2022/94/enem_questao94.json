@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 94,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "<img src=\"vestibulares/enem/enemFormatado/2022/94/enem_questao94_img1.png\" alt=\"imagem 1 da questão\"><br><br>Os riscos apresentados pelos produtos dependem de suas propriedades e da reatividade quando em contato com outras substâncias. Para prevenir os riscos devido à natureza química dos produtos, devemos conhecer a lista de substâncias incompatíveis e de uso cotidiano em fábricas, hospitais e laboratórios, a fim de observar cuidados na estocagem, manipulação e descarte. O quadro elenca algumas dessas incompatibilidades, que podem levar à ocorrência de acidentes.<br><br>Considere que houve o descarte indevido de dois conjuntos de substâncias:  <br>(1) ácido clorídrico concentrado com cianeto de potássio;  <br>(2) ácido nítrico concentrado com sacarose.<br><br>Disponível em: www.fiocruz.br. Acesso em: 6 dez. 2017 (adaptado).",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/94/enem_questao94_img1.png"
+    ],
+    "pergunta": "O descarte dos conjuntos (1) e (2) resultará, respectivamente, em",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Liberação de gás tóxico e reação oxidativa forte.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Reação oxidativa forte e liberação de gás tóxico.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Formação de sais tóxicos e reação oxidativa forte.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Liberação de gás tóxico e liberação de gás oxidante.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Formação de sais tóxicos e liberação de gás oxidante.",
+            "imgUrl": null
+        }
+    ]
+}

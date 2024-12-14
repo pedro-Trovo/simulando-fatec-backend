@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 154,
+    "disciplina": "Matemática",
+    "enunciado": "Em janeiro de 2013, foram declaradas 1 794 272 admissões e 1 765 372 desligamentos no Brasil, ou seja,  <br>foram criadas 28 900 vagas de emprego, segundo dados do Cadastro Geral de Empregados e Desempregados (Caged), divulgados pelo Ministério do Trabalho e Emprego (MTE). Segundo o Caged, o número de vagas criadas em janeiro de 2013 sofreu uma queda de 75%, quando comparado com o mesmo período de 2012.<br><br>Disponível em: http://portal.mte.gov.br. Acesso em: 23 fev. 2013 (adaptado).",
+    "imgs": [],
+    "pergunta": "De acordo com as informações dadas, o número de vagas criadas em janeiro de 2012 foi",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "16 514.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "86 700.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "115 600.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "441 343.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "448 568.",
+            "imgUrl": null
+        }
+    ]
+}

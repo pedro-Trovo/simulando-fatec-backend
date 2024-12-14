@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 81,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "**Decreto-Lei n. 1 949, de 27/17/1937**<br><br>Art. 1.o Fica criado o Departamento de Imprensa e Propaganda (DIP), diretamente  subordinado ao presidente da República.  <br>Art. 2.o O DIP tem por fim:  <br>**h)** coordenar e incentivar as relações da imprensa com os poderes públicos no sentido de maior aproximação da mesma com os fatos que se ligam aos interesses nacionais;<br><br>**n)** autorizar mensalmente a devolução dos depósitos efetuados pelas empresas jornalísticas para importação de papel para imprensa , uma vez demonstrada, a seu juízo, a eficiência e a utilidade pública dos jornais ou periódicos por elas administrados ou dirigidos.<br><br>**BRASIL apud CARONE, E. A Terceira República. (1937-1945). São Paulo: Difel, 1982. (Adaptado).**",
+    "imgs": [],
+    "pergunta": "Com base nos trechos do decreto, as finalidades do órgão criado permitiram ao governo promover o(a)",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Diversificação da opinião pública.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Mercantilização da cultura popular.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Controle das organizações sindicais.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Cerceamento da liberdade de expressão.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Privatização dos meios de comunicação",
+            "imgUrl": null
+        }
+    ]
+}

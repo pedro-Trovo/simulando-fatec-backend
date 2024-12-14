@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 13,
+    "disciplina": "Matemática",
+    "enunciado": "Na ilha de Marajó, pertencente ao Pará, a arte marajoara é composta principalmente por artefatos de cerâmica trabalhados de maneira cuidadosa e detalhada. Para isso, povos pré-históricos brasileiros daquela região aplicavam técnicas de combinação de cores que tornavam as peças sofisticadas e requintadas. Essas cores eram extraídas de elementos da natureza local, como urucum, caulim, e jenipapo.<br><https://tinyurl.com/2s474vzp> Acesso em: 23.08.23. Adaptado.<br><br>Na ilha de Marajó, pertencente ao Pará, a arte marajoara é composta principalmente por artefatos de cerâmica trabalhados de maneira cuidadosa e detalhada. Para isso, povos pré-históricos brasileiros daquela região aplicavam técnicas de combinação de cores que tornavam as peças sofisticadas e requintadas. Essas cores eram extraídas de elementos da natureza local, como urucum, caulim, e jenipapo.",
+    "imgs": [],
+    "pergunta": "Considere que 1000 mL de azeite custe R$ 60,00 e que 100 g de urucum em pó custe R$ 2,00. Assinale a alternativa que apresenta, corretamente, o custo com matéria-prima para a elaboração da receita de tinta de urucum na quantidade necessária para que o artista realize a pintura proposta. (Utilize π = 3)",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "R$ 8,16",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "R$ 7,20",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "R$ 4,50",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "R$ 1,68",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "R$ 0,96",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 100,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "Um professor lança uma esfera verticalmente para cima, a qual retorna, depois de alguns segundos, ao ponto de lançamento. Em seguida, lista em um quadro todas as possibilidades para as grandezas cinemáticas.<br><br><img src=\"vestibulares/enem/enemFormatado/2023/100/enem_questao100_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/100/enem_questao100_img1.png"
+    ],
+    "pergunta": "Ele solicita aos alunos que analisem as grandezas cinemáticas no instante em que a esfera atinge a altura máxima, escolhendo uma combinação para os módulos e sentidos da velocidade e da aceleração. A escolha que corresponde à combinação correta é",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "V = 0 e a ≠ 0 para cima.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "V ≠ 0 para cima e a = 0",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "V = 0 e a ≠ 0 para baixo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "V ≠ 0 para cima e a ≠ 0 para cima.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "V ≠ 0 para baixo e a ≠ 0 para baixo.",
+            "imgUrl": null
+        }
+    ]
+}

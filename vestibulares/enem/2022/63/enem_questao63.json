@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 63,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Ainda que a fome ocorrida na Itália em 536 tenha origem nos eventos climáticos, suas implicações são tanto políticas quanto econômicas. Nos primeiros séculos da Idade Média, o auxílio aos famintos se inscreve no domínio da gestão pública, mesmo quando a ação de seus agentes é apresentada sob o ângulo da piedade e da caridade individuais, como é o caso da Gália merovíngia. Assim, o fato de que as respostas à fome são mostradas, na Gália, como o fruto de iniciativas pessoais fundadas no imperativo da caridade deriva da natureza das fontes do século VI.<br><br>**SILVA, M.C. Os agentes públicos e a fome nos primeiros séculos da Idade Média. Varia Historia, n. 60, set-dez. 2016 (Adaptado).**",
+    "imgs": [],
+    "pergunta": "Na conjuntura histórica destacada no texto, o dever de agir em face da situação de crise apresentada pertencia à jurisdição",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Da nobreza, proveniente da obrigação de proteção ao campenisnato livre.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Da realeza, decorrente do conceito de governo subjacente à monarquia cristã.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Dos mosteiros, resultante do caráter fraternal afirmado nas regras monásticas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Dos bispados, consequente da participação dos clérigos nos assuntos comunitários.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Das corporações, procedente do padrão assistencialista previsto nas normas estatutárias.",
+            "imgUrl": null
+        }
+    ]
+}

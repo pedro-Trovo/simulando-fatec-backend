@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 59,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Do século XVI em diante, pelo menos nas classes mais altas, o garfo passou a ser usado como utensílio para comer, chegando através da Itália primeiramente à França e, em seguida, à Inglaterra e à Alemanha, depois de ter servido, durante algum tempo, apenas para retirar alimentos sólidos da travessa. Henrique III introduziu-o na França, trazendo-o provavelmente de Veneza. Seus cortesãos não foram pouco ridicularizados por essa maneira “afetada” de comer e, no princípio, não eram muito hábeis no uso do utensílio: pelo menos se dizia que metade da comida cala do garfo no caminho do prato à boca. Em data tão recente como o século XVII, o garfo era ainda basicamente artigo de luxo, geralmente feito de prata ou ouro.<br><br>ELIAS. N. **O processo civilizador**: uma história dos costumes. Rio de Janeiro: Zahar, 1994.",
+    "imgs": [],
+    "pergunta": "O processo social relatado indica a formação de uma etiqueta que tem como principio a",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Distinção das classes sociais.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Valorização de habitos de higiene.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Exaltação da cultura mediterrânea.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Consagração de tradições medievais.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Disseminação de produtos manufaturados.",
+            "imgUrl": null
+        }
+    ]
+}

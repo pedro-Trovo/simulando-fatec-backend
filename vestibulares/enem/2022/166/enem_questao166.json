@@ -1,0 +1,41 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 166,
+    "disciplina": "Matemática",
+    "enunciado": "Em uma competição de velocidade, diz-se que há uma ultrapassagem quando um veículo que está atrás de outro passa à sua frente, com ambos se deslocando no mesmo sentido. Considere uma competição automobilística entre cinco carros em uma pista com 100 m de comprimento, onde todos largam no mesmo instante e da mesma linha.  <br>O gráfico mostra a variação da distância percorrida por cada  <br>veículo, em função do tempo, durante toda a competição.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/166/enem_questao166_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/166/enem_questao166_img1.png"
+    ],
+    "pergunta": "Qual o número de ultrapassagens, após o início da competição, efetuadas pelo veículo que chegou em<br>último lugar?",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "1",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "2",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "3",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "4",
+            "imgUrl": null
+        }
+    ]
+}

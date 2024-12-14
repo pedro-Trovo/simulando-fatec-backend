@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 27,
+    "disciplina": "Português",
+    "enunciado": "A leitura do mapa permite concluir, corretamente, que os povoadores da América do Norte tiveram sua origem na Oceania, passaram pela Polinésia e seguiram viagem por mar, utilizando embarcações primitivas.<br><br>O uso de conotação é recorrente, no texto apresentado, devido a seu caráter literário.",
+    "imgs": [],
+    "pergunta": "Isso fica evidente na oração \\\"o planeta inteiro é um vasto subúrbio de Dallas\\\", que é uma",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "metáfora.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "zeugma.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "personificação.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "paradoxo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "catacrese.",
+            "imgUrl": null
+        }
+    ]
+}

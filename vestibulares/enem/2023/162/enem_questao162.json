@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 162,
+    "disciplina": "Matemática",
+    "enunciado": "Para concretar a laje de sua residência, uma pessoa contratou uma construtora. Tal empresa informa que o preço _y_ do concreto bombeado é composto de duas partes: uma fixa, chamada de taxa de bombeamento, e uma variável, que depende do volume _x_ de concreto utilizado. Sabe-se que a taxa de bombeamento custa R$ 500,00 e que o metro cúbico do concreto bombeado é de R$ 250,00.",
+    "imgs": [],
+    "pergunta": "A expressão que representa o preço y em função do volume x, em metro cúbico, é",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Y = 250x",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Y = 500x",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Y = 750x",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Y = 250x + 500",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Y = 500x + 250",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 49,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "<img src=\"vestibulares/enem/enemFormatado/2022/49/enem_questao49_img1.png\" alt=\"imagem 1 da questão\"><br><br>**PAZ, A. D. Disponível em: www.ct.ufpb.br. Acesso em: 15 out. 2021. (adaptado.)**",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/49/enem_questao49_img1.png"
+    ],
+    "pergunta": "A intensificação da ocupação urbana demonstrada afeta de forma imediata o(a)",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Nível altimétrico.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Ciclo hidrológico.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Padrão climático.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Tectônica das placas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Estrutura das rochas.",
+            "imgUrl": null
+        }
+    ]
+}

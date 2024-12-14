@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 32,
+    "disciplina": "Biologia",
+    "enunciado": "No século XIX, o cientista inglês Charles Darwin explorou a costa da América do Sul, da Bahia ao arquipélago de Galápagos, situado a aproximadamente 1000 km da costa do Equador. Darwin foi um dos primeiros naturalistas a explorar esse arquipélago, onde observou uma fauna e uma flora que variavam de ilha para ilha e que diferiam de outras encontradas no continente. As inúmeras observações e pesquisas realizadas por esse naturalista desencadearam reflexões que o levaram a desenvolver suas ideias sobre a evolução da vida, as quais se basearam<br><br>No século XIX, o cientista inglês Charles Darwin explorou a costa da América do Sul, da Bahia ao arquipélago de Galápagos, situado a aproximadamente 1000 km da costa do Equador. Darwin foi um dos primeiros naturalistas a explorar esse arquipélago, onde observou uma fauna e uma flora que variavam de ilha para ilha e que diferiam de outras encontradas no continente.",
+    "imgs": [],
+    "pergunta": "As inúmeras observações e pesquisas realizadas por esse naturalista desencadearam reflexões que o levaram a desenvolver suas ideias sobre a evolução da vida, as quais se basearam em que?",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "na transmissão genética, de um organismo parental aos descendentes, das características adquiridas por geração espontânea.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "nos avanços dos estudos da biotecnologia, da clonagem dos seres vivos e das mutações gênicas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "nas contribuições dos estudos químicos detalhados de cromossomos do genoma humano.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "nos estudos dos processos de sobrevivência dos seres vivos mais bem adaptados.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "na lei de uso e desuso das estruturas anatômicas do corpo dos animais.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 148,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "O mastro de uma bandeira foi instalado perpendicularmente ao solo em uma região plana. Devido aos fortes ventos, três cabos de aço, de mesmo comprimento, serão instalados para dar sustentação ao mastro. Cada cabo de aço ficará perfeitamente esticado, com uma extremidade num ponto P do mastro, a uma altura h do solo, e a outra extremidade, num ponto no chão, como mostra a figura.<br><br><img src=\"vestibulares/enem/enemFormatado/2023/148/enem_questao148_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/148/enem_questao148_img1.png"
+    ],
+    "pergunta": "Os cabos de aço formam um ângulo a com o plano do chão. Por medida de segurança, há apenas três opções de instalação:<br>• opção I: h = 11 m e a = 30°<br>• opção II: h = 12 m e a = 45°<br>• opção III: h = 18 m e a = 60°<br>A opção a ser escolhida é aquela em que a medida dos cabos seja a menor possível.<br>Qual será a medida, em metro, de cada um dos cabos a serem instalados?",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2023/148/enem_questao148_alter-A.png"
+        },
+        {
+            "letra": "B",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2023/148/enem_questao148_alter-B.png"
+        },
+        {
+            "letra": "C",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2023/148/enem_questao148_alter-C.png"
+        },
+        {
+            "letra": "D",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2023/148/enem_questao148_alter-D.png"
+        },
+        {
+            "letra": "E",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2023/148/enem_questao148_alter-E.png"
+        }
+    ]
+}

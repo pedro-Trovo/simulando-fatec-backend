@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 6,
+    "disciplina": "Física",
+    "enunciado": "O Canal do Panamá é uma construção de aproximadamente 82 km de comprimento, criado para facilitar o comércio marítimo mundial pela ligação dos oceanos Pacífico e Atlântico. O canal permite que os navios evitem a longa rota de, aproximadamente, 19000 km, que passa pelo Cabo Horn. Essa trajetória ocorre em torno da ponta mais meridional do continente americano, onde ventos fortes, correntes marítimas frias e icebergs fazem dessas águas uma das mais difíceis do mundo para navegação. Durante a realização da obra do canal, devido a uma diferença de nível entre o continente e os oceanos mencionados, foi necessária a construção de diversas eclusas e comportas. Para atravessar esse canal, um navio pode levar entre 6 e 10 horas. A França iniciou a construção do canal em 1881, e a abandonou em 1889. Entretanto, para alcançar seus interesses geopolíticos e econômicos, os Estados Unidos incentivaram a independência do Panamá em relação à Colômbia. Após esse evento, de 1903 a 1914, os Estados Unidos concluíram a obra e controlaram o canal até 1999, quando a administração foi transferida para o Panamá.<br><br>Segundo o texto, é possível afirmar corretamente que a mencionada obra de engenharia atingiu seu propósito por meio de construções de eclusas e comportas, que se baseiam",
+    "imgs": [],
+    "pergunta": "no princípio de Pascal e no conceito da termodinâmica.",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "no princípio de Pascal e no conceito da termodinâmica.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "no princípio da Inércia e no conceito de força da gravidade.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "no princípio de Arquimedes e no conceito de vasos comunicantes.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "no princípio da Conservação da Energia e no conceito de momento linear.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "no princípio da Reversibilidade da Luz e no conceito de decomposição luminosa.",
+            "imgUrl": null
+        }
+    ]
+}

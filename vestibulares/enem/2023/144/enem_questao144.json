@@ -1,0 +1,47 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 144,
+    "disciplina": "Matemática",
+    "enunciado": "A foto mostra a construção de uma cisterna destinada ao armazenamento de água. Uma cisterna como essa, na forma de cilindro circular reto com 3 m² de área da base, foi abastecida por um curso-d’água com vazão constante. O seu proprietário registrou a altura do nível da água no interior da cisterna durante o abastecimento em diferentes momentos de um mesmo dia, conforme o quadro.<br><br><img src=\"vestibulares/enem/enemFormatado/2023/144/enem_questao144_img1.png\" alt=\"imagem 1 da questão\"><br><br><img src=\"vestibulares/enem/enemFormatado/2023/144/enem_questao144_img2.png\" alt=\"imagem 2 da questão\"><br><br>Disponível em: www.paraibamix.com. Acesso em: 3 dez. 2012.",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/144/enem_questao144_img1.png",
+        "vestibulares/enem/enemFormatado/2023/144/enem_questao144_img2.png"
+    ],
+    "pergunta": "Qual foi a vazão, em metro cúbico por hora, do curso-d’água que abasteceu a cisterna?",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "0,3",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "0,5",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "0,9",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "1,8",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "2,7",
+            "imgUrl": null
+        }
+    ]
+}

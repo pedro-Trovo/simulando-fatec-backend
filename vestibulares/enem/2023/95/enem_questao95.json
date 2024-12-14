@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 95,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "As aves apresentam dois tipos de músculos em seus corpos: vermelhos e brancos. Aves migratórias como garças, gansos e patos selvagens têm os músculos vermelhos bem desenvolvidos, com ampla rede de vasos sanguíneos.<br>Nas viagens por grandes distâncias, tais músculos são fundamentais, pois favorecem o(a)",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Execução de manobras.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Metabolismo corpóreo elevado.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Manutenção da aerodinâmica.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Deslocamento a grandes velocidades.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Capacidade de voo em grandes altitudes.",
+            "imgUrl": null
+        }
+    ]
+}

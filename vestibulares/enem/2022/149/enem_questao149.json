@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 149,
+    "disciplina": "Matemática",
+    "enunciado": "Uma das informações que pode auxiliar no dimensionamento do número de pediatras que devem atender em uma Unidade Básica de Saúde (UBS) é o número que representa a mediana da quantidade de crianças por família existente na região sob sua responsabilidade. O quadro mostra a distribuição das frequências do número de crianças por família na região de responsabilidade de uma UBS.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/149/enem_questao149_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/149/enem_questao149_img1.png"
+    ],
+    "pergunta": "O número que representa a mediana da quantidade de crianças por família nessa região é",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "1,0.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "1,5.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "1,9.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "2,1.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "2,5.",
+            "imgUrl": null
+        }
+    ]
+}

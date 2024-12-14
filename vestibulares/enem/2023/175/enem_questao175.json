@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 175,
+    "disciplina": "Matemática",
+    "enunciado": "O metrô de um município oferece dois tipos de tíquetes com colorações diferentes, azul e vermelha, sendo vendidos em cartelas, cada qual com nove tíquetes da mesma cor e mesmo valor unitário. Duas cartelas de tíquetes azuis e uma cartela de tíquetes vermelhos são vendidas por R$ 32,40. Sabe-se que o preço de um tíquete azul menos o preço de um tíquete vermelho é igual ao preço de um tíquete vermelho mais cinco centavos.",
+    "imgs": [],
+    "pergunta": "Qual o preço, em real, de uma cartela de tíquetes vermelhos?",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "4,68",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "6,30",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "9,30",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "10,50",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "10,65",
+            "imgUrl": null
+        }
+    ]
+}

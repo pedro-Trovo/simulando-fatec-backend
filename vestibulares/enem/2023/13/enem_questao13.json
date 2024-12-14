@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 13,
+    "disciplina": "Linguagens",
+    "enunciado": "Girassol da madrugada  <br>Teu dedo curioso me segue lento no rosto  <br>Os sulcos, as sombras machucadas por onde a  <br>\\[vida passou.  <br>Que silêncio, prenda minha… Que desvio triunfal  <br>\\[da verdade,  <br>Que círculos vagarosos na lagoa em que uma asa  <br>\\[gratuita roçou..<br><br>Tive quatro amores eternos…  <br>O primeiro era moça donzela,  <br>O segundo… eclipse, boi que fala, cataclisma,  <br>O terceiro era a rica senhora,  <br>O quarto és tu… E eu afinal me repousei dos  <br>\\[meus cuidados<br><br>ANDRADE, M. Poesias completas. Rio de Janeiro: Nova Fronteira, 2013 (fragmento).",
+    "imgs": [],
+    "pergunta": "Perante o outro, o eu lírico revela, na força das memórias evocadas, a",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Vergonha das marcas provocadas pela passagem do tempo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Indecisão em face das possibilidades afetivas do presente.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Serenidade sedimentada pela entrega pacifica ao desejo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Frustração causada pela vontade de retorno ao passado.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Disponibilidade para a exploração do prazer efêmero.",
+            "imgUrl": null
+        }
+    ]
+}

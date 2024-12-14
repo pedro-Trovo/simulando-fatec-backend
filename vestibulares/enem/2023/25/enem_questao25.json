@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 25,
+    "disciplina": "Linguagens",
+    "enunciado": "Passado muito tempo, resolvi tentar falar, porque estava sozinha me embrenhando na mesma vereda que Donana costumava entrar. Ainda recordo da palavra que escolhi: arado. Me deleitava vendo meu pai conduzindo o arado velho da fazenda carregado pelo boi, rasgando a terra para depois lançar grãos de arroz em torrões marrons e vermelhos revolvidos. Gostava do som redondo fácil e ruidoso que tinha ao ser enunciado. “Vou trabalhar no arado.” “Vou arar a terra.” “Seria bom ter um arado novo, esse arado tá troncho e velho.” O som que deixou minha boca era uma aberração, uma desordem, como se no lugar do pedaço perdido da língua tivesse um ovo quente. Era um arado torto, deformado, que penetrava a terra de tal forma a deixá-la infértil, destruída, dilacerada.<br><br>VIEIRA JR.. I. **Torto arado**. São Paulo: Todavia, 2019.",
+    "imgs": [],
+    "pergunta": "Com a perda de parte da língua na infância, a narradora tenta voltar a falar. Essa tentativa revela uma experiência que",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Reflete o olhar do pai sobre as etapas do plantio.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Metaforiza a linguagem como ferramenta de lavoura.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Explicita, na busca pela palavra, o medo da solidão.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Confirma a frustração da narradora com relação à terra.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Sugere, na ausência da linguagem, a estagnação do tempo.",
+            "imgUrl": null
+        }
+    ]
+}

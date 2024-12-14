@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 39,
+    "disciplina": "Linguagens",
+    "enunciado": "A petição on-line criada por um cidadão paulista surtiu efeito: casado há três anos com seu companheiro, ele pedia a alteração da definição de “casamento” no tradicional dicionário _Michaelis_ em português. Na definição anterior, casamento aparecia como “união legítima entre homem e mulher” e “união legal entre homem e mulher, para constituir família”.<br><br>O novo verbete não traz em nenhum momento as palavras homem ou mulher — agora a definição de casamento se refere a “pessoas”.<br><br>Para o diretor de comunicação do site onde a petição foi publicada, a iniciativa mostra a “eficiência da mobilização”. “Em dois dias, mudou-se uma definição que permanecia a mesma há décadas”, afirma. E conclui: “A plataforma serve para todos os tipos de causas, para as mudanças que importam para as pessoas.”.<br><br>SENRA, R. Disponível em: www.bbc.com. Acesso em: 29 out. 2015.",
+    "imgs": [],
+    "pergunta": "A notícia trata da mudança ocorrida em um dicionário da língua portuguesa. Segundo o texto, essa mudança foi impulsionada pela",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Inclusão de informações no verbete.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Relevância social da instituição casamento.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Utilização pública da petição pelos cidadãos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Rapidez na disseminação digital do verbete.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Divulgação de plataformas para a criação de petição",
+            "imgUrl": null
+        }
+    ]
+}

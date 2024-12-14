@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 124,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "Durante o ano de 2020, impulsionado pela necessidade de respostas rápidas e eficientes para desinfectar ambientes de possíveis contaminações com o SARS-CoV-2, causador da covid-19, diversas alternativas foram buscadas para  <br>os procedimentos de descontaminação de materiais e ambientes. Entre elas, o uso de ozônio em meio aquoso como agente sanitizante para pulverização em humanos e equipamentos de proteção em câmaras ou túneis, higienização de automóveis e de ambientes fechados e descontaminação de trajes. No entanto, pouca atenção foi dada à toxicidade do ozônio, à formação de subprodutos, ao  <br>nível de concentração segura e às precauções necessárias.<br><br>LIMA, M. J. A.; FELIX, E. P.; CARDOSO, A. A. Aplicações e implicações do ozônio na indústria, ambiente e saúde. Química Nova, n. 9, 2021 (adaptado).",
+    "imgs": [],
+    "pergunta": "O grande risco envolvido no emprego indiscriminado dessa substância deve-se à sua ação química como",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Catalisador.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Oxidante.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Redutor.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Ácido.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Base.",
+            "imgUrl": null
+        }
+    ]
+}
