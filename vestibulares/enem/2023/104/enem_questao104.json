@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 104,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "O vidro contendo alumínio em sua composição é um excelente material para acondicionar medicamentos e suplementos, porque pode ser esterilizado por aquecimento. No entanto, quando o medicamento ou suplemento contém substâncias que se ligam fortemente ao íon desse metal, a dissolução do alumínio é promovida em função do deslocamento do equilíbrio químico estabelecido entre a espécie imobilizada no vidro e a espécie em solução. Por essa razão, recomenda-se que suplementos de nutrição de recém-nascidos contendo gluconato de cálcio sejam acondicionados em embalagens plásticas, e não nesse tipo de vidro.<br><br>**Atualização da recomendação da Sociedade Portuguesa de Neonatologia.**  <br>Disponível em: www.spneonatologia.pt. Acesso em: 22 out. 2021 (adaptado).",
+    "imgs": [],
+    "pergunta": "Caso esse suplemento seja acondicionado em embalagem desse tipo de vidro, o risco de contaminação por alumínio será maior se o(a)",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Vidro do frasco for translúcido.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Concentração de gluconato de cálcio for alta.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Frasco de vidro apresentar uma maior espessura.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Vidro for previamente esterilizado em altas temperaturas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Reação do alumínio com gluconato de cálcio for endotérmica.",
+            "imgUrl": null
+        }
+    ]
+}

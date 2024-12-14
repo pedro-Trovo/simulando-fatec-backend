@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 28,
+    "disciplina": "Linguagens",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "A garganta é a gruta que guarda o som<br>A garganta está entre a mente e o coração<br>Vem coisa de cima, vem coisa de baixo e de <br>[repente um nó (e o que eu quero dizer?)<br>Às vezes, acontece um negócio esquisito<br>Quando eu quero falar eu grito, quando eu quero<br>[gritar eu falo, o resultado<br>Calo.<br>ESTRELA D’ALVA, R. Disponível em: https://claudia.abril.com.br. Acesso em: 23 nov. 2021 (fragmento).<br>A função emotiva presente no poema cumpre o propósito do eu lírico de",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Revelar as desilusões amorosas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Refletir sobre a censura à sua voz",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Expressar a dificuldade de comunicação.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Ressaltar a existência de pressões externas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Manifestar as dores do processo de criação.",
+            "imgUrl": null
+        }
+    ]
+}

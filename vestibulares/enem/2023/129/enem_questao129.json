@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 129,
+    "disciplina": "Matemática",
+    "enunciado": "O Aldrin é um inseticida agrícola organoclorado sintético de baixa polaridade, cuja estrutura molecular simétrica, de fórmula ![](https://enem.dev/broken-image.svg), está representada na figura. Introduzido na agricultura a partir da década de 1950, esse composto apresenta alta persistência no meio ambiente e acumulação nos organismos, sendo danoso para a saúde.<br><br>![](https://enem.dev/broken-image.svg)<br><br>VIEGAS JÚNIOR, C. Terpenos com atividade inseticida: uma alternativa para o controle químico de insetos. **Química Nova**, v. 26, n. 3, 2003 (adaptado).<br><br>Um pesquisador coletou fluidos biológicos de indivíduos de uma população contaminada por esse inseticida agrícola. Ele analisou amostras de saliva, sangue, lágrima, urina e leite quanto à presença dessa substância.",
+    "imgs": [],
+    "pergunta": "Em qual dos fluidos o pesquisador provavelmente encontrou a maior concentração dessa substância?",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Saliva, por consequência da atividade de enzimas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Sangue, em função das hemácias e leucócitos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Lágrima, em razão da concentração de sais.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Urina, pela presenca de moléculas de ureia.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Leite, por causa do alto teor de gorduras.",
+            "imgUrl": null
+        }
+    ]
+}

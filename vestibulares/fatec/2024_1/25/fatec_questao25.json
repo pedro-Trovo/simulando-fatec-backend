@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 25,
+    "disciplina": "Multidisciplinar",
+    "enunciado": "A medicina ocidental herdou do islã medieval uma visão integrada da arte e da ciência. Uma lição de humanismo, a medicina islâmica medieval desenvolveu-se no seio de uma civilização cosmopolita, altamente sofisticada, com base no estudo e no aprofundamento da tradição greco-latina. À semelhança dos antigos, os médicos no islã medieval defendiam um modelo salutogênico de cidade, isto é, orientado para a promoção de estilos de vida saudáveis por meio da arte, da arquitetura, do ambiente e do planejamento urbano. Desse modo, o islã medieval tornou-se pioneiro de um movimento, atualmente designado como \"cidades saudáveis”, que só adquiriu expressão global a partir da década de 1980.<br><br>A medicina ocidental herdou do islã medieval uma visão integrada da arte e da ciência. Uma lição de humanismo, a medicina islâmica medieval desenvolveu-se no seio de uma civilização cosmopolita, altamente sofisticada, com base no estudo e no aprofundamento da tradição greco-latina. À semelhança dos antigos, os médicos no islã medieval defendiam um modelo salutogênico de cidade, isto é, orientado para a promoção de estilos de vida saudáveis por meio da arte, da arquitetura, do ambiente e do planejamento urbano.",
+    "imgs": [],
+    "pergunta": "Desse modo, o islã medieval tornou-se pioneiro de um movimento, atualmente designado como \"cidades saudáveis\", que só adquiriu expressão global a partir da década de 1980.",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "recusando os saberes de outros povos, a medicina islâmica medieval desenvolveu uma visão de saúde considerada equivocada pelos estudiosos contemporâneos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "aprofundando o estudo da tradição greco-latina, a medicina islâmica medieval desenvolveu o modelo de prescrição de remédios baseado na intuição e nas experiências prévias do médico.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "buscando evitar o desenvolvimento de doenças, a medicina islâmica medieval defendia a realização de exames periódicos e a prática regular de exercícios físicos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "utilizando substâncias dos reinos vegetal, animal e mineral, a medicina islâmica medieval criou tratamentos baseados na dinamização dos agentes causadores de doenças.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "retomondo conceitos desenvolvidos pelos povos da Antiguidade, a medicina islâmica medieval lançou as bases de uma concepção contemporânea de saúde.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 82,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Os vapores cruzavam os mares transportando pessoas, mercadorias e ideias, e ainda carregavam a mala postal, repleta de mensagens. Múltiplas histórias escritas atravessavam o oceano buscando por notícias de filhos e pais, irmãos, maridos e esposas, noivos e noivas. As missivas traziam boas e más novas, comunicavam alegremente nascimentos e casamentos, também doenças e mortes; enviavam declarações de amor e fidelidade, fotos de família; encaminhavam conselhos de velhos, pedidos de ajuda e de dinheiro; expediam cartas bancárias e de chamada. Essa literatura epistolar possibilitava a transmissão e reconstrução das tradições. Os deslocamentos tornaram-se um dos mais potentes produtores de escritura ao longo da história.<br><br>TRUZZI, O.; MATOS, I. Saudades: sensibilidades no epistolário de e/imigrantes  <br>portuqueses (Portugal-Brasil 1890-1930). Rev. Bras. Hist., n. 70, jul.-dez. 2015.",
+    "imgs": [],
+    "pergunta": "Conforme o texto, as correspondências trocadas entre imigrantes no Brasil com os seus países de procedência constituíam um dispositivo tecnológico que possibilitava o(a)",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Disputa ideológica entre a comunidade de estrangeiros e a de nativos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Circularidade cultural entre a sociedade de partida e a de acolhimento.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Controle doutrinário das narrativas do cotidiano de origem e de destino..",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Fiscalização política dos fluxos de populações do Novo e do Velho Mundo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Monitoramento social dos grupos de trabalhadores da cidade e do campo.",
+            "imgUrl": null
+        }
+    ]
+}

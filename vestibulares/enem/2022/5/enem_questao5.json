@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 5,
+    "disciplina": "Linguagens",
+    "enunciado": "<img src=\"vestibulares/enem/enemFormatado/2022/5/enem_questao5_img1.png\" alt=\"imagem 1 da questão\"><br><br>MURIG. Disponível em: https://murigcolectivafeminista.wordpress.com.<br><br>Acesso em: 26 out. 2021(adaptado)",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/5/enem_questao5_img1.png"
+    ],
+    "pergunta": "No texto, as palavras “crianzas” e “tribu” são usadas para",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Evidenciar a importância de uma rede de apoio para as mães na criação dos seus filhos",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Denunciar a disparidade entre o trabalho das mães de diferentes classes",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Ressaltar o fechamento de escolas e creches durante o período pandêmico",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Ratificar a romantização da dedicação das mães na educação da crianças",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Enfatizar a proteção aos filhos em razão do isolamento social das famílias",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 76,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "<img src=\"vestibulares/enem/enemFormatado/2023/76/enem_questao76_img1.png\" alt=\"imagem 1 da questão\"><br><br>Disponível em: www.insper.edu.br. Acesso em: 27 set. 2021 (adaptado).",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/76/enem_questao76_img1.png"
+    ],
+    "pergunta": "Qual fator foi determinante para a mudança do indicador apresentado no gráfico?",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Flexibilização legal da prática de aborto.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Envelhecimento da população brasileira.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Crescimento dos casos de gravidez precoce.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Participação feminina no mercado de trabalho.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Diminuição dos benefícios na licença-maternidade.",
+            "imgUrl": null
+        }
+    ]
+}

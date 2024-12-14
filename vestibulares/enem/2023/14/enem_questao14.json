@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 14,
+    "disciplina": "Linguagens",
+    "enunciado": "**Dão Lalalão**  <br>Do povoado do Ão, ou dos sítios perto, alguém precisava urgente de querer vir por escutar a novela do rádio. Ouvia-a, aprendia-a, guardava na ideia, e, retornado ao Ão, no dia seguinte, a repetia a outros.<br><br>Assim estavam jantando, vinham os do povoado receber a nova parte da novela do rádio. Ouvir já tinham ouvido tudo, de uma vez, fugia da regra: falhara ali no Ão, na véspera, o caminhão de um comprador de galinhas e ovos, seo Abrãozinho Buristém, que carregava um rádio pequeno, de pilhas, armara um fio no arame da cerca… Mas queriam escutar outra vez, por confirmação. — “A estória é estável de boa, mal que acompridada: taca e não rende…” — explicava o Zuz ao Dalberto.<br><br>Soropita começou a recontar o capitulo da novela. Sem trabalho, se recordava das palavras, até com clareza — disso se admirava. Contava com prazer de demorar, encher a sala com o poder de outros altos personagens. Tomar a atenção de todos, pudesse contar aquilo noite adiante. Era preciso trazer luz, nem uns enxergavam mais os outros; quando alguém ria, ria de muito longe. O capitulo da novela estava terminando.<br><br>ROSA, J. G. **Noites do sertão (Corpo de baile)**. São Paulo: Global, 2021.",
+    "imgs": [],
+    "pergunta": "Nesse trecho do conto, o gosto dos moradores do povoado por ouvir a novela de rádio recontada por Soropita deve-se ao(à)",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Qualidade do som do rádio.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Estabilidade do enredo contado.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Ineditismo do capítulo da novela.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Jeito singular de falar aos ouvintes.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Dificuldade de compreensão da história.",
+            "imgUrl": null
+        }
+    ]
+}

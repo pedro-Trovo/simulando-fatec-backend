@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 70,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "**TEXTO I**<br><br>**Interseccionalidade:** intercruzamento de desigualdades que gera padrões complexos de discriminação<br><br><img src=\"vestibulares/enem/enemFormatado/2022/70/enem_questao70_img1.png\" alt=\"imagem 1 da questão\"><br><br>**Disponível em: www.agenciadenoticias.ibge.gov.br. Acesso em: 2 dez. 2018.**",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/70/enem_questao70_img1.png"
+    ],
+    "pergunta": "Considerando o conceito apresentando no Texto I e os dados apresentados no Texto II, no Brasil, são fatores que intensificam o fenômeno da discriminação:",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Raça e gênero.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Etnia e habitação.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Idade e nupcialidade.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Profissão e sexualidade.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Escolaridade e fecundidade.",
+            "imgUrl": null
+        }
+    ]
+}

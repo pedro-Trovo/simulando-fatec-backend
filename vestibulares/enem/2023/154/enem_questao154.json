@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 154,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "As figuras pintadas no quadro da sala de estar de uma residência representam as silhuetas de parte das torres de um castelo e, ao fundo, a de uma lua cheia. A lua foi pintada na forma de um círculo, e o telhado da torre mais alta, na forma de triângulo equilátero, foi pintado sobrepondo parte da lua. O centro da lua coincide com um dos vértices do telhado da torre mais alta.<br><br><img src=\"vestibulares/enem/enemFormatado/2023/154/enem_questao154_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/154/enem_questao154_img1.png"
+    ],
+    "pergunta": "Nesse quadro, a parte da lua escondida atrás da torre mais alta do castelo pode ser representada por um",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Cone.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Setor circular.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Segmento circular.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Triângulo isósceles.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Arco de circunferência.",
+            "imgUrl": null
+        }
+    ]
+}

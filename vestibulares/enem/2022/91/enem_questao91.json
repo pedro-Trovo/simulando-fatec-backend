@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 91,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "A figura ilustra esquematicamente um processo de  <br>remediação de solos contaminados com tricloroeteno  <br>(TCE), um agente desengraxante. Em razão de  <br>vazamentos de tanques de estocagem ou de manejo  <br>inapropriado de resíduos industriais, ele se encontra  <br>presente em águas subterrâneas, nas quais forma  <br>uma fase líquida densa não aquosa (DNAPL) que se  <br>deposita no fundo do aquífero. Essa tecnologia de  <br>descontaminação emprega o íon persulfato (S2  <br>O8  <br>2−), que  <br>é convertido no radical •SO4  <br>− por minerais que contêm  <br>Fe(III). O esquema representa de forma simplificada o  <br>mecanismo de ação química sobre o TCE e a formação  <br>dos produtos de degradação.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/91/enem_questao91_img1.png\" alt=\"imagem 1 da questão\"><br><br>BERTAGI, L. T.; BASÍLIO, A. O.; PERALTA-ZAMORA, P. Aplicações ambientais de persulfato:  <br>remediação de águas subterrâneas e solos contaminados. Química Nova, n. 9, 2021 (adaptado)",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/91/enem_questao91_img1.png"
+    ],
+    "pergunta": "Esse procedimento de remediação de águas subterrâneas<br>baseia-se em reações de",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Oxirredução",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Substituição",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Precipitação",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Desidratação",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Neutralização",
+            "imgUrl": null
+        }
+    ]
+}

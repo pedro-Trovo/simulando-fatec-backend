@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 173,
+    "disciplina": "Matemática",
+    "enunciado": "Uma instituição de ensino superior ofereceu vagas em um processo seletivo de acesso a seus cursos. Finalizadas as inscrições, foi divulgada a relação do número de candidatos por vaga em cada um dos cursos oferecidos. Esses dados são apresentados no quadro.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/173/enem_questao173_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/173/enem_questao173_img1.png"
+    ],
+    "pergunta": "Qual foi o número total de candidatos inscritos nesse processo seletivo?",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "200",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "400",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "1200",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "1235",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "7200",
+            "imgUrl": null
+        }
+    ]
+}

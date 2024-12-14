@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 91,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "O número de abelhas encontra-se em declínio em várias regiões do mundo, inclusive no Brasil, sendo que vários fatores contribuem para o colapso de suas colmeias. Nos Estados Unidos, bombas de sementes de espécies vegetais nativas têm sido utilizadas para combater o desaparecimento desses insetos. Elas são pequenas bolinhas recheadas com sementes, adubo e argila. Quando são arremessadas e ficam expostas ao sol e à chuva, germinam até mesmo em solo pouco fértil.<br><br>DARAYA, V. Disponível em: http://planetasustentavel.abril.com.br.  <br>Acesso em: 2 fev. 2015 (adaptado).",
+    "imgs": [],
+    "pergunta": "Esse método contribui para a preservação das abelhas porque",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Reduz sua predação",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Reduz o uso de pesticidas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Reduz a competição por abrigo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Aumenta a oferta de alimento",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Aumenta os locais de reprodução",
+            "imgUrl": null
+        }
+    ]
+}

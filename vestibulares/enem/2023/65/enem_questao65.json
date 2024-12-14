@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 65,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "![](https://enem.dev/broken-image.svg)<br><br>Nas reportagens publicadas sobre a inauguração de Museu de Arte de São Paulo, em 1947, quando ele ainda ocupava um edifício na rua Sete de Abril, Lina Bo Bardi não foi mencionada nenhuma vez. A arquiteta era responsável pelo projeto do museu que mudaria para sempre a posição de São Paulo no circuito mundial das artes. Mas não houve nenhum registro disso. O louvor se concentrou em seu marido e parceiro profissional, o respeitado crítico de arte Pietro Maria Bardi. Passados 75 anos, a mulher então ignorada recebeu um Leão de Ouro póstumo, a maior homenagem da Bienal de Arquitetura de Veneza, e tem agora sua história contada em duas biografias de peso, que procuram destrinchar uma carreira marcada pela ousadia e pela contradição.<br><br>PORTO, W. L**ina Bo Bardi tem sua arquitetura contraditória destrinchada em biografias**. Disponível em: www1.folha.uol.com.br. Acesso em: 10 nov. 2021 (adaptado).",
+    "imgs": [],
+    "pergunta": "As transformações pelas quais passaram as sociedades ocidentais e que possibilitaram o reconhecimento recente do trabalho da arquiteta mencionada no texto foram resultado das mobilizações sociais pela",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Equidade de genêro.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Liberdade de expressão.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Admissibilidade de voto.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Igualdade de oportunidade.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Reciprocidade de tratamento.",
+            "imgUrl": null
+        }
+    ]
+}

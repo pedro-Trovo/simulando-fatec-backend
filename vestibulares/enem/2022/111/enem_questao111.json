@@ -1,0 +1,47 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 111,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "O eixo de rotação da Terra apresenta uma inclinação  <br>em relação ao plano de sua órbita em torno do Sol,  <br>interferindo na duração do dia e da noite ao longo do ano.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/111/enem_questao111_img1.png\" alt=\"imagem 1 da questão\"><br><br>Uma pessoa instala em sua residência uma placa  <br>fotovoltaica, que transforma energia solar em elétrica.  <br>Ela monitora a energia total produzida por essa placa  <br>em 4 dias do ano, ensolarados e sem nuvens, e lança os  <br>resultados no gráfico.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/111/enem_questao111_img2.png\" alt=\"imagem 2 da questão\"><br><br>Disponível em: www.fisica.ufpr.br. Acesso em: 27 maio 2022 (adaptado)",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/111/enem_questao111_img1.png",
+        "vestibulares/enem/enemFormatado/2022/111/enem_questao111_img2.png"
+    ],
+    "pergunta": "Próximo a que região se situa a residência onde as placas<br>foram instaladas?",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Trópico de Capricórnio.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Trópico de Câncer.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Polo Norte.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Polo Sul.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Equador",
+            "imgUrl": null
+        }
+    ]
+}

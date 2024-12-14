@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 83,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Nascidas o Líbano, as duas irmãs não puderam ser registradas no país, porque lá é exigido que os nascidos sejam filhos de pais e mães libaneses. Seus pais, de nacionalidade síria, também não puderam registrá-las no país de origem. Na Síria, crianças só são registradas por pais oficialmente casados, o que não era o caso deles.<br><br>**Disponível em: https://agenciabrasi.ebc.com.br. Acesso em: 7 nov. 2021.**",
+    "imgs": [],
+    "pergunta": "Em situações como a apresentada no texto, as pessoas ao nascerem já se encontram na condição sociopolítica de",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Exiladas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Apátridas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Foragidas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Refugiadas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Clandestinas.",
+            "imgUrl": null
+        }
+    ]
+}

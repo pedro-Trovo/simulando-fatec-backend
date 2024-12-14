@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 9,
+    "disciplina": "Inglês",
+    "enunciado": "A expressão due to, em negrito, introduz<br>(A) causa.<br><br>The longstanding mystery surrounding Antarctica's Blood Falls has finally been solved. The deep red falls were first discovered in Antarctica in 1911 where scientists noticed a river had stained the surrounding cliff of ice with a dark red color. Previously, they had believed it was due to algae discoloring the water, however that hypothesis was never verified. Now, thanks to research by the University of Alaska Fairbanks, we know the true origin of the Blood Falls flowing from the Taylor Glacier.",
+    "imgs": [],
+    "pergunta": "The deep red coloring is due to oxidized iron in brine saltwater, the same process that gives iron a dark red color when it rusts.",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "causa.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "obrigação.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "contestação.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "determinação.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "finalidade.",
+            "imgUrl": null
+        }
+    ]
+}

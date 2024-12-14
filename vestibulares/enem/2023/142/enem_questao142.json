@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 142,
+    "disciplina": "Matemática",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "Qual é a quantidade mínima de água, em litro, que cada morador, em média, deverá economizar por dia, de modo que o reservatório não fique sem água nos próximos 10 dias?",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "50",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "60",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "80",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "140",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "150",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 92,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "De acordo com a Organização Mundial da Saúde, a filariose e a leishmaniose são consideradas doenças  <br>tropicais infecciosas e constituem uma preocupação para a saúde pública por ser alto o índice de mortalidade a elas associado.",
+    "imgs": [],
+    "pergunta": "Uma medida profilática comum a essas duas doenças é o(a)",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Incineração do lixo orgânico.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Construção de rede de esgoto.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Uso de vermífugo pela população.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Controle das populações dos vetores.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Consumo de carnes vermelhas bem cozidas.",
+            "imgUrl": null
+        }
+    ]
+}

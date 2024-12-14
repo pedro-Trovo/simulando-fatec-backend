@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 36,
+    "disciplina": "Linguagens",
+    "enunciado": "**Projeto na Câmara de BH quer a vacinação gratuita de cães contra a leishmaniose**<br><br>_A doença é grave e vem causando preocupação na região metropolitana da capital mineira_<br><br>Ela é uma doença grave, transmitida pela picada do mosquito-palha, e afeta tanto os seres humanos quanto os cachorros: a leishmaniose. Por ser um problema de saúde pública, a doença pode ganhar uma ação preventiva importante, caso um projeto de lei seja aprovado na Câmara Municipal de Belo Horizonte (CMBH). Diante do alto número de casos da doença na Grande BH, a Comissão de Saúde e Saneamento da CMBH aprovou a proposta de realização de campanhas públicas de vacinação gratuita de cães contra a leishmaniose, tema do PL 404/17, apreciado pelo colegiado em reunião ordinária, no dia 6 de dezembro.<br><br>**Disponível em: https://www.revistaencontro.com.br/. Acesso em: 11 dez. 2017.**",
+    "imgs": [],
+    "pergunta": "Essa notícia, além de cumprir sua função informativa, assume o papel de",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Fiscalizar as ações de saúde e saneamento da cidade.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Defender os serviços gratuitos de atendimento à população.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Conscientizar a população sobre grave problema de saúde pública.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Propor campanhas para a ampliação de acesso aos serviços públicos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Responsabilizar os agentes públicos pela demora na tomara de decisões.",
+            "imgUrl": null
+        }
+    ]
+}

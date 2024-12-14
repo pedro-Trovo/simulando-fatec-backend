@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 40,
+    "disciplina": "Linguagens",
+    "enunciado": "**Firmo, o vaqueiro**<br><br>No dia seguinte, à hora em que saía o gado, estava eu debruçado à varanda quando vi o cafuzo que preparava o animal viajeiro:  <br>– Raimundinho, como vai ele?…  <br>De longe apontou a palhoça.  <br>– Sim.  <br>O braço caiu-lhe, olhou-me algum tempo comovido; depois, saltando para o animal, levou o polegar à boca fazendo estalar a unha nos dentes: “Às quatro da manhã…  <br>Atirei um verso e disse, para bulir com ele: Pega, velho! Não respondeu. Tio Firmo, mesmo velho e doente, não era homem para deixar um verso no chão… Fui ver, coitado!… estava morto. E deu de esporas para que eu não lhe visse as lágrimas.<br><br>NETTO, C. In: MARCHEZAN, L. G. (Org.).  <br>**O conto regionalista.** São Paulo: Martins Fontes, 2009.",
+    "imgs": [],
+    "pergunta": "A passagem registra um momento em que a expressividade lírica é reforçada pela",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Plasticidade da imagem do rebanho reunido.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Sugestão da firmeza do sertanejo ao arrear o cavalo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Situação de pobreza encontrada nos sertões brasileiros.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Afetividade demonstrada ao noticiar a morte do cantador.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Preocupação do vaqueiro em demostrar sua virilidade.",
+            "imgUrl": null
+        }
+    ]
+}

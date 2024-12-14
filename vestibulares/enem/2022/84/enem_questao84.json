@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 84,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "**TEXTO I**  <br>Uma filosofia da percepção que queira reaprender a ver o mundo restituirá à pintura e às artes em geral seu lugar verdadeiro.<br><br>**MERLEAU-PONTY, M. Conversas: 1948. São Paulo: Martins Fontes, 2004.**<br><br>TEXTO II  <br>Os grandes autores de cinema nos pareceram confrontáveis não apenas com pintores, arquitetos, músicos, mas também com pensadores. Eles pensam com imagens, em vez de conceitos.<br><br>**DELEUZE, G. Cinema 1: a imagem-movimento. São Paulo: Brasiliense, 1983 (adaptado).**",
+    "imgs": [],
+    "pergunta": "De que modo os textos sustentam a existência de um saber ancorado na sensibilidade?",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Admitindo o belo como fenômeno transcendental.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Reafirmando a vivência estética como juízo de gosto.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Considerando o olhar como experiência de conhecimento.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Apontando as formas de expressão como auxiliares da razão.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Estabelecendo a inteligência como implicação das representações.",
+            "imgUrl": null
+        }
+    ]
+}

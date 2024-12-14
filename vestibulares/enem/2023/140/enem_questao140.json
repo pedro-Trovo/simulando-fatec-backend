@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 140,
+    "disciplina": "Matemática",
+    "enunciado": "Uma empresa de transporte faz regularmente um levantamento do número de viagens realizadas durante o dia por todos os 160 motoristas cadastrados em seu aplicativo. Em um certo dia, foi gerado um relatório, por meio de um gráfico de barras, no qual se relacionaram a quantidade de motoristas com a quantidade de viagens realizadas até aquele instante do dia.<br><br><img src=\"vestibulares/enem/enemFormatado/2023/140/enem_questao140_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/140/enem_questao140_img1.png"
+    ],
+    "pergunta": "Comparando os valores da média, da mediana e da moda da distribuição das quantidades de viagens realizadas pelos motoristas cadastrados nessa empresa, obtém-se",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Mediana = média < moda.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Mediana = moda < média.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Mediana < média < moda.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Moda < média < mediana.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Moda < mediana < média.",
+            "imgUrl": null
+        }
+    ]
+}

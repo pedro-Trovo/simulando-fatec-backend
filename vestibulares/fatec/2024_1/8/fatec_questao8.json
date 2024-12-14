@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 8,
+    "disciplina": "Inglês",
+    "enunciado": "The longstanding mystery surrounding Antarctica's Blood Falls has finally been solved. The deep red falls were first discovered in Antarctica in 1911 where scientists noticed a river had stained the surrounding cliff of ice with a dark red color. Previously, they had believed it was due to algae discoloring the water, however that hypothesis was never verified. Now, thanks to research by the University of Alaska Fairbanks, we know the true origin of the Blood Falls flowing from the Taylor Glacier. The deep red coloring is due to oxidized iron in brine saltwater, the same process that gives iron a dark red color when it rusts. When the iron bearing saltwater comes into contact with oxygen the iron undergoes oxidation and takes on a red coloring, in effect dying the water to a deep red color. The research team calculates that the brine water takes approximately 1.5 million years to finally reach the Blood Falls as it makes its way through fissures and channels in the glacier.<br><br>The longstanding mystery surrounding Antarctica's Blood Falls has finally been solved. The deep red falls were first discovered in Antarctica in 1911 where scientists noticed a river had stained the surrounding cliff of ice with a dark red color. Previously, they had believed it was due to algae discoloring the water, however that hypothesis was never verified.",
+    "imgs": [],
+    "pergunta": "As palavras longstanding e finally, sublinhadas no primeiro período do texto, evidenciam a",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "incompetência dos pesquisadores na solução de um caso corriqueiro.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "contínua influência do aquecimento global na desfiguração das geleiras do Polo Norte.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "impaciência demonstrada pelo autor ao não conseguir respostas para suas perguntas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "longa busca por respostas para as manchas vermelhas em encostas geladas do Polo Sul.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "prostração da comunidade científica diante de um mistério que já dura mais de um século.",
+            "imgUrl": null
+        }
+    ]
+}

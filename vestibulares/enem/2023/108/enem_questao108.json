@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 108,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "O fogão por indução funciona a partir do surgimento de uma corrente elétrica induzida no fundo da panela, com consequente transformação de energia elétrica em calor por efeito Joule. A principal vantagem desses fogões é a eficiência energética, que é substancialmente maior que a dos fogões convencionais.<br>A corrente elétrica mencionada é induzida por",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Radiação.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Condução.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Campo elétrico variável.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Campo magnético variável.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Ressonância eletromagnética.",
+            "imgUrl": null
+        }
+    ]
+}

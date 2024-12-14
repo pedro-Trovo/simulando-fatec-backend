@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 109,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Uma academia decide trocar gradualmente seus aparelhos de musculação. Agora, os frequentadores que utilizam os aparelhos do tipo 1 podem também utilizar os aparelhos do tipo 2, representados na figura, para elevar cargas correspondentes às massas M1 e M2 com velocidade constante. A fim de que o exercício seja realizado com a mesma força F, os usuários devem ser orientados a respeito da relação entre as cargas nos dois tipos de aparelhos, já que as polias fixas apenas mudam a direção das forças, enquanto a polia móvel divide as forças.<br><br>Em ambos os aparelhos, considere as cordas inextensíveis, as massas das polias e das cordas desprezíveis e que não há dissipação de energia.<br><br><img src=\"vestibulares/enem/enemFormatado/2023/109/enem_questao109_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/109/enem_questao109_img1.png"
+    ],
+    "pergunta": "Para essa academia, qual deve ser a razão M2/M1 informada aos usuários?",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "1/4",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "1/2",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "1",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "2",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "4",
+            "imgUrl": null
+        }
+    ]
+}

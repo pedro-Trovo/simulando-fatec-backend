@@ -1,0 +1,52 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 159,
+    "disciplina": "Matemática",
+    "enunciado": "Um atleta iniciou seu treinamento visando as competições de fim de ano. Seu treinamento consiste em cinco tipos diferentes de treinos: treino <img src=\"vestibulares/enem/enemFormatado/2022/159/enem_questao159_img1.png\" alt=\"imagem 1 da questão\">,  treino <img src=\"vestibulares/enem/enemFormatado/2022/159/enem_questao159_img2.png\" alt=\"imagem 2 da questão\">, treino  <img src=\"vestibulares/enem/enemFormatado/2022/159/enem_questao159_img3.png\" alt=\"imagem 3 da questão\">, treino <img src=\"vestibulares/enem/enemFormatado/2022/159/enem_questao159_img4.png\" alt=\"imagem 4 da questão\"> e treino <img src=\"vestibulares/enem/enemFormatado/2022/159/enem_questao159_img5.png\" alt=\"imagem 5 da questão\">. A sequência dos treinamentos deve seguir esta ordem:<br><br><img src=\"vestibulares/enem/enemFormatado/2022/159/enem_questao159_img6.png\" alt=\"imagem 6 da questão\"><br><br>A letra R significa repouso. Após completar a sequência de treinamentos, o atleta começa novamente a sequência a partir do treino <img src=\"vestibulares/enem/enemFormatado/2022/159/enem_questao159_img7.png\" alt=\"imagem 7 da questão\">, e segue a ordem descrita. Após 24 semanas completas de treinamento, se dará o inicio das competições.<br><br>Please select text to grab.<br><br>Copyfish<br><br>estöes20112Fonteestões2011<br><br>OCR successful<br><br>##### OCR Result(Auto-Detect)<br><br>N/A<br><br>##### Translated(English)<br><br>Redo OCR Recapture Re-Translate Copy to clipboard",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/159/enem_questao159_img1.png",
+        "vestibulares/enem/enemFormatado/2022/159/enem_questao159_img2.png",
+        "vestibulares/enem/enemFormatado/2022/159/enem_questao159_img3.png",
+        "vestibulares/enem/enemFormatado/2022/159/enem_questao159_img4.png",
+        "vestibulares/enem/enemFormatado/2022/159/enem_questao159_img5.png",
+        "vestibulares/enem/enemFormatado/2022/159/enem_questao159_img6.png",
+        "vestibulares/enem/enemFormatado/2022/159/enem_questao159_img7.png"
+    ],
+    "pergunta": "A sequência de treinamentos que o atleta realizará na 24ª semana de treinos é",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/159/enem_questao159_alter-A.png"
+        },
+        {
+            "letra": "B",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/159/enem_questao159_alter-B.png"
+        },
+        {
+            "letra": "C",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/159/enem_questao159_alter-C.png"
+        },
+        {
+            "letra": "D",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/159/enem_questao159_alter-D.png"
+        },
+        {
+            "letra": "E",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/159/enem_questao159_alter-E.png"
+        }
+    ]
+}

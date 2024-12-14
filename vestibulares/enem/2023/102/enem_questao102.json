@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 102,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "As cetonas fazem parte de famílias olfativas encontradas em muitos alimentos. A molécula de hexan-3-ona é um exemplo desses compostos voláteis responsáveis pelo aroma, podendo ser obtida por processos energéticos realizados em meio ácido, na presença de oxidantes como o permanganato de potássio. Para se produzir esse composto volátil em laboratório, deve-se oxidar a molécula de",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Hexanal.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Hexan-1-ol.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Hexan-3-ol.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Hex-1-en-1-ol.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Ácido hexanoico.",
+            "imgUrl": null
+        }
+    ]
+}

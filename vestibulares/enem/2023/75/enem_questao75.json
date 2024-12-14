@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 75,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "A torcida do Fluminense inicia um movimento para mudar a letra de uma das músicas mais populares das arquibancadas tricolores. Grupos pedem a remoção do termo “mulambo imundo”, em uma provocação direta ao Flamengo. Mulambo é um termo que surgiu em Angola, na época da escravatura, e eles eram chamados de mulambos pelos senhores de engenho, os patrões das fazendas.<br><br>Disponível em: https://oglobo.globo.com. Acesso em: 23 nov. 2021.",
+    "imgs": [],
+    "pergunta": "Qual mudança no comportamento social a proposta reportada no texto reflete?",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "A Rejeição de costumes elitistas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Repulsão de condutas misóginas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Condenação do preconceito racial.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Criminalização de práticas homofóbicas",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Contestação do comportamento machista.",
+            "imgUrl": null
+        }
+    ]
+}

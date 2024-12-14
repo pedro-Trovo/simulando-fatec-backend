@@ -1,0 +1,47 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 158,
+    "disciplina": "Matemática",
+    "enunciado": "Ao analisar os dados de uma epidemia em uma cidade, peritos obtiveram um modelo que avalia a quantidade de pessoas infectadas a cada mês, ao longo de um ano. O modelo é dado por <img src=\"vestibulares/enem/enemFormatado/2022/158/enem_questao158_img1.png\" alt=\"imagem 1 da questão\">, sendo t um número natural, variando de 1 a 12, que representa os meses do ano, e p(t) a quantidade de pessoas infectadas no mês t do ano. Para tentar diminuir o número de infectados no próximo ano, a Secretaria Municipal de Saúde decidiu intensificar a propaganda oficial sobre os cuidados com a epidemia. Foram apresentadas cinco propostas (I, II, III, IV e V), com diferentes períodos de intensificação das propagandas:<br><br><img src=\"vestibulares/enem/enemFormatado/2022/158/enem_questao158_img2.png\" alt=\"imagem 2 da questão\"><br><br>A sugestäo dos peritos é que seja escolhida a proposta cujo período de intensificação da propaganda englobe o mês em que, sequndo o modelo, há a maior quantidade de infectados. A sugestão foi aceita.",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/158/enem_questao158_img1.png",
+        "vestibulares/enem/enemFormatado/2022/158/enem_questao158_img2.png"
+    ],
+    "pergunta": "A proposta escolhida foi a",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "I.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "II.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "III.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "IV.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "V.",
+            "imgUrl": null
+        }
+    ]
+}

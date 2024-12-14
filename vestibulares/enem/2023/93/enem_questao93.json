@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 93,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "A utilização de tecnologia nuclear é um tema bastante controverso, por causa do risco de acidentes graves, como aqueles ocorridos em Chernobyl (1986), em Goiânia (1987) e em Fukushima (2011). Apesar de muitas desvantagens, como a geração de resíduos tóxicos, a descontaminação ambiental dispendiosa em caso de acidentes e a utilização em armas nucleares, a geração de energia nuclear apresenta vantagens em comparação a outras fontes de energia.<br>A geração dessa energia tem como característica:",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Formar resíduos facilmente recicláveis.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Promover o aumento do desmatamento.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Contribuir para a produção de chuva ácida.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Emitir gases tóxicos que são lançados no ambiente.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Produzir calor sem o consumo de combustíveis fósseis.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 137,
+    "disciplina": "Matemática",
+    "enunciado": "A World Series é a decisão do campeonato norte-americano de beisebol. Os dois times que chegam  <br>a essa fase jogam, entre si, até sete partidas. O primeiro desses times que completar quatro vitórias é declarado campeão.<br><br>Considere que, em todas as partidas, a probabilidade de qualquer um dos dois times vencer é sempre <img src=\"vestibulares/enem/enemFormatado/2022/137/enem_questao137_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/137/enem_questao137_img1.png"
+    ],
+    "pergunta": "Qual é a probabilidade de o time campeão ser aquele que venceu a primeira partida da World Series?",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/137/enem_questao137_alter-A.png"
+        },
+        {
+            "letra": "B",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/137/enem_questao137_alter-B.png"
+        },
+        {
+            "letra": "C",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/137/enem_questao137_alter-C.png"
+        },
+        {
+            "letra": "D",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/137/enem_questao137_alter-D.png"
+        },
+        {
+            "letra": "E",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/137/enem_questao137_alter-E.png"
+        }
+    ]
+}

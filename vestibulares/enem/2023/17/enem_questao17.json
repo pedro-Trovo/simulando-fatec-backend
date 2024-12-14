@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 17,
+    "disciplina": "Linguagens",
+    "enunciado": "Como é bom reencontrar os leitores da _Revista da Cultura_ por meio de uma publicação com outro visual, conteúdo de qualidade e interesses ampliados! _\\]cultura\\[_, este nome simples, e eu diria mesmo familiar, nasce entre dois colchetes voltados para fora. E não é por acaso: são sinais abertos, receptivos, propícios à circulação de ideias. O DNA da publicação se mantém o mesmo, afinal, por longos anos montamos nossas edições com assuntos saídos das estantes de uma grande livraria — e assim continuará sendo. Literatura, sociologia, filosofia, artes… nunca será difícil montar a pauta da revista porque os livros nos ensinam que monotonia é só para quem não lê.<br><br>HERZ, P. J _**\\]cultura\\[**_, n. 1, jun. 2018 (adaptado).",
+    "imgs": [],
+    "pergunta": "O uso não padrão dos colchetes para nomear a revista atribui-lhes uma nova função e está correlacionado ao(à)",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Perfil de público-alvo, constituído por leitores exigentes e especializados em leitura acadêmica.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Propósito do editor, chamando a atenção para o rigor normativo nos textos da revista.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Exclusividade na seleção temática, direcionada para a área das ciências humanas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Identidade da revista, voltada para a recepção e a promoção de ideias circulantes em livros.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Padrão editorial dos artigos, organizados em torno de uma proposta de design inovador.",
+            "imgUrl": null
+        }
+    ]
+}

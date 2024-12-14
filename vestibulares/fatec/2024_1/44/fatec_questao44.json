@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 44,
+    "disciplina": "Raciocínio Lógico",
+    "enunciado": "O futebol pode ser visto como uma arte que une a racionalidade com a emoção: um ponto de encontro para as multidões de praticantes e espectadores.<br>Suponha que um técnico de time de futebol tenha fixado em um quadro a escalação das jogadoras para três jogos amistosos programados. Desse quadro, reproduz-se um trecho, no qual é possível ver que, em cada um dos amistosos, 4 jogadoras são escaladas, sendo 2 delas zagueiras e 2 atacantes.<br><br>O futebol pode ser visto como uma arte que une a racionalidade com a emoção: um ponto de encontro para as multidões de praticantes e espectadores.",
+    "imgs": [],
+    "pergunta": "Sabendo que Francisca é atacante, é necessariamente correto afirmar que?",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Alice é zagueira.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Carol é zagueira.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Maria é zagueira.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Lúcia é atacante.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Sônia é atacante.",
+            "imgUrl": null
+        }
+    ]
+}

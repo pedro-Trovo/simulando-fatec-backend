@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 66,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "**TEXTO I**<br><br>A primeira grande lei educacional do Brasil, de 1827, determinava que, nas “escolas de primeiras letras” do Império, meninos e meninas estudassem separados e tivessem currículos diferentes. No Senado, o Visconde de Cayru foi um dos defensores de que o currículo de matemática das garotas fosse o mais enxuto possível. Nas palavras dele, o “belo sexo” não tinha capacidade intelectual para ir muito longe: – Sobre as contas, são bastantes \\[para as meninas\\] as quatro espécies, que não estão fora do seu alcance e lhes podem ser de constante uso na vida.<br><br>**TEXTO II**<br><br>No Senado, o único a defender publicamente que as meninas tivessem, em matemática, um currículo idêntico ao dos meninos foi o Marquês de Santo Amaro (RJ). Ele argumentou: – Não me parece confome, às luzes do tempo em que vivemos, deixarmos de facilitar às brasileiras a aquisição desses conhecimentos \\[mais aprofundados de matemática\\]. A oposição que se manifesta não pode nascer senão do arraigado e péssimo costume em que estavam os antigos, os quais nem queriam que suas filhas aprendessem a ler.<br><br>WESTIN, R. Senado Notícias. Disponível em: www12.senado.leg.br. Acesso em: 20 out. 2021 (adaptado).",
+    "imgs": [],
+    "pergunta": "Os discursos expressam pontos de vista divergentes respectivemerte pela oposição entre",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Liberdade de gênero e controle social.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Equidade de escolha e imposição cultural.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Dominação de corpos e igualdade humana.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Geração de oportunidade e restrição profissional.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Exclusão de competências e participação política.",
+            "imgUrl": null
+        }
+    ]
+}

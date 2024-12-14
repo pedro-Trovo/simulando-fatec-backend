@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 8,
+    "disciplina": "Linguagens",
+    "enunciado": "**De quem é esta língua?**<br><br>Uma pequena editora brasileira, a Urutau, acaba de lançar em Lisboa uma “antologia antirracista de poetas estrangeiros em Portugal”, com o título Volta para a tua terra.<br><br>O livro denuncia as diversas formas de racismo a que os imigrantes estão sujeitos. Alguns dos poetas brasileiros antologiados queixam-se do desdém com que um grande número de portugueses acolhe o português brasileiro. É uma queixa frequente.<br><br>“Aqui em Portugal eles dizem / — eles dizem – / que nosso português é errado, que nós não falamos português”, escreve a poetisa paulista Maria Giulia Pinheiro, para concluir: “Se a sua linguagem, a lusitana, / ainda conserva a palavra da opressão / ela não é a mais bonita do mundo./ Ela é uma das mais violentas”.<br><br>AGUALUSA, J. E. Disponível em: https.iloglobo.globo.com Acesso em: 22 nov. 2021 (adaptado).",
+    "imgs": [],
+    "pergunta": "O texto de Agualusa tematiza o preconceito em relação ao português brasileiro. Com base no trecho citado pelo autor, infere-se que esse preconceito se deve",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "À dificuldade de consolidação da literatura brasileira em outros países.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Aos diferentes graus de instrução formal entre os falantes de língua portuguesa.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "À existência de uma língua ideal que alguns falantes lusitanos creem ser a falada em Portugal.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Ao intercâmbio cultural que ocorre entre os povos dos diferentes países de língua portuguesa.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "À distância territorial entre os falantes do português que vivem em Portugal e no Brasil.",
+            "imgUrl": null
+        }
+    ]
+}

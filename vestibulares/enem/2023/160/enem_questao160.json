@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 160,
+    "disciplina": "Matemática",
+    "enunciado": "Ao realizar o cadastro em um aplicativo de investimentos, foi solicitado ao usuário que criasse uma senha, sendo permitido o uso somente dos seguintes caracteres:<br><br>• algarismos de 0 a 9;<br><br>• 26 letras minúsculas do alfabeto;<br><br>• 26 letras maiúsculas do alfabeto;<br><br>• 6 caracteres especiais !, @, #, $, \\*, &.<br><br>Três tipos de estruturas para senha foram apresentadas ao usuário:<br><br>• tipo I: formada por quaisquer quatro caracteres distintos, escolhidos dentre os permitidos;<br><br>• tipo II: formada por cinco caracteres distintos, iniciando por três letras, seguidas por um algarismo e, ao final, um caractere especial;<br><br>• tipo III: formada por seis caracteres distintos, iniciando por duas letras, seguidas por dois algarismos e, ao final, dois caracteres especiais.<br><br>Considere <img src=\"vestibulares/enem/enemFormatado/2023/160/enem_questao160_img1.png\" alt=\"imagem 1 da questão\"> as probabilidades de se descobrirem ao acaso, na primeira tentativa, as senhas dos tipos I, II e III, respectivamente.",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/160/enem_questao160_img1.png"
+    ],
+    "pergunta": "Nessas condições, o tipo de senha que apresenta a menor probabilidade de ser descoberta ao acaso, na primeira tentativa, é o",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Tipo I, pois p1 < p2 < p3.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Tipo I, pois tem menor quantidade de caracteres.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Tipo II, pois tem maior quantidade de letras.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Tipo III, pois p3 < p2 < p1",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Tipo III, pois tem maior quantidade de caracteres.",
+            "imgUrl": null
+        }
+    ]
+}

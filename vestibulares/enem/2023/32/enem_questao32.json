@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 32,
+    "disciplina": "Linguagens",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "O sol começa a descer por trás da vegetação da Ilha da Restinga, na outra margem do rio Paraíba, colorindo o céu de amarelo, laranja e lilás. Então se ouvem as primeiras notas do Bolero, do compositor francês Maurice Ravel, executadas pelo saxofonista Jurandy. É assim o pôr do sol da praia do Jacaré, em Cabedelo (Grande João Pessoa). Depois do Bolero, Jurandy toca Asa branca, de Luiz Gonzaga, e Meu sublime torrão, de Genival Macedo, espécie de hino não oficial da Paraíba.<br>PINHEIRO, A. Sol se põe embaiado pelo Bolero de Ravel. Disponível em: http://tools.folha.com.br. Acesso em: 16 set. 20212 (adaptado).<br>A interpretação musical de Jurandy do Sax, codinome de José Jurandy Félix, apresenta caracterizado pela",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Inter-relação de referenciais estéticos aparentemente distanciados.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Valorização de músicas que revelam mensagens de serenidade.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Consagração do repertório erudito como cultura dominante.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Iniciativa de estímulo à vocação turística da cidade.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Divisão hierárquica entre gêneros e estilos musicais.",
+            "imgUrl": null
+        }
+    ]
+}

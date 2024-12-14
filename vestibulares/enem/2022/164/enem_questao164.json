@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 164,
+    "disciplina": "Matemática",
+    "enunciado": "Um borrifador de atuação automática libera, a cada acionamento, uma mesma quantidade de inseticida. O recipiente desse produto, quando cheio, contém 360 mL de inseticida, que duram 60 dias se o borrifador permanecer ligado ininterruptamente e for acionado a cada 48 minutos.",
+    "imgs": [],
+    "pergunta": "A quantidade de inseticida que é liberada a cada acionamento do borrifador, em mililitro, é",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "0,125.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "0,200.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "4,800.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "6,000.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "12,000.",
+            "imgUrl": null
+        }
+    ]
+}

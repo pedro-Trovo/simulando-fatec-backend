@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 178,
+    "disciplina": "Matemática",
+    "enunciado": "Uma cozinheira produz docinhos especiais por encomenda. Usando uma receita-base de massa, ela prepara uma porção, com a qual produz 50 docinhos maciços de formato esférico, com 2 cm de diâmetro. Um cliente encomenda 150 desses docinhos, mas pede que cada um tenha formato esférico com 4 cm de diâmetro.  <br>A cozinheira pretende preparar o número exato de porções da receita-base de massa necessário para produzir os docinhos dessa encomenda",
+    "imgs": [],
+    "pergunta": "Quantas porções da receita-base de massa ela deve preparar para atender esse cliente?",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "2",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "3",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "6",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "12",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "24",
+            "imgUrl": null
+        }
+    ]
+}

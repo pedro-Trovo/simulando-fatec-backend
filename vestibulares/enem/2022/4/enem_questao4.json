@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 4,
+    "disciplina": "Linguagens",
+    "enunciado": "**Los niños de nuestro olvido**<br><br>Escribo sobre un destino  <br>Que apenas puedo tocar  <br>En tanto un niño se inventa  <br>Con pegamento un hogar<br><br>Mientras busco las palabras  <br>Para hacer esta canción  <br>Un niño esquiva las balas  <br>Que buscan su corazón<br><br>Acurrucado en mí calle  <br>Duerme un niño y la piedad  <br>Arma lejos un pesebre  <br>Y juega a la navidad<br><br>Arma lejos un pesebre  <br>Y juega a la navidad  <br>Y juega a la navidad  <br>Y juega, y juega, y juega…<br><br>La niñez de nuestro olvido  <br>Pide limosna en un bar  <br>Y lava tu parabrisas  <br>Por un peso, por un pan<br><br>Si las flores del futuro  <br>Crecen con tanto dolor  <br>Seguramente mañana  <br>Será un mañana sin sol",
+    "imgs": [],
+    "pergunta": "No texto, a expressão “un mañana sin sol” é usada para concluir uma critica ao(à)",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Descanso diante da problemática de crianças em situação de rua.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Violência característica do cotidiano das grandes metrópoles.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Estímulo à mendicância nos centros urbanos",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Tendência de informalização do trabalho",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Falta de serviços de saúde adequados",
+            "imgUrl": null
+        }
+    ]
+}

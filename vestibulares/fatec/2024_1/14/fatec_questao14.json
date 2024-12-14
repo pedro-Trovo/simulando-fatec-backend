@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 14,
+    "disciplina": "Matemática",
+    "enunciado": "Na ilha de Marajó, pertencente ao Pará, a arte marajoara é composta principalmente por artefatos de cerâmica trabalhados de maneira cuidadosa e detalhada. Para isso, povos pré-históricos brasileiros daquela região aplicavam técnicas de combinação de cores que tornavam as peças sofisticadas e requintadas. Essas cores eram extraídas de elementos da natureza local, como urucum, caulim, e jenipapo.  No Pará, podemos visitar diversos museus que expõem a arte Marajoara. Considere que, em uma dessas exposições, haja um vaso de cerâmica em formato de um cilindro circular reto, com 30 cm de altura e raio da base igual a 10 cm.<br><br>Um artesão quer criar miniaturas proporcionais ao vaso de cerâmica mencionado no texto para vender aos turistas. Sabendo que o raio da base da miniatura é de 2 cm,",
+    "imgs": [],
+    "pergunta": "o volume desta, em cm³, será de",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "30 π",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "24 π",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "18 π",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "12 π",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "6 π",
+            "imgUrl": null
+        }
+    ]
+}

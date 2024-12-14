@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 174,
+    "disciplina": "Matemática",
+    "enunciado": "Peças metálicas de aeronaves abandonadas em aeroportos serão recicladas. Uma dessas peças é maciça e tem o formato cilíndrico, com a medida do raio da base igual a 4 cm e a da altura igual a 50 cm. Ela será derretida, e o volume de metal resultante será utilizado para a fabricação de esferas maciças com diâmetro de 1 cm, a serem usadas para confeccionar rolamentos. Para estimar a quantidade de esferas que poderão ser produzidas a partir de cada uma das peças cilíndricas, admite-se que não ocorre perda de material durante o processo de derretimento.",
+    "imgs": [],
+    "pergunta": "Quantas dessas esferas poderão ser obtidas a partir de cada peça cilíndrica?",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "800",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "1200",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "2400",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "4800",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "6400",
+            "imgUrl": null
+        }
+    ]
+}

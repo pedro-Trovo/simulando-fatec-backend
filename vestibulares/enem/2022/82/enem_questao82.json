@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 82,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "<img src=\"vestibulares/enem/enemFormatado/2022/82/enem_questao82_img1.png\" alt=\"imagem 1 da questão\"><br><br>**Geoestatísticas de recursos naturais da Amazônia Legal. Rio de Janeiro: IBGE, 2011 (adaptado).**",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/82/enem_questao82_img1.png"
+    ],
+    "pergunta": "O mapa espacializa um recurso natural com alto potencial para ocorrência de:",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Abalos sísmicos periódicos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Jazidas de minerais metálicos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Reservas de combustíveis fósseis.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Aquíferos sedimentares profundos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Estruturas geológicas metamórficas.",
+            "imgUrl": null
+        }
+    ]
+}

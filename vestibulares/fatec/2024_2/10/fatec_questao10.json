@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 10,
+    "disciplina": "Matemática",
+    "enunciado": "Considere que o PIB da Venezuela, no ano de 2022, foi estimado em cerca de US$ 196 bilhões. Então, de acordo com as previsões da CEPAL, a projeção para o ano de 2024, em bilhões, deve ser próxima de<br><br>Considere que o PIB da Venezuela, no ano de 2022, foi estimado em cerca de US\\$ 196 bilhões.",
+    "imgs": [],
+    "pergunta": "Então, de acordo com as previsões da CEPAL, a projeção para o ano de 2024, em bilhões, deve ser próxima de",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "US\\$ 209,96.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "US\\$ 209,57.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "US\\$ 205,67.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "US\\$ 202,86.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "US\\$ 196,70.",
+            "imgUrl": null
+        }
+    ]
+}

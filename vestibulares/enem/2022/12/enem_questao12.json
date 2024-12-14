@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 12,
+    "disciplina": "Linguagens",
+    "enunciado": "**Papos**<br><br>— Me disseram…  <br>— Disseram-me.  <br>— Hein?  <br>— O correto é “disseram-me”. Não “me disseram”.  <br>— Eu falo como quero. E te digo mais… Ou é “digo-te”?  <br>— O quê?  <br>— Digo-te que você…  <br>— O “te” e o “você” não combinam.  <br>— Lhe digo?  <br>— Também não. O que você ia me dizer?  <br>— Que você está sendo grosseiro, pedante e chato. \\[…\\]  <br>— Dispenso as suas correções. Vê se esquece-me. Falo como bem entender. Mais uma correção e eu…  <br>— O quê?  <br>— O mato.  <br>— Que mato?  <br>— Mato-o. Mato-lhe. Mato você. Matar-lhe-ei-te. Ouviu bem? Pois esqueça-o e para-te. Pronome no lugar certo é elitismo!  <br>— Se você prefere falar errado…  <br>— Falo como todo mundo fala. O importante é me entenderem. Ou entenderem-me?<br><br>VERISSIMO, L. F. **Comédias para se ler na escola**.  <br>Rio de Janeiro: Objetiva, 2001 (adaptado).",
+    "imgs": [],
+    "pergunta": "Nesse texto, o uso da norma-padrão defendido por um dos personagens torna-se inadequado em razão do(a)",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Falta de compreensão causada pelo choque entre gerações.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Contexto de comunicação em que a conversa se dá.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Grau de polidez distinto entre os interlocutores.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Diferença de escolaridade entre os falantes.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Nível social dos participantes da situação.",
+            "imgUrl": null
+        }
+    ]
+}

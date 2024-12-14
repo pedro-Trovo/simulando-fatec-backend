@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 116,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "O manual de uma ducha elétrica informa que seus três níveis de aquecimento (morno, quente e superquente) apresentam as seguintes variações de temperatura da água em função de sua vazão:<br><br><img src=\"vestibulares/enem/enemFormatado/2022/116/enem_questao116_img1.png\" alt=\"imagem 1 da questão\"><br><br>Utiliza-se um disjuntor para proteger o circuito dessa ducha contra sobrecargas elétricas em qualquer nível de aquecimento. Por padrão, o disjuntor é especificado pela corrente nominal igual ao múltiplo de 5 A imediatamente superior à corrente máxima do circuito. Considere que a ducha deve ser ligada em 220 V e que toda a energia é dissipada através da resistência do chuveiro e convertida em energia térmica transferida para a água, que apresenta calor específico de 4,2 e J/gº C densidade de 1 000 g/L",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/116/enem_questao116_img1.png"
+    ],
+    "pergunta": "O disjuntor adequado para a proteção dessa ducha é especificado por:",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "60 A",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "30 A",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "20 A",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "10 A",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "5 A",
+            "imgUrl": null
+        }
+    ]
+}

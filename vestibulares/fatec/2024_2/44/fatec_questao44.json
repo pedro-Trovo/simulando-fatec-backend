@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 44,
+    "disciplina": "Matemática",
+    "enunciado": "Na Copa do Mundo de futebol masculino de 2022, participaram 32 países, dos quais 6 eram latino-americanos: Argentina, Brasil, Costa Rica, Equador, México e Uruguai.",
+    "imgs": [],
+    "pergunta": "Considere que dois países participantes dessa Copa serão sorteados, aleatoriamente, para disputar uma partida amistosa, então a probabilidade de os dois sorteados serem latino-americanos é",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "menor que 1%.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "maior que 1,0% e menor que 2,2%.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "maior que 2,2% e menor que 3,3%.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "maior que 3,3% e menor que 4,9%.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "maior que 4,9%.",
+            "imgUrl": null
+        }
+    ]
+}

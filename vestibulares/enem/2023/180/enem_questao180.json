@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 180,
+    "disciplina": "Matemática",
+    "enunciado": "Um tipo de semente necessita de bastante água nos dois primeiros meses após o plantio. Um produtor pretende estabelecer o melhor momento para o plantio desse tipo de semente, nos meses de outubro a março. Após consultar a previsão do índice mensal de precipitação de chuva (ImPC) da região onde ocorrerá o plantio, para o período chuvoso de 2020-2021, ele obteve os seguintes dados:  <br>• outubro/2020: ImPC = 250 mm;  <br>• novembro/2020: ImPC = 150 mm;  <br>• dezembro/2020: ImPC = 200 mm;  <br>• janeiro/2021: ImPC = 450 mm;  <br>• fevereiro/2021: ImPC = 100 mm;  <br>• março/2021: ImPC = 200 mm.<br><br>Com base nessas previsões, ele precisa escolher dois meses consecutivos em que a média mensal de precipitação seja a maior possível.",
+    "imgs": [],
+    "pergunta": "No início de qual desses meses o produtor deverá plantar esse tipo de semente?",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Outubro.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Novembro.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Dezembro.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Janeiro.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Fevereiro.",
+            "imgUrl": null
+        }
+    ]
+}

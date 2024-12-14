@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 14,
+    "disciplina": "Inglês",
+    "enunciado": "Despite mediocre growth, political risk is declining and cautious optimism is increasingly warranted.<br>SÃO PAULO Despite a challenging macroeconomic and geopolitical scenario, 2023 was not a bad year for<br>Latin America. Throughout the past twelve months, a cautiously optimistic outlook among analysts has become<br>increasingly common. Economic growth in 2023 is expected to end up at 2.2% somewhat better than the<br>1.7% initially projected, but still below the global average of 3.2%. Most analysts expect growth to decline<br>slightly to 1.9% this year, too little to decisively overcome the deep-seated public discontent that has been so<br>prevalent across Latin America in recent years.<br><br>Despite mediocre growth, political risk is declining and cautious optimism is increasingly warranted.",
+    "imgs": [],
+    "pergunta": "Latin America in 2024",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": null,
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": null,
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": null,
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": null,
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": null,
+            "imgUrl": null
+        }
+    ]
+}

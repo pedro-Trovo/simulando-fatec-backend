@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 78,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "<img src=\"vestibulares/enem/enemFormatado/2022/78/enem_questao78_img1.png\" alt=\"imagem 1 da questão\"><br><br>**Disponível em: http://imguol.com. Acesso em: 30 mar. 2014 (adaptado).**",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/78/enem_questao78_img1.png"
+    ],
+    "pergunta": "Considerando-se que a distância entre o local onde os destroços do avião foram avistados e a cidade de Perth é de 2 cm, a escala aproximada dessa representação cartográfica é:",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "1 : 12 500.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "1 : 125 000.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "1 : 1 250 000.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "1 : 12 500 000.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "1 : 125 000 000.",
+            "imgUrl": null
+        }
+    ]
+}

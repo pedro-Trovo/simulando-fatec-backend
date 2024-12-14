@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 11,
+    "disciplina": "Linguagens",
+    "enunciado": "Ora, sempre que surge uma nova técnica, ela quer demonstrar que revogará as regras e coerções que presidiram o nascimento de todas as outras invenções do passado. Ela se pretende orgulhosa e única. Como se a nova técnica carreasse com ela, automaticamente, para seus novos usuários, uma propensão natural a fazer economia de qualquer aprendizagem. Como se ela se preparasse para varrer tudo que a precedeu, ao mesmo tempo transformando em analfabetos todos os que ousassem repeli-la.<br><br>Fui testemunha dessa mudança ao longo de toda a minha vida. Ao passo que, na realidade, é o contrário que acontece. Cada nova técnica exige uma longa iniciação numa nova linguagem, ainda mais longa na medida em que nosso espírito é formatado pela utilização das linguagens que precederam o  nascimento da recém-chegada.<br><br>ECO, U.; CARRIÈRE, J.-C. **Não contem com o fim do livro**. Rio de Janeiro: Record, 2010 (adaptado).",
+    "imgs": [],
+    "pergunta": "O texto revela que, quando a sociedade promove o desenvolvimento de uma nova técnica, o que mais impacta seus usuários é a",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Dificuldade na apropriação da nova linguagem.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Valorização da utilização da nova tecnologia.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Recorrência das mudanças tecnológicas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Suplantação imediata dos conhecimentos prévios.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Rapidez no aprendizado do manuseio das novas invenções.",
+            "imgUrl": null
+        }
+    ]
+}

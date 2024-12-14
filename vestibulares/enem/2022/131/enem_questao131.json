@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 131,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "De modo geral, a palavra “aromático” invoca associações agradáveis, como cheiro de café fresco ou de um pão doce de canela.Associações similares ocorriam no passadoda história da químicaorgânica, quando os compostosditos “aromáticos” apresentavam um odor agradável e foram isolados de óleos naturais. À medida que as estruturas desses compostos eram elucidadas, foi se descobrindo que vários deles continham uma unidade estrutural específica. Os compostos aromáticos que continham essa unidade estrutural tornaram-se parte de uma grande família, muito mais com base em suas estruturas eletrônicas do que nos seus cheiros, como as substâncias a seguir, encontradas em óleos vegetais.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/131/enem_questao131_img1.png\" alt=\"imagem 1 da questão\"><br><br>SOLOMONS, T. W. G.; FRYHLE, C. B. Química orgânica. Rio de Janeiro: LTC, 2009 (adaptado).",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/131/enem_questao131_img1.png"
+    ],
+    "pergunta": "A característica estrutural dessa família de compostos é a presença de",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Ramificações.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Insaturações.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Anel benzênico.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Átomos de oxigênio.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Carbonos assimétricos.",
+            "imgUrl": null
+        }
+    ]
+}

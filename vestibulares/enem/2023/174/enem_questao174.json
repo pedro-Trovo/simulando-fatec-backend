@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2021,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 174,
+    "disciplina": "Matemática",
+    "enunciado": "Após a consulta médica, um paciente deve seguir um tratamento composto por três medicamentos: X, Y e Z. O paciente, para adquirir os três medicamentos, faz um orçamento em três farmácias diferentes, conforme o quadro.<br><br>![](https://enem.dev/2021/questions/174/a9b99537-f174-43b1-9ee0-90b5bdfe57ad.png)<br><br>Dessas farmácias, algumas oferecem descontos:<br><br>*   na compra dos medicamentos X e Y na Farmácia 2, recebe-se um desconto de 20% em ambos os produtos, independentemente da compra do medicamento Z, e não há desconto para o medicamento Z;<br>*   na compra dos 3 medicamentos na Farmácia 3, recebe-se 20% de desconto no valor total da compra.<br><br>O paciente deseja efetuar a compra de modo a minimizar duas despesa com os medicamentos.",
+    "imgs": [],
+    "pergunta": "De acordo com as informações fornecidas, o paciente deve comprar os medicamentos da seguinte forma:",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "X, Y e Z na Farmácia 1.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "X e Y na Farmácia 1, e Z na Farmácia 3.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "X e Y na Farmácia 2, e Z na Farmácia 3.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "X na Farmácia 2, e Y e Z na Farmácia 3.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "X, Y e Z na Farmácia 3.",
+            "imgUrl": null
+        }
+    ]
+}

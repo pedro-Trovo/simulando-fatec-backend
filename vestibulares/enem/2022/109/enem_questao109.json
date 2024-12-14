@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 109,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "Oelementoiodo(I)temfunçãobiológicaeéacumulado  <br>na tireoide. Nos acidentes nucleares de Chernobyl e  <br>Fukushima, ocorreu a liberação para a atmosfera do  <br>radioisótopo 131I, responsável por enfermidades nas  <br>pessoas que foram expostas a ele. O decaimento de uma  <br>massa de 12 microgramas do isótopo 131I foi monitorado  <br>por 14 dias, conforme o quadro.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/109/enem_questao109_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/109/enem_questao109_img1.png"
+    ],
+    "pergunta": "Após o período de 40 dias, a massa residual desse<br>isótopo é mais próxima de",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "2,4 µg.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "1,5 µg.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "0,8 µg.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "0,4 µg.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "0,2 µg.",
+            "imgUrl": null
+        }
+    ]
+}

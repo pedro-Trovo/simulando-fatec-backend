@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 92,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "Os mais antigos cozinhavam o feijão na panela de ferro a fim de acabar com a palidez de seus filhos. Alguns chegavam até a colocar um prego enferrujado nesse cozimento para liberar o ferro contido nele. Sabe-se que esse elemento pode ser encontrado na sua forma metálica ou iônica, sendo essencial para a manutenção da vida humana.",
+    "imgs": [],
+    "pergunta": "As estratégias citadas eram utilizadas com o objetivo de",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Tratar a diarreia.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Prevenir a anemia.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Evitar as verminoses.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Remediar o raquitismo",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Combater a febre amarela.",
+            "imgUrl": null
+        }
+    ]
+}

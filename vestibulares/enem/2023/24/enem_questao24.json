@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 24,
+    "disciplina": "Linguagens",
+    "enunciado": "<img src=\"vestibulares/enem/enemFormatado/2023/24/enem_questao24_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/24/enem_questao24_img1.png"
+    ],
+    "pergunta": "Esse anúncio publicitário, veiculado durante o contexto da pandemia de covid-19, tem por finalidade",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Divulgar o canal telefônico de atendimento a casos de violência contra a mulher.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Informar sobre a atuação de uma entidade defensora da mulher vítima de violência.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Evidenciar o trabalho da Defensoria Pública em relação ao problema do abuso contra a mulher.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Alertar a sociedade sobre o aumento da violência contra a mulher em decorrência do coronavírus.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Incentivar o público feminino a denunciar crimes de violência contra a mulher durante o período de isolamento",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 33,
+    "disciplina": "Biologia",
+    "enunciado": "Leia o trecho da canção O Pulso, composta por Arnaldo Antunes, Marcelo Fromer e Tony Bellotto.<br><br>1. O pulso ainda pulsa<br>2. O pulso ainda pulsa<br>3. Peste bubônica, câncer, pneumonia<br>4. Raiva, rubéola, tuberculose, anemia<br>5. Rancor, cisticercose, caxumba, difteria<br>6. Encefalite, faringite, gripe, leucemia<br>7. O pulso ainda pulsa<br>8. O pulso ainda pulsa<br>9. Hepatite, escarlatina, estupidez, paralisia<br>10. Toxoplasmose, sarampo, esquizofrenia<br>11. Úlcera, trombose, coqueluche, hipocondria<br>12. Sífilis, ciúmes, asma, cleptomania<br>13. O corpo ainda é pouco",
+    "imgs": [],
+    "pergunta": "Sobre as doenças citadas no texto, é correto afirmar que",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "todas, no verso 3, podem se originar a partir do crescimento desordenado de células.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "todas, no verso 4, podem ser transmitidas pelas picadas de insetos parasitas contaminados.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "nenhuma, no verso 6, pode ser transmitida por meio de contato direto com pessoas infectadas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "apenas uma, no verso 10, pode ser causada por um tipo de micro-organismo parasita presente na água e em alimentos contaminados.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "nenhuma, no verso 11, pode ser transmitida por pessoas doentes através de gotículas de saliva contaminada, expelidas ao tossir, espirrar ou falar.",
+            "imgUrl": null
+        }
+    ]
+}

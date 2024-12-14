@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 48,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Eu estava pagando o sapateiro e conversando com um preto que estava lendo um jornal. Ele estava revoltado com um guarda civil que espancou um preto e amarrou numa árvore. O guarda civil é branco. E há certos brancos que transforma o preto em bode expiatório. Quem sabe se guarda civil ignora que já foi extinta a escravidão e ainda estamos em regime de chibata?<br><br>JESUS, C. M. **Quarto de despejo: diário de uma favelada**. São Paulo: Ática, 2014.",
+    "imgs": [],
+    "pergunta": "O texto que guarda a grafia original da autora, expõe uma característica da sociedade brasileira, que é o(a):",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Racismo estrutural.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Desemprego latente.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Concentração de renda.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Exclusão informacional.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Precariedade da educação.",
+            "imgUrl": null
+        }
+    ]
+}

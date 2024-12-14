@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 33,
+    "disciplina": "Química",
+    "enunciado": "Os excrementos de aves e morcegos depositados nas Ilhas Chincha, localizadas na costa Peruana, formam no solo uma espessa camada de guano. O guano pode ser utilizado como fertilizante devido à presença de compostos nitrogenados, como a amônia (NH3).<br><br>Esta equação química representa o equilíbrio que ocorre na decomposição da amônia em nitrogênio e hidrogênio:<br><br>2 NH3(g) N2(g) + 3 H2(g)<br><br>Os excrementos de aves e morcegos depositados nas Ilhas Chincha, localizadas na costa Peruana, formam no solo uma espessa camada de guano. O guano pode ser utilizado como fertilizante devido à presença de compostos nitrogenados, como a amônia (NH3).",
+    "imgs": [],
+    "pergunta": "Esta equação química representa o equilíbrio que ocorre na decomposição da amônia em nitrogênio e hidrogênio: 2 NH3(g) N2(g) + 3 H2(g)",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "aumentar a concentração de NH3.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "diminuir a concentração de N2.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "diminuir a concentração de H2.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "diminuir a pressão do sistema.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "aumentar a pressão do sistema.",
+            "imgUrl": null
+        }
+    ]
+}

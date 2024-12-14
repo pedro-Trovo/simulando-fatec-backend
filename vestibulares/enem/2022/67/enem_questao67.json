@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 67,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Após sete anos da ocupação de um terreno abandonado em Santo André, no ABC paulista, os condomínios Novo Pinheirinho e Santos Dias foram inaugurados, com a presença de representantes dos governos federal, estadual e municipal. A ocupação começou em 2012 e, desde então, o movimento vinha reivindicando o direito de usufruir do espaço para a construção de casas. A Cartas Magna, em seu art. 6°, garante a todos os brasileiros o direito à moradia.<br><br>PUTTI, A. Disponível em: www.cartacapital.com.br.  <br>Acesso em: 13 nov. 2021 (adaptado).",
+    "imgs": [],
+    "pergunta": "O texto apresenta uma estratégia usada pelo movimento social para",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Fragilizar o poder público.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Fomentar a economia solidária.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Controlar a propriedade estatal.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Garantir o preceito constitucional.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Incentivar a especulação imobiliária.",
+            "imgUrl": null
+        }
+    ]
+}

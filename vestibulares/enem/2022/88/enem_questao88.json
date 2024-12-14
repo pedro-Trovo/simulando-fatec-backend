@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 88,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Entretanto, nosso amigo Basso tem o ânimo alegre. Isso resulta da filosofia: estar alegre diante da morte, forte e contente qualquer que seja o estado do corpo, sem desfalecer, ainda que desfaleça.<br><br>**Sêneca, L. Cartas morais. Lisboa: Calouste Gulbenkian, 1990.**",
+    "imgs": [],
+    "pergunta": "O excerto refere-se a uma carta de Sêneca na qual se apresenta como um bem fundamental da filosofia promover a",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Valorização de disputas dialógicas",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Rejeição das convenções sociais",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Inspiração de natureza religiosa",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Exaltação do sofrimento",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Moderação das paixões",
+            "imgUrl": null
+        }
+    ]
+}

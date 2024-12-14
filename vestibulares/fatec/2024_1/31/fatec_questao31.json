@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 31,
+    "disciplina": "Geografia",
+    "enunciado": "Eu me lembro muito bem do dia que eu cheguei<br>Jovem que desce do norte pra cidade grande<br>Os pés cansados e feridos de andar légua tirana<br>De lágrimas nos olhos de ler o Pessoa<br>E de ver o verde da cana<br>Em cada esquina que eu passava, um guarda me parava<br>Pedia os meus documentos e depois sorria<br>Examinando o 3x4 da fotografia<br>E estranhando o nome do lugar de onde eu vinha<br>[...]<br>A minha história é talvez<br>É talvez igual a tua, jovem que desceu do norte<br>Que no sul viveu na rua.<br>[...]<br><br>Eu me lembro muito bem do dia que eu cheguei<br>Jovem que desce do norte pra cidade grande<br>Os pés cansados e feridos de andar légua tirana<br>De lágrimas nos olhos de ler o Pessoa<br>E de ver o verde da cana<br>Em cada esquina que eu passava, um guarda me parava<br>Pedia os meus documentos e depois sorria<br>Examinando o 3x4 da fotografia<br>E estranhando o nome do lugar de onde eu vinha",
+    "imgs": [],
+    "pergunta": "A minha história é talvez<br>É talvez igual a tua, jovem que desceu do norte<br>Que no sul viveu na rua.",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "questão da migração e as agruras vivenciadas pelos migrantes",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "fuga de cérebros brasileiros para algum país do exterior",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "migração pendular vivenciada por trabalhadores nas áreas rurais",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "migração de retorno de um brasileiro em Portugal",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "transumância realizada por refugiados brasileiros desempregados no Japão",
+            "imgUrl": null
+        }
+    ]
+}

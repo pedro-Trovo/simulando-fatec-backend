@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 117,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "Um grupo de alunos realizou um experimento para observar algumas propriedades dos ácidos, adicionando um pedaço de mármore (CaCO3 ) a uma solução aquosa de ácido clorídrico (HCl), observando a liberação de um gás e o aumento da temperatura.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/117/enem_questao117_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/117/enem_questao117_img1.png"
+    ],
+    "pergunta": "O gás obtido no experimento é o:",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "H2",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "O2",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "CO2",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "CO",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Cl2",
+            "imgUrl": null
+        }
+    ]
+}

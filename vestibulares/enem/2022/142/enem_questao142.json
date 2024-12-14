@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 142,
+    "disciplina": "Matemática",
+    "enunciado": "Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 7 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis.",
+    "imgs": [],
+    "pergunta": "Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "8.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "9.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "11.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "18.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "24.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 34,
+    "disciplina": "Português",
+    "enunciado": "Este não é um mapa como os convencionais, que costumam ser validados na ciência geográfica pelo emprego de escala, legenda, título ou dados georreferenciados. Também não é uma obra de arte usual, pois visualizamos claramente uma estética ou um contorno que reconhecemos como cartográfico. Por ser tanto um mapa, quanto uma obra de arte, enquadra-se no que é chamado de mapa artístico. Seu autor, Joaquín Torres-García, publicou-o em 1943 para inaugurar um movimento artístico inovador e original, em Montevidéu, o qual objetivava ser capaz de igualar a arte aqui desenvolvida à arte de Paris. Entretanto, o artista encontrou dificuldades devido ao gosto predominante nas artes uruguaias de copiar cânones estéticos importados da Europa. Em sua obra, esse autor exaltava a cultura e os motivos do Uruguai e da América do Sul, combatendo o comportamento que ele chamou de \"exilados da Europa”. Uma consciência que não era só de Torres-García, como também de outros artistas modernistas da América Latina, incomodados com as principais capitais latinas que não se apresentavam como sedes de sua sociedade.<br><br>Este não é um mapa como os convencionais, que costumam ser validados na ciência geográfica pelo emprego de escala, legenda, título ou dados georreferenciados. Também não é uma obra de arte usual, pois visualizamos claramente uma estética ou um contorno que reconhecemos como cartográfico. Por ser tanto um mapa, quanto uma obra de arte, enquadra-se no que é chamado de mapa artístico. Seu autor, Joaquín Torres-García, publicou-o em 1943 para inaugurar um movimento artístico inovador e original, em Montevidéu, o qual objetivava ser capaz de igualar a arte aqui desenvolvida à arte de Paris. Entretanto, o artista encontrou dificuldades devido ao gosto predominante nas artes uruguaias de copiar cânones estéticos importados da Europa.",
+    "imgs": [],
+    "pergunta": "Em sua obra, esse autor exaltava a cultura e os motivos do Uruguai e da América do Sul, combatendo o comportamento que ele chamou de \\\"exilados da Europa\\\"?",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "que, no primeiro parágrafo, e o, no segundo parágrafo, referem-se à expressão \\\"mapa artístico\\\"",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "o e o qual, no segundo parágrafo, fazem referência ao artista, Torres-García.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "o, no segundo parágrafo, e ele, no terceiro parágrafo, referem-se ao termo \\\"autor\\\"",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "ele, no terceiro parágrafo, retoma o substantivo \\\"comportamento\\\"",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "que, no terceiro parágrafo, refere-se à expressão \\\"as principais capitais latinas\\\"",
+            "imgUrl": null
+        }
+    ]
+}

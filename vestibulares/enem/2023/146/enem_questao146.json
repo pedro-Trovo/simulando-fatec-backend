@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 146,
+    "disciplina": "Matemática",
+    "enunciado": "<img src=\"vestibulares/enem/enemFormatado/2023/146/enem_questao146_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/146/enem_questao146_img1.png"
+    ],
+    "pergunta": "Considere que os números colocados nos vértices do triângulo estejam em progressão aritmética de razão igual a 2.<br>Nas condições propostas, quais as possíveis soluções para as somas dos números que formam os lados do triângulo?",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 7.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 9.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 7 e outra em que as somas são iguais a 9.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 9 e outra em que as somas são iguais a 12.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 10 e outra em que as somas são iguais a 11.",
+            "imgUrl": null
+        }
+    ]
+}

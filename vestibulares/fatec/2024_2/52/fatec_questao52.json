@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 52,
+    "disciplina": "Raciocínio Lógico",
+    "enunciado": "Quéchua é uma família de línguas falada por diversos grupos étnicos, ao longo da região da cordilheira dos Andes. O quadro mostra os dez primeiros numerais nas línguas portuguesa e quéchua.",
+    "imgs": [],
+    "pergunta": "Nessa família de línguas, no que se refere ao seu sistema de numeração, existem algumas regras que são regulares e não variam.",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "quimsa chunca iscun",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "quimsa iscun chunca",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "chunca quimsa iscun",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "iscun chunca quimsa",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "iscun quinsa chunca",
+            "imgUrl": null
+        }
+    ]
+}

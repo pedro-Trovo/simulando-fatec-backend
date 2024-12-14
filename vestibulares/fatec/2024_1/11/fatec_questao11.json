@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 11,
+    "disciplina": "Raciocínio Lógico",
+    "enunciado": "Em 2019, a Unesco definiu 15 de abril como o dia Mundial da Arte: uma data para difundir como a arte alimenta a criatividade, a inovação e a diversidade cultural, além de desempenhar um papel importante no compartilhamento de conhecimento e no incentivo à curiosidade, ao diálogo e à paz.<br>Se, em um determinado ano bissexto, o dia 3 de janeiro ocorre em uma quarta-feira, então o dia Mundial da Arte nesse ano será comemorado em uma<br><br>Em 2019, a Unesco definiu 15 de abril como o dia Mundial da Arte: uma data para difundir como a arte alimenta a criatividade, a inovação e a diversidade cultural, além de desempenhar um papel importante no compartilhamento de conhecimento e no incentivo à curiosidade, ao diálogo e à paz.",
+    "imgs": [],
+    "pergunta": "Se, em um determinado ano bissexto, o dia 3 de janeiro ocorre em uma quarta-feira, então o dia Mundial da Arte nesse ano será comemorado em uma",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "segunda-feira.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "terça-feira.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "quarta-feira.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "quinta-feira.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "sexta-feira.",
+            "imgUrl": null
+        }
+    ]
+}

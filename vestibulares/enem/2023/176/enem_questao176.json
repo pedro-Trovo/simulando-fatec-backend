@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 176,
+    "disciplina": "Matemática",
+    "enunciado": "Os números figurados pentagonais provavelmente foram introduzidos pelos pitagóricos por volta do século V a.C. As figuras ilustram como obter os seis primeiros deles, sendo os demais obtidos seguindo o mesmo padrão geométrico.<br><br><img src=\"vestibulares/enem/enemFormatado/2023/176/enem_questao176_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/176/enem_questao176_img1.png"
+    ],
+    "pergunta": "O oitavo número pentagonal é",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "59",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "83",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "86",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "89",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "92",
+            "imgUrl": null
+        }
+    ]
+}

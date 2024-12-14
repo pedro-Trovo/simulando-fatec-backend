@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 27,
+    "disciplina": "História",
+    "enunciado": "Esse tipo de igreja, fixado imortalmente nas duas São Francisco de Ouro Preto e São João d'El-Rei, não corresponde apenas ao gosto do tempo, refletindo as bases portuguesas da colônia, como já se distingue das soluções barrocas lusocoloniais, por uma tal ou qual denguice, por uma graça mais sensual e encantadora, por uma “delicadeza” tão suave, eminentemente brasileiras. As igrejas do Aleijadinho não se acomodam com o apelativo “belo”, próprio à São Pedro de Roma, à catedral de Reims, à Batalha ou à horrível São Marcos de Veneza. Mas são muito lindas, são bonitas como o quê. São dum sublime pequenino, dum equilíbrio, duma pureza tão bem arranjadinha e sossegada, que são feitas pra querer bem ou pra acarinhar, que nem na cantiga nordestina.<br><br>Esse tipo de igreja, fixado imortalmente nas duas São Francisco de Ouro Preto e São João d'El-Rei, não corresponde apenas ao gosto do tempo, refletindo as bases portuguesas da colônia, como já se distingue das soluções barrocas lusocoloniais, por uma tal ou qual denguice, por uma graça mais sensual e encantadora, por uma \"delicadeza\" tão suave, eminentemente brasileiras.",
+    "imgs": [],
+    "pergunta": "As igrejas do Aleijadinho não se acomodam com o apelativo \"belo\", próprio à São Pedro de Roma, à catedral de Reims, à Batalha ou à horrível São Marcos de Veneza. Mas são muito lindas, são bonitas como o quê. São dum sublime pequenino, dum equilíbrio, duma pureza tão bem arranjadinha e sossegada, que são feitas pra querer bem ou pra acarinhar, que nem na cantiga nordestina.",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "o trabalho de Aleijadinho evidencia a busca pelo belo, com inspiração em igrejas europeias de estilo gótico, como a basílica de São Pedro e a catedral de Reims.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "a obra de Aleijadinho se caracteriza por uma adaptação brasileira e original dos estilos artístico e arquitetônico trazidos da Europa pelos colonizadores portugueses.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "a construção das igrejas de Aleijadinho evitava a beleza, buscando aproximar-se da aridez estética representada na cantiga nordestina, crítica à política colonial portuguesa.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "o projeto de Aleijadinho para as igrejas de São Francisco, tanto de Ouro Preto quanto de São João d'El Rei, corresponde à estética de seu tempo, marcada pelo estilo neoclássico.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "as igrejas de Aleijadinho apresentam características incompatíveis com a religiosidade cristã, embora valorizem a sensualidade em detrimento da castidade esperada dos fiéis.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 169,
+    "disciplina": "Matemática",
+    "enunciado": "O esquema mostra como a intensidade luminosa decresce com o aumento da profundidade em um rio, sendo <img src=\"vestibulares/enem/enemFormatado/2023/169/enem_questao169_img1.png\" alt=\"imagem 1 da questão\"> a intensidade na sua superfície.<br><br><img src=\"vestibulares/enem/enemFormatado/2023/169/enem_questao169_img2.png\" alt=\"imagem 2 da questão\"><br><br>Considere que a intensidade luminosa diminui, a cada metro acrescido na profundidade, segundo o mesmo padrão do esquema.",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/169/enem_questao169_img1.png",
+        "vestibulares/enem/enemFormatado/2023/169/enem_questao169_img2.png"
+    ],
+    "pergunta": "A intensidade luminosa correspondente à profundidade de 6 m é igual a",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2023/169/enem_questao169_alter-A.png"
+        },
+        {
+            "letra": "B",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2023/169/enem_questao169_alter-B.png"
+        },
+        {
+            "letra": "C",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2023/169/enem_questao169_alter-C.png"
+        },
+        {
+            "letra": "D",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2023/169/enem_questao169_alter-D.png"
+        },
+        {
+            "letra": "E",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2023/169/enem_questao169_alter-E.png"
+        }
+    ]
+}

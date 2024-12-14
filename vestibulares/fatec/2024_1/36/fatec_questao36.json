@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 36,
+    "disciplina": "História",
+    "enunciado": "Na década de 1950, um grupo de jovens cineastas deu início a um movimento que pretendia combater a influência estadunidense na produção cultural brasileira. Esses jovens defendiam a produção, a baixo custo, de filmes que, simultaneamente, renovassem a estética do cinema nacional e abordassem os problemas do Brasil de forma crítica.<br><br>Na década de 1950, um grupo de jovens cineastas deu início a um movimento que pretendia combater a influência estadunidense na produção cultural brasileira. Esses jovens defendiam a produção, a baixo custo, de filmes que, simultaneamente, renovassem a estética do cinema nacional",
+    "imgs": [],
+    "pergunta": "e abordassem os problemas do Brasil de forma crítica.",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Bossa Nova",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Chanchada",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Cinema Cantado",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Cinema Novo",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Cinema Mudo",
+            "imgUrl": null
+        }
+    ]
+}

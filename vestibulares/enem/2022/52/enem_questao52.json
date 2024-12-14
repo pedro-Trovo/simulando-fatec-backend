@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 52,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Olhar O Brasil e não ver o sertão  <br>É como negar o queijo com a faca na mão  <br>Esse gigante em movimento  <br>Movido a tijolo e cimento  <br>Precisa de arroz com feijão  <br>Que tenha comida na mesa  <br>Que agradeça sempre a grandeza  <br>De cada pedaço de pão  <br>Agradeça a Clemente  <br>Que leva a semente  <br>Em seu embornal  <br>Zezé e o penoso balé  <br>De pisar no cacau  <br>Maria que amanhece o dia  <br>Lá no milharal<br><br>**VANDER LEE. Do Brasil, In: Pensei que fosse o céu: ao vivo. Rio de Janeiro: Indie Records, 2006 (fragmento).**",
+    "imgs": [],
+    "pergunta": "A letra da canção valoriza uma dimensão do espaço rural brasileiro em sua relação com a cidade ao ressaltar sua função de",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Fornecer a mão de obra qualificada.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Incorporar a inovação tecnológica.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Preservar a diversidade biológica.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Promover a produção alimentar.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Garantir a moradia básica.",
+            "imgUrl": null
+        }
+    ]
+}

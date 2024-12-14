@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 28,
+    "disciplina": "Matemática",
+    "enunciado": "Em 1977, o Centro Médico Especializado de Ciudad Juárez adquiriu um equipamento médico para diagnóstico que continha material radioativo. Após seis anos, um técnico de manutenção, inadvertidamente, desmontou parte desse equipamento e extraiu de lá uma peça em cujo interior havia 6 mil grânulos do radioisótopo cobalto-60. Os grânulos desse radioisótopo são minúsculos e podem ser descritos como cilindros circulares retos que possuem diâmetro e altura com a mesma medida de 1,0 mm. Todavia, mesmo pequenos, esses grânulos representam uma fonte de radioatividade cuja meia vida é estimada em 5 anos. Aparentemente, o objetivo do técnico era vender as peças da unidade de tratamento como sucata. No entanto, a maneira como o dispositivo foi perfurado e transportado fez com que uma quantidade indefinida de grânulos fosse espalhada na caminhonete usada, nos demais veículos comerciais e até em ruas de Ciudad Juárez. Esse é um dos maiores incidentes nucleares registrado nas Américas.<br><br>Em 1977, o Centro Médico Especializado de Ciudad Juárez adquiriu um equipamento médico para diagnóstico que continha material radioativo. Após seis anos, um técnico de manutenção, inadvertidamente, desmontou parte desse equipamento e extraiu de lá uma peça em cujo interior havia 6 mil grânulos do radioisótopo cobalto-60. Os grânulos desse radioisótopo são minúsculos e podem ser descritos como cilindros circulares retos que possuem diâmetro e altura com a mesma medida de 1,0 mm. Todavia, mesmo pequenos, esses grânulos representam uma fonte de radioatividade cuja meia vida é estimada em 5 anos.",
+    "imgs": [],
+    "pergunta": "Assinale a alternativa que indica, em metros cúbicos, o volume total de grânulos do radioisótopo mencionado no texto. (Adote π = 3)",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "1,0 × 10<sup>-6</sup>",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "1,5 × 10<sup>-6</sup>",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "3,0 × 10<sup>-6</sup>",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "4,5 × 10<sup>-6</sup>",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "6,0 × 10<sup>-6</sup>",
+            "imgUrl": null
+        }
+    ]
+}

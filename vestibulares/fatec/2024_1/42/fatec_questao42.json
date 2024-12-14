@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 42,
+    "disciplina": "Química",
+    "enunciado": "O problema gerado pela liberação da água quente nos rios e nos oceanos é a alteração na quantidade de oxigênio dissolvido na água, uma vez que a solubilidade do oxigênio na água é inversamente proporcional à temperatura.",
+    "imgs": [],
+    "pergunta": "Diante disso, assinale a alternativa que apresenta corretamente o esboço do gráfico que mostra a solubilidade do oxigênio na água (mg/L) em função da temperatura (°C).",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Solubilidade de O₂ (mg/L)\n2\nT (°C)",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Solubilidade de O₂ (mg/L)\n2\nT (°C)",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Solubilidade de O₂ (mg/L)\n2\nT (°C)",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Solubilidade de O₂ (mg/L)\n2\nT (°C)",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Solubilidade de O₂ (mg/L)\n2\nT (°C)",
+            "imgUrl": null
+        }
+    ]
+}

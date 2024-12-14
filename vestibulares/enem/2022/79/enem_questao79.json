@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 79,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Hoje sou um ser inanimado, mas já tive vida pulsante em seivas vegetais, ful um ser vivo; é bem verdade que do reino vegetal, mas isso não me tirou a percepção de vida vivida como tamborete. Guardo apreço pelos meus criadores, as mãos que me fizeram, me venderam, 6 pelas mulheres que me usaram para suas vendas e de tantas outras maneiras. Essas pessoas, sim, tiveram suas subjetividades, singularidades e pluralidades, que estão incorporadas a mim. É preciso considerar que a nossa história, de móveis de museus, está para além da mera vinculação aos estilos e à patrimonialização que recebemos como bem material vinculado ao patrimônio imaterial. A nossa história está ligada aos dons individuais das pessoas e suas práticas sociais. Alguns indivíduos consagravam-se por terem determinados requisitos, tais como o conhecimento de modelos clássicos ou destreza nos desenhos.<br><br>**FREITAS, J. M.; OLIVEIRA, L. R. Memórias de um tamborete de baiana: as muitas vozes em um objeto de museu. Revista Brasileira de Pesquisa (Auto)Blográfica, n. 14, maio-ago. 2020 (Adaptado).**",
+    "imgs": [],
+    "pergunta": "Ao descrever-se como patrimônio museológico, o objeto abordado no texto associa a sua história às",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Habilidades artísticas e culturais dos sujeitos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Vocações religiosas e pedagógicas dos mestres.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Naturezas antropológica e etnográfica dos expositores.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Preservações arquitetônica e visual dos conservatórios.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Competências econômica e financeira dos comerciantes.",
+            "imgUrl": null
+        }
+    ]
+}

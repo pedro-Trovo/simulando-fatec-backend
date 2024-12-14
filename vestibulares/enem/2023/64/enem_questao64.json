@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 64,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "**Txai Suruí, liderança da Juventude Indígena, profere seu discurso na abertura da COP-26**<br><br>“O clima está esquentando, os animais estão desaparecendo, os rios estão morrendo e nossas plantações não florescem como no passado. A Terra está falando: ela nos diz que não temos mais tempo.”<br><br>VICK, M. **Quais são as conquistas do movimento indígena na COP-26**. Disponível em: www.nexojornal.com.br. Acesso em: 10 nov. 2021 (adaptado).",
+    "imgs": [],
+    "pergunta": "O discurso da líder indígena explicita um problema global relacionado ao(à)",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Manejo tradicional.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Reciclagem residual.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Consumo consciente.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Exploração predatória.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Reaproveitamento energético.",
+            "imgUrl": null
+        }
+    ]
+}

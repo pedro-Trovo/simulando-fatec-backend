@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 44,
+    "disciplina": "Linguagens",
+    "enunciado": "**TEXTO I**<br><br><img src=\"vestibulares/enem/enemFormatado/2022/44/enem_questao44_img1.png\" alt=\"imagem 1 da questão\"><br><br>SILVEIRA, R. **In absentia**, 1983. Instalação, 17ª Bienal de São Paulo. Disponível em: www.bienal.org.br. Acesso em: set. 2016 (adaptado).<br><br>**TEXTO II**<br><br>O termo ready-made foi criado por Marcel Duchamp (1887-1968) para designar um tipo de objeto, por ele inventado, que consiste em um ou mais artigos de uso cotidiano, produzidos em massa, selecionados sem critérios estéticos e expostos como obras de arte em espaços especializados (museus e galerias). Seu primeiro ready-made, de 1912, é uma roda de bicicleta montada sobre um banquinho  (Roda de bicicleta). Ao transformar qualquer objeto em obra de arte, o artista realiza uma crítica radical ao sistema da arte.<br><br>Disponível em: www.bienal.org.br. Acesso em: 1 set. 2016 (adaptado)",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/44/enem_questao44_img1.png"
+    ],
+    "pergunta": "A instalação In absentia propõe um diálogo com o ready-made Roda de bicicleta, demonstrando que",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "As formas de criticar obras do passado se repetem.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "A recorrência de temas marca a arte do final do século XX.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "As criações desmistificam os valores estéticos estabelecidos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "O distanciamento temporal permite a transformação dos referenciais estéticos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "O objeto ausente sugere a degradação da forma superando o modelo artístico.",
+            "imgUrl": null
+        }
+    ]
+}

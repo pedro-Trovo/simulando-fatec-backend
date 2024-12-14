@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 30,
+    "disciplina": "Raciocínio Lógico",
+    "enunciado": "Meia-vida é o tempo necessário para que a atividade radioativa de um elemento seja reduzida pela metade.",
+    "imgs": [],
+    "pergunta": "Levando em consideração que um ano possui 365 dias, verifica-se que a atividade radioativa do radioisótopo diminuiu, num período de 7300 dias, um percentual equivalente a",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "93,75",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "87,50",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "25,00",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "12,50",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "6,25",
+            "imgUrl": null
+        }
+    ]
+}

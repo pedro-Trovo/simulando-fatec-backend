@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 41,
+    "disciplina": "Física",
+    "enunciado": "De acordo com as informações apresentadas no texto, podemos afirmar corretamente que a mineração de dados consome muita energia devido às jazidas de minério. A NFT é uma tecnologia que envolve apenas conceitos de eletrônica quântica. A Argentina consome, em kWh/ano, o equivalente a 120 milhões de kWh de energia.",
+    "imgs": [],
+    "pergunta": "a principal operadora de NFT pode usar, por cada transação, em 1 h, até 50000 W de potência.",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "a mineração de dados consome muita energia devido às jazidas de minério.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "a NFT é uma tecnologia que envolve apenas conceitos de eletrônica quântica.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "a Argentina consome, em kWh/ano, o equivalente a 120 milhões de kWh de energia.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "a principal operadora de blockchain citada consome muito menos energia do que a Argentina.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "a principal operadora de NFT pode usar, por cada transação, em 1 h, até 50000 W de potência.",
+            "imgUrl": null
+        }
+    ]
+}

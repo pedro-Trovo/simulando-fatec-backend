@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 54,
+    "disciplina": "História",
+    "enunciado": "Todas as guerras que chamamos de conquista foram e são injustíssimas. Nós usurpamos todos os reinos e senhorios das Índias. As encomiendas e repartimentos de índios são cruéis e tirânicos, todos os que se beneficiam delas estão sempre em pecado mortal e, se não renunciarem a essas práticas, não poderão se salvar. Todo o ouro, a prata, as pérolas e outras riquezas que foram à Espanha são roubados e, se não forem devolvidos, quem os tomou não poderá se salvar. Todas as pessoas de quem roubamos, em qualquer parte, têm direito adquirido de nos fazer guerra justíssima e este direito valerá até o dia do Juízo Final.<br><br>Todas as guerras que chamamos de conquista foram e são injustíssimas. Nós usurpamos todos os reinos e senhorios das Índias. As encomiendas e repartimentos de índios são cruéis e tirânicos, todos os que se beneficiam delas estão sempre em pecado mortal e, se não renunciarem a essas práticas, não poderão se salvar. Todo o ouro, a prata, as pérolas e outras riquezas que foram à Espanha são roubados e, se não forem devolvidos,",
+    "imgs": [],
+    "pergunta": "quem os tomou não poderá se salvar. Todas as pessoas de quem roubamos, em qualquer parte, têm direito adquirido de nos fazer guerra justíssima e este direito valerá até o dia do Juízo Final.",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "as regras do direito internacional permitiram que os povos colonizados na Ásia renunciassem a práticas tirânicas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "as guerras contra os nativos foram uma justa resposta aos ataques e aos roubos praticados pelos americanos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "a colonização do continente americano ocorreu em um contexto de harmonia entre europeus e colonizados.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "a presença europeia na Ásia ocorreu em condições adversas, tornando os espanhóis vítimas da crueldade dos indianos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "a conquista espanhola da América foi marcada pela opressão e pela violência contra os povos nativos da região.",
+            "imgUrl": null
+        }
+    ]
+}

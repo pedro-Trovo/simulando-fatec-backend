@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 80,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Advento da _Polis_, nascimento da filosofia: entre as duas ordens de fenômenos, os vínculos são demasiado estreitos para que o pensamento racional não apareça, em suas origens, solidário das estruturas sociais e mentais próprias da cidade grega. Assim recolocada na história, a filosofia despoja-se desse caráter de revelação absoluta que às vezes lhe foi atribuído, saudando, na jovem ciência dos jônios, a razão intemporal que veio encarnar-se no Tempo. A escola de Mileto não viu nascer a Razão; ela construiu uma Razão, uma primeira forma de racionalidade. Essa razão grega não é a razão experimental da ciência contemporânea.<br><br>**VERNANT, J. P. Origens do pensamento grego. Rio de Janeiro: Difel, 2002.**",
+    "imgs": [],
+    "pergunta": "Os vínculos entre os fenômenos indicados no trecho foram fortalecidos pelo surgimento de uma categoria de pensadores, a saber:",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Os epicuristas, envolvidos com o ideal de vida feliz.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Os estoicos, dedicados à superação dos infortúnios.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Os sofistas, comprometidos com o ensino da retórica.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Os peripatéticos, empenhados na dinâmica do ensino.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Os poetas rapsodos, responsáveis pela narrativa do mito.",
+            "imgUrl": null
+        }
+    ]
+}

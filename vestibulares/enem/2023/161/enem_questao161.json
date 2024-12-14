@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 161,
+    "disciplina": "Matemática",
+    "enunciado": "Uma loja vende seus produtos de duas formas: à vista ou financiado em três parcelas mensais iguais. Para definir o valor dessas parcelas nas vendas financiadas, a loja aumenta em 20% o valor do produto à vista e divide esse novo valor por 3. A primeira parcela deve ser paga no ato da compra, e as duas últimas, em 30 e 60 dias após a compra.<br><br>Um cliente da loja decidiu comprar, de forma financiada, um produto cujo valor à vista é R$ 1 500,00.<br><br>Utilize 5,29 como aproximação para 28.",
+    "imgs": [],
+    "pergunta": "A taxa mensal de juros compostos praticada nesse financiamento é de",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "6,7%",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "10%",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "20%",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "21,5%",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "23,3%",
+            "imgUrl": null
+        }
+    ]
+}

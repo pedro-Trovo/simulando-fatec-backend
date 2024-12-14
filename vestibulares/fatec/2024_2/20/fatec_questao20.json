@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 20,
+    "disciplina": "Biologia",
+    "enunciado": "Segundo especialistas, no organismo humano, esse tipo de nutriente desempenha várias funções biológicas importantes, como as realizadas pelas imunoglobulinas, que agem na defesa e atuam contra os antígenos que entram no organismo por meio de vacinação ou de uma infecção ativa.<br><br>Segundo a FAO, a produção de proteína animal é também considerada fundamental para a segurança alimentar da população do mundo. E, nesse aspecto, a contribuição da América Latina é importante, pois ocupa o segundo lugar mundial, perdendo apenas para a Ásia, na produção de carnes, pescados, leite e ovos.",
+    "imgs": [],
+    "pergunta": "Segundo especialistas, no organismo humano, esse tipo de nutriente desempenha várias funções biológicas importantes, como as realizadas",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "pela hemoglobina, que provoca a coagulação e que estimula a reparação dos vasos sanguíneos lesados.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "pelas enzimas, que se ligam aos gases respiratórios e que distribuem o gás carbônico dos alvéolos pulmonares a todas as células do corpo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "pelo colágeno, que atua como catalisador de reações químicas e que diminui a elasticidade e a hidratação da pele e das cartilagens humanas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "pelas imunoglobulinas, que agem na defesa e atuam contra os antígenos que entram no organismo por meio de vacinação ou de uma infecção ativa.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "pela insulina, que atua no controle da ovulação, no desenvolvimento de características sexuais secundárias femininas e pelo controle do ciclo menstrual.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 36,
+    "disciplina": "Inglês",
+    "enunciado": null,
+    "imgs": [],
+    "pergunta": "O texto apresentado pertence ao gênero",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "folheto, divulgando um novo curso acadêmico direcionado ao público latino-americano.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "propaganda, anunciando um concerto de música clássica em um ginásio poliesportivo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "convite, apresentando um jantar beneficente que ocorrerá em um hotel, em St. Augustine.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "pôster, falando de uma degustação gratuita de vinhos latino-americanos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "campanha, incentivando a criação de bandas latino-americanas nos EUA.",
+            "imgUrl": null
+        }
+    ]
+}

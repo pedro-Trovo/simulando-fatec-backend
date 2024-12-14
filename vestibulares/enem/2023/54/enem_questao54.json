@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 54,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "Eu poderia concluir que a raiva é um pensamento, que estar com raiva é pensar que alguém é detestável, e que esse pensamento, como todos os outros — assim como Descartes o mostrou —, não poderia residir em nenhum fragmento de matéria. A raiva seria, portanto, espírito. Porém, quando me volto para minha própria experiência da raiva, devo confessar que ela não estava fora do meu corpo, mas inexplicavelmente nele.<br>MERLEAU-PONTY, M. Quinta conversa: o homem visto de fora. São Paulo: Martins Fontes, 1948 (adaptado).<br>No que se refere ao problema do corpo, a filosofia cartesiana apresenta-se como contraponto ao entendimento expresso no texto por",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Apresentar uma visão dualista.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Confirmar uma tese naturalista.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Demonstrar uma premissa relativa.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Sustentar um argumento idealista.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Defender uma posição intencionalista.",
+            "imgUrl": null
+        }
+    ]
+}

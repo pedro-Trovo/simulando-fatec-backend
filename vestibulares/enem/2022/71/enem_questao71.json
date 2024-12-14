@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 71,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "O princípio básico do Estado de direito é o da eliminação do arbítrio no exercício dos poderes  públicos, com a consequente garantia de direitos dos indivíduos perante esses poderes. Estado de direito significa que nenhum indivíduo, presidente ou cidadão comum está acima da lei. Os governos democráticos exercem a autoridade por meio da lei e estão eles próprios sujeitos as constrangimentos impostos pela lei.<br><br>**CANOTILHO, J. J. G. Estado de direito, Lisboa: Gradiva, 1999 (adaptado).**",
+    "imgs": [],
+    "pergunta": "Nas sociedades contemporâneas, consiste em violação do princípio básico enunciado no texto:",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Supressão de eleições de representantes políticos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Intervenção em áreas de vulnerabilidade pela Igreja.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Disseminação de projetos sociais em universidades.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Ampliação dos processos de concentração de renda.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Regulamentação das relações de trabalho pelo Legislativo.",
+            "imgUrl": null
+        }
+    ]
+}

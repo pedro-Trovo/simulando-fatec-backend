@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 90,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Em Vitória (ES), no bairro Goiabeiras, encontramos as paneleiras, mulheres que são conhecidas pelos saberes/fazeres das tradicionais panelas de barro, ícones da culinária capixaba. A tradição passada de mãe para filha é de origem indígena e sofreu influência de outras etnias, como a afro e a luso. Dessa mistura, acredita-se que a fabricação das panelas de barro já tenha 400 anos. A fabricação das panelas de barro se dá em várias etapas, desde a obtenção de matéria-prima à confecção das panelas. As matérias-primas tradicionalmente utilizadas são provenientes do meio natural, como: argila, retirada do barreiro no Vale do Mulembá; madeira, atualmente proveniente das sobras da construção civil; e tinta, extraída da casca do manguezal, o popular mangue-vermelho.<br><br>**TRISTÃO, M. A educação ambiental e o pós-colonialismo. Revista de Educação, n. 53, ago. 2014.**",
+    "imgs": [],
+    "pergunta": "Uma característica de práticas tradicionais como a exemplificada no texto é vinculação entre os recursos do mundo natural e a",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Manutenção dos modos de vida.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Conservação dos plantios da roça.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Atualização do modelo de gestão.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Participação na sociedade de consumo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Especialização nas etapas de produção.",
+            "imgUrl": null
+        }
+    ]
+}

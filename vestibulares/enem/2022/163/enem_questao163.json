@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 163,
+    "disciplina": "Matemática",
+    "enunciado": "Em uma universidade, atuam professores que estão enquadrados funcionalmente pela sua maior titulação: mestre ou doutor. Nela há, atualmente, 60 mestres e 40 doutores. Os salários mensais dos professores mestres e dos doutores são, respectivamente, R$ 8 000,00 e  <br>R$ 12 000,00.  <br>A diretoria da instituição pretende proporcionar um aumento salarial diferenciado para o ano seguinte, de tal forma que o salário médio mensal dos professores dessa instituição não ultrapasse R$ 12 240,00. A universidade já estabeleceu que o aumento salarial será de 25% para os mestres e precisa ainda definir o percentual de reajuste para os doutores.",
+    "imgs": [],
+    "pergunta": "Mantido o número atual de professores com suas atuais titulações, o aumento salarial, em porcentagem, a ser concedido aos doutores deverá ser de, no máximo,",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "14,4.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "20,7.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "22,0.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "30,0.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "37,5",
+            "imgUrl": null
+        }
+    ]
+}

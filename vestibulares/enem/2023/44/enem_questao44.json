@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 44,
+    "disciplina": "Linguagens",
+    "enunciado": "![](https://enem.dev/broken-image.svg)",
+    "imgs": [],
+    "pergunta": "Essa campanha publicitária do Ministério da Saúde visa",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Divulgar um conjunto de benefícios proporcionados pela amamentação.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Apresentar tratamentos para infecções respiratórias em bebês.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Defender o direito das mulheres de amamentar em público.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Orientar sobre os exercícios para uma boa amamentação.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Informar sobre o aumento de anticorpos nas mães.",
+            "imgUrl": null
+        }
+    ]
+}

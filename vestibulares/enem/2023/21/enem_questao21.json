@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 21,
+    "disciplina": "Linguagens",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "Um grupo de pesquisadores da Universidade Federal do Ceará desenvolveu um dicionário para traduzir sintomas de doenças da linguagem popular para os termos médicos. Defruço, chanha e piloura, por exemplo, podem ser termos conhecidos para muitos, mas, durante uma consulta médica, o desconhecimento pode significar um diagnóstico errado.<br>“Isso é um registro histórico e pode ser muito útil para estudos dessas comunidades, na abordagem médica delas. É de certa forma pioneiro no Brasil e, sem dúvida, um instrumento de trabalho importante, porque a comunicação é fundamental na relação médico-paciente”, avalia o reitor da instituição.<br>Disponível em: https://gl.globo.com. Acesso em: 1 nov. 2021 (adaptado).<br>Ao registrarem usos regionais de termos da área médica, Pesquisadores",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Apontaram erros motivados pelo desconhecimento da variedade linguística local.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Explicaram problemas provocados pela incapacidade de comunicação.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Descobriram novos sintomas de doenças existentes na comunidade.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Propiciaram melhor compreensão dos sintomas dos pacientes.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Divulgaram um novo rol de doenças características da localidade.",
+            "imgUrl": null
+        }
+    ]
+}

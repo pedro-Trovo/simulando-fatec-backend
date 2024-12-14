@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 53,
+    "disciplina": "Português",
+    "enunciado": "Se fosse possível abstrair o sentido e pensar nas palavras como tijolos de uma construção, eu diria que esses tijolos representam um modo de organizar a matéria, e que \"enquanto organização eles exercem papel ordenador sobre a nossa mente. Quer percebamos claramente ou não, o caráter de coisa organizada da obra literária torna-se um fator que nos deixa mais capazes de ordenar a nossa própria mente e sentimentos; e, em consequência, mais capazes de organizar a visão que temos do mundo.<br>Por isso, um poema hermético, de entendimento difícil, sem nenhuma alusão tangível à realidade do espírito ou do mundo, pode funcionar neste sentido, pelo fato de ser um tipo de ordem, sugerindo um modelo de superação do caos. A produção literária tira as palavras do nada e as dispõe como todo articulado. Este é o primeiro nível humanizador, ao contrário do que geralmente se pensa. A organização da palavra comunica-se ao nosso espírito e o leva, primeiro, a se organizar; em seguida, a organizar o mundo. Isto ocorre desde as formas mais simples, como a quadrinha, o provérbio, a história de bichos, que sintetizam a experiência e a reduzem a sugestão, norma, conselho ou simples espetáculo mental.<br><br>Se fosse possível abstrair o sentido e pensar nas palavras como tijolos de uma construção, eu diria que esses tijolos representam um modo de organizar a matéria, e que “ enquanto organização eles exercem papel ordenador sobre a nossa mente. Quer percebamos claramente ou não, o caráter de coisa organizada da obra literária torna-se um fator que",
+    "imgs": [],
+    "pergunta": "mais capazes de organizar a visão que temos do mundo.",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "a linguagem é fruto de uma estrutura fixa e, portanto, imutável, que impõe uma visão única da realidade.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "a leitura disponibiliza ferramentas que tornam um indivíduo mais apto a entender sua realidade.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "a poesia acessível, com linguagem coloquial, é incompatível com análises mais complexas da realidade.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "a produção e o consumo de textos literários foram os passos iniciais para a formação da sociedade.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "a linguagem permite ao indivíduo entender inicialmente o outro para, posteriormente, entender a si mesmo.",
+            "imgUrl": null
+        }
+    ]
+}

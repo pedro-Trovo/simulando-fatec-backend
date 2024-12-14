@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 48,
+    "disciplina": "Português",
+    "enunciado": "A tirinha é um gênero que utiliza linguagem verbal e não verbal na construção de sentido.",
+    "imgs": [],
+    "pergunta": "Ao analisá-la, conclui-se corretamente que",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "a personagem mantém hábitos condizentes com sua cultura ancestral.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "o susto expresso pela personagem evidencia sua falta de conhecimento histórico.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "a influência da cultura estrangeira é assimilada conscientemente pela personagem.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "o resultado do teste demonstra a despreocupação da personagem com sua origem.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "a expressão em inglês, dita pela personagem, é incoerente com o espaço em que está.",
+            "imgUrl": null
+        }
+    ]
+}

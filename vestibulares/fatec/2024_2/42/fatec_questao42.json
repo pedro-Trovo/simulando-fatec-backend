@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 42,
+    "disciplina": "Física",
+    "enunciado": "Heitor Villa-Lobos (1887-1959) foi maestro, compositor, pianista e violonista brasileiro reconhecido mundialmente. Suas obras para violão são estudadas em praticamente todas as faculdades de música do mundo.",
+    "imgs": [],
+    "pergunta": "O violão acústico é um instrumento musical de cordas que não precisa de energia elétrica, que é geralmente feito de madeira, com um corpo oco, chamado de caixa de ressonância, e que possui um orifício circular na frente.",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "as cordas, quando tocadas corretamente, vibram em frequências que destoam de uma nota musical.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "a tensão e o comprimento da corda, definidos pela posição dos dedos no braço do instrumento, afetam a frequência da nota musical quando a corda vibra.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "o corpo atua como uma caixa de ressonância, pois diminui a intensidade do som das cordas vibrantes captado pelo orifício circular.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "o corpo, mesmo sendo feito com materiais e em formas diferentes, ressoa sempre da mesma maneira.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "o tocar, mesmo sem microfone, envolve a conversão de energia mecânica em energia elétrica.",
+            "imgUrl": null
+        }
+    ]
+}

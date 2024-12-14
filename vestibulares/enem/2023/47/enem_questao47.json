@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 47,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "Felizes tempos eram esses! As moças iam à missa de madrugada. De dia ninguém as via e se alguma, em dia de festa, queria passear com a avó ou a tia, havia de ir de cadeirinhas. Bem razão têm os nossos velhos de chorar por esses tempos, em que as filhas não sabiam escrever, e por isso não mandavam nem recebiam bilhetinhos.<br> <br>Novo correio de Modas, 1853, apud DONEGÁ, A. L.<br>Publicar ficção em meado do século XIX,: um estudo de revistas femininas editadas pelos irmãos Laemmert. Campinas, unicamp, 2013 (adaptado)<br>Na perspectiva do autor,  as tradições e os costumes sociofamiliares sofreram alterações no século XIX, decorrentes de quais fatores?",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Hábitos de leitura e mobilidade regional.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Circulação de impressos e trânsito religioso.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Valorização da lingua e imigração estrangeira.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Práticas de letramento e transformação cultural.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Flexibilização do ensino e reformismo pedagógico.",
+            "imgUrl": null
+        }
+    ]
+}

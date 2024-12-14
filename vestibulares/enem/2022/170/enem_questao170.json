@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 170,
+    "disciplina": "Matemática",
+    "enunciado": "No período de 2005 a 2013, o valor de venda dos imóveis em uma cidade apresentou alta, o que resultou no aumento dos aluguéis. Os gráficos apresentam a evolução desses valores, para um mesmo imóvel, no  <br>mercado imobiliário dessa cidade.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/170/enem_questao170_img1.png\" alt=\"imagem 1 da questão\"><br><br>A rentabilidade do aluguel de um imóvel é calculada pela razão entre o valor mensal de aluguel e o valor de mercado desse imóvel.",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/170/enem_questao170_img1.png"
+    ],
+    "pergunta": "Com base nos dados fornecidos, em que ano a rentabilidade do aluguel foi maior?",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "2005",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "2007",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "2009",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "2011",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "2013",
+            "imgUrl": null
+        }
+    ]
+}

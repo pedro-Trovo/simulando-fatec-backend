@@ -1,0 +1,48 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 170,
+    "disciplina": "Matemática",
+    "enunciado": "Analisando as vendas de uma empresa, o gerente concluiu que o montante diário arrecadado, em milhar de real, poderia ser calculado pela expressão <img src=\"vestibulares/enem/enemFormatado/2023/170/enem_questao170_img1.png\" alt=\"imagem 1 da questão\"> , em que os valores de x representam os dias do mês, variando de 1 a 30.<br><br>Um dos fatores para avaliar o desempenho mensal da empresa é verificar qual é o menor montante diário <img src=\"vestibulares/enem/enemFormatado/2023/170/enem_questao170_img2.png\" alt=\"imagem 2 da questão\"> arrecadado ao longo do mês e classificar o desempenho conforme as categorias apresentadas a seguir, em que as quantidades estão expressas em milhar de real.<br><br><img src=\"vestibulares/enem/enemFormatado/2023/170/enem_questao170_img3.png\" alt=\"imagem 3 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/170/enem_questao170_img1.png",
+        "vestibulares/enem/enemFormatado/2023/170/enem_questao170_img2.png",
+        "vestibulares/enem/enemFormatado/2023/170/enem_questao170_img3.png"
+    ],
+    "pergunta": "No caso analisado, qual seria a classificação do desempenho da empresa?",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Ótimo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Bom.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Normal.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Ruim.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Péssimo.",
+            "imgUrl": null
+        }
+    ]
+}

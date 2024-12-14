@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 93,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "Em 2017, foi inaugurado, no estado da Bahia, o Parque Solar Lapa, composto por duas usinas (Bom Jesus  <br>da Lapa e Lapa) e capaz de gerar cerca de 300 GWh de energia por ano. Considere que cada usina apresente potência igual a 75 MW, com o parque totalizando uma potência instalada de 150 MW. Considere ainda que a irradiância solar média é de 1 500 W/m² e que a eficiência dos painéis é de 20%.<br><br>**Parque Solar Lapa entra em operação**. Disponível em: www.canalbioenergia.com.br. Acesso em: 9 jun. 2022 (adaptado).",
+    "imgs": [],
+    "pergunta": "Nessas condições, a área total dos painéis solares que compõem o Parque Solar Lapa é mais próxima de:",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "1 000 000 m²",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "500 000 m²",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "250 000 m²",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "100 000 m²",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "20 000 m²",
+            "imgUrl": null
+        }
+    ]
+}

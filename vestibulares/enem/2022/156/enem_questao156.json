@@ -1,0 +1,49 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 156,
+    "disciplina": "Matemática",
+    "enunciado": "O professor de artes orientou seus estudantes a realizarem a seguinte sequência de atividades:  <br>• Dobrar uma folha de papel em formato quadrado duas vezes, em sequência, ao longo das linhas tracejadas, conforme ilustrado nas figuras 1 e 2, para obter o papel dobrado, conforme Figura 3.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/156/enem_questao156_img1.png\" alt=\"imagem 1 da questão\"><br><br>• Em seguida, no papel dobrado da Figura 3, considerar o ponto _R_, sobre o segmento _OM_, sendo  o ponto médio do lado do quadrado original, de modo que <img src=\"vestibulares/enem/enemFormatado/2022/156/enem_questao156_img2.png\" alt=\"imagem 2 da questão\">, traçar um arco de circunferência de raio medindo <img src=\"vestibulares/enem/enemFormatado/2022/156/enem_questao156_img3.png\" alt=\"imagem 3 da questão\"> com centro no ponto _R_, obtendo a Figura 4. Por último, recortar o papel ao longo do arco de circunferência e excluir a parte que contém o setor circular, obtendo o papel dobrado, conforme Figura 5.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/156/enem_questao156_img4.png\" alt=\"imagem 4 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/156/enem_questao156_img1.png",
+        "vestibulares/enem/enemFormatado/2022/156/enem_questao156_img2.png",
+        "vestibulares/enem/enemFormatado/2022/156/enem_questao156_img3.png",
+        "vestibulares/enem/enemFormatado/2022/156/enem_questao156_img4.png"
+    ],
+    "pergunta": "Após desdobrado o papel que restou na Figura 5, a figura plana que os estudantes obterão será",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/156/enem_questao156_alter-A.png"
+        },
+        {
+            "letra": "B",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/156/enem_questao156_alter-B.png"
+        },
+        {
+            "letra": "C",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/156/enem_questao156_alter-C.png"
+        },
+        {
+            "letra": "D",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/156/enem_questao156_alter-D.png"
+        },
+        {
+            "letra": "E",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/156/enem_questao156_alter-E.png"
+        }
+    ]
+}

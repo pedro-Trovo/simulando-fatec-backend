@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 38,
+    "disciplina": "Linguagens",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "O mais antigo grupo de rap indígena do país, Brô MCs, surgiu em 2009, na aldeia Jaguapiru, em Dourados, Mato Grosso do Sul. Os integrantes conheceram o rap pelo rádio, ouvindo um programa que apresentava cantores e grupos brasileiros desse gênero musical. O Brô MCs conseguiu influenciar outros a fazerem rap e a lutarem pelas causas indígenas. Um dos nomes do movimento, Kunumi MC, é um jovem de 16 anos, da aldeia Krukutu, em São Paulo.<br>O adolescente enxerga o rap como uma cultura da defesa e começou a fazer rimas quando percebeu que a poesia, pela qual sempre se interessou, podia virar música.<br>Nas letras que cria, inspiradas tanto pelo rap quanto pelos ritmos indígenas, tenta incluir sempre assuntos aos quais acha importante dar voz, principalmente, a questão da demarcação de terras.<br>Disponível em: www.correiobraziliense.com.br. Acesso em: 13 nov. 2021 (adaptado).<br>O movimento rap dos povos originários do Brasil revela o(a)",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Fusão de manifestações artísticas urbanas contemporâneas com a cultura indígena.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Contraposição das temáticas socioambientais indigenas as questões urbanas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Rejeição da indústria radiofônica às músicas indígenas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Distanciamento da realidade social indígena.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "E estímulo ao estudo da poesia indígena.",
+            "imgUrl": null
+        }
+    ]
+}

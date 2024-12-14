@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 14,
+    "disciplina": "Linguagens",
+    "enunciado": "**TEXTO I**  <br>A língua não é uma nomenclatura, que se apõe a uma realidade pré-categorizada, ela é que classifica a realidade. No léxico, percebe-se, de maneira mais imediata, o fato de que a língua condensa as experiências de um dado povo.<br><br>FIORIN, J. L Língua, modernidade e tradição. **Diversitas**, n. 2. mar-set 2014<br><br>**TEXTO II**  <br>As expressões coloquiais ainda estão impregnadas de discriminação contra os negros. Basta recordar algumas delas, como passar um “dia negro”, ter um “lado negro”, ser a “ovelha negra” da família ou praticar “magia negra”.<br><br>Disponível em: https://brasil.elpais.com Acesso em: 22 maio 2018.",
+    "imgs": [],
+    "pergunta": "O Texto II exemplifica o que se afirma no Texto I, na medida em que defende a ideia de que as escolhas lexicais são resultantes de um",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Expediente próprio do sistema linguístico que nos apresenta diferentes possibilidades para traduzir estados de coisas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Ato inventivo de nomear novas realidades que surgem diante de uma comunidade de falantes de uma língua.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Mecanismo de apropriação de formas linguísticas que estão no acervo da formação do idioma nacional.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Processo de incorporação de preconceitos que são recorrentes na história de uma sociedade.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Recurso de expressão marcado pela objetividade que se requer na comunicação diária.",
+            "imgUrl": null
+        }
+    ]
+}

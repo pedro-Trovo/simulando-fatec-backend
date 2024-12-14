@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 31,
+    "disciplina": "Linguagens",
+    "enunciado": "**Migalhas**<br><br>Entre a toalha branca e um bule de café<br><br>seria inapropriado dizer<br><br>eu não te amo mais.<br><br>Era necessário algo mais solene,<br><br>um jardim japonês para as perdas pensadas,<br><br>um noturno de tempestade para arrebentar de dor,<br><br>uma praia de pedras para chorar em silêncio,<br><br>uma cama alta para o incenso da despedida,<br><br>uma janela dando para o abismo.<br><br>No entanto você abaixa os olhos<br><br>e recolhe lentamente as migalhas de pão<br><br>sobre a mesa posta para dois.<br><br>MARQUES, A. M. **A vida submarina**. São Paulo: Cia. das Letras, 2021.",
+    "imgs": [],
+    "pergunta": "Nesse poema, a representação do sentimento amoroso recupera a tradição lírica, mas se ajusta à visão contemporânea ao",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Invocar o interlocutor para uma tomada de posição.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Questionar a validade do envolvimento romântico.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Diluir em banalidade a comoção de um amor frustrado.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Transformar em paz as emoções conflituosas do casal.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Condicionar a existência da paixão a espaços idealizados.",
+            "imgUrl": null
+        }
+    ]
+}

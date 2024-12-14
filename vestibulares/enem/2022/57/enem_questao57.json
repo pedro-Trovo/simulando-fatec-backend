@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 57,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "O leproso é visto dentro de uma prática de rejeição, ao exílio-cerca; deixa-se que se perca lá dentro como numa massa que não têm muita importância diferenciar; os pestilentos são considerados num policiamento tático meticuloso onde as diferenciações individuais são os efeitos limitantes de um poder que se multiplica, se articula e se subdivide. O grande fechamento por um lado; o bom treinamento por outro. A lepra e a sua divisão; a peste e seus recortes. Uma é marcada; a outra, analisada e repartida. O exílio do leproso e a prisão da peste não trazem consigo o mesmo sonho político.<br><br>**FOUCAULT, M. Vigiar e punir: nascimento da prisão. Petrópolis: Vozes, 1987.**",
+    "imgs": [],
+    "pergunta": "Os modelos autoritários descritos no texto apontam para um sistema de controle que se baseia no(a):",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Formação de sociedade disciplinar.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Flexibilização do regramento social.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Banimento da autoridade repressora.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Condenação da degradação humana.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Hierarquização da burocracia estatal.",
+            "imgUrl": null
+        }
+    ]
+}

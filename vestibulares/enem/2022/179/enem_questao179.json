@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 179,
+    "disciplina": "Matemática",
+    "enunciado": "A esperança de vida ao nascer é o número médio de anos que um indivíduo tende a viver a partir de seu nascimento, considerando dados da população. No Brasil, esse número vem aumentando consideravelmente, como mostra o gráfico.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/179/enem_questao179_img1.png\" alt=\"imagem 1 da questão\"><br><br>Disponível em: http://cod.ibge.gov.br. Acesso em: 6 mar. 2014 (adaptado).<br><br>Pode-se observar que a esperança de vida ao nascer em 2012 foi exatamente a média das registradas nos anos de 2011 e 2013. Suponha que esse fato também ocorreu com a esperança de vida ao nascer em 2013, em relação às esperanças de vida de 2012 e de 2014.",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/179/enem_questao179_img1.png"
+    ],
+    "pergunta": "Caso a suposição feita tenha sido confirmada, a esperança de vida ao nascer no Brasil no ano de 2014 terá sido, em ano, igual a",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "74,23.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "74,51.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "75,07.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "75,23.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "78,49.",
+            "imgUrl": null
+        }
+    ]
+}

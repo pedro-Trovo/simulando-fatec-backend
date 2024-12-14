@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 60,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Negar o pedido por dinheiro indispensável para necessidades pessoais ou comprar bens usando o nome da pessoa sem o consentimento dela. Ameaçar o corte de recursos dependendo de atitudes pessoais, esconder documentos ou trocar senhas do banco sem avisar. Ou, ainda, proibir a pessoa de trabalhar ou destruir seus pertences. As histórias são comuns, mas às vezes não são reconhecidas como abuso. Mas é uma das cinco formas de conduta contra a mulher previstas na Lei Maria da Penha.<br><br>LEWGOY. J. **Conduta quase invisível destrói a vida de mulheres**. Disponível em: https://valorinveste.globo.com. Acesso em: 23 out. 2021 (adaptado).",
+    "imgs": [],
+    "pergunta": "O texto apresenta tipos de conduta sujeitos a punição, conforme previsto na Lei Maria da Penha, porque consistem em formas de",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Ação difamatória.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Desvio comportamental.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Expressão preconceituosa.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Violência patrimonial.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Desentendimento matrimonial.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 123,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "Entre os medicamentos mais comuns consumidos para o alívio da dor está o ibuprofeno, um composto quiral com ação anti-inflamatória e efeito analgésico, que é comercializado como fármaco opticamente puro, ou seja, sem a mistura com outro isômero óptico. A fórmula estrutural plana do ibuprofeno é:<br><br><img src=\"vestibulares/enem/enemFormatado/2023/123/enem_questao123_img1.png\" alt=\"imagem 1 da questão\"><br><br>Além do ibuprofeno, destacam-se também os princípios ativos a seguir, presentes em outros medicamentos para o alívio da dor:<br><br><img src=\"vestibulares/enem/enemFormatado/2023/123/enem_questao123_img2.png\" alt=\"imagem 2 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/123/enem_questao123_img1.png",
+        "vestibulares/enem/enemFormatado/2023/123/enem_questao123_img2.png"
+    ],
+    "pergunta": "O princípio ativo que apresenta o mesmo tipo de isomeria espacial que o ibuprofeno é o(a)",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Fenacetina.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Paracetamol.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Dipirona sódica.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Diclofenaco sódico.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Butilbrometo de escopolamina.",
+            "imgUrl": null
+        }
+    ]
+}

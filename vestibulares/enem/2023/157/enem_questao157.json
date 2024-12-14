@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 157,
+    "disciplina": "Matemática",
+    "enunciado": "Um professor, para promover a aprendizagem dos estudantes em estatística, propôs uma atividade. O objetivo era verificar o percentual de estudantes com massa corporal abaixo da média e altura acima da média de um grupo de estudantes. Para isso, usando uma balança e uma fita métrica, avaliou uma amostra de dez estudantes, anotando as medidas observadas. O gráfico apresenta a massa corporal, em quilograma, e a altura, em metro, obtidas na atividade<br><br><img src=\"vestibulares/enem/enemFormatado/2023/157/enem_questao157_img1.png\" alt=\"imagem 1 da questão\"><br><br>Após a coleta dos dados, os estudantes calcularam a média dos valores obtidos, referentes à massa corporal e à altura, obtendo, respectivamente, 80 kg e 1,65 m.",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/157/enem_questao157_img1.png"
+    ],
+    "pergunta": "Qual é o percentual de estudantes dessa amostra com massa corporal abaixo da média e altura acima da média?",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "10",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "20",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "30",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "50",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "70",
+            "imgUrl": null
+        }
+    ]
+}

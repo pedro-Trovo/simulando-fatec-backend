@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 2,
+    "disciplina": "Linguagens",
+    "enunciado": "**Pequeño hermano**<br><br>Es, no cabe duda, el instrumento más presente y más poderoso de todos los que entraron en nuestras vidas. Ni la televisión ni el ordenador, no hablemos ya del obsoleto fax o de las agendas o los libros electrónicos, ha tenido tal influencia, tal predicamento sobre nosotros. El móvil somos nosotros mismos. Todo desactivado e inerte, inocuo, ya les digo. Y de repente, tras un viaje y tres o cuatro imprudentes fotos, salta un aviso en la pantalla. Con sonido, además, pese a que tengo también todas las alertas desactivadas. Y mi monstruo doméstico me dice: Tienes un recuerdo nuevo. Lo repetiré: tienes un recuerdo nuevo. ¿Y tú qué sabes? ¿Y a ti, máquina demoníaca, qué te importa? ¿Cómo te atreves a decirme qué son o no son mis recuerdos? ¿Qué es esta intromisión, este descaro? El pequeño hermano lo sabe casi todo. Sólo hay una esperanza: que la obsolescencia programada mate antes al pequeño hermano y que nosotros sigamos vivos, con los recuerdos que nos dé la gana.<br><br>FERNANDEZ, D, Disponível em: www.lavanguardia.com.<br><br>Acesso em:  5 dez. 2018 (adaptado).",
+    "imgs": [],
+    "pergunta": "No texto, autor faz uma crítica ao(à)",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Conhecimento das pessoas sobre as tecnologias.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Uso do celular alheio por pessoas desautorizadas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Funcionamento de recursos tecnológicos obsoletos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Ingerência do celular sobre as escolhas dos usuários",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Falta de informação sobre a configuração de alertas no celular",
+            "imgUrl": null
+        }
+    ]
+}

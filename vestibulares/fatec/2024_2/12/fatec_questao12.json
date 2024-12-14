@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 12,
+    "disciplina": "Geografia",
+    "enunciado": "O termo \\\"república de bananas\\\" foi cunhado pelo escritor estadunidense William Sydney Porter, no conto O Almirante, de 1904. A história do conto se passa na Anchuria, país fictício descrito pelo autor como \\\"uma pequena república de bananas\\\". Acredita-se, porém, que Porter tenha se inspirado em Honduras, onde morava quando escreveu a história.<br>Até o fim do século XIX e começo do século XX, algumas empresas estadunidenses começaram a fazer plantações de bananas em série e criaram enclaves modernos em repúblicas da América Central.<br>As \\\"repúblicas de bananas\\\" eram literalmente os países produtores de bananas e, com isso, dependentes da renda de empresas estadunidenses.<br>O termo acabou ganhando um significado mais amplo ao migrar para os estudos políticos.",
+    "imgs": [],
+    "pergunta": "O que chama a atenção é que os anglo-saxões não aplicam a expressão a países que estejam fora da América Latina.",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Honduras exemplifica a expressão “república de bananas” por ser o maior produtor e exportador asiático de bananas, posição assumida desde o final do século XIX.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "a expressão \\\"repúblicas de bananas\\\" refere-se a países latino-americanos monocultores, cuja vida política e econômica sofriam ingerência de empresas estrangeiras.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "William Sydney Porter, presidente dos Estados Unidos no início do século XX, batizou os países da América Central de \\\"república de bananas\\\" para caracterizar o principal produto de exportação desses países.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "os anglo-saxões criaram a denominação “república de bananas” para designar países que não são latino-americanos, que são exportadores de bananas e que sofrem com o imperialismo estadunidense.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "países africanos, governados por empresas estadunidenses, são os principais produtores mundiais de frutas tropicais, pois utilizam tecnologias agrícolas avançadas e, por isso, são chamados de \\\"república de bananas\\\".",
+            "imgUrl": null
+        }
+    ]
+}

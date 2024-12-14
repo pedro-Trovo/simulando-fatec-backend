@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 119,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "Uma lanterna funciona com três pilhas de resistência interna igual a 0,5 Ω cada, ligadas em série. Quando posicionadas corretamente, devem acender a lâmpada incandescente de especificações 4,5 W e 4,5 V. Cada pilha na posição correta gera uma f.e.m. (força eletromotriz) de 1,5 V. Uma pessoa, ao trocar as pilhas da lanterna, comete o equívoco de inverter a posição de uma das pilhas. Considere que as pilhas mantêm contato independentemente da posição.",
+    "imgs": [],
+    "pergunta": "Com esse equívoco, qual é a intensidade de corrente que passa pela lâmpada ao se ligar a lanterna?",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "0,25 A",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "0,33 A",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "0,75 A",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "1,00 A",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "1,33 A",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 45,
+    "disciplina": "Linguagens",
+    "enunciado": "O Recife fervilhava no começo da década de 1990, e os artistas trabalhavam para resgatar o prestígio da cultura pernambucana. Era preciso se inspirar, literalmente, nas raízes sobre as quais a cidade se construiu. Foi aí que, em 1992, com a publicação de um manifesto escrito pelo músico e jornalista Fred Zero Quatro, da banda Mundo Livre S/A, nasceu o manguebeat. O nome vem de “mangue”, vegetação típica da região, e “beat”, para representar as batidas e as influências musicais que o movimento abraçaria a partir dali. Era a hora e a vez de os caranguejos – aos quais os músicos recifenses gostavam de se comparar – mostrarem as caras: o maracatu e suas alfaias se misturaram com as batidas do hip-hop, as guitarras do rock, elementos eletrônicos e o sotaque recifense de Chico Science. A busca pelo novo rendeu uma perspectiva diferente do Brasil ao olhar para o Recife. A cidade deixou de ser o lugar apenas do frevo e do carnaval, transformando-se na ebulição musical que continua a acontecer mesmo após os 25 anos do lançamento do primeiro disco da Nação Zumbi, Da lama ao caos.<br><br>FORCIONI, G. et al. O mangue está de volta. **Revista Esquinas**, n. 87, set 2019 (adaptado).",
+    "imgs": [],
+    "pergunta": "Chico Science foi fundamental para a renovação da música pernambucana, fato que se deu pela",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Utilização de aparelhos musicais eletrônicos em lugar dos instrumentos tradicionais.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Ocupação de espaços da natureza local para a produção de eventos musicais memoráveis.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Substituição de antigas práticas musicais, como o frevo, por melodias e harmonias inovadoras.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Recuperação de composições tradicionais folclóricas e sua apresentação em grandes festivais.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Integração de referenciais culturais de diferentes origens, criando uma nova combinação estética.",
+            "imgUrl": null
+        }
+    ]
+}

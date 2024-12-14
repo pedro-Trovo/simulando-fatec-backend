@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 99,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "A leishmaniose visceral é uma zoonose causada por um protozoário do gênero Leishmania que é encontrado em diversos tecidos. Ela é transmitida ao homem de forma indireta, por vetores do ambiente doméstico. O cão é considerado um importante hospedeiro desse protozoário, podendo ou não apresentar os sintomas da doença, como perda de peso, anemia, ferimentos na pele, diarreia, conjuntivite e insuficiência renal. Em uma região que sofre com alta incidência dessa doença, uma campanha do centro de zoonoses buscou verificar a presença desse protozoário nos cães para tentar controlar a doença.",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Urina.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Saliva.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Fezes.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Sangue.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Secreção ocular.",
+            "imgUrl": null
+        }
+    ]
+}

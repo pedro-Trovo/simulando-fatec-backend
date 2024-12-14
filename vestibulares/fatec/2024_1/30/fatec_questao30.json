@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 30,
+    "disciplina": "Geografia",
+    "enunciado": "Segundo o texto, podemos afirmar corretamente que a música está conexa à conceituação de Lugar.<br><br>A música, como expressão, forma e sentido da Arte, abre caminhos de estudo ao campo da Geografia, principalmente devido ao fato de estar ligada aos categoriais geográficos, como, por exemplo, ao conceito de Lugar, sobretudo quando compreendemos que os indivíduos, ao habitar os distintos ambientes,",
+    "imgs": [],
+    "pergunta": "percebem os sons e as músicas dos lugares nos quais estão inseridos a partir das sensações que ali são vivenciadas e das percepções que são adquiridas em sua experiência.",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "a música é uma expressão das relações de poder, portanto dissociada do conceito de Território.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "as músicas são expressões regionais, devendo ser analisadas pela categoria Região.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "a experiência humana aniquila a relação da música com o Espaço Geográfico.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "a experiência humana desvincula a música da categoria Paisagem.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "a música está conexa à conceituação de Lugar.",
+            "imgUrl": null
+        }
+    ]
+}

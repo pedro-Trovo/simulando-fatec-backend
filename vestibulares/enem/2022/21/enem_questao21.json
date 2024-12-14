@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 21,
+    "disciplina": "Linguagens",
+    "enunciado": "**A escrava**<br><br>– Admira-me —, disse uma senhora de sentimentos sinceramente abolicionistas —; faz-me até pasmar como se possa sentir, e expressar sentimentos escravocratas, no presente século, no século dezenove! A moral religiosa e a moral cívica aí se erguem, e falam bem alto esmagando a hidra que envenena a família no mais sagrado santuário seu, e desmoraliza, e avilta a nação inteira! Levantai os olhos ao Gólgota, ou percorrei-os em torno da sociedade, e dizei-me:<br><br>— Para que se deu em sacrifício, o Homem Deus, que ali exalou seu derradeiro alento? Ah! Então não era verdade que seu sangue era o resgate do homem! É então uma mentira abominável ter esse sangue comprado a liberdade!? E depois, olhai a sociedade… Não vedes o abutre que a corrói constantemente!… Não sentis a desmoralização que a enerva, o cancro que a destrói?<br><br>Por qualquer modo que encaremos a escravidão, ela é, e sempre será um grande mal. Dela a decadência do comércio; porque o comércio e a lavoura caminham de mãos dadas, e o escravo não pode fazer florescer a lavoura; porque o seu trabalho é forçado.<br><br>REIS, M. F. **Úrsula outras obras**. Brasília: Câmara dos Deputados, 2018",
+    "imgs": [],
+    "pergunta": "Inscrito na estética romântica da literatura brasileira, o conto descortina aspectos da realidade nacional no século XIX ao",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Revelar a imposição de crenças religiosas a pessoas escravizadas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Apontar a hipocrisia do discurso conservador na defesa da escravidão.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Sugerir práticas de violência física e moral em nome do progresso material.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Relacionar o declínio da produção agrícola e comercial a questões raciais.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Ironizar o comportamento dos proprietários de terra na exploração do trabalho.",
+            "imgUrl": null
+        }
+    ]
+}

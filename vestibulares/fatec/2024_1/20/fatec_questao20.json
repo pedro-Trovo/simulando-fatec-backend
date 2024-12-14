@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 20,
+    "disciplina": "Inglês",
+    "enunciado": "Graffiti provides a platform for individuals to express themselves and share their ideas with a wider audience. It allows people to communicate their thoughts, emotions, and messages in a way that may not be possible through traditional forms of communication. For many, graffiti is a way to assert their identity and create a sense of belonging within their community. In marginalized communities, graffiti can serve as a powerful tool for self-expression and resistance. It can be used to reclaim public spaces and give a voice to those who may not have one otherwise.<br><br>Graffiti provides a platform for individuals to express themselves and share their ideas with a wider audience. It allows people to communicate their thoughts, emotions, and messages in a way that may not be possible through traditional forms of communication. For many, graffiti is a way to assert their identity and create a sense of belonging within their community.",
+    "imgs": [],
+    "pergunta": "In marginalized communities, graffiti can serve as a powerful tool for self-expression and resistance. It can be used to reclaim public spaces and give a voice to those who may not have one otherwise.",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "autoexpressão ao sentimento de pertencimento.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "identidade à cultura tradicionalista.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "comunicação à vontade de vandalizar.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "conformismo à expressão de emoções.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "resistência ao Impressionismo histórico.",
+            "imgUrl": null
+        }
+    ]
+}

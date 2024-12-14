@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 97,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "Um garoto comprou vários abacates na feira, mas descobriu que eles não estavam maduros o suficiente para serem consumidos. Sua mãe recomendou que ele colocasse os abacates em um recipiente fechado, pois isso aceleraria seu amadurecimento. Com certa dúvida, o garoto realizou esta experiência: colocou alguns abacates no recipiente e deixou os demais em uma fruteira aberta. Surpreendendo-se, ele percebeu que os frutos que estavam no recipiente fechado amadureceram mais rapidamente.<br>A aceleração desse processo é causada por",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Acúmulo de gás etileno.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Redução da umidade do ar.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Aumento na concentração de CO2.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Diminuição da intensidade luminosa.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Isolamento do contato com O2 atmosférico.",
+            "imgUrl": null
+        }
+    ]
+}

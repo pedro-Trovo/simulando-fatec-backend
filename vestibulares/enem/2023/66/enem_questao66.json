@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 66,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "**ТЕХТО I**<br><br>Como é horrível ver um filho comer e perguntar: “Tem mais?” Esta palavra “tem mais” fica oscilando dentro do cérebro de uma mãe que olha as panela e não tem mais.<br><br>JESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática. 2014.<br><br>**ТЕХТО ІІ**<br><br>A experiência de ver os filhos com fome na década de 1950, descrita por Carolina, é vivida no Brasil de 2021 por uma moradora de Petrolândia, em Pernambuco. “Eu trabalhava de ajudante de cabeleireira, mas a moça que tinha o salão fechou. Eu vinha me sustentando com o auxílio que tinha, mas agora eu não fui contemplada. Às vezes as pessoas me ajudam com alimentos para os meus filhos. De vez em quando, eu acho algum bico para fazer, mas é muito raro. Tem dias que não tenho nem o leite da minha bebê.”<br><br>CARRANÇA, T. “Até o feijão nos esqueceu”: o livro de 1960 que poderia ter sido escritonas favelas de 2021.<br><br>Disponível em: www.bbc.com. Acesso em: 6 out. 2021 (adaptado).",
+    "imgs": [],
+    "pergunta": "Considerando a realidade brasileira, os textos se aproximam ao apresentarem uma reflexão sobre o(a)",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Recorrência da miséria.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Planejamento da saúde.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Superação da escassez.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Constância da economia.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Romantização da carência.",
+            "imgUrl": null
+        }
+    ]
+}

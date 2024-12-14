@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 73,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "A história do Primeiro de Maio de 1890 — na França e na Europa, o primeiro de todos os Primeiros de Maio – é, sob vários aspectos, exemplar. Resultante de um ato político deliberado, essa manifestação ilustra o lado voluntário da construção de uma classe — a classe operária — à qual os socialistas tentam dar uma unidade política e cultural através daquela pedagogia da festa cujo princípio, eficácia e limites há muito tempo tinham sido experimentados pela Revolução Francesa.<br><br>**PERROT, M. Os excluídos da história: operários, mulheres e prisioneiros. Rio de Janeiro: Paz e Terra, 1988.**",
+    "imgs": [],
+    "pergunta": "Com base no texto, a fixação dessa data comemorativa tinha por objetivo",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Valorizar um sentimento burguês.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Afirmar uma identidade coletiva.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Edificar uma memória nacional.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Criar uma comunidade cívica.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Definir uma tradição popular.",
+            "imgUrl": null
+        }
+    ]
+}

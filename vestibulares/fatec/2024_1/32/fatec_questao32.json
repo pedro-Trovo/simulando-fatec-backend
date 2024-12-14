@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 32,
+    "disciplina": "Física",
+    "enunciado": "Segundo o texto, podemos afirmar corretamente que a música está conexa à conceituação de Lugar.<br><br>As notas musicais são uma convenção, tal como as conhecemos, atribuídas ao monge italiano Guido D'Arezzo (992-1050). Antes de iniciar uma apresentação, uma orquestra precisa ter todos os instrumentos afinados em uma mesma nota. Quem comanda essa afinação é o spalla (ajudante do Maestro), geralmente o 1º violinista.",
+    "imgs": [],
+    "pergunta": "Em uma certa apresentação, o spalla tocou, como nota de referência de afinação, a mais aguda dentre as que estão representadas no gráfico.",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Ré",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Mi",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Fá",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Sol",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Lá",
+            "imgUrl": null
+        }
+    ]
+}

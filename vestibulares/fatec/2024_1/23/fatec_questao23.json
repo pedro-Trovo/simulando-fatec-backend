@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 23,
+    "disciplina": "Português",
+    "enunciado": "Pintado com terra e cinzas das florestas, o professor e ativista indígena Ari Uru-Eu-Wau-Wau, que atuava como guardião da Terra Indígena Uru-Eu-Wau-Wau, agora tem a sua imagem gravada em um paredão, nos arredores da Catedral da Sé, na cidade de São Paulo. A pintura foi uma iniciativa do ativista e grafiteiro Thiago Mundano para os 469 anos de São Paulo. Ele, junto com outros artistas, fez a releitura da obra Bananal, de Lasar Segall, trazendo o ativista indígena como protagonista da intervenção.<br><br>Pintado com terra e cinzas das florestas, o professor e ativista indígena Ari Uru-Eu-Wau-Wau, que atuava como guardião da Terra Indígena Uru-Eu-Wau-Wau, agora tem a sua imagem gravada em um paredão, nos arredores da Catedral da Sé, na cidade de São Paulo. A pintura foi uma iniciativa do ativista e grafiteiro Thiago Mundano para os 469 anos de São Paulo.",
+    "imgs": [],
+    "pergunta": "Com base no texto, pode-se concluir corretamente que",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "o grafite é uma arte sacra de origem Barroca a qual reverencia artistas consagrados na História.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "o Muralismo, movimento que remonta ao Classicismo, ressurge para preservar a arte moderna.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "a arte urbana, quando desenvolvida coletivamente, é capaz de ressignificar matérias-primas descartáveis.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "a mistura entre tradição e modernidade reforça as diferenças entre natureza e cidade, distanciando-as.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "a arte é espaço de representatividade, sendo capaz de engajar a população em causas socioambientais.",
+            "imgUrl": null
+        }
+    ]
+}

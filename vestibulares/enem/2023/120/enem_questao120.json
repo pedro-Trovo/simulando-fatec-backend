@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 120,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "O circuito com três lâmpadas incandescentes idênticas, representado na figura, consiste em uma associação mista de resistores. Cada lâmpada (L1, L2, e L3) é associada, em paralelo, a um resistor de resistência R, formando um conjunto. Esses conjuntos são associados em série, tendo todas as lâmpadas o mesmo brilho quando ligadas à fonte de energia. Após vários dias em uso, apenas a lâmpada L2 queima, enquanto as demais permanecem acesas.<br><br><img src=\"vestibulares/enem/enemFormatado/2023/120/enem_questao120_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/120/enem_questao120_img1.png"
+    ],
+    "pergunta": "Em relação à situação em que todas as lâmpadas funcionam, após a queima de L2, os brilhos das lâmpadas serão",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Os mesmos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Mais intensos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Menos intensos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Menos intenso para L1 e o mesmo para L3.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Mais intenso para L1 e menos intenso para L3.",
+            "imgUrl": null
+        }
+    ]
+}

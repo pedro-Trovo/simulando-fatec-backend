@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 47,
+    "disciplina": "Multidisciplinar",
+    "enunciado": "While most of the world uses the International System of Units, aka the Metric System, Liberia, Myanmar and the United States are the only countries that have not officially adopted the Metric System. The United States has its own system, based on the old British Imperial System of inches and pounds.<br><br>Das informações contidas no texto, é possível inferir corretamente que",
+    "imgs": [],
+    "pergunta": null,
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Libéria, Myanmar e os Estados Unidos adotam o \\\"metro\\\" e o \\\"quilograma\\\"",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "a América Latina usa o Sistema Imperial de medidas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "algumas unidades do Sistema Internacional são: m, kg, s, A, K e cd.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "a unidade \\\"ampère\\\" corresponde a todas as grandezas de eletricidade.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "\\\"pés\\\" e \\\"metro\\\" são usados para medir distância tanto no Sistema Imperial, quanto no Sistema Internacional.",
+            "imgUrl": null
+        }
+    ]
+}

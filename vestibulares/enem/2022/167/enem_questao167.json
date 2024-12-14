@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 167,
+    "disciplina": "Matemática",
+    "enunciado": "Em uma loja, o preço promocional de uma geladeira é de R$ 1 000,00 para pagamento somente em dinheiro. Seu preço normal, fora da promoção, é 10% maior. Para pagamento feito com o cartão de crédito da loja, é dado um desconto de 2% sobre o preço normal.  <br>Uma cliente decidiu comprar essa geladeira, optando pelo pagamento com o cartão de crédito da loja. Ela calculou que o valor a ser pago seria o preço promocional acrescido de 8%. Ao ser informada pela loja do valor a  <br>pagar, segundo sua opção, percebeu uma diferença entre seu cálculo e o valor que lhe foi apresentado",
+    "imgs": [],
+    "pergunta": "O valor apresentado pela loja, comparado ao valor calculado pela cliente, foi",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "R$ 2,00 menor.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "R$ 100,00 menor.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "R$ 200,00 menor.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "R$ 42,00 maior.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "R$ 80,00 maior.",
+            "imgUrl": null
+        }
+    ]
+}

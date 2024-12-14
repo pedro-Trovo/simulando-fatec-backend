@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 45,
+    "disciplina": "Física",
+    "enunciado": "Apesar de escasso, o circo com tenda, picadeiro, arquibancada e diversos artistas existe até hoje em várias partes do mundo, inclusive no Brasil. Um de seus espetáculos mais famosos é realizado por um malabarista andando por uma “corda bamba” (elástica) esticada sobre o picadeiro. Com o intuito de provocar comoção na plateia, ao chegar próximo ao ponto central da corda,",
+    "imgs": [],
+    "pergunta": "o artista finge uma queda e cai sentado na corda, fazendo-a sofrer uma deflexão máxima em relação ao ponto de equilíbrio. Na cena descrita, após o artista simular a queda, no instante em que a corda atinge a deflexão máxima, podemos afirmar corretamente que",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "não há energia potencial envolvida no sistema.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "há apenas energia potencial gravitacional envolvida.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "as energias cinética e potencial elástica são máximas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "a energia potencial elástica é máxima e a cinética é mínima.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "a energia potencial elástica e a energia potencial gravitacional são nulas.",
+            "imgUrl": null
+        }
+    ]
+}

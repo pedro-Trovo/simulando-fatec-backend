@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 17,
+    "disciplina": "Biologia",
+    "enunciado": "As teias de seda das aranhas são obras de arte da natureza. Por sua arquitetura, por sua composição química e por sua característica elástica, pegajosa e resistente, as teias serviram de inspiração para a produção de tipos diferentes de materiais, como, por exemplo, curativos cirúrgicos e próteses. A seda dessas teias é composta por proteínas produzidas nas fiandeiras, estruturas localizadas na parte posterior do corpo das aranhas. No entanto, apesar de todas as espécies de aranhas produzirem seda, apenas a minoria tece teias. Além disso, as aranhas são muito importantes para o equilíbrio dos ecossistemas, pois se alimentam de insetos e de outros pequenos animais, ajudando a controlar a população desses seres.",
+    "imgs": [],
+    "pergunta": "Outra característica das aranhas é sua carapaça externa, leve e resistente, denominada de exoesqueleto, que dá forma e suporte estrutural ao corpo dos animais.",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "apresentam um esqueleto interno flexível, responsável pela sustentação do corpo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "inoculam veneno, por meio das fiandeiras abdominais, nas presas capturadas nas teias.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "fabricam teias de seda com carboidratos e lipídios, a partir de folhas e frutas que consomem na natureza.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "exercem importante função ecológica ao manter o controle natural da densidade populacional de insetos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "produzem, na maioria das vezes, teias cujos fios de seda são muito frágeis, pouco elásticos e arrebentam facilmente na captura das presas.",
+            "imgUrl": null
+        }
+    ]
+}

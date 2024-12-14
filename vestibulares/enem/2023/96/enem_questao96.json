@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 96,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "Existe no comércio um produto antimofo constituído por uma embalagem com tampa perfurada contendo cloreto de cálcio anidro, CaCI,. Uma vez aberto o lacre, essa substância absorve a umidade ambiente, transformando-se em cloreto de cálcio di-hidratado, CaCI, 2H,0. Considere a massa molar da água igual a 18 g mol-1, e a massa molar do cloreto de cálcio anidro igual a 111 g mol-1.<br>Na hidratação da substância presente no antimofo, o ganho percentual, em massa, é mais próximo de",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "14%",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "16%",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "24%",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "32%",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "75%",
+            "imgUrl": null
+        }
+    ]
+}

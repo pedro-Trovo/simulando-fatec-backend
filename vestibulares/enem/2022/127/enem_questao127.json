@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 127,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "Os ursos, por não apresentarem uma hibernação verdadeira, acordam por causa da presença de termogenina, uma proteína mitocondrial que impede a chegada dos prótons até a ATP sintetase, gerando calor. Esse calor é importante para aquecer o organismo, permitindo seu despertar.<br><br>SADAVA, D. et al. Vida: a ciência da biologia. Porto Alegre: Artmed, 2009 (adaptado).",
+    "imgs": [],
+    "pergunta": "Em qual etapa do metabolismo energético celular a termogenina interfere?",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Glicólise.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Fermentação lática.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Ciclo do ácido cítrico.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Oxidação do piruvato.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Fosforilação oxidativa.",
+            "imgUrl": null
+        }
+    ]
+}

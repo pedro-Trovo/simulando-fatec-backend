@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 27,
+    "disciplina": "Linguagens",
+    "enunciado": "<img src=\"vestibulares/enem/enemFormatado/2022/27/enem_questao27_img1.png\" alt=\"imagem 1 da questão\"><br><br>Disponível em: http://viva-porto.pt. Acesso em: 24 nov. 2021 (adaptado).",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/27/enem_questao27_img1.png"
+    ],
+    "pergunta": "A articulação entre os elementos verbais e os não verbais do texto tem como propósito desencadear a",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Identificação de distinções entre mulheres e homens.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Revisão de representações estereotipadas de gênero.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Adoção de medidas preventivas de combate ao sexismo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Ratificação de comportamentos femininos e masculinos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Retomada de opiniões a respeito da diversidade dos papéis sociais.",
+            "imgUrl": null
+        }
+    ]
+}

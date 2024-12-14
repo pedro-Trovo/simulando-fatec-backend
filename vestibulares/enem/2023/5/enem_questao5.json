@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 5,
+    "disciplina": "Linguagens",
+    "enunciado": "**Que quede claro**<br><br>Cómo es posible que se cierren<br><br>tantas bocas, tantos ojos,<br><br>tantas puertas, muchas mentes ante un<br><br>acto xenofóbico sin precedentes.<br><br>Presidentes, ministros, cancilleres,<br><br>autoridades, responsables.<br><br>¿Quién pagará el daño causado a familiares?<br><br>Por un loco del estrada sin modales. \\[…\\]<br><br>Se alejó de aquel lugar donde su color era<br><br>mucho más que su color, era su raza.<br><br>Persiguiendo un sueño que desapareció,<br><br>que se fusionó y terminó en una pesadilla. \\[…\\]<br><br>Déjame que te cuente esta historia<br><br>que sucedió en el metro de Barcelona,<br><br>cuando aquella mañana la injusticia<br><br>y xenofobia se juntaron de la mano,<br><br>protagonizando una de las más feas escenas de racismo.<br><br>En aquel vagón viajaba un ángel de color diferente,<br><br>en su camino se interpuso aquel inconsciente,<br><br>que aún sabiendo lo que hacía,<br><br>seguía hablando con su gente.<br><br>Le dio al ángel dos patadas en su cara,<br><br>se rió de ella sin cambiar la mirada.<br><br>Y aún anda suelto, aún anda suelto…<br><br>ORISHAS. In: **Cosita buena**. Delaware: Suerte Publishing LCC, 2008 (fragmento).",
+    "imgs": [],
+    "pergunta": "A letra da canção Que quede claro, da banda cubana Orishas, revela o(a)",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Indignação diante do desrespeito à diversidade.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Violência característica das grandes metrópoles.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Preconceito da sociedade com relação ao misticismo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Descuido da população com sonhos dos imigrantes.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Falta de segurança existente no transporte público urbano.",
+            "imgUrl": null
+        }
+    ]
+}

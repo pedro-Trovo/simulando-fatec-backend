@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 29,
+    "disciplina": "História",
+    "enunciado": "O Homem Vitruviano foi desenhado por Leonardo da Vinci em um de seus diários, conforme a imagem. A imagem é parte de um conjunto de estudos, chamado de Cânone das Proporções por alguns especialistas, e sobre ela é correto afirmar que faz referência ao fazer científico racional e, simultaneamente, indica como, na modernidade, o homem passa a se colocar no centro das medições e do próprio universo, apresentando a ideia do antropocentrismo.<br><br>O Homem Vitruviano foi desenhado por Leonardo da Vinci em um de seus diários, conforme a imagem. A imagem é parte de um conjunto de estudos, chamado de Cânone das Proporções por alguns especialistas, e sobre ela é correto afirmar que",
+    "imgs": [],
+    "pergunta": null,
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "explora a dor, a angústia, a aflição e a tristeza, investigando a universalidade dos sentimentos humanos e antecipando ideias que, posteriormente, seriam exploradas pelas ciências da mente, como a psicologia e a psicanálise.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "apresenta estilo ousado, vanguardista e libertador que combina imagens bizarras, representações ilógicas e conjuntos irreais de composição da imagem com a destreza técnica acadêmica e tradicional.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "representa a emancipação do homem simples, empregando um estilo realista de fácil compreensão, evitando a abstração e o elitismo em favor da acessibilidade, em linguagem simples, para defender os valores do socialismo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "faz referência ao fazer científico racional e, simultaneamente, indica como, na modernidade, o homem passa a se colocar no centro das medições e do próprio universo, apresentando a ideia do antropocentrismo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "demonstra aversão aos conceitos de autoridade e de poder, fazendo críticas comportamentais e políticas, expressas em questões que atravessam a realidade social pelo uso de formas, cores e traços em suportes inusitados, como muros e paredes.",
+            "imgUrl": null
+        }
+    ]
+}

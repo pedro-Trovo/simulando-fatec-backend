@@ -1,0 +1,49 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 152,
+    "disciplina": "Matemática",
+    "enunciado": "A exposição a alguns níveis sonoros pode causar lesões auditivas. Por isso, em uma indústria, são adotadas medidas preventivas de acordo com a máquina que o funcionário opera e o nível _N_ de intensidade do som, medido em decibel (dB), a que o operário é exposto, sendo <img src=\"vestibulares/enem/enemFormatado/2023/152/enem_questao152_img1.png\" alt=\"imagem 1 da questão\">, _I_ a intensidade do som e <img src=\"vestibulares/enem/enemFormatado/2023/152/enem_questao152_img2.png\" alt=\"imagem 2 da questão\">.<br><br>Disponível em: www.sofisica.com.br. Acesso em: 8 jul. 2015 (adaptado).<br><br>Quando o som é considerado baixo, ou seja, _N_ = 48 dB ou menos, deve ser utilizada a medida preventiva I. No caso de o som ser moderado, quando _N_ está no intervalo (48 dB, 55 dB), deve ser utilizada a medida preventiva II. Quando o som é moderado alto, que equivale a _N_ no intervalo (55 dB, 80 dB), a medida preventiva a ser usada é a III. Se _N_ estiver no intervalo (80 dB, 115 dB), quando o som é considerado alto, deve ser utilizada a medida preventiva IV. E se o som é considerado muito alto, com _N_ maior que 115 dB, deve-se utilizar a medida preventiva V.  <br>Uma nova máquina, com <img src=\"vestibulares/enem/enemFormatado/2023/152/enem_questao152_img3.png\" alt=\"imagem 3 da questão\">, foi adquirida e será classificada de acordo com o nível de ruído que produz.  <br>Considere 0,3 como aproximação para <img src=\"vestibulares/enem/enemFormatado/2023/152/enem_questao152_img4.png\" alt=\"imagem 4 da questão\">.",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/152/enem_questao152_img1.png",
+        "vestibulares/enem/enemFormatado/2023/152/enem_questao152_img2.png",
+        "vestibulares/enem/enemFormatado/2023/152/enem_questao152_img3.png",
+        "vestibulares/enem/enemFormatado/2023/152/enem_questao152_img4.png"
+    ],
+    "pergunta": "O funcionário que operará a nova máquina deverá adotar a medida preventiva",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "I.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "II.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "III.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "IV.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "V.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 156,
+    "disciplina": "Matemática",
+    "enunciado": "Uma pessoa caminha por 30 minutos e utiliza um aplicativo instalado em seu celular para monitorar a variação da intensidade do sinal de internet recebido pelo aparelho durante o deslocamento. Chegando ao seu destino, o aplicativo forneceu este gráfico:<br><br><img src=\"vestibulares/enem/enemFormatado/2023/156/enem_questao156_img1.png\" alt=\"imagem 1 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2023/156/enem_questao156_img1.png"
+    ],
+    "pergunta": "Por quantos minutos, durante essa caminhada, o celular dessa pessoa ficou sem receber sinal de internet?",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "6",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "8",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "10",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "14",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "24",
+            "imgUrl": null
+        }
+    ]
+}

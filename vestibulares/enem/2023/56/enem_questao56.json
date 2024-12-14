@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 56,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "![](https://enem.dev/broken-image.svg)<br><br>LAERTE. Disponível em: www.laerte.art.br. Acesso em: 23 nov. 2021 (adaptado)",
+    "imgs": [],
+    "pergunta": "A charge ilustra um anseio presente na sociedade contemporânea, que se caracteriza pela",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Situação de revolta individual.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Satisfação de desejos pessoais.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Participação em ações decisórias.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Permanência em passividade social.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Conivência em interesses partidários.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 4,
+    "disciplina": "Multidisciplinar",
+    "enunciado": "O atlatl é um artefato manual asteca que encaixa na parte traseira de uma lança e pode impulsioná-la a uma velocidade de 150 km/h, além de fazê-la gerar uma pressão que chega a 75 kgf/cm² em seu alvo. Trata-se de uma estrutura capaz de intensificar o arremesso da lança por seu usuário, tornando-a mais letal que um leão e mais veloz que um guepardo, uma vez que a pressão da mordida de um leão gera 50 kgf/cm² e que um guepardo, perseguindo uma presa, chega a 130 km/h.<br>Fonte dos dados: Revista Super Interessante, edição 453, julho 2023, p.5.<br><br>O atlatl é um artefato manual asteca que encaixa na parte traseira de uma lança e pode impulsioná-la a uma velocidade de 150 km/h, além de fazê-la gerar uma pressão que chega a 75 kgf/cm² em seu alvo. Trata-se de uma estrutura capaz de intensificar o arremesso da lança por seu usuário, tornando-a mais letal que um leão e mais veloz que um guepardo, uma vez que a pressão da mordida de um leão gera 50 kgf/cm² e que um guepardo, perseguindo uma presa, chega a 130 km/h.",
+    "imgs": [],
+    "pergunta": "Ao ler o texto, é correto afirmar que o atlatl provavelmente poderia ser encontrado em sítios arqueológicos localizados na região do atual I, que se situa no hemisfério II dado ser esta a região habitada pela civilização referida no texto, antes da chegada de Cristóvão Colombo ao continente americano em 1492. Além disso, esse artefato intensifica o arremesso da lança por seu usuário em cerca de III % no que se refere à IV do felino.",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "México\nNorte\n15\nvelocidade",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Peru\nNorte\n15\nvelocidade",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "México\nSul\n25\nvelocidade",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Peru\nSul\n25\npressão",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "México\nNorte\n15\npressão",
+            "imgUrl": null
+        }
+    ]
+}

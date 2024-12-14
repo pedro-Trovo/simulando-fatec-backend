@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 135,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "Em 2002, um mecânico da cidade mineira de Uberaba (MG) teve uma ideia para economizar o consumo de energia elétrica e iluminar a própria casa num dia de sol. Para isso, ele utilizou garrafas plásticas PET com água e cloro, conforme ilustram as figuras. Cada garrafa foi fixada ao telhado de sua casa em um buraco com diâmetro igual ao da garrafa, muito maior que o comprimento de onda da luz. Nos últimos dois anos, sua ideia já alcançou diversas partes do mundo e deve atingir a marca de 1 milhão de casas utilizando a “luz engarrafada”.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/135/enem_questao135_img1.png\" alt=\"imagem 1 da questão\"><br><br>ZOBEL, G. Brasileiro inventor de “Iuz engarrafada” tem ideia espalhada pelo mundo.  <br>Disponível em: www.bbc.com. Acesso em 23 jun. 2022 (adaptado)",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/135/enem_questao135_img1.png"
+    ],
+    "pergunta": "Que fenômeno óptico explica o funcionamento da “luz engarrafada”?",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Difração.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Absorção.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Polarização.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Reflexão.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Refração.",
+            "imgUrl": null
+        }
+    ]
+}

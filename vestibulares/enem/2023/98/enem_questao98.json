@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 98,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "Há muito tempo são conhecidas espécies de lesmas-do-mar com uma capacidade impar: guardar parte da maquinaria das células das algas que consomem — os cloroplastos — e mantê-los funcionais dentro das suas próprias células, obtendo assim parte do seu alimento. Investigadores portugueses descobriram que essas lesmas-do-mar podem ser mais eficientes nesse processo do que as próprias algas que consomem.<br><br>Disponível em: www.cienciahoje.pt. Acesso em: 10 fev. 2015 (adaptado).",
+    "imgs": [],
+    "pergunta": "Essa adaptação confere a esse organismo a capacidade de obter primariamente",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Ácidos necleicos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Carboidratos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Proteínas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Vitaminas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Lipídios.",
+            "imgUrl": null
+        }
+    ]
+}

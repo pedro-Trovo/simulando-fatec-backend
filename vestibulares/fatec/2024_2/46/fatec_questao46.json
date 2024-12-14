@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 46,
+    "disciplina": "Multidisciplinar",
+    "enunciado": "While most of the world uses the International System of Units, aka the Metric System, Liberia, Myanmar and the United States are the only countries that have not officially adopted the Metric System. The United States has its own system, based on the old British Imperial System of inches and pounds.<br><br>While most of the world uses the International System of Units, aka the Metric System, Liberia, Myanmar and the United States are the only countries that have not officially adopted the Metric System. The United States has its own system, based on the old British Imperial System of inches and pounds. The Metric System, or SI (Système International), is based off this original meter and currently the official system of measurement for almost all countries in Latin America, Asia, Africa, Europe and Oceania.",
+    "imgs": [],
+    "pergunta": "O British Imperial System was the official system of weights and measures in the United Kingdom from 1824 until they adopted the Metric System in 1965.",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "O Reino Unido adotou o Sistema Métrico em 1824.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Todas as ex-colônias britânicas adotam o British Imperial System.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "O sistema de medidas usado nos EUA advém do Sistema Métrico criado em 1965.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "O Imperial System não padronizou as medidas de pés e libras nos países que as adotam.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "O Sistema Métrico também é conhecido atualmente como Sistema Internacional.",
+            "imgUrl": null
+        }
+    ]
+}

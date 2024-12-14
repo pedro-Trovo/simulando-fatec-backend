@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 24,
+    "disciplina": "Física",
+    "enunciado": "Um dos principais motivos observados é o excesso de velocidade. Por isso, têm sido instalados detectores de velocidade. Entretanto, esses detectores precisam ser periodicamente calibrados. Uma história clássica, ocorrida em 2021, foi a suspensão da Carteira Nacional de Habilitação (CNH) de um motociclista que teria percorrido uma estrada a cerca de 900 km/h (= 250 m/s). Suponha que ele estivesse realmente a essa velocidade e o conjunto moto-piloto tivesse massa igual a 200 kg. Despreze quaisquer ações dissipativas e assinale a alternativa que apresenta, aproximadamente, o valor da energia cinética, em joules, envolvida no conjunto moto-piloto no momento do registro. Dado: Ec = m.v²/2<br><br>A Organização Pan-Americana de Saúde (OPAS) aderiu à “Década de Ação pela Segurança no Trânsito 2021-2030” com a intenção de diminuir o número de mortes e de lesões em acidentes de trânsito. Um dos principais motivos observados é o excesso de velocidade. Por isso, têm sido instalados detectores de velocidade.",
+    "imgs": [],
+    "pergunta": "Suponha que ele estivesse realmente a essa velocidade e o conjunto moto-piloto tivesse massa igual a 200 kg. Despreze quaisquer ações dissipativas e assinale a alternativa que apresenta, aproximadamente, o valor da energia cinética, em joules, envolvida no conjunto moto-piloto no momento do registro.",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "2,8 × 10<sup>8</sup>",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "8,6 × 10<sup>7</sup>",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "1,4 × 10<sup>7</sup>",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "6,2 × 10<sup>6</sup>",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "5,0 × 10<sup>5</sup>",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 2,
+    "disciplina": "Linguagens",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "Me niego rotundamente<br>A negar mi voz,<br>Mi sangre y mi piel.<br>Y me niego rotundamente<br>A dejar de ser yo,<br>A dejar de sentirme bien<br>Cuando miro mi rostro en el es<br>Con mi boca<br>Rotundamente grande<br>Y mi nariz<br>Rotundamente hermosa,<br>Y mis dientes<br>Rotundamente blancos,<br>Y mi piel valientemente negra.<br>Y me niego categóricamente<br>A dejar de hablar<br>Mi lengua, mi acento y mi historia<br>Y me niego absolutamente<br>A ser parte de los que callan,<br>De los que temen,<br>De los que lloran<br>Porque me acepto<br>Rotundamente libre,<br>Rotundamente negra,<br>Rotundamente hermosa.<br>CAMPELL BARR, S. Disponível em:<br>https.negracubanateniaqueser.com<br>Acesso em 25 out. 2021.<br>Para enfatizar caracteristicas e atitudes que reforçam a identidade da mulher negra, o poema da escritora costarriquenha apresenta:",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Advérbios como \"rotundamente\" e \"categóricamente\".",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Verbos reflexivos como \"me niego\" e \"me acepto\".",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Adjetivos como \"grande\" e \"hermosa\".",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Substantivos como \"sangre\" e \"piel\".",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Adjetivos possessivos como \"mi\" e \"mis\".",
+            "imgUrl": null
+        }
+    ]
+}

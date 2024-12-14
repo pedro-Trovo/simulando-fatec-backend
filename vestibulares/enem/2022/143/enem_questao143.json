@@ -1,0 +1,47 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 143,
+    "disciplina": "Matemática",
+    "enunciado": "Dentre as diversas planificações possíveis para o cubo, uma delas é a que se encontra apresentada na Figura 1.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/143/enem_questao143_img1.png\" alt=\"imagem 1 da questão\"><br><br>Em um cubo, foram pintados, em três de suas faces, quadrados de cor cinza escura, que ocupam um quarto dessas faces, tendo esses três quadrados um vértice em comum, conforme ilustrado na Figura 2.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/143/enem_questao143_img2.png\" alt=\"imagem 2 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/143/enem_questao143_img1.png",
+        "vestibulares/enem/enemFormatado/2022/143/enem_questao143_img2.png"
+    ],
+    "pergunta": "A planificação do cubo da Figura 2, conforme o tipo de planificação apresentada na Figura 1, é",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/143/enem_questao143_alter-A.png"
+        },
+        {
+            "letra": "B",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/143/enem_questao143_alter-B.png"
+        },
+        {
+            "letra": "C",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/143/enem_questao143_alter-C.png"
+        },
+        {
+            "letra": "D",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/143/enem_questao143_alter-D.png"
+        },
+        {
+            "letra": "E",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/143/enem_questao143_alter-E.png"
+        }
+    ]
+}

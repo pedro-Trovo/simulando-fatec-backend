@@ -1,0 +1,47 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 150,
+    "disciplina": "Matemática",
+    "enunciado": "Em jogos de voleibol, um saque é invalidado se a bola atingir o teto do ginásio onde ocorre o jogo. Um jogador de uma equipe tem um saque que atinge uma grande altura. Seu recorde foi quando a batida do saque se iniciou a uma altura de 1,5 m do piso da quadra, e a trajetória da bola foi descrita pela parábola <img src=\"vestibulares/enem/enemFormatado/2022/150/enem_questao150_img1.png\" alt=\"imagem 1 da questão\"> , em que y representa a altura da bola em relação ao eixo x (das abscissas) que está localizado a 1,5 m do piso da quadra, como representado na figura. Suponha que em todas as partidas algum saque desse jogador atinja a mesma altura do seu recorde.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/150/enem_questao150_img2.png\" alt=\"imagem 2 da questão\"><br><br>A equipe desse jogador participou de um torneio de voleibol no qual jogou cinco partidas, cada uma delas  <br>em um ginásio diferente. As alturas dos tetos desses ginásios, em relação aos pisos das quadras, são:  <br>• ginásio I: 17 m;  <br>• ginásio II: 18 m;  <br>• ginásio III: 19 m;  <br>• ginásio IV: 21 m;  <br>• ginásio V: 40 m.",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/150/enem_questao150_img1.png",
+        "vestibulares/enem/enemFormatado/2022/150/enem_questao150_img2.png"
+    ],
+    "pergunta": "O saque desse atleta foi invalidado",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Apenas no ginásio I.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Apenas nos ginásios I e II.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Apenas nos ginásios I, II e III.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Apenas nos ginásios I, II, III e IV.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Em todos os ginásios.",
+            "imgUrl": null
+        }
+    ]
+}

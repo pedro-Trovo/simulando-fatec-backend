@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 175,
+    "disciplina": "Matemática",
+    "enunciado": "Ao escutar a notícia de que um filme recém-lançado arrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus  <br>algarismos.",
+    "imgs": [],
+    "pergunta": "O número escrito pelo estudante foi",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "135 000,00.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "1 350 000,00.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "13 500 000,00.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "135 000 000,00.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "1 350 000 000,00",
+            "imgUrl": null
+        }
+    ]
+}

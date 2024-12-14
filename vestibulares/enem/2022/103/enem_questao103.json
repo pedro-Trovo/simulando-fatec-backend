@@ -1,0 +1,51 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 103,
+    "disciplina": "Ciências Natureza",
+    "enunciado": "Tribologia é o estudo da interação entre duas superfícies em contato, como desgaste e atrito, sendo de extrema importância na avaliação de diferentes  <br>produtos e de bens de consumo em geral. Para testar a conformidade de uma muleta, realiza-se um ensaio tribológico, pressionando-a verticalmente contra o piso com uma força <img src=\"vestibulares/enem/enemFormatado/2022/103/enem_questao103_img1.png\" alt=\"imagem 1 da questão\">, conforme ilustra a imagem, em que CM representa o centro de massa da muleta.<br><br>Mantendo-se a força <img src=\"vestibulares/enem/enemFormatado/2022/103/enem_questao103_img2.png\" alt=\"imagem 2 da questão\"> paralela à muleta, varia-se lentamente o ângulo entre a muleta e a vertical, até o máximo ângulo imediatamente anterior ao de escorregamento, denominado ângulo crítico. Esse ângulo também pode ser calculado a partir da identificação dos pontos de aplicação, da direção e do sentido das forças peso <img src=\"vestibulares/enem/enemFormatado/2022/103/enem_questao103_img3.png\" alt=\"imagem 3 da questão\">, normal <img src=\"vestibulares/enem/enemFormatado/2022/103/enem_questao103_img4.png\" alt=\"imagem 4 da questão\"> e de atrito estático <img src=\"vestibulares/enem/enemFormatado/2022/103/enem_questao103_img5.png\" alt=\"imagem 5 da questão\">.<br><br><img src=\"vestibulares/enem/enemFormatado/2022/103/enem_questao103_img6.png\" alt=\"imagem 6 da questão\">",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/103/enem_questao103_img1.png",
+        "vestibulares/enem/enemFormatado/2022/103/enem_questao103_img2.png",
+        "vestibulares/enem/enemFormatado/2022/103/enem_questao103_img3.png",
+        "vestibulares/enem/enemFormatado/2022/103/enem_questao103_img4.png",
+        "vestibulares/enem/enemFormatado/2022/103/enem_questao103_img5.png",
+        "vestibulares/enem/enemFormatado/2022/103/enem_questao103_img6.png"
+    ],
+    "pergunta": "O esquema que representa corretamente todas as forças que atuam sobre a muleta quando ela atinge o ângulo crítico é:",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/103/enem_questao103_alter-A.png"
+        },
+        {
+            "letra": "B",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/103/enem_questao103_alter-B.png"
+        },
+        {
+            "letra": "C",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/103/enem_questao103_alter-C.png"
+        },
+        {
+            "letra": "D",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/103/enem_questao103_alter-D.png"
+        },
+        {
+            "letra": "E",
+            "texto": null,
+            "imgUrl": "vestibulares/enem/enemFormatado/2022/103/enem_questao103_alter-E.png"
+        }
+    ]
+}

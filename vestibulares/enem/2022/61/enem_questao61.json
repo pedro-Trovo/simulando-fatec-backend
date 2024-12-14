@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 61,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "A dublagem é o novo campo a ser explorado pela inteligência artificial, e há empresas dedicadas a fazer com que as vozes originais de atores sejam transpostas para outros idiomas. A novidade reforça a tendência da automação de postos de trabalho nas mais diversas áreas. Tem potencial para facilitar a vida de estúdios e produtoras e, ao mesmo tempo, tornar mais escassas as oportunidades para dubladores e atores que trabalham com isso.<br><br>**GAGLIONI, C. Disponível em: www.nexojornal.com.br. Acesso em: 25 ou. 2021.**",
+    "imgs": [],
+    "pergunta": "A consequência da mudança tecnológica apresentada no texto é a",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Proteção da economia nacional.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Valorização da cultura tradicional.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Diminuição da formação acadêmica.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Estagnação da manifestação artística.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Ampliação do desemprego estrutural.",
+            "imgUrl": null
+        }
+    ]
+}

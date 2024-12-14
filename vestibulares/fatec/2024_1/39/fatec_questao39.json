@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 39,
+    "disciplina": "Química",
+    "enunciado": "Os indígenas Yanomami desempenham um papel fundamental na constituição da sociedade brasileira, contribuindo de maneira significativa para a riqueza e a diversidade do panorama cultural do país. No entanto, a presença do garimpo na terra indígena Yanomami contaminou a água dos rios da região com mercúrio, o que representa uma ameaça à existência dessa cultura. Na extração do ouro, os garimpeiros utilizam bateia e água para separar pequenas partículas de ouro da areia e das outras partículas menores. Porém, para separar pequenas partículas de ouro de outros sedimentos, os garimpeiros utilizam outro processo que consiste em adicionar mercúrio à mistura coletada no garimpo. Após esse processo, o mercúrio é descartado nos rios, e a contaminação da água faz o mercúrio atingir quase que diretamente os indígenas, o que provoca impactos na saúde dessa população. A análise de amostras de 4,2 gramas de cabelo dos indígenas revelou a presença de 25,2 microgramas de mercúrio. Essa quantidade superou o limite de 2 microgramas de mercúrio por grama de cabelo tolerado pela Organização Mundial da Saúde (OMS). O índice é considerado altíssimo por especialistas, que prevêem doenças graves a essa população em médio e longo prazo.<br><br>A análise de amostras de 4,2 gramas de cabelo dos indígenas revelou a presença de 25,2 microgramas de mercúrio. Essa quantidade superou o limite de 2 microgramas de mercúrio por grama de cabelo tolerado pela Organização Mundial da Saúde (OMS). O índice é considerado altíssimo por especialistas, que prevêem doenças graves a essa população em médio e longo prazo.",
+    "imgs": [],
+    "pergunta": "De acordo com o texto, a quantidade de mercúrio por grama de cabelo encontrada nos indígenas é N vezes a quantidade tolerada pela OMS.",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "1",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "2",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "3",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "4",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "5",
+            "imgUrl": null
+        }
+    ]
+}

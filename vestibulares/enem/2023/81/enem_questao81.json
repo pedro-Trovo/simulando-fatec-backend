@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 81,
+    "disciplina": "Linguagens",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "A economia das ilegalidades se reestruturou com o desenvolvimento da sociedade capitalista. A ilegalidade dos bens foi separada da ilegalidade dos direitos. Divisão que corresponde a uma oposição de classes, pois, de um lado, a ilegalidade mais acessível às classes populares será a dos bens — transferência violenta das propriedades; de outro, à burguesia, então, se reservará a ilegalidade dos direitos: a possibilidade de desviar seus próprios regulamentos e suas próprias leis; e essa grande redistribuição das ilegalidades se traduzirá até por uma especialização dos circuitos judiciários; para as ilegalidades de bens — para o roubo — os tribunais ordinários e os castigos; para as ilegalidades de direitos — fraudes, evasões fiscais, operações comerciais irregulares — jurisdições especiais com transações, acomodações, multas atenuadas etc.<br> FOUCAULT, M. Vigiar e punir: nascimento da prisão. Petropolis: Vozes, 1987 <br>O texto apresenta uma relação de cálculo politico-econômico que caracteriza o poder punitivo por meio da • gestão das ilicitudes pelo sistema judicial. aplicação das sanções pelo modelo equânime. supressão dos crimes pela penalização severa. regulamentação dos privilégios pela justiça social. repartição de vantagens pela hierarquização cultural",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Gestão das ilicitudes pelo sistema judicial.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Aplicação das sanções pelo modelo equânime.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Supressão dos crimes pela penalização severa.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Regulamentação dos privilégios pela justiça social.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Repartição de vantagens pela hierarquização cultural.",
+            "imgUrl": null
+        }
+    ]
+}

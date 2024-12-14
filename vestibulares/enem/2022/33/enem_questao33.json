@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 33,
+    "disciplina": "Linguagens",
+    "enunciado": "**Notas**<br><br>Soluços, lágrimas, casa armada, veludo preto nos portais, um homem que veio vestir o cadáver, outro que tomou a medida do caixão, caixão, essa, tocheiros, convites, convidados que entravam, lentamente, a passo surdo, e apertavam a mão à família, alguns tristes, todos sérios e calados, padre e sacristão, rezas, aspersões d’água benta, o fechar do caixão a prego e martelo, seis pessoas que o tomam da essa, e o levantam, e o descem a custo pela escada, não obstante os gritos, soluços e novas lágrimas da família, e vão até o coche fúnebre, e o colocam em cima e traspassam e apertam as corrêas, o rodar do coche, o rodar dos carros, um a um… Isto que parece um simples inventário, eram notas que eu havia tomado para um capítulo triste e vulgar que não escrevo.<br><br>ASSIS, M. **Memórias Póstumas de Brás Cubas**. Disponível em: www.domíniopúblico.gov.br. Acesso em: 25 jul, 2022.",
+    "imgs": [],
+    "pergunta": "O recurso linguístico que permite o Machado de Assis considerar o capítulo de Memórias Póstumas de Brás Cubas como inventário é a:",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Enumeração de objetos e fatos",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Predominância de linguagem objetiva",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Ocorrência de período longo no trecho",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Combinação de verbos no presente e no pretérito",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Presença de léxico do campo semântico de funerais",
+            "imgUrl": null
+        }
+    ]
+}

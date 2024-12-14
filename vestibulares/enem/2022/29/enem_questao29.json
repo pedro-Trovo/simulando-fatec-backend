@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 29,
+    "disciplina": "Linguagens",
+    "enunciado": "**Esaú e Jacó**<br><br>Bárbara entrou, enquanto o pai pegou da viola e passou ao patamar de pedra, à porta da esquerda. Era uma criaturinha leve e breve, saia bordada, chinelinha no pé. Não se lhe podia negar um corpo airoso. Os cabelos, apanhados no alto da cabeça por um pedaço de fita enxovalhada, faziam-lhe um solidéu natural, cuja borla era suprida por um raminho de arruda. Já vai nisto um pouco de sacerdotisa. O mistério estava nos olhos. Estes eram opacos, não sempre nem tanto que não fossem também lúcidos e agudos, e neste último estado eram igualmente compridos; tão compridos e tão agudos que entravam pela gente abaixo, revolviam o coração e tornavam cá fora, prontos para nova entrada e outro revolvimento. Não te minto dizendo que as duas sentiram tal ou qual fascinação. Bárbara interrogou-as; Natividade disse ao que vinha e entregou-lhe os retratos dos filhos e os cabelos cortados, por lhe haverem dito que bastava.<br><br>– Basta, confirmou Bárbara. Os meninos são seus filhos?<br><br>– São.<br><br>ASSIS, M. **Obra completa**. Rio de Janeiro: Nova Aguilar, 1994.",
+    "imgs": [],
+    "pergunta": "No relato da visita de duas mulheres ricas a uma vidente no Morro do Castelo, a ironia — um dos traços mais representativos da narrativa machadiana — consiste no",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Modo de vestir dos moradores do morro carioca.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Senso prático em relação às oportunidades de renda.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Mistério que cerca as clientes de práticas de vidência.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Misto de singeleza e astúcia dos gestos da personagem.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Interesse do narrador pelas figuras femininas ambíguas.",
+            "imgUrl": null
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 6,
+    "disciplina": "Matemática",
+    "enunciado": "O Museu do Louvre em Paris, na França, é atualmente o museu mais visitado do mundo.<br>Número de visitantes ao Museu do Louvre de 2007 a 2022 (em milhões)<br>10<br>10,2<br>9,7<br>9,6<br>9,3 9,3<br>8<br>8,9<br>8,3 8,5<br>8,5 8,5<br>8,6<br>8,1<br>7,7<br>7,3<br>6<br>4<br>2<br>2,7 2,8<br>0<br>2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022<br>Anos<br>Fonte dos dados: <https://tinyurl.com/8973c75k> Acesso em: 19.10.2023.<br><br>Analisando os dados do número de visitantes ao Museu do Louvre, em milhões,",
+    "imgs": [],
+    "pergunta": "assinale a alternativa que apresenta, correta e respectivamente, a moda e a mediana desse conjunto.",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "8,5 e 9,3",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "8,5 e 8,6",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "8,5 e 8,5",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "10,2 e 8,6",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "10,2 e 8,5",
+            "imgUrl": null
+        }
+    ]
+}

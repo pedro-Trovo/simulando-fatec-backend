@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2023,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 90,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "None",
+    "imgs": [],
+    "pergunta": "Não tinha outra filosofia. Nem eu. Não digo que a Universidade me não tivesse ensinado alguma; mas eu decorei-lhe só as fórmulas, o vocabulário, o esqueleto. Tratei-a como tratei o latim; embolsei três versos de Virgílio, dois de Horácio, uma dúzia de locuções morais e políticas, para as despesas da conversação. Tratei-os como tratei a história e a jurisprudência. Colhi de todas as cousas a fraseologia, a casca, a ornamentação.<br>ASSIS, M. Memórias póstumas do Brás Cubas. Belo Horizonte: Autêntica. 1999.<br>A descrição crítica do personagem de Machado de Assis assemelha-se às características dos sofistas, contestados pelos filósofos gregos da Antiguidade, porque se mostra alinhada à",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Elaboração conceitual de entendimentos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Utilização persuasiva do discurso.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Narração alegórica dos rapsodos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Investigação empírica da physis.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Expressão pictográfica da pólis.",
+            "imgUrl": null
+        }
+    ]
+}

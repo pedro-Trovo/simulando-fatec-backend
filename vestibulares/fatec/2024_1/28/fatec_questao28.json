@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 28,
+    "disciplina": "Raciocínio Lógico",
+    "enunciado": "Não faltam opções de \\\"rolês\\\" na cidade de São Paulo, que está repleta de eventos culturais e artísticos durante o ano inteiro. São tantas opções que sites e jornais oferecem, semanalmente, dicas de passeios. Suponha que um site tenha realizado uma pesquisa da qual foram compilados os quadros que mostram as classificações obtidas por 40 \\\"rolês\\\" paulistanos. Cada um desses \\\"rolês\\\" foi classificado apenas uma vez em cada quadro.",
+    "imgs": [],
+    "pergunta": "Com base nessas informações, é correto afirmar que",
+    "gabarito": "A",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "pelo menos um \\\"rolê\\\" foi classificado como gratuito, quando se tomam apenas aqueles com 3 ou mais estrelas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "foram classificados como custo mediano todos os \\\"rolês\\\" com exatamente 4 estrelas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "nenhum \\\"rolê\\\" é classificado como custo alto, ao considerar unicamente aqueles com 3 ou menos estrelas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "foram classificados como custo baixo pelo menos dois \\\"rolês\\\" com exatamente 4 estrelas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "existem \\\"rolês\\\" com exatamente 5 estrelas em todas as quatro categorias de custo por pessoa.",
+            "imgUrl": null
+        }
+    ]
+}

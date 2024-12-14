@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 21,
+    "disciplina": "Inglês",
+    "enunciado": "A linguagem verbal e a não-verbal denotam que a busca pelos sonhos deixou de ser uma opção.<br><br>Analise a intervenção artística de Banksy.",
+    "imgs": [],
+    "pergunta": "A linguagem verbal e a não-verbal denotam que",
+    "gabarito": "C",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "políticas inconstitucionais tramam contra a liberdade de imprensa.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "a expressão artística foi depredada pela polícia militar.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "a busca pelos sonhos deixou de ser uma opção.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "pessoas sonhadoras não têm iniciativa para efetivar conquistas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "o cancelamento nas redes sociais impede a realização de sonhos.",
+            "imgUrl": null
+        }
+    ]
+}

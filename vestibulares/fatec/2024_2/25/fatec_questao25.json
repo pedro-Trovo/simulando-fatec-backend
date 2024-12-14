@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 25,
+    "disciplina": "Biologia",
+    "enunciado": "Segundo a OPAS, na América Latina, mais de 10 mil pessoas morrem, a cada ano, em consequência de complicações causadas pelo mal de Chagas, sendo que cerca de 6 a 8 milhões de pessoas convivem com essa doença, apesar de 70% delas não saberem que estão infectadas devido à ausência de sintomas clínicos.",
+    "imgs": [],
+    "pergunta": "Para prevenir, detectar, tratar essa enfermidade e quebrar a cadeia de transmissão, é importante saber que essa doença se caracteriza por ser",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "uma infecção bacteriana transmitida por contato direto com os indivíduos contaminados, a qual causa coceira e infecções generalizadas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "uma infecção cutânea micótica debilitante, a qual causa necroses nos tecidos epiteliais, nos ossos, nos tecidos moles e gera problemas cardíacos.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "uma doença viral transmitida aos seres humanos por meio de mordidas de animais infectados, a qual pode ocasionar convulsões e problemas pulmonares.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "uma protozoose transmitida aos seres humanos por meio de insetos hematófagos contaminados, a qual pode ser fatal quando os sintomas se desenvolvem.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "uma verminose transmitida aos seres humanos pela picada de fêmeas infectadas de mosquitos, a qual pode provocar hemorragias, patologias hepáticas e morte.",
+            "imgUrl": null
+        }
+    ]
+}

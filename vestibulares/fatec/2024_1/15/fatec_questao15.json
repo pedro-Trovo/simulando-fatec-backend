@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 1
+        }
+    },
+    "numQuestao": 15,
+    "disciplina": "Química",
+    "enunciado": "Cândido Portinari, um dos principais pintores brasileiros do século 20, residiu em uma casa que hoje é o Museu Casa de Portinari, localizado no interior do estado de São Paulo. Há alguns anos, em um dos cômodos da casa, um pesquisador encontrou um pontinho azul em um reboco e foi descascando a parede até chegar a uma pintura oculta. Seria Portinari o autor da misteriosa obra? A análise química pode ajudar a responder a esse mistério.<br><br>Uma das técnicas utilizadas para análise é a de fluorescência em raios X, em que os pesquisadores emitem quantidades moderadas de raios X sobre a pintura, excitando os elétrons dos elementos constituintes das tintas. Quando o elétron retorna para o estado fundamental, ocorre emissão de luz cuja cor e intensidade variam de um elemento químico para outro, o que permite identificar o composto presente na tinta. Segundo os pesquisadores, o verde de Portinari era obtido com sais de cromo ou uma mistura de sais de cobalto e cádmio. No branco, há a presença do óxido de zinco; no vermelho, há, em geral, sais e óxidos de ferro, manganês, cádmio e selênio.<br><br>A emissão de luz, que ocorre na técnica de análise mencionada no texto,",
+    "imgs": [],
+    "pergunta": "é explicada corretamente pelo modelo atômico de",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Demócrito.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Leucipo.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Dalton.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Thomson.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Bohr.",
+            "imgUrl": null
+        }
+    ]
+}

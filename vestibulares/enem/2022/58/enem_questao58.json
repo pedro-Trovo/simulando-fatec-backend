@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 58,
+    "disciplina": "Ciências Humanas",
+    "enunciado": "**TEXTO I**  <br>Em março de 1889, quando apareceram as primeiras romarias atraídas pelos milagres da beata Maria de Araújo, Juazeiro inseriu-se no rol da fundação do espaço religioso. Construía-se mais um centro, como Aparecida do Norte, Canindé ou Lourdes.<br><br>**RAMOS, F. R. L. O meio do mundo: território sagrado em Juazeiro do Padre Cícero. Fortaleza: Imprensa Universitária, 2014.**<br><br>**TEXTO II**  <br>Não sabemos ao certo quantas pessoas estavam presentes na capela no momento em que a hóstia sangrou na boca de Maria de Araújo. O Padre Cícero nos conta que o fato surpreendeu não só aos presentes, mas o fenômeno continuou acontecendo todas as quartas e sextas na Capela de Nossa Senhora das Dores a partir daquele dia. Os paninhos manchados do sangue que escorria da hóstia e da boca da beata, a princípio ficaram sob a guarda do Padre Cícero, mas logo foram expostos à visitação pública e, além disso, o sangramento foi proclamado como milagre sem o conhecimento e sem a autorização do bispo diocesano.<br><br>**NOBRE, E. Incêndios da alma. Rio de Janeiro. Multifoco. 2016 (Adaptado).**",
+    "imgs": [],
+    "pergunta": "As práticas religiosas mencionadas nos textos estão associadas, respectivamente, à:",
+    "gabarito": "E",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Delimitação de paisagens urbanas e abandono de componentes espiritualistas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Demarcação de patrimônios afetivos e apropriação de elementos judaizantes.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Expansão de fronteiras regionais e subjetivação do cristianismo medieval.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Circunscrição de bens simbólicos e admissão de cerimônias ecumênicas.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Criação de lugares místicos e experiências do catolicismo popular.",
+            "imgUrl": null
+        }
+    ]
+}

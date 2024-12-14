@@ -1,0 +1,46 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 1
+            },
+            "ano": 2022,
+            "semestre": 0
+        }
+    },
+    "numQuestao": 38,
+    "disciplina": "Linguagens",
+    "enunciado": "**TEXTO I**<br><br><img src=\"vestibulares/enem/enemFormatado/2022/38/enem_questao38_img1.png\" alt=\"imagem 1 da questão\"><br><br>EL GRECO. **Laocoonte**. Óleo sobre tela, 1,37cm x 1,72cm.<br><br>National Gallery of Art, Washington, Estados Unidos, circa 1610-  <br>1614\\. Disponível em: https://images.nga.gov. Acesso em: 28 jun  <br>2019 (adaptado).<br><br>**TEXTO II**<br><br>Essa impressionante obra apresenta o sacerdote Laocoonte sendo punido pelos deuses por tentar alertar os troianos da ameaça do Cavalo de Troia, que escondia um grupo de soldados gregos. Enviadas pelos deuses, serpentes marinhas são vistas matando Laocoonte e seus dois filhos como forma de punição.<br><br>KAY, A. In: FARTHING, S. (Org.). **Tudo sobre arte**.  <br>Rio de Janeiro: Sextante, 2011 (adaptado).",
+    "imgs": [
+        "vestibulares/enem/enemFormatado/2022/38/enem_questao38_img1.png"
+    ],
+    "pergunta": "Produzida no início do século XVII, a obra maneirista distingue-se pela",
+    "gabarito": "B",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Representação da nudez masculina.",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Distorção ao representar a figura humana.",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Evocação de um fato da cultura clássica grega.",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "Presença do tema da morte como punição da família.",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Utilização da perspectiva para integrar os diferentes planos.",
+            "imgUrl": null
+        }
+    ]
+}

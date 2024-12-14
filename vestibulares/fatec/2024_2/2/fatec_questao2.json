@@ -1,0 +1,44 @@
+{
+    "prova": {
+        "id": {
+            "vestibular": {
+                "id": 2
+            },
+            "ano": 2024,
+            "semestre": 2
+        }
+    },
+    "numQuestao": 2,
+    "disciplina": "Matemática",
+    "enunciado": "A expressão América Latina está mais associada a questões econômicas e sociais dos países que a compõem do que a um aspecto meramente territorial. Não se trata de um continente, mas, sim, de uma alusão aos 20 países da América colonizados, principalmente, por Espanha e Portugal. Territorialmente, compreende quase toda a América do Sul e Central, mais especificamente: Argentina, Bolívia, Brasil, Chile, Colômbia, Costa Rica, Cuba, El Salvador, Equador, Guatemala, Haiti, Honduras, Nicarágua, Panamá, Paraguai, Peru, República Dominicana, Uruguai e Venezuela. O México, localizado na América do Norte, também a integra. Países como Guiana, Suriname, Jamaica e Belize não a integram.",
+    "imgs": [],
+    "pergunta": "Assinale a alternativa em que é apresentado um país da América Latina cujo nome tem o maior número de anagramas.",
+    "gabarito": "D",
+    "alternativas": [
+        {
+            "letra": "A",
+            "texto": "Canadá",
+            "imgUrl": null
+        },
+        {
+            "letra": "B",
+            "texto": "Guiana",
+            "imgUrl": null
+        },
+        {
+            "letra": "C",
+            "texto": "Jamaica",
+            "imgUrl": null
+        },
+        {
+            "letra": "D",
+            "texto": "México",
+            "imgUrl": null
+        },
+        {
+            "letra": "E",
+            "texto": "Panamá",
+            "imgUrl": null
+        }
+    ]
+}
