@@ -1,0 +1,173 @@
+{
+	"info": {
+		"_postman_id": "12b813ad-63c5-428f-991d-10de51e31160",
+		"name": "Conquista",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "38962202"
+	},
+	"item": [
+		{
+			"name": "Conquistas ENEM",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "[\r\n    {\r\n        \"vestibular\"    : { \"id\" : 1 },\r\n        \"nome\"          : \"Acerte 10 Questões no ENEM\",\r\n        \"descricao\"     : \"Você deve acertar 10 questões em uma prova do ENEM!\"\r\n    },\r\n    {\r\n        \"vestibular\"    : { \"id\" : 1 },\r\n        \"nome\"          : \"Acerte 20 Questões no ENEM\",\r\n        \"descricao\"     : \"Você deve acertar 20 questões em uma prova do ENEM!\"\r\n    },\r\n    {\r\n        \"vestibular\"    : { \"id\" : 1 },\r\n        \"nome\"          : \"Acerte 30 Questões no ENEM\",\r\n        \"descricao\"     : \"Você deve acertar 30 questões em uma prova do ENEM!\"\r\n    }\r\n]",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/api/conquistas",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"conquistas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Conquistas FATEC",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "[\r\n    {\r\n        \"vestibular\"    : { \"id\" : 2 },\r\n        \"nome\"          : \"Acerte 10 Questões na FATEC\",\r\n        \"descricao\"     : \"Você deve acertar 10 questões em uma prova do FATEC!\"\r\n    },\r\n    {\r\n        \"vestibular\"    : { \"id\" : 2 },\r\n        \"nome\"          : \"Acerte 20 Questões no FATEC\",\r\n        \"descricao\"     : \"Você deve acertar 20 questões em uma prova do FATEC!\"\r\n    },\r\n    {\r\n        \"vestibular\"    : { \"id\" : 2 },\r\n        \"nome\"          : \"Acerte 30 Questões no FATEC\",\r\n        \"descricao\"     : \"Você deve acertar 30 questões em uma prova do FATEC!\"\r\n    }\r\n]",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/api/conquistas",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"conquistas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Conquista",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\"            : 1,\r\n    \"vestibular\"    : { \"id\" : 1 },\r\n    \"nome\"          : \"Acerte 50 Questões no ENEM\",\r\n    \"descricao\"     : \"Você deve acertar 10 questões em uma prova do ENEM!\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/api/conquista",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"conquista"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Conquista",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/api/conquista/1",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"conquista",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Conquistas",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/api/conquistas",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"conquistas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Conquistas por Vestibular",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/api/conquistas/1",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"conquistas",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Conquista",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/api/conquista/1",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"conquista",
+						"1"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

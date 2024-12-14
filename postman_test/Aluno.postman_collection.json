@@ -1,0 +1,221 @@
+{
+	"info": {
+		"_postman_id": "b3cd6ed0-79f0-413b-a4c2-772c22be5202",
+		"name": "Aluno",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "38962202"
+	},
+	"item": [
+		{
+			"name": "Aluno Um",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"nome\" : \"Natan\",\r\n    \"email\": \"natan@gmail.com\",\r\n    \"senha\": \"minhasenha\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/api/aluno",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"aluno"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Aluno Dois",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"nome\" : \"Joel\",\r\n    \"email\": \"joel@gmail.com\",\r\n    \"senha\": \"senhaforte\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/api/aluno",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"aluno"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Aluno Três",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"nome\" : \"Mikael\",\r\n    \"email\": \"mikael@gmail.com\",\r\n    \"senha\": \"muahaha\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/api/aluno",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"aluno"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Aluno Login Um",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"email\": \"natan@gmail.com\",\r\n  \"senha\": \"minhasenha\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/api/aluno/login",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"aluno",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Aluno Login Dois",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"email\": \"joel@gmail.com\",\r\n  \"senha\": \"senhaforte\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/api/aluno/login",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"aluno",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Aluno",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\"   : 6,\r\n    \"nome\" : \"Joel\",\r\n    \"email\": \"adamante@gmail.com\",\r\n    \"senha\": \"senhaforte\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/api/aluno",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"aluno"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Alunos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/api/alunos",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"alunos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Aluno",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/api/aluno/1",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"aluno",
+						"1"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
