@@ -26,6 +26,10 @@ public class QuestaoResolvida {
 
   // A coluna não pode ser "Null"
   @Column(nullable = false)
+  private String letraEscolhida;
+
+  // A coluna não pode ser "Null"
+  @Column(nullable = false)
   private boolean acertou;
 
   @Temporal(TemporalType.DATE)
@@ -56,6 +60,14 @@ public class QuestaoResolvida {
 
   public void setQuestao(Questao questao) {
     this.questao = questao;
+  }
+
+  public String getLetraEscolhida() {
+    return letraEscolhida;
+  }
+
+  public void setLetraEscolhida(String letraEscolhida) {
+    this.letraEscolhida = letraEscolhida;
   }
 
   public boolean isAcertou() {
