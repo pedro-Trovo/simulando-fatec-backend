@@ -18,6 +18,15 @@ public class ProvaEfetuada {
   @JsonIgnoreProperties({"conquistasObtidas", "provasEfetuadas"})
   private Aluno aluno;
 
+  @ManyToOne
+  @JoinColumns({
+          @JoinColumn(name="vestibular_id", referencedColumnName="vestibular_id"),
+          @JoinColumn(name="ano", referencedColumnName="ano"),
+          @JoinColumn(name="semestre", referencedColumnName="semestre")
+  })
+  @JsonIgnoreProperties("questoes")
+  private Prova prova;
+
   @OneToMany(mappedBy = "provaEfetuada", cascade = CascadeType.ALL, orphanRemoval = true)
   private List<QuestaoResolvida> questoesResolvidas = new ArrayList<>();
 
