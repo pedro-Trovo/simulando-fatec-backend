@@ -27,6 +27,8 @@ public class Aluno {
   @Column(nullable = false)
   private String senha;
 
+  private String fotoPerfil;
+
   @OneToMany(mappedBy = "aluno", cascade = CascadeType.ALL, orphanRemoval = true)
   private List<ConquistaObtida> conquistasObtidas = new ArrayList<>();
 
@@ -64,6 +66,14 @@ public class Aluno {
 
   public void setSenha(String senha) {
     this.senha = senha;
+  }
+
+  public String getFotoPerfil() {
+    return fotoPerfil;
+  }
+
+  public void setFotoPerfil(String fotoPerfil) {
+    this.fotoPerfil = fotoPerfil;
   }
 
   public List<ConquistaObtida> getConquistasObtidas() {
