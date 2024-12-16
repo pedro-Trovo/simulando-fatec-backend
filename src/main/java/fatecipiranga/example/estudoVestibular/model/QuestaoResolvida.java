@@ -16,9 +16,9 @@ public class QuestaoResolvida {
   private Long id;
 
   @ManyToOne
-  @JoinColumn(name = "aluno_id", nullable = false)
-  @JsonIgnoreProperties({"conquistasObtidas", "questoesResolvidas"})
-  private Aluno aluno;
+  @JoinColumn(name = "prova_efetuada_id", nullable = false)
+  @JsonIgnoreProperties("questoesResolvidas")
+  private ProvaEfetuada provaEfetuada;
 
   @ManyToOne
   @JoinColumn(name = "questao_id", nullable = false)
@@ -46,12 +46,12 @@ public class QuestaoResolvida {
     this.id = id;
   }
 
-  public Aluno getAluno() {
-    return aluno;
+  public ProvaEfetuada getProvaEfetuada() {
+    return provaEfetuada;
   }
 
-  public void setAluno(Aluno aluno) {
-    this.aluno = aluno;
+  public void setProvaEfetuada(ProvaEfetuada provaEfetuada) {
+    this.provaEfetuada = provaEfetuada;
   }
 
   public Questao getQuestao() {
