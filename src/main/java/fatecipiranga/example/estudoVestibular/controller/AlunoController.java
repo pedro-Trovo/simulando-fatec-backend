@@ -1,6 +1,7 @@
 package fatecipiranga.example.estudoVestibular.controller;
 
 import fatecipiranga.example.estudoVestibular.dto.Login;
+import fatecipiranga.example.estudoVestibular.model.Conquista;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -50,6 +51,13 @@ public class AlunoController {
             .filter(aluno -> BCrypt.checkpw(login.getSenha(), aluno.getSenha()))
             .map(Aluno::getId) // Pega o ID do aluno
             .map(ResponseEntity::ok) // Retorna o ID do Aluno
+            .orElse(ResponseEntity.notFound().build()); // Retorna 404
+  }
+
+  @GetMapping("/api/aluno/{alunoId}")
+  public ResponseEntity<Aluno> carregar(@PathVariable Long alunoId) {
+    return alunoRepo.findById(alunoId)
+            .map(ResponseEntity::ok) // Retorna 200 + a Conquista encontrada
             .orElse(ResponseEntity.notFound().build()); // Retorna 404
   }
 
