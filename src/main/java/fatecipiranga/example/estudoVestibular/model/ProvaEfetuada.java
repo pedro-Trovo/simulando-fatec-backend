@@ -33,4 +33,8 @@ public class ProvaEfetuada {
   @Temporal(TemporalType.DATE)
   @Column(nullable = false) // A coluna não pode ser "Null"
   private LocalDate data = LocalDate.now();
+
+  // A coluna não pode ser "Null"
+  @Column(nullable = false)
+  private String situacao;
 }
