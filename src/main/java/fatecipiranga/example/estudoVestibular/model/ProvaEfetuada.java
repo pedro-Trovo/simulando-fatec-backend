@@ -3,6 +3,7 @@ package fatecipiranga.example.estudoVestibular.model;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.*;
 
+import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -19,4 +20,8 @@ public class ProvaEfetuada {
 
   @OneToMany(mappedBy = "provaEfetuada", cascade = CascadeType.ALL, orphanRemoval = true)
   private List<QuestaoResolvida> questoesResolvidas = new ArrayList<>();
+
+  @Temporal(TemporalType.DATE)
+  @Column(nullable = false) // A coluna não pode ser "Null"
+  private LocalDate data = LocalDate.now();
 }
