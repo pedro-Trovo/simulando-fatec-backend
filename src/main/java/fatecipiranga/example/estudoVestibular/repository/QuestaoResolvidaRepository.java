@@ -12,36 +12,41 @@ import java.util.List;
 import java.util.Optional;
 
 public interface QuestaoResolvidaRepository extends JpaRepository<QuestaoResolvida, Long> {
-  @Query(value = "SELECT * FROM questao_resolvida WHERE aluno_id=?1 AND questao_id=?2", nativeQuery = true)
-  Optional<QuestaoResolvida> procurarQuestaoResolvida(Long alunoId, Long questaoId);
+  @Query(value = "SELECT * FROM questao_resolvida WHERE prova_efetuada_id=?1 AND questao_id=?2", nativeQuery = true)
+  Optional<QuestaoResolvida> procurarQuestaoResolvida(Long provaEfetuadaId, Long questaoId);
 
   @Modifying
   @Transactional
   @Query(value = """
-            UPDATE questao_resolvida
-            SET acertou = ?3
-            SET letra_escolhida = ?4
-            SET data = ?5
-            WHERE aluno_id=?1 AND questao_id=?2
-          """, nativeQuery = true)
-  int alterarQuestaoResolvida(Long alunoId, Long questaoId, Boolean acertou, String letraEscolhida, LocalDate data);
+    UPDATE questao_resolvida
+    SET acertou = ?3,
+        letra_escolhida = ?4,
+        data = ?5
+    WHERE prova_efetuada_id=?1 AND questao_id=?2
+  """, nativeQuery = true)
+  int alterarQuestaoResolvida(Long provaEfetuadaId, Long questaoId, Boolean acertou, String letraEscolhida, LocalDate data);
 
-  @Query(value = "SELECT * FROM questao_resolvida WHERE aluno_id=?1", nativeQuery = true)
+  @Query(value = """
+    SELECT qr.*
+    FROM questao_resolvida qr
+    JOIN prova_efetuada pe ON qr.prova_efetuada_id = pe.id
+    WHERE pe.aluno_id=?1
+    """, nativeQuery = true)
   Optional<List<QuestaoResolvida>> procurarQuestoesResolvidasPorAluno(Long alunoId);
 
   @Query(value = """
-            SELECT qr.*
-            FROM questao_resolvida qr
-            JOIN questao q ON qr.questao_id = q.id
-            WHERE qr.aluno_id = ?1 AND q.vestibular_id=?2 AND q.ano=?3 AND q.semestre=?4
-          """, nativeQuery = true)
+    SELECT qr.*
+    FROM questao_resolvida qr
+    JOIN prova_efetuada pe ON qr.prova_efetuada_id = pe.id
+    WHERE pe.aluno_id = ?1 AND pe.vestibular_id=?2 AND pe.ano=?3 AND pe.semestre=?4
+  """, nativeQuery = true)
   Optional<List<QuestaoResolvida>> procurarQuestoesResolvidasPorAlunoPorProva(Long alunoId, Long vestibularId, Integer ano, Integer semestre);
 
   @Query(value = """
-            SELECT qr.* 
-            FROM questao_resolvida qr
-            JOIN questao q ON qr.questao_id = q.id
-            WHERE qr.aluno_id = ?1 AND q.vestibular_id=?2
-          """, nativeQuery = true)
+    SELECT qr.* 
+    FROM questao_resolvida qr
+    JOIN prova_efetuada pe ON qr.prova_efetuada_id = pe.id
+    WHERE pe.aluno_id = ?1  AND pe.vestibular_id=?2
+  """, nativeQuery = true)
   Optional<List<QuestaoResolvida>> procurarQuestoesResolvidasPorAlunoPorVestibular(Long alunoId, Long vestibularId);
 }
