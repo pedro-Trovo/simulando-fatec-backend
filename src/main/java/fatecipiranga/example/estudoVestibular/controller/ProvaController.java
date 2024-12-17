@@ -24,7 +24,11 @@ public class ProvaController {
 
   @PostMapping("/api/prova")
   public ResponseEntity<Void> cadastrar(@RequestBody ProvaId provaId) {
-    if (provaRepo.procurarProva(provaId.getVestibular().getId(), provaId.getAno(), provaId.getSemestre()).isEmpty()) {
+    if (provaRepo.procurarProva(
+            provaId.getVestibular().getId(),
+            provaId.getAno(),
+            provaId.getSemestre()
+    ).isEmpty()) {
       Prova prova = new Prova(provaId);
       provaRepo.save(prova); // Salva o objeto "vestibular" no Banco de Dados
       return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
@@ -33,10 +37,14 @@ public class ProvaController {
   }
 
   @PostMapping("/api/provas")
-  public ResponseEntity<String> cadastrarVestibulares(@RequestBody List<ProvaId> provasIds) {
+  public ResponseEntity<String> cadastrarProvas(@RequestBody List<ProvaId> provasIds) {
     try {
       for (ProvaId provaId : provasIds) {
-        if (provaRepo.procurarProva(provaId.getVestibular().getId(), provaId.getAno(), provaId.getSemestre()).isEmpty()) {
+        if (provaRepo.procurarProva(
+                provaId.getVestibular().getId(),
+                provaId.getAno(),
+                provaId.getSemestre()
+        ).isEmpty()) {
           Prova prova = new Prova(provaId);
           provaRepo.save(prova); // Salva o objeto "vestibular" no Banco de Dados
         }

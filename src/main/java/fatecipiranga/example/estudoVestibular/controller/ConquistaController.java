@@ -20,7 +20,11 @@ public class ConquistaController {
 
   @PostMapping("/api/conquista")
   public ResponseEntity<Void> cadastrar(@RequestBody Conquista conquista) {
-    if(conquistaRepo.procurarConquista(conquista.getVestibular().getId(), conquista.getNome(), conquista.getDescricao()).isEmpty()){
+    if(conquistaRepo.procurarConquista(
+            conquista.getVestibular().getId(),
+            conquista.getNome(),
+            conquista.getDescricao()
+    ).isEmpty()){
       conquistaRepo.save(conquista); // Salva o objeto "conquista" no Banco de Dados
       return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
     }
@@ -31,7 +35,11 @@ public class ConquistaController {
   public ResponseEntity<String> cadastrarConquistas(@RequestBody List<Conquista> conquistas) {
     try{
       for(Conquista conquista : conquistas){
-        if(conquistaRepo.procurarConquista(conquista.getVestibular().getId(), conquista.getNome(), conquista.getDescricao()).isEmpty()){
+        if(conquistaRepo.procurarConquista(
+                conquista.getVestibular().getId(),
+                conquista.getNome(),
+                conquista.getDescricao()
+        ).isEmpty()){
           conquistaRepo.save(conquista); // Salva o objeto "conquista" no Banco de Dados
         }
       }

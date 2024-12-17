@@ -21,7 +21,10 @@ public class ConquistaObtidaController {
 
   @PostMapping("/api/conquista_obtida")
   public ResponseEntity<Void> gravar(@RequestBody ConquistaObtida conquistaObtida) {
-    if(conquistasObtRepo.procurarConquistaObtida(conquistaObtida.getAluno().getId(), conquistaObtida.getConquista().getId()).isEmpty()){
+    if(conquistasObtRepo.procurarConquistaObtida(
+            conquistaObtida.getAluno().getId(),
+            conquistaObtida.getConquista().getId()
+    ).isEmpty()){
       conquistasObtRepo.save(conquistaObtida); // Salva o objeto "conquistaObtida" no Banco de Dados
       return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
     }

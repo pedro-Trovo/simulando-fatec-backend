@@ -21,8 +21,13 @@ public class QuestaoResolvidaController {
   @PostMapping("/api/questao-resolvida")
   public ResponseEntity<Void> cadastrar(@RequestBody QuestaoResolvida questaoResolvida) {
     // Verifica se a questão resolvida recebida já existe no banco de dados
-    if(questaoResolRepo.procurarQuestaoResolvida(questaoResolvida.getProvaEfetuada().getId(), questaoResolvida.getQuestao().getId()).isEmpty()){
-      if(questaoResolvida.getProvaEfetuada().getProva().getId().equals(questaoResolvida.getQuestao().getProva().getId())){
+    if(questaoResolRepo.procurarQuestaoResolvida(
+            questaoResolvida.getProvaEfetuada().getId(),
+            questaoResolvida.getQuestao().getId()).isEmpty()
+    ){
+      if(questaoResolvida.getProvaEfetuada().getProva().getId()
+              .equals(questaoResolvida.getQuestao().getProva().getId())
+      ){
         questaoResolRepo.save(questaoResolvida); // Salva o objeto "questaoResolvida" no Banco de Dados
         return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
       }
@@ -31,13 +36,21 @@ public class QuestaoResolvidaController {
       }
     }
     else {
-      if(questaoResolvida.getProvaEfetuada().getProva().getId().equals(questaoResolvida.getQuestao().getProva().getId())){
+      if(questaoResolvida.getProvaEfetuada().getProva().getId()
+              .equals(questaoResolvida.getQuestao().getProva().getId())
+      ){
         if (questaoResolvida.getData() == null) {
           questaoResolvida.setData(LocalDate.now());
         }
 
         // Altera a questão resolvida salva no banco de dados
-        questaoResolRepo.alterarQuestaoResolvida(questaoResolvida.getProvaEfetuada().getId(), questaoResolvida.getQuestao().getId(), questaoResolvida.isAcertou(), questaoResolvida.getLetraEscolhida(), questaoResolvida.getData());
+        questaoResolRepo.alterarQuestaoResolvida(
+                questaoResolvida.getProvaEfetuada().getId(),
+                questaoResolvida.getQuestao().getId(),
+                questaoResolvida.isAcertou(),
+                questaoResolvida.getLetraEscolhida(),
+                questaoResolvida.getData()
+        );
         return ResponseEntity.ok().build(); // Retorna 200
       }
       else{

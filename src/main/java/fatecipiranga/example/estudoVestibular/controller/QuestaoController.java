@@ -22,7 +22,10 @@ public class QuestaoController {
 
   @PostMapping("/api/questao")
   public ResponseEntity<Void> cadastrar(@RequestBody Questao questao) {
-    if(questaoRepo.procurarQuestao(questao.getEnunciado(), questao.getPergunta()).isEmpty()){
+    if(questaoRepo.procurarQuestao(
+            questao.getEnunciado(),
+            questao.getPergunta()
+    ).isEmpty()){
       for(Alternativa alternativa : questao.getAlternativas()) {
         alternativa.setQuestao(questao);
       }
