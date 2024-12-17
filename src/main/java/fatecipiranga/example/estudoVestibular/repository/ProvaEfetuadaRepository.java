@@ -42,10 +42,9 @@ public interface ProvaEfetuadaRepository extends JpaRepository<ProvaEfetuada, Lo
   Optional<List<ProvaEfetuada>> procurarProvasEfetuadasPorAluno(Long alunoId);
 
   @Query(value = """
-            SELECT pe.* 
-            FROM prova_efetuada pe
-            JOIN prova p ON pe.prova_id = p.id
-            WHERE pe.aluno_id = :alunoId AND p.vestibular_id = :vestibularId
+            SELECT *
+            FROM prova_efetuada
+            WHERE aluno_id = :alunoId AND vestibular_id = :vestibularId
           """, nativeQuery = true)
   Optional<List<ProvaEfetuada>> procurarProvasEfetuadasPorAlunoPorVestibular(
           @Param("alunoId") Long alunoId,
