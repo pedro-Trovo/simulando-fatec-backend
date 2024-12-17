@@ -21,11 +21,12 @@ public class AlunoController {
 
   @PostMapping("/api/aluno")
   public ResponseEntity<Void> cadastrar(@RequestBody Aluno aluno) {
+    // Verifica se o item já existe no Banco de Dados
     if(alunoRepo.procurarLogin(aluno.getEmail()).isEmpty()){
       // Cria o Hash da senha usando o BCrypt
       String senha_hash = BCrypt.hashpw(aluno.getSenha(), BCrypt.gensalt(14));
       aluno.setSenha(senha_hash); // Armazena o Hash no lugar da senha padrão
-      alunoRepo.save(aluno); // Salva o objeto "aluno" no Banco de Dados
+      alunoRepo.save(aluno); // Salva o objeto no Banco de Dados
 
       return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
     }
@@ -37,7 +38,7 @@ public class AlunoController {
     // Cria o Hash da senha usando o BCrypt
     String senha_hash = BCrypt.hashpw(aluno.getSenha(), BCrypt.gensalt(14));
     aluno.setSenha(senha_hash); // Armazena o Hash no lugar da senha padrão
-    alunoRepo.save(aluno); // Salva o objeto "aluno" no Banco de Dados
+    alunoRepo.save(aluno); // Salva o objeto no Banco de Dados
 
     return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
   }
@@ -54,26 +55,29 @@ public class AlunoController {
 
   @GetMapping("/api/aluno/{alunoId}")
   public ResponseEntity<Aluno> carregar(@PathVariable Long alunoId) {
+    // Procura item por ID
     return alunoRepo.findById(alunoId)
-            .map(ResponseEntity::ok) // Retorna 200 + a Conquista encontrada
+            .map(ResponseEntity::ok) // Retorna 200 + o item pesquisado
             .orElse(ResponseEntity.notFound().build()); // Retorna 404
   }
 
   @GetMapping("/api/alunos")
   public ResponseEntity<List<Aluno>> listarTodosAlunos() {
-    // Busca todos os alunos no banco de dados
+    // Busca todos os itens no banco de dados
     List<Aluno> alunos = alunoRepo.findAll();
 
-    // Checa se a array "alunos" está vazio
+    // Checa se a array está vazio
     if (alunos.isEmpty()) {
-      return ResponseEntity.noContent().build(); // Retorna 204
+      return ResponseEntity.notFound().build(); // Retorna 404;
     }
-    return ResponseEntity.ok(alunos); // Retorna 200 + a lista de alunos
+    return ResponseEntity.ok(alunos); // Retorna 200 + a lista de itens perquisados
   }
 
   @DeleteMapping("/api/aluno/{codigo}")
   public ResponseEntity<Void> remover(@PathVariable Long codigo) {
+    // Checa se o item existe por ID
     if (alunoRepo.existsById(codigo)) {
+      // Deleta o item por ID
       alunoRepo.deleteById(codigo);
       return ResponseEntity.noContent().build(); // Retorna 204
     } else {

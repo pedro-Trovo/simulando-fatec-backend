@@ -30,21 +30,22 @@ public class ProvaEfetuadaController {
             provaEfetuada.getProva().getId().getSemestre()
     );
 
-    // Verifica se a prova efetuada recebida já existe no banco de dados
+    // Verifica se o item já existe no Banco de Dados
     if(provaEfetuadaBancoDados.isEmpty()) {
-      provaEfetRepo.save(provaEfetuada); // Salva o objeto "provaEfetuada" no Banco de Dados
+      provaEfetRepo.save(provaEfetuada); // Salva o objeto no Banco de Dados
       return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
     }
     else {
+      // Caso não haja "data" informada, definir ela como a data deste exato momento
       if (provaEfetuada.getData() == null) {
         provaEfetuada.setData(LocalDate.now());
       }
 
+      // Caso não haja "situação", definir como "Em Andamento"
       if (provaEfetuada.getSituacao() == null){
         provaEfetuada.setSituacao("Em Andamento");
       }
 
-      // Altera a questão resolvida salva no banco de dados
       provaEfetRepo.alterarProvaEfetuada(
               provaEfetuadaBancoDados.get().getId(),
               provaEfetuada.getData(),
@@ -57,6 +58,7 @@ public class ProvaEfetuadaController {
 
   @GetMapping("/api/prova-efetuada/{provaEfetuadaId}")
   public ResponseEntity<ProvaEfetuada> carregar(@PathVariable Long provaEfetuadaId) {
+    // Procura item por ID
     return provaEfetRepo.findById(provaEfetuadaId)
             .map(ResponseEntity::ok) // Retorna 200 + o item pesquisado
             .orElse(ResponseEntity.notFound().build()); // Retorna 404
@@ -67,8 +69,8 @@ public class ProvaEfetuadaController {
     Optional<List<ProvaEfetuada>> provasEfetuadasPorAluno = provaEfetRepo.procurarProvasEfetuadasPorAluno(alunoId);
 
     return provasEfetuadasPorAluno
-            .map(ResponseEntity::ok) // Retorna 200 + os itens pesquisados
-            .orElse(ResponseEntity.noContent().build()); // Retorna 204
+            .map(ResponseEntity::ok) // Retorna 200 + a lista de itens pesquisados
+            .orElse(ResponseEntity.notFound().build()); // Retorna 404
   }
 
   @GetMapping("/api/prova-efetuada/aluno/{alunoId}/prova/{vestibularId}/{ano}/{semestre}")
@@ -82,7 +84,7 @@ public class ProvaEfetuadaController {
 
     return provaEfetuadaPorAlunoPorProva
             .map(ResponseEntity::ok) // Retorna 200 + o item pesquisado
-            .orElse(ResponseEntity.noContent().build()); // Retorna 204
+            .orElse(ResponseEntity.notFound().build()); // Retorna 404
   }
 
   @GetMapping("/api/prova-efetuada/aluno/{alunoId}/vestibular/{vestibularId}")
@@ -93,13 +95,15 @@ public class ProvaEfetuadaController {
     Optional<List<ProvaEfetuada>> provasEfetuadasPorAlunoPorVestibular = provaEfetRepo.procurarProvasEfetuadasPorAlunoPorVestibular(alunoId, vestibularId);
 
     return provasEfetuadasPorAlunoPorVestibular
-            .map(ResponseEntity::ok) // Retorna 200 + os itens pesquisados
-            .orElse(ResponseEntity.noContent().build()); // Retorna 204
+            .map(ResponseEntity::ok) // Retorna 200 + a lista de itens pesquisados
+            .orElse(ResponseEntity.notFound().build()); // Retorna 404
   }
 
   @DeleteMapping("/api/prova-efetuada/{provaEfetuadaId}")
   public ResponseEntity<Void> remover(@PathVariable Long provaEfetuadaId) {
+    // Checa se o item existe por ID
     if(provaEfetRepo.existsById(provaEfetuadaId)){
+      // Deleta o item por ID
       provaEfetRepo.deleteById(provaEfetuadaId);
       return ResponseEntity.noContent().build(); // Retorna 204
     }
