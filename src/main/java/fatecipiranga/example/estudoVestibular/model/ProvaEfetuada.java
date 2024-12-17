@@ -36,10 +36,10 @@ public class ProvaEfetuada {
 
   // A coluna não pode ser "Null"
   @Column(nullable = false)
-  private String situacao;
+  private String situacao = "Em Andamento";
 
   // A coluna não pode ser "Null"
-  @Column(nullable = false)
+  @Column(name = "tempo_acumulado_segundos", nullable = false)
   private Integer tempoAcumuladoSegundos;
 
 
