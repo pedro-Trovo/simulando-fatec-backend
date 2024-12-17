@@ -1,7 +1,6 @@
 package fatecipiranga.example.estudoVestibular.controller;
 
-import fatecipiranga.example.estudoVestibular.dto.Login;
-import fatecipiranga.example.estudoVestibular.model.Conquista;
+import fatecipiranga.example.estudoVestibular.dto.LoginDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -13,7 +12,6 @@ import fatecipiranga.example.estudoVestibular.repository.AlunoRepository;
 import org.springframework.security.crypto.bcrypt.BCrypt;
 
 import java.util.List;
-import java.util.Optional;
 
 @RestController
 public class AlunoController {
@@ -45,10 +43,10 @@ public class AlunoController {
   }
 
   @PostMapping("/api/aluno/login")
-  public ResponseEntity<Long> efetuarLogin(@RequestBody Login login) {
-    return alunoRepo.procurarLogin(login.getEmail())
+  public ResponseEntity<Long> efetuarLogin(@RequestBody LoginDTO loginDTO) {
+    return alunoRepo.procurarLogin(loginDTO.getEmail())
             // Checa se a senha digitada é igual a que está no banco de dados
-            .filter(aluno -> BCrypt.checkpw(login.getSenha(), aluno.getSenha()))
+            .filter(aluno -> BCrypt.checkpw(loginDTO.getSenha(), aluno.getSenha()))
             .map(Aluno::getId) // Pega o ID do aluno
             .map(ResponseEntity::ok) // Retorna o ID do Aluno
             .orElse(ResponseEntity.notFound().build()); // Retorna 404
