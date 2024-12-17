@@ -1,6 +1,6 @@
 package fatecipiranga.example.estudoVestibular.dto;
 
-public class Login {
+public class LoginDTO {
   private String email;
   private String senha;
 
