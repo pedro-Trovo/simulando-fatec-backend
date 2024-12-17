@@ -37,4 +37,8 @@ public class ProvaEfetuada {
   // A coluna não pode ser "Null"
   @Column(nullable = false)
   private String situacao;
+
+  // A coluna não pode ser "Null"
+  @Column(nullable = false)
+  private Integer tempoAcumuladoSegundos;
 }
