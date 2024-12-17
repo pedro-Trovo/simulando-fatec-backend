@@ -41,4 +41,61 @@ public class ProvaEfetuada {
   // A coluna não pode ser "Null"
   @Column(nullable = false)
   private Integer tempoAcumuladoSegundos;
+
+
+  public Long getId() {
+    return id;
+  }
+
+  public void setId(Long id) {
+    this.id = id;
+  }
+
+  public Aluno getAluno() {
+    return aluno;
+  }
+
+  public void setAluno(Aluno aluno) {
+    this.aluno = aluno;
+  }
+
+  public Prova getProva() {
+    return prova;
+  }
+
+  public void setProva(Prova prova) {
+    this.prova = prova;
+  }
+
+  public List<QuestaoResolvida> getQuestoesResolvidas() {
+    return questoesResolvidas;
+  }
+
+  public void setQuestoesResolvidas(List<QuestaoResolvida> questoesResolvidas) {
+    this.questoesResolvidas = questoesResolvidas;
+  }
+
+  public LocalDate getData() {
+    return data;
+  }
+
+  public void setData(LocalDate data) {
+    this.data = data;
+  }
+
+  public String getSituacao() {
+    return situacao;
+  }
+
+  public void setSituacao(String situacao) {
+    this.situacao = situacao;
+  }
+
+  public Integer getTempoAcumuladoSegundos() {
+    return tempoAcumuladoSegundos;
+  }
+
+  public void setTempoAcumuladoSegundos(Integer tempoAcumuladoSegundos) {
+    this.tempoAcumuladoSegundos = tempoAcumuladoSegundos;
+  }
 }
