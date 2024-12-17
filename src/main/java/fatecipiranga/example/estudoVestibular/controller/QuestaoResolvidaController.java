@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import fatecipiranga.example.estudoVestibular.model.QuestaoResolvida;
 import fatecipiranga.example.estudoVestibular.repository.QuestaoResolvidaRepository;
 
+import java.time.LocalDate;
 import java.util.List;
 import java.util.Optional;
 
@@ -22,13 +23,17 @@ public class QuestaoResolvidaController {
   @PostMapping("/api/questao-resolvida")
   public ResponseEntity<Void> cadastrar(@RequestBody QuestaoResolvida questaoResolvida) {
     // Verifica se a questão resolvida recebida já existe no banco de dados
-    if(questaoResolRepo.procurarQuestaoResolvida(questaoResolvida.getAluno().getId(), questaoResolvida.getQuestao().getId()).isEmpty()){
+    if(questaoResolRepo.procurarQuestaoResolvida(questaoResolvida.getProvaEfetuada().getAluno().getId(), questaoResolvida.getQuestao().getId()).isEmpty()){
       questaoResolRepo.save(questaoResolvida); // Salva o objeto "questaoResolvida" no Banco de Dados
       return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
     }
     else {
+      if (questaoResolvida.getData() == null) {
+        questaoResolvida.setData(LocalDate.now());
+      }
+
       // Altera a questão resolvida salva no banco de dados
-      questaoResolRepo.alterarQuestaoResolvida(questaoResolvida.getAluno().getId(), questaoResolvida.getQuestao().getId(), questaoResolvida.isAcertou());
+      questaoResolRepo.alterarQuestaoResolvida(questaoResolvida.getProvaEfetuada().getAluno().getId(), questaoResolvida.getQuestao().getId(), questaoResolvida.isAcertou(), questaoResolvida.getLetraEscolhida(), questaoResolvida.getData());
       return ResponseEntity.ok().build(); // Retorna 200
     }
   }
