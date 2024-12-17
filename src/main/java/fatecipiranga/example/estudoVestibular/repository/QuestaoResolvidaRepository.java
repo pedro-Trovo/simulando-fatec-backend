@@ -30,7 +30,7 @@ public interface QuestaoResolvidaRepository extends JpaRepository<QuestaoResolvi
   Optional<List<QuestaoResolvida>> procurarQuestoesResolvidasPorAluno(Long alunoId);
 
   @Query(value = """
-            SELECT qr.* x'
+            SELECT qr.*
             FROM questao_resolvida qr
             JOIN questao q ON qr.questao_id = q.id
             WHERE qr.aluno_id = ?1 AND q.vestibular_id=?2 AND q.ano=?3 AND q.semestre=?4
