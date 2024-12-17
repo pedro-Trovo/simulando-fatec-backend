@@ -54,4 +54,25 @@ public class ProvaId implements Serializable {
   public void setSemestre(int semestre) {
     this.semestre = semestre;
   }
+
+  @Override
+  public boolean equals(Object o) {
+    if (this == o) return true; // Verifica se é o mesmo objeto
+    if (o == null || getClass() != o.getClass()) return false; // Verifica se o objeto é do mesmo tipo
+
+    ProvaId provaId = (ProvaId) o;
+
+    // Compara os campos relevantes
+    if (ano != provaId.ano) return false;
+    if (semestre != provaId.semestre) return false;
+    return vestibular != null ? vestibular.equals(provaId.vestibular) : provaId.vestibular == null;
+  }
+
+  @Override
+  public int hashCode() {
+    int result = vestibular != null ? vestibular.hashCode() : 0;
+    result = 31 * result + ano;
+    result = 31 * result + semestre;
+    return result;
+  }
 }
