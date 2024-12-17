@@ -11,15 +11,18 @@ import java.util.List;
 @Table(name="prova_efetuada")
 public class ProvaEfetuada {
 
+  // Chave primária com Auto Increment de 1 em 1
   @Id
   @GeneratedValue(strategy = GenerationType.IDENTITY)
   private Long id;
 
+  // Coluna para armazenar chave estrangeira
   @ManyToOne
   @JoinColumn(name = "aluno_id", nullable = false)
   @JsonIgnoreProperties({"conquistasObtidas", "provasEfetuadas"})
   private Aluno aluno;
 
+  // Coluna para armazenar chave estrangeira
   @ManyToOne
   @JoinColumns({
           @JoinColumn(name="vestibular_id", referencedColumnName="vestibular_id"),
@@ -33,11 +36,11 @@ public class ProvaEfetuada {
   private List<QuestaoResolvida> questoesResolvidas = new ArrayList<>();
 
   @Temporal(TemporalType.DATE)
-  @Column(nullable = false) // A coluna não pode ser "Null"
+  @Column(name = "data", nullable = false) // A coluna não pode ser "Null"
   private LocalDate data = LocalDate.now();
 
   // A coluna não pode ser "Null"
-  @Column(nullable = false)
+  @Column(name = "situacao", nullable = false)
   private String situacao = "Em Andamento";
 
   // A coluna não pode ser "Null"

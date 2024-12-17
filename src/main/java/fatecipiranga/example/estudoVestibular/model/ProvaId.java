@@ -10,17 +10,19 @@ import java.io.Serializable;
 
 @Embeddable
 public class ProvaId implements Serializable {
+
+  // Coluna para armazenar chave estrangeira
   @ManyToOne
   @JoinColumn(name = "vestibular_id", nullable = false)
   @JsonIgnoreProperties({"conquistas", "provas"})
   private Vestibular vestibular;
 
   // A coluna não pode ser "Null"
-  @Column(nullable = false)
+  @Column(name = "ano", nullable = false)
   private int ano;
 
   // A coluna não pode ser "Null"
-  @Column(nullable = false)
+  @Column(name = "semestre",nullable = false)
   private int semestre;
 
   public ProvaId() {}

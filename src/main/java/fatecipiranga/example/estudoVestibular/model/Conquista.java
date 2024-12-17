@@ -8,21 +8,23 @@ import jakarta.persistence.*;
 @Table(name="conquista")
 public class Conquista {
 
+  // Chave primária com Auto Increment de 1 em 1
   @Id
   @GeneratedValue(strategy = GenerationType.IDENTITY)
   private Long id;
 
+  // Coluna para armazenar chave estrangeira
   @ManyToOne
   @JoinColumn(name = "vestibular_id", nullable = false)
   @JsonIgnoreProperties({"conquistas", "provas"})
   private Vestibular vestibular;
 
   // A coluna não pode ser "Null"
-  @Column(nullable = false)
+  @Column(name = "nome", nullable = false)
   private String nome;
 
   // A coluna não pode ser "Null"
-  @Column(nullable = false)
+  @Column(name = "descricao", nullable = false)
   private String descricao;
 
 

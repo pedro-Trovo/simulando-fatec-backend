@@ -9,12 +9,13 @@ import java.util.List;
 @Table(name="vestibular")
 public class Vestibular {
 
+  // Chave primária com Auto Increment de 1 em 1
   @Id
   @GeneratedValue(strategy = GenerationType.IDENTITY)
   private Long id;
 
   // A coluna não pode ser "Null"
-  @Column(nullable = false)
+  @Column(name = "nome", nullable = false)
   private String nome;
 
   @OneToMany(mappedBy = "vestibular", cascade = CascadeType.ALL, orphanRemoval = true)
