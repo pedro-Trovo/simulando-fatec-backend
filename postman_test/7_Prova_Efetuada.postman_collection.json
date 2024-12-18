@@ -1,0 +1,231 @@
+{
+	"info": {
+		"_postman_id": "dd66dec7-d541-4726-80ce-ea17257ab1f9",
+		"name": "7_Prova_Efetuada",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "38962202"
+	},
+	"item": [
+		{
+			"name": "Prova Efetuada Um",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"aluno\" : {\"id\" : 1},\r\n    \"prova\" : {\r\n        \"id\": {\r\n            \"vestibular\": {\r\n                \"id\": 1\r\n            },\r\n            \"ano\": 2009,\r\n            \"semestre\": 0\r\n        }\r\n    },\r\n    \"situacao\" : \"Em Andamento\",\r\n    \"tempoAcumuladoSegundos\" : 86400\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/api/prova-efetuada",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"prova-efetuada"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Prova Efetuada Dois",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"aluno\" : {\"id\" : 1},\r\n    \"prova\" : {\r\n        \"id\": {\r\n            \"vestibular\": {\r\n                \"id\": 1\r\n            },\r\n            \"ano\": 2012,\r\n            \"semestre\": 0\r\n        }\r\n    },\r\n    \"situacao\" : \"Em Andamento\",\r\n    \"tempoAcumuladoSegundos\" : 86400\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/api/prova-efetuada",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"prova-efetuada"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Prova Efetuada Três",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"aluno\" : {\"id\" : 2},\r\n    \"prova\" : {\r\n        \"id\": {\r\n            \"vestibular\": {\r\n                \"id\": 1\r\n            },\r\n            \"ano\": 2009,\r\n            \"semestre\": 0\r\n        }\r\n    },\r\n    \"situacao\" : \"Em Andamento\",\r\n    \"tempoAcumuladoSegundos\" : 86400\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/api/prova-efetuada",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"prova-efetuada"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Prova Efetuada Quatro",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"aluno\" : {\"id\" : 2},\r\n    \"prova\" : {\r\n        \"id\": {\r\n            \"vestibular\": {\r\n                \"id\": 2\r\n            },\r\n            \"ano\": 2024,\r\n            \"semestre\": 1\r\n        }\r\n    },\r\n    \"situacao\" : \"Em Andamento\",\r\n    \"tempoAcumuladoSegundos\" : 86400\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/api/prova-efetuada",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"prova-efetuada"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Prova Efetuada por ID",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/api/prova-efetuada/1",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"prova-efetuada",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Prova Efetuada por Aluno",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/api/prova-efetuada/aluno/1",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"prova-efetuada",
+						"aluno",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Prova Efetuada por Aluno Por Prova",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/api/prova-efetuada/aluno/2/prova/2/2024/1",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"prova-efetuada",
+						"aluno",
+						"2",
+						"prova",
+						"2",
+						"2024",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Prova Efetuada por Aluno Por Vestibular",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/api/prova-efetuada/aluno/2/vestibular/2",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"prova-efetuada",
+						"aluno",
+						"2",
+						"vestibular",
+						"2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Prova Efetuada",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/api/prova-efetuada/1",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"prova-efetuada",
+						"1"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "b3cd6ed0-79f0-413b-a4c2-772c22be5202",
-		"name": "Aluno",
+		"name": "5_Aluno",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "38962202"
 	},
@@ -13,7 +13,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"nome\" : \"Natan\",\r\n    \"email\": \"natan@gmail.com\",\r\n    \"senha\": \"minhasenha\"\r\n}",
+					"raw": "{\r\n    \"nome\" : \"Natan\",\r\n    \"email\": \"natan@gmail.com\",\r\n    \"senha\": \"minhasenha\",\r\n    \"fotoPerfil\" : \"caminho/da/foto.png\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -41,7 +41,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"nome\" : \"Joel\",\r\n    \"email\": \"joel@gmail.com\",\r\n    \"senha\": \"senhaforte\"\r\n}",
+					"raw": "{\r\n    \"nome\" : \"Joel\",\r\n    \"email\": \"joel@gmail.com\",\r\n    \"senha\": \"senhaforte\",\r\n    \"fotoPerfil\" : \"caminho/da/foto.png\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -69,7 +69,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"nome\" : \"Mikael\",\r\n    \"email\": \"mikael@gmail.com\",\r\n    \"senha\": \"muahaha\"\r\n}",
+					"raw": "{\r\n    \"nome\" : \"Mikael\",\r\n    \"email\": \"mikael@gmail.com\",\r\n    \"senha\": \"muahaha\",\r\n    \"fotoPerfil\" : \"caminho/da/foto.png\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -173,6 +173,26 @@
 					"path": [
 						"api",
 						"aluno"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Aluno por ID",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/api/aluno/2",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"aluno",
+						"2"
 					]
 				}
 			},
