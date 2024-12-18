@@ -9,6 +9,7 @@ import java.util.List;
 @Table(name="prova")
 public class Prova {
 
+  // Chave primária
   @EmbeddedId
   private ProvaId id;
 

@@ -9,12 +9,13 @@ import java.util.List;
 @Table(name="vestibular")
 public class Vestibular {
 
+  // Chave primária com Auto Increment de 1 em 1
   @Id
   @GeneratedValue(strategy = GenerationType.IDENTITY)
   private Long id;
 
   // A coluna não pode ser "Null"
-  @Column(nullable = false)
+  @Column(name = "nome", nullable = false)
   private String nome;
 
   @OneToMany(mappedBy = "vestibular", cascade = CascadeType.ALL, orphanRemoval = true)
@@ -53,5 +54,22 @@ public class Vestibular {
 
   public void setProvas(List<Prova> provas) {
       this.provas = provas;
+  }
+
+  @Override
+  public boolean equals(Object o) {
+    if (this == o) return true; // Verifica se é o mesmo objeto
+    if (o == null || getClass() != o.getClass()) return false; // Verifica se o objeto é do mesmo tipo
+
+    Vestibular vestibular = (Vestibular) o;
+
+    // Compara o campo id
+    return id != null ? id.equals(vestibular.id) : vestibular.id == null;
+  }
+
+  @Override
+  public int hashCode() {
+    // Calcula o hashCode com base no campo id
+    return id != null ? id.hashCode() : 0;
   }
 }

@@ -9,29 +9,32 @@ import java.util.List;
 @Table(name="aluno")
 public class Aluno {
 
-  // Define "id" como Primary Key e que possui AutoIncrement
+  // Chave primária com Auto Increment de 1 em 1
   @Id
   @GeneratedValue(strategy = GenerationType.IDENTITY)
   private Long id;
 
   // A coluna não pode ser "Null"
-  @Column(nullable = false)
+  @Column(name = "nome", nullable = false)
   private String nome;
 
   // A coluna não pode ser "Null"
   // Os valores da coluna devem ser únicos
-  @Column(nullable = false, unique = true)
+  @Column(name = "email", nullable = false, unique = true)
   private String email;
 
   // A coluna não pode ser "Null"
-  @Column(nullable = false)
+  @Column(name = "senha", nullable = false)
   private String senha;
+
+  @Column(name = "foto_perfil")
+  private String fotoPerfil;
 
   @OneToMany(mappedBy = "aluno", cascade = CascadeType.ALL, orphanRemoval = true)
   private List<ConquistaObtida> conquistasObtidas = new ArrayList<>();
 
   @OneToMany(mappedBy = "aluno", cascade = CascadeType.ALL, orphanRemoval = true)
-  private List<QuestaoResolvida> questoesResolvidas = new ArrayList<>();
+  private List<ProvaEfetuada> provasEfetuadas = new ArrayList<>();
 
 
   public Long getId() {
@@ -66,6 +69,14 @@ public class Aluno {
     this.senha = senha;
   }
 
+  public String getFotoPerfil() {
+    return fotoPerfil;
+  }
+
+  public void setFotoPerfil(String fotoPerfil) {
+    this.fotoPerfil = fotoPerfil;
+  }
+
   public List<ConquistaObtida> getConquistasObtidas() {
     return conquistasObtidas;
   }
@@ -74,11 +85,11 @@ public class Aluno {
     this.conquistasObtidas = conquistasObtidas;
   }
 
-  public List<QuestaoResolvida> getQuestoesResolvidas() {
-    return questoesResolvidas;
+  public List<ProvaEfetuada> getProvasEfetuadas() {
+    return provasEfetuadas;
   }
 
-  public void setQuestoesResolvidas(List<QuestaoResolvida> questoesResolvidas) {
-    this.questoesResolvidas = questoesResolvidas;
+  public void setProvasEfetuadas(List<ProvaEfetuada> provasEfetuadas) {
+    this.provasEfetuadas = provasEfetuadas;
   }
 }

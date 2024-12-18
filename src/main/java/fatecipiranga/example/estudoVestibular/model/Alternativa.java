@@ -5,23 +5,28 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.*;
 
 @Entity
+@Table(name="alternativa")
 public class Alternativa {
 
+  // Chave primária com Auto Increment de 1 em 1
   @Id
   @GeneratedValue(strategy = GenerationType.IDENTITY)
   private Long id;
 
+  // Coluna para armazenar chave estrangeira
   @ManyToOne
   @JoinColumn(name = "questao_id", nullable = false)
   @JsonIgnore
   private Questao questao;
 
   // A coluna não pode ser "Null"
-  @Column(nullable = false)
+  @Column(name = "letra", nullable = false)
   private String letra;
 
+  @Column(name = "texto")
   private String texto;
 
+  @Column(name = "img_url")
   private String imgUrl;
 
 

@@ -9,35 +9,38 @@ import jakarta.persistence.*;
 @Table(name="questao")
 public class Questao {
 
+  // Chave primária com Auto Increment de 1 em 1
   @Id
   @GeneratedValue(strategy = GenerationType.IDENTITY)
   private Long id;
 
   // A coluna não pode ser "Null"
-  @Column(nullable = false)
+  @Column(name = "num_questao", nullable = false)
   private int numQuestao;
 
   // A coluna não pode ser "Null"
-  @Column(nullable = false)
+  @Column(name = "disciplina", nullable = false)
   private String disciplina;
 
-  @Column(length = 2000)
+  @Column(name = "enunciado", length = 4000)
   private String enunciado;
 
   // A coluna não pode ser "Null"
-  @Column(length = 1000, nullable = false)
+  @Column(name = "pergunta", length = 2000, nullable = false)
   private String pergunta;
 
   @ElementCollection
+  @Column(name = "imgs")
   private List<String> imgs;
 
   // A coluna não pode ser "Null"
-  @Column(nullable = false)
+  @Column(name = "gabarito", nullable = false)
   private String gabarito;
 
   @OneToMany(mappedBy = "questao", cascade = CascadeType.ALL, orphanRemoval = true)
   private List<Alternativa> alternativas;
 
+  // Coluna para armazenar chave estrangeira
   @ManyToOne
   @JoinColumns({
           @JoinColumn(name="vestibular_id", referencedColumnName="vestibular_id"),

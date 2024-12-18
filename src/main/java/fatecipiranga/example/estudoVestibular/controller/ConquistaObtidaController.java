@@ -21,8 +21,12 @@ public class ConquistaObtidaController {
 
   @PostMapping("/api/conquista_obtida")
   public ResponseEntity<Void> gravar(@RequestBody ConquistaObtida conquistaObtida) {
-    if(conquistasObtRepo.procurarConquistaObtida(conquistaObtida.getAluno().getId(), conquistaObtida.getConquista().getId()).isEmpty()){
-      conquistasObtRepo.save(conquistaObtida); // Salva o objeto "conquistaObtida" no Banco de Dados
+    // Verifica se o item já existe no Banco de Dados
+    if(conquistasObtRepo.procurarConquistaObtida(
+            conquistaObtida.getAluno().getId(),
+            conquistaObtida.getConquista().getId()
+    ).isEmpty()){
+      conquistasObtRepo.save(conquistaObtida); // Salva o objeto no Banco de Dados
       return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
     }
     return ResponseEntity.status(HttpStatus.BAD_REQUEST).build(); // Retorna 400
@@ -31,15 +35,16 @@ public class ConquistaObtidaController {
     /*
     @PutMapping("/api/conquista_obtida")
     public ResponseEntity<Void> alterar(@RequestBody ConquistaObtida conquistaObtida) {
-        conquistasObtRepo.save(conquistaObtida); // Salva o objeto "conquistaObtida" no Banco de Dados
+        conquistasObtRepo.save(conquistaObtida); // Salva o objeto no Banco de Dados
         return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
     }
     */
 
   @GetMapping("/api/conquista_obtida/{conquistaObtidaId}")
   public ResponseEntity<ConquistaObtida> carregar(@PathVariable Long conquistaObtidaId) {
+    // Procura item por ID
     return conquistasObtRepo.findById(conquistaObtidaId)
-            .map(ResponseEntity::ok) // Retorna 200 + a Conquista encontrada
+            .map(ResponseEntity::ok) // Retorna 200 + o item pesquisado
             .orElse(ResponseEntity.notFound().build()); // Retorna 404
   }
 
@@ -48,8 +53,8 @@ public class ConquistaObtidaController {
     Optional<List<ConquistaObtida>> conquistasObtidasPorAluno = conquistasObtRepo.procurarConquistasObtidasPorAluno(alunoId);
 
     return conquistasObtidasPorAluno
-            .map(ResponseEntity::ok) // Retorna 200 + a lista de conquistas obtidas por aluno
-            .orElse(ResponseEntity.noContent().build()); // Retorna 204
+            .map(ResponseEntity::ok) // Retorna 200 + a lista de itens pesquisados
+            .orElse(ResponseEntity.notFound().build()); // Retorna 404
   }
 
   @GetMapping("/api/conquistas_obtidas/aluno/{alunoId}/vestibular/{vestibularId}")
@@ -60,13 +65,15 @@ public class ConquistaObtidaController {
     Optional<List<ConquistaObtida>> conquistasObtidasPorAlunoPorVestibular = conquistasObtRepo.procurarConquistasObtidasPorAlunoPorVestibular(alunoId, vestibularId);
 
     return conquistasObtidasPorAlunoPorVestibular
-            .map(ResponseEntity::ok) // Retorna 200 + a lista de conquistas obtidas por aluno
-            .orElse(ResponseEntity.noContent().build()); // Retorna 204
+            .map(ResponseEntity::ok) // Retorna 200 + a lista de itens pesquisados
+            .orElse(ResponseEntity.notFound().build()); // Retorna 404
   }
 
   @DeleteMapping("/api/conquista_obtida/{conquistaObtidaId}")
   public ResponseEntity<Void> remover(@PathVariable Long conquistaObtidaId) {
+    // Checa se o item existe por ID
     if(conquistasObtRepo.existsById(conquistaObtidaId)){
+      // Deleta o item por ID
       conquistasObtRepo.deleteById(conquistaObtidaId);
       return ResponseEntity.noContent().build(); // Retorna 204
     }

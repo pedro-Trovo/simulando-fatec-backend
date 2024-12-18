@@ -22,12 +22,17 @@ public class QuestaoController {
 
   @PostMapping("/api/questao")
   public ResponseEntity<Void> cadastrar(@RequestBody Questao questao) {
-    if(questaoRepo.procurarQuestao(questao.getEnunciado(), questao.getPergunta()).isEmpty()){
+    // Verifica se o item já existe no Banco de Dados
+    if(questaoRepo.procurarQuestao(
+            questao.getEnunciado(),
+            questao.getPergunta()
+    ).isEmpty()){
+      // Armazena a questão na alternativa (cria uma ligação entre eles)
       for(Alternativa alternativa : questao.getAlternativas()) {
         alternativa.setQuestao(questao);
       }
 
-      questaoRepo.save(questao); // Salva o objeto "questao" no Banco de Dados
+      questaoRepo.save(questao); // Salva o objeto no Banco de Dados
       return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
     }
     return ResponseEntity.status(HttpStatus.BAD_REQUEST).build(); // Retorna 400
@@ -35,18 +40,20 @@ public class QuestaoController {
 
   @PutMapping("/api/questao")
   public ResponseEntity<Void> alterar(@RequestBody Questao questao) {
+    // Armazena a questão na alternativa (cria uma ligação entre eles)
     for(Alternativa alternativa : questao.getAlternativas()) {
       alternativa.setQuestao(questao);
     }
 
-    questaoRepo.save(questao); // Salva o objeto "questao" no Banco de Dados
+    questaoRepo.save(questao); // Salva o objeto no Banco de Dados
     return ResponseEntity.status(HttpStatus.CREATED).build(); // Retorna 201
   }
 
   @GetMapping("/api/questao/{questaoId}")
   public ResponseEntity<Questao> carregar(@PathVariable Long questaoId) {
+    // Procura item por ID
     return questaoRepo.findById(questaoId)
-            .map(ResponseEntity::ok) // Retorna 200 + a Questão encontrada
+            .map(ResponseEntity::ok) // Retorna 200 + o item pesquisado
             .orElse(ResponseEntity.notFound().build()); // Retorna 404
   }
 
@@ -59,8 +66,8 @@ public class QuestaoController {
     Optional<List<Questao>> questoesPorProva = questaoRepo.procurarQuestoesPorProva(vestibularId, ano, semestre);
 
     return questoesPorProva
-            .map(ResponseEntity::ok) // Retorna 200 + a lista de questoes por prova
-            .orElse(ResponseEntity.noContent().build()); // Retorna 204
+            .map(ResponseEntity::ok) // Retorna 200 + a lista de itens pesquisados
+            .orElse(ResponseEntity.notFound().build()); // Retorna 404
   }
 
   @GetMapping("/api/questoes/vestibular/{vestibularId}")
@@ -68,13 +75,15 @@ public class QuestaoController {
     Optional<List<Questao>> questoesPorVestibular = questaoRepo.procurarQuestoesPorVestibular(vestibularId);
 
     return questoesPorVestibular
-            .map(ResponseEntity::ok) // Retorna 200 + a lista de conquistas por vestibular
-            .orElse(ResponseEntity.noContent().build()); // Retorna 204
+            .map(ResponseEntity::ok) // Retorna 200 + a lista de itens pesquisados
+            .orElse(ResponseEntity.notFound().build()); // Retorna 404
   }
 
   @DeleteMapping("/api/questao/{questaoId}")
   public ResponseEntity<Void> remover(@PathVariable Long questaoId) {
+    // Checa se o item existe por ID
     if(questaoRepo.existsById(questaoId)){
+      // Deleta o item por ID
       questaoRepo.deleteById(questaoId);
       return ResponseEntity.noContent().build(); // Retorna 204
     }
