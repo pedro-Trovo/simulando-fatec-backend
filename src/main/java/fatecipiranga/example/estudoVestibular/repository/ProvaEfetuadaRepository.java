@@ -14,13 +14,18 @@ import java.util.Optional;
 
 public interface ProvaEfetuadaRepository extends JpaRepository<ProvaEfetuada, Long> {
   @Query(value = """
-      SELECT * FROM prova_efetuada 
-      WHERE aluno_id = ?1 
-      AND vestibular_id = ?2 
-      AND ano = ?3 
-      AND semestre = ?4
-    """, nativeQuery = true)
-  Optional<ProvaEfetuada> procurarProvaEfetuada(Long alunoId,Long vestibularId, Integer ano, Integer semestre);
+            SELECT * FROM prova_efetuada
+            WHERE aluno_id = :alunoId
+              AND vestibular_id = :vestibularId
+              AND ano = :ano
+              AND semestre = :semestre
+          """, nativeQuery = true)
+  Optional<ProvaEfetuada> procurarProvaEfetuada(
+          @Param("alunoId") Long alunoId,
+          @Param("vestibularId") Long vestibularId,
+          @Param("ano") Integer ano,
+          @Param("semestre") Integer semestre
+  );
 
   @Modifying
   @Transactional
@@ -38,13 +43,16 @@ public interface ProvaEfetuadaRepository extends JpaRepository<ProvaEfetuada, Lo
           @Param("tempoAcumuladoSegundos") Integer tempoAcumuladoSegundos
   );
 
-  @Query(value = "SELECT * FROM prova_efetuada WHERE aluno_id=?1", nativeQuery = true)
-  Optional<List<ProvaEfetuada>> procurarProvasEfetuadasPorAluno(Long alunoId);
+  @Query(value = "SELECT * FROM prova_efetuada WHERE aluno_id = :alunoId", nativeQuery = true)
+  Optional<List<ProvaEfetuada>> procurarProvasEfetuadasPorAluno(
+          @Param("alunoId") Long alunoId
+  );
 
   @Query(value = """
             SELECT *
             FROM prova_efetuada
-            WHERE aluno_id = :alunoId AND vestibular_id = :vestibularId
+            WHERE aluno_id = :alunoId
+              AND vestibular_id = :vestibularId
           """, nativeQuery = true)
   Optional<List<ProvaEfetuada>> procurarProvasEfetuadasPorAlunoPorVestibular(
           @Param("alunoId") Long alunoId,
