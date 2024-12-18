@@ -69,11 +69,11 @@ public interface QuestaoResolvidaRepository extends JpaRepository<QuestaoResolvi
   );
 
   @Query(value = """
-            SELECT qr.* 
+            SELECT qr.*
             FROM questao_resolvida qr
             JOIN prova_efetuada pe ON qr.prova_efetuada_id = pe.id
-            WHERE pe.aluno_id = :alunoId 
-              AND pe.vestibular_id = vestibularId
+            WHERE pe.aluno_id = :alunoId
+              AND pe.vestibular_id = :vestibularId
          """, nativeQuery = true)
   Optional<List<QuestaoResolvida>> procurarQuestoesResolvidasPorAlunoPorVestibular(
           @Param("alunoId") Long alunoId,
