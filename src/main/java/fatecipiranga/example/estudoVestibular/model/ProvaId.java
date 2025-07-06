@@ -1,21 +1,11 @@
 package fatecipiranga.example.estudoVestibular.model;
 
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.Column;
 import jakarta.persistence.Embeddable;
-import jakarta.persistence.JoinColumn;
-import jakarta.persistence.ManyToOne;
-
 import java.io.Serializable;
 
 @Embeddable
 public class ProvaId implements Serializable {
-
-  // Coluna para armazenar chave estrangeira
-  @ManyToOne
-  @JoinColumn(name = "vestibular_id", nullable = false)
-  @JsonIgnoreProperties({"conquistas", "provas"})
-  private Vestibular vestibular;
 
   // A coluna não pode ser "Null"
   @Column(name = "ano", nullable = false)
@@ -27,18 +17,9 @@ public class ProvaId implements Serializable {
 
   public ProvaId() {}
 
-  public ProvaId(Vestibular vestibular, int ano, int semestre) {
-    this.vestibular = vestibular;
+  public ProvaId( int ano, int semestre) {
     this.ano = ano;
     this.semestre = semestre;
-  }
-
-  public Vestibular getVestibular() {
-    return vestibular;
-  }
-
-  public void setVestibular(Vestibular vestibular) {
-    this.vestibular = vestibular;
   }
 
   public int getAno() {
@@ -65,16 +46,15 @@ public class ProvaId implements Serializable {
     ProvaId provaId = (ProvaId) o;
 
     // Compara os campos relevantes
-    if (ano != provaId.ano) return false;
-    if (semestre != provaId.semestre) return false;
-    return vestibular != null ? vestibular.equals(provaId.vestibular) : provaId.vestibular == null;
+   if (ano != provaId.ano) return false;
+    return semestre == provaId.semestre;
   }
 
-  @Override
+ @Override
   public int hashCode() {
-    int result = vestibular != null ? vestibular.hashCode() : 0;
-    result = 31 * result + ano;
-    result = 31 * result + semestre;
+    int result = Integer.hashCode(ano);
+    result = 31 * result + Integer.hashCode(semestre);
     return result;
-  }
+}
+
 }

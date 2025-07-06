@@ -1,8 +1,6 @@
 package fatecipiranga.example.estudoVestibular.controller;
 
-import fatecipiranga.example.estudoVestibular.model.Conquista;
 import fatecipiranga.example.estudoVestibular.model.ProvaEfetuada;
-import fatecipiranga.example.estudoVestibular.model.QuestaoResolvida;
 import fatecipiranga.example.estudoVestibular.repository.ProvaEfetuadaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -25,7 +23,6 @@ public class ProvaEfetuadaController {
     // Procura o item no banco de dados
     Optional<ProvaEfetuada> provaEfetuadaBancoDados = provaEfetRepo.procurarProvaEfetuada(
             provaEfetuada.getAluno().getId(),
-            provaEfetuada.getProva().getId().getVestibular().getId(),
             provaEfetuada.getProva().getId().getAno(),
             provaEfetuada.getProva().getId().getSemestre()
     );
@@ -73,29 +70,16 @@ public class ProvaEfetuadaController {
             .orElse(ResponseEntity.notFound().build()); // Retorna 404
   }
 
-  @GetMapping("/api/prova-efetuada/aluno/{alunoId}/prova/{vestibularId}/{ano}/{semestre}")
+  @GetMapping("/api/prova-efetuada/aluno/{alunoId}/prova/{ano}/{semestre}")
   public ResponseEntity<ProvaEfetuada> listarTodasProvasEfetuadasPorAlunoPorProva(
           @PathVariable Long alunoId,
-          @PathVariable Long vestibularId,
           @PathVariable int ano,
           @PathVariable int semestre
   ){
-    Optional<ProvaEfetuada> provaEfetuadaPorAlunoPorProva = provaEfetRepo.procurarProvaEfetuada(alunoId, vestibularId, ano, semestre);
+    Optional<ProvaEfetuada> provaEfetuadaPorAlunoPorProva = provaEfetRepo.procurarProvaEfetuada(alunoId, ano, semestre);
 
     return provaEfetuadaPorAlunoPorProva
             .map(ResponseEntity::ok) // Retorna 200 + o item pesquisado
-            .orElse(ResponseEntity.notFound().build()); // Retorna 404
-  }
-
-  @GetMapping("/api/prova-efetuada/aluno/{alunoId}/vestibular/{vestibularId}")
-  public ResponseEntity<List<ProvaEfetuada>> listarTodasProvasEfetuadasPorALunoPorVestibular(
-          @PathVariable Long alunoId,
-          @PathVariable Long vestibularId
-  ){
-    Optional<List<ProvaEfetuada>> provasEfetuadasPorAlunoPorVestibular = provaEfetRepo.procurarProvasEfetuadasPorAlunoPorVestibular(alunoId, vestibularId);
-
-    return provasEfetuadasPorAlunoPorVestibular
-            .map(ResponseEntity::ok) // Retorna 200 + a lista de itens pesquisados
             .orElse(ResponseEntity.notFound().build()); // Retorna 404
   }
 

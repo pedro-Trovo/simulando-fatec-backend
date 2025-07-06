@@ -1,11 +1,9 @@
 package fatecipiranga.example.estudoVestibular.controller;
 
 import fatecipiranga.example.estudoVestibular.model.*;
-import fatecipiranga.example.estudoVestibular.repository.VestibularRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.security.crypto.bcrypt.BCrypt;
 import org.springframework.web.bind.annotation.*;
 
 import fatecipiranga.example.estudoVestibular.repository.QuestaoRepository;
@@ -18,7 +16,6 @@ public class QuestaoController {
 
   @Autowired
   QuestaoRepository questaoRepo;
-  VestibularRepository vestRepo;
 
   @PostMapping("/api/questao")
   public ResponseEntity<Void> cadastrar(@RequestBody Questao questao) {
@@ -57,24 +54,14 @@ public class QuestaoController {
             .orElse(ResponseEntity.notFound().build()); // Retorna 404
   }
 
-  @GetMapping("/api/questoes/prova/{vestibularId}/{ano}/{semestre}")
+  @GetMapping("/api/questoes/prova/{ano}/{semestre}")
   public ResponseEntity<List<Questao>> listarTodasQuestoesPorProva(
-          @PathVariable Long vestibularId,
           @PathVariable int ano,
           @PathVariable int semestre
   ){
-    Optional<List<Questao>> questoesPorProva = questaoRepo.procurarQuestoesPorProva(vestibularId, ano, semestre);
+    Optional<List<Questao>> questoesPorProva = questaoRepo.procurarQuestoesPorProva(ano, semestre);
 
     return questoesPorProva
-            .map(ResponseEntity::ok) // Retorna 200 + a lista de itens pesquisados
-            .orElse(ResponseEntity.notFound().build()); // Retorna 404
-  }
-
-  @GetMapping("/api/questoes/vestibular/{vestibularId}")
-  public ResponseEntity<List<Questao>> listarTodasQuestoesPorVestibular(@PathVariable Long vestibularId){
-    Optional<List<Questao>> questoesPorVestibular = questaoRepo.procurarQuestoesPorVestibular(vestibularId);
-
-    return questoesPorVestibular
             .map(ResponseEntity::ok) // Retorna 200 + a lista de itens pesquisados
             .orElse(ResponseEntity.notFound().build()); // Retorna 404
   }
