@@ -86,28 +86,15 @@ public class QuestaoResolvidaController {
             .orElse(ResponseEntity.notFound().build()); // Retorna 404
   }
 
-  @GetMapping("/api/questoes-resolvidas/aluno/{alunoId}/prova/{vestibularId}/{ano}/{semestre}")
+  @GetMapping("/api/questoes-resolvidas/aluno/{alunoId}/prova/{ano}/{semestre}")
   public ResponseEntity<List<QuestaoResolvida>> listarTodasQuestoesResolvidasPorAlunoPorProva(
           @PathVariable Long alunoId,
-          @PathVariable Long vestibularId,
           @PathVariable int ano,
           @PathVariable int semestre
   ){
-    Optional<List<QuestaoResolvida>> questoesResolvidasPorAlunoPorProva = questaoResolRepo.procurarQuestoesResolvidasPorAlunoPorProva(alunoId, vestibularId, ano, semestre);
+    Optional<List<QuestaoResolvida>> questoesResolvidasPorAlunoPorProva = questaoResolRepo.procurarQuestoesResolvidasPorAlunoPorProva(alunoId, ano, semestre);
 
     return questoesResolvidasPorAlunoPorProva
-            .map(ResponseEntity::ok) // Retorna 200 + a lista de itens pesquisados
-            .orElse(ResponseEntity.notFound().build()); // Retorna 404
-  }
-
-  @GetMapping("/api/questoes-resolvidas/aluno/{alunoId}/vestibular/{vestibularId}")
-  public ResponseEntity<List<QuestaoResolvida>> listarTodasQuestoesResolvidasPorALunoPorVestibular(
-          @PathVariable Long alunoId,
-          @PathVariable Long vestibularId
-  ){
-    Optional<List<QuestaoResolvida>> questoesResolvidasPorAlunoPorVestibular = questaoResolRepo.procurarQuestoesResolvidasPorAlunoPorVestibular(alunoId, vestibularId);
-
-    return questoesResolvidasPorAlunoPorVestibular
             .map(ResponseEntity::ok) // Retorna 200 + a lista de itens pesquisados
             .orElse(ResponseEntity.notFound().build()); // Retorna 404
   }

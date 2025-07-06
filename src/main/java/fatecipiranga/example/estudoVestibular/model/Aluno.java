@@ -31,9 +31,6 @@ public class Aluno {
   private String fotoPerfil;
 
   @OneToMany(mappedBy = "aluno", cascade = CascadeType.ALL, orphanRemoval = true)
-  private List<ConquistaObtida> conquistasObtidas = new ArrayList<>();
-
-  @OneToMany(mappedBy = "aluno", cascade = CascadeType.ALL, orphanRemoval = true)
   private List<ProvaEfetuada> provasEfetuadas = new ArrayList<>();
 
 
@@ -76,15 +73,7 @@ public class Aluno {
   public void setFotoPerfil(String fotoPerfil) {
     this.fotoPerfil = fotoPerfil;
   }
-
-  public List<ConquistaObtida> getConquistasObtidas() {
-    return conquistasObtidas;
-  }
-
-  public void setConquistasObtidas(List<ConquistaObtida> conquistasObtidas) {
-    this.conquistasObtidas = conquistasObtidas;
-  }
-
+  
   public List<ProvaEfetuada> getProvasEfetuadas() {
     return provasEfetuadas;
   }

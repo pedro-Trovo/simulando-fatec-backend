@@ -1,7 +1,6 @@
 package fatecipiranga.example.estudoVestibular.repository;
 
 import fatecipiranga.example.estudoVestibular.model.ProvaEfetuada;
-import fatecipiranga.example.estudoVestibular.model.QuestaoResolvida;
 import org.springframework.data.repository.query.Param;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
@@ -16,13 +15,11 @@ public interface ProvaEfetuadaRepository extends JpaRepository<ProvaEfetuada, Lo
   @Query(value = """
             SELECT * FROM prova_efetuada
             WHERE aluno_id = :alunoId
-              AND vestibular_id = :vestibularId
               AND ano = :ano
               AND semestre = :semestre
           """, nativeQuery = true)
   Optional<ProvaEfetuada> procurarProvaEfetuada(
           @Param("alunoId") Long alunoId,
-          @Param("vestibularId") Long vestibularId,
           @Param("ano") Integer ano,
           @Param("semestre") Integer semestre
   );
@@ -52,10 +49,8 @@ public interface ProvaEfetuadaRepository extends JpaRepository<ProvaEfetuada, Lo
             SELECT *
             FROM prova_efetuada
             WHERE aluno_id = :alunoId
-              AND vestibular_id = :vestibularId
           """, nativeQuery = true)
   Optional<List<ProvaEfetuada>> procurarProvasEfetuadasPorAlunoPorVestibular(
-          @Param("alunoId") Long alunoId,
-          @Param("vestibularId") Long vestibularId
+          @Param("alunoId") Long alunoId
   );
 }

@@ -57,13 +57,11 @@ public interface QuestaoResolvidaRepository extends JpaRepository<QuestaoResolvi
             FROM questao_resolvida qr
             JOIN prova_efetuada pe ON qr.prova_efetuada_id = pe.id
             WHERE pe.aluno_id = :alunoId
-              AND pe.vestibular_id = :vestibularId
               AND pe.ano = :ano
               AND pe.semestre = :semestre
           """, nativeQuery = true)
   Optional<List<QuestaoResolvida>> procurarQuestoesResolvidasPorAlunoPorProva(
           @Param("alunoId") Long alunoId,
-          @Param("vestibularId") Long vestibularId,
           @Param("ano") Integer ano,
           @Param("semestre") Integer semestre
   );
@@ -73,10 +71,8 @@ public interface QuestaoResolvidaRepository extends JpaRepository<QuestaoResolvi
             FROM questao_resolvida qr
             JOIN prova_efetuada pe ON qr.prova_efetuada_id = pe.id
             WHERE pe.aluno_id = :alunoId
-              AND pe.vestibular_id = :vestibularId
          """, nativeQuery = true)
   Optional<List<QuestaoResolvida>> procurarQuestoesResolvidasPorAlunoPorVestibular(
-          @Param("alunoId") Long alunoId,
-          @Param("vestibularId") Long vestibularId
+          @Param("alunoId") Long alunoId
   );
 }

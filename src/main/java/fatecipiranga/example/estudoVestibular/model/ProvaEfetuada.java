@@ -25,7 +25,6 @@ public class ProvaEfetuada {
   // Coluna para armazenar chave estrangeira
   @ManyToOne
   @JoinColumns({
-          @JoinColumn(name="vestibular_id", referencedColumnName="vestibular_id"),
           @JoinColumn(name="ano", referencedColumnName="ano"),
           @JoinColumn(name="semestre", referencedColumnName="semestre")
   })
